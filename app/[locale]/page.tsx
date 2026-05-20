@@ -14,9 +14,12 @@ export async function generateMetadata({ params }: Props) {
 
 export default async function HomePage({ params }: Props) {
   const { locale } = await params
+  // Fallback to 'en' if no content in current locale
   const allDays = getAllDailyMeta(locale)
-  const latestMeta = allDays[0] || null
-  const latestPost = latestMeta ? getDailyPost(latestMeta.date, locale) : null
+  const displayLocale: 'en' | 'zh' = allDays.length > 0 ? locale : 'en'
+  const allDaysDisplay = displayLocale === locale ? allDays : getAllDailyMeta('en')
+  const latestMeta = allDaysDisplay[0] || null
+  const latestPost = latestMeta ? getDailyPost(latestMeta.date, displayLocale) : null
   const top5 = latestPost?.items.slice(0, 5) || []
   const featuredProjects = getFeaturedProjects()
 

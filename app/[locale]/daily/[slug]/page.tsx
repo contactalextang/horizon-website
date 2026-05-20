@@ -28,7 +28,8 @@ export async function generateMetadata({ params }: Props) {
 
 export default async function DailyDetailPage({ params }: Props) {
   const { locale, slug } = await params
-  const post = getDailyPost(slug, locale)
+  // Fallback: try requested locale first, then English
+  const post = getDailyPost(slug, locale) ?? getDailyPost(slug, 'en')
   if (!post) notFound()
 
   const altLocale = locale === 'en' ? 'zh' : 'en'

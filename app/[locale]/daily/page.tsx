@@ -12,7 +12,10 @@ export async function generateMetadata({ params }: Props) {
 
 export default async function DailyListPage({ params }: Props) {
   const { locale } = await params
-  const posts = getAllDailyMeta(locale)
+  // Fallback: if no posts in current locale, show English
+  const localePosts = getAllDailyMeta(locale)
+  const displayLocale: 'en' | 'zh' = localePosts.length > 0 ? locale : 'en'
+  const posts = localePosts.length > 0 ? localePosts : getAllDailyMeta('en')
 
   return (
     <div style={{ maxWidth: '960px', margin: '0 auto', padding: '0 24px 80px' }}>
