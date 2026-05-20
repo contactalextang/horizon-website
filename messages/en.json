@@ -1,0 +1,38 @@
+{
+  "nav": {
+    "daily": "Daily",
+    "projects": "Projects",
+    "about": "About"
+  },
+  "footer": {
+    "copy": "© 2026 · Powered by AI"
+  },
+  "home": {
+    "eyebrow": "AI INTELLIGENCE DIGEST",
+    "title": "Today's Intelligence",
+    "titleEm": "Digest",
+    "statsSelected": "Selected Items",
+    "statsFetched": "Total Fetched",
+    "statsSources": "Sources",
+    "statsAvg": "Avg Score",
+    "signalLabel": "Signal",
+    "topStories": "Top Stories",
+    "readMore": "Read full digest",
+    "viewAll": "View all"
+  },
+  "daily": {
+    "listTitle": "Daily Archive",
+    "listDesc": "All past AI intelligence digests",
+    "items": "items",
+    "selected": "selected from",
+    "sources": "sources",
+    "background": "Background",
+    "discussion": "Community Discussion",
+    "references": "References",
+    "tableOfContents": "Contents"
+  },
+  "projects": {
+    "title": "Projects",
+    "desc": "Things I've built"
+  }
+}

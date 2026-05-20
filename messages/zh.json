@@ -1,0 +1,38 @@
+{
+  "nav": {
+    "daily": "每日简报",
+    "projects": "项目展示",
+    "about": "关于"
+  },
+  "footer": {
+    "copy": "© 2026 · AI 驱动"
+  },
+  "home": {
+    "eyebrow": "AI 智能简报",
+    "title": "今日",
+    "titleEm": "智能简报",
+    "statsSelected": "精选条目",
+    "statsFetched": "采集总数",
+    "statsSources": "信息源",
+    "statsAvg": "平均评分",
+    "signalLabel": "信号",
+    "topStories": "热门资讯",
+    "readMore": "阅读完整简报",
+    "viewAll": "查看全部"
+  },
+  "daily": {
+    "listTitle": "简报归档",
+    "listDesc": "历史 AI 智能简报",
+    "items": "条",
+    "selected": "精选自",
+    "sources": "个来源",
+    "background": "背景信息",
+    "discussion": "社区讨论",
+    "references": "参考链接",
+    "tableOfContents": "目录"
+  },
+  "projects": {
+    "title": "项目展示",
+    "desc": "我创建的项目"
+  }
+}
