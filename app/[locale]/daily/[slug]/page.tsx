@@ -58,9 +58,7 @@ export default async function DailyDetailPage({ params }: Props) {
           {altPost && (
             <>
               <span style={{ color: 'var(--text3)' }}>·</span>
-              <a href={`/${altLocale}/daily/${slug}`} style={{ color: 'var(--text3)', textDecoration: 'none', transition: 'color .15s' }}
-              onMouseEnter={e => (e.currentTarget.style.color = 'var(--gold)')}
-              onMouseLeave={e => (e.currentTarget.style.color = 'var(--text3)')}>
+              <a href={`/${altLocale}/daily/${slug}`} style={{ color: 'var(--text3)', textDecoration: 'none' }}>
                 {altLocale.toUpperCase()} →
               </a>
             </>

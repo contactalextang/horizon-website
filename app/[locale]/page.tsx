@@ -163,10 +163,7 @@ export default async function HomePage({ params }: Props) {
               borderRadius: 'var(--r)', color: 'var(--gold)',
               fontFamily: "'Courier New',monospace", fontSize: '11px',
               letterSpacing: '.06em', textDecoration: 'none', transition: 'all .15s',
-            }}
-            onMouseEnter={e => { (e.currentTarget as HTMLAnchorElement).style.background = 'var(--goldbg)' }}
-            onMouseLeave={e => { (e.currentTarget as HTMLAnchorElement).style.background = 'none' }}
-            >
+            }}>
               {locale === 'zh'
                 ? `阅读全部 ${latestPost?.itemCount} 条 →`
                 : `Read all ${latestPost?.itemCount} items →`}
