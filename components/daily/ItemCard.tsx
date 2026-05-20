@@ -22,13 +22,13 @@ function scoreGradient(score: number) {
 function tagStyle(tag: string): React.CSSProperties {
   const t = tag.toLowerCase()
   if (['llm','gpt','gemini','claude','ai','openai','anthropic','deepseek'].some(k => t.includes(k)))
-    return { background: 'var(--amberbg)', color: '#E89E30', border: '1px solid rgba(212,130,10,.30)' }
+    return { background: 'var(--amberbg)', color: '#A06400', border: '1px solid rgba(212,130,10,.30)' }
   if (['security','breach','hack','vulnerability','cisa','leak'].some(k => t.includes(k)))
-    return { background: 'var(--redbg)', color: '#E05050', border: '1px solid rgba(184,50,50,.25)' }
+    return { background: 'var(--redbg)', color: '#C02020', border: '1px solid rgba(184,50,50,.30)' }
   if (['github','open','source','star','trending'].some(k => t.includes(k)))
-    return { background: 'var(--greenbg)', color: '#4DC882', border: '1px solid rgba(42,157,92,.25)' }
+    return { background: 'var(--greenbg)', color: '#1A7A42', border: '1px solid rgba(42,157,92,.30)' }
   if (['agent','mcp','tool','sdk','api'].some(k => t.includes(k)))
-    return { background: 'var(--bluebg)', color: '#5BA3E0', border: '1px solid rgba(45,125,210,.25)' }
+    return { background: 'var(--bluebg)', color: '#1A65B8', border: '1px solid rgba(45,125,210,.30)' }
   return { background: 'var(--bg4)', color: 'var(--text3)', border: '1px solid var(--line2)' }
 }
 

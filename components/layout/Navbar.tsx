@@ -41,7 +41,7 @@ export default function Navbar({ locale }: Props) {
       position: 'sticky', top: 0, zIndex: 100, height: '50px',
       display: 'flex', alignItems: 'center', justifyContent: 'space-between',
       padding: '0 24px', borderBottom: '1px solid var(--line)', gap: '12px',
-      background: 'rgba(12,12,12,0.92)', backdropFilter: 'blur(16px)',
+      background: 'rgba(255,255,255,0.92)', backdropFilter: 'blur(16px)',
     }}>
       {/* Logo */}
       <div style={{ display: 'flex', alignItems: 'center', gap: '10px' }}>
