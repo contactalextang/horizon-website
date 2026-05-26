@@ -204,6 +204,82 @@
     "https://github.com/tashfeenahmed/freellmapi": {
       "date": "2026-05-26",
       "title": "freellmapi：聚合 14 个免费大模型 API 的 OpenAI 兼容代理"
+    },
+    "https://arxiv.org/abs/2605.26099": {
+      "date": "2026-05-27",
+      "title": "研究者提出受睡眠启发的 LLM 记忆巩固机制"
+    },
+    "https://simonwillison.net/2026/May/26/copilot-cowork-exfiltrates-files/#atom-everything": {
+      "date": "2026-05-27",
+      "title": "Microsoft Copilot Cowork 存在通过邮件泄露数据的安全漏洞"
+    },
+    "https://www.science.org/content/blog-post/methyl-methacrylate-tank": {
+      "date": "2026-05-27",
+      "title": "甲基丙烯酸甲酯储罐事件凸显工业安全风险"
+    },
+    "https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/": {
+      "date": "2026-05-27",
+      "title": "西班牙因赌博牌照问题封锁 Polymarket 和 Kalshi"
+    },
+    "https://www.owlposting.com/p/the-ballad-of-tigit": {
+      "date": "2026-05-27",
+      "title": "The Ballad of TIGIT"
+    },
+    "https://www.minicor.com/": {
+      "date": "2026-05-27",
+      "title": "Minicor（YC P26）发布面向遗留 Windows 系统的可扩展桌面 RPA 平台"
+    },
+    "https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943": {
+      "date": "2026-05-27",
+      "title": "维基百科采用大科技公司的反劳工策略，引发强烈不满"
+    },
+    "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/": {
+      "date": "2026-05-27",
+      "title": "外包加本地 AI 将很快比前沿实验室更经济"
+    },
+    "https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/": {
+      "date": "2026-05-27",
+      "title": "你的函数是什么颜色？关于异步函数的争论"
+    },
+    "https://github.com/yugr/rust-slides/": {
+      "date": "2026-05-27",
+      "title": "Rust 性能接近 C 语言，但仍落后于现代 C++"
+    },
+    "https://sherwood.news/tech/stack-overflow-forum-dead-thanks-ai-but-companys-still-kicking-ai/": {
+      "date": "2026-05-27",
+      "title": "Stack Overflow 论坛衰落：AI 崛起与企业收购双重冲击"
+    },
+    "https://thebestworstcase.substack.com/p/dont-subscribe-so-casually": {
+      "date": "2026-05-27",
+      "title": "随意订阅背后的隐性心理操控"
+    },
+    "https://dynomight.net/crc-rates/": {
+      "date": "2026-05-27",
+      "title": "年轻人中结直肠癌发病率持续上升"
+    },
+    "https://simonwillison.net/2026/May/26/paul-graham/#atom-everything": {
+      "date": "2026-05-27",
+      "title": "Paul Graham 批评创始人使用 AI 代写邮件"
+    },
+    "https://www.reddit.com/r/MachineLearning/comments/1to2l4c/d_where_do_you_go_for_serious_ai_research/": {
+      "date": "2026-05-27",
+      "title": "在哪里可以找到严肃的 AI 研究讨论"
+    },
+    "https://gudok.xyz/transpose/": {
+      "date": "2026-05-27",
+      "title": "面向缓存效率的矩阵转置优化"
+    },
+    "https://www.cnbc.com/2026/05/26/dropbox-ceo-drew-houston-ashraf-alkarmi.html": {
+      "date": "2026-05-27",
+      "title": "Dropbox CEO Drew Houston 在公司增长停滞之际卸任"
+    },
+    "https://retrogamecoders.com/overhead-camera-view/": {
+      "date": "2026-05-27",
+      "title": "C64 BASIC 教程：实现复古游戏中的俯视地图视角"
+    },
+    "https://www.tomshardware.com/video-games/console-gaming/modern-blu-ray-drives-can-now-rip-gamecube-wii-and-xbox-360-games-to-pc-third-party-firmware-unlocks-game-rips-from-physical-media-on-select-players": {
+      "date": "2026-05-27",
+      "title": "OmniDrive 固件让蓝光光驱可提取 GameCube、Wii 和 Xbox 360 游戏"
     }
   }
 }
