@@ -1,50 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "https://github.com/tinyhumansai/openhuman": {
-      "date": "2026-05-22",
-      "title": "OpenHuman：基于 Rust 的私有 AI 助手项目迅速走红"
-    },
-    "https://github.com/colbymchenry/codegraph": {
-      "date": "2026-05-22",
-      "title": "codegraph：面向 Claude Code 的本地代码知识图谱，24 小时内获得 273 颗星"
-    },
-    "https://github.com/rohitg00/ai-engineering-from-scratch": {
-      "date": "2026-05-22",
-      "title": "从零开始学 AI 工程：GitHub 热门仓库 24 小时内获 86 颗星"
-    },
-    "https://github.com/rohitg00/agentmemory": {
-      "date": "2026-05-22",
-      "title": "agentmemory：基于 TypeScript 的 AI 编程代理持久化记忆方案"
-    },
-    "https://github.com/withcoral/coral": {
-      "date": "2026-05-22",
-      "title": "Coral：基于 Rust 构建的统一 SQL 接口，支持 API、文件和实时数据源"
-    },
-    "https://github.com/anthropics/claude-plugins-official": {
-      "date": "2026-05-22",
-      "title": "Anthropic 推出官方 Claude Code 插件目录"
-    },
-    "https://github.com/rtk-ai/rtk": {
-      "date": "2026-05-22",
-      "title": "rtk-ai/rtk：Rust CLI 代理将 LLM token 消耗降低 60-90%"
-    },
-    "https://github.com/Imbad0202/academic-research-skills": {
-      "date": "2026-05-22",
-      "title": "面向 Claude Code 的学术研究技能仓库 24 小时内获 155 颗星"
-    },
-    "https://github.com/alchaincyf/nuwa-skill": {
-      "date": "2026-05-22",
-      "title": "nuwa-skill：将任何人的思维模式蒸馏为认知模型"
-    },
-    "https://github.com/Yuan1z0825/nature-skills": {
-      "date": "2026-05-22",
-      "title": "nature-skills：符合 Nature 论文标准的学术写作与科研绘图 Python 工具包"
-    },
-    "https://github.com/Thysrael/Horizon": {
-      "date": "2026-05-22",
-      "title": "Horizon：开源 AI 新闻雷达 24 小时内获 32 颗星"
-    },
     "https://www.politico.eu/article/netherlands-blocks-us-takeover-vital-digital-supplier/": {
       "date": "2026-05-26",
       "title": "荷兰阻止美国公司收购数字身份系统 DigiD 供应商 Solvinity"
@@ -416,6 +372,90 @@
     "https://github.com/Open-Dev-Society/OpenStock": {
       "date": "2026-05-28",
       "title": "OpenStock：免费开源股票追踪平台获得关注"
+    },
+    "https://helios.southlondonscientific.com/": {
+      "date": "2026-05-31",
+      "title": "Helios：英国任意地址的即插即用太阳能潜力估算工具"
+    },
+    "https://simonwillison.net/2026/May/30/how-we-contain-claude/#atom-everything": {
+      "date": "2026-05-31",
+      "title": "Anthropic 详解 Claude 各产品的沙箱隔离方案"
+    },
+    "https://openrouter.ai/announcements/series-b": {
+      "date": "2026-05-31",
+      "title": "OpenRouter 完成 1.13 亿美元 B 轮融资"
+    },
+    "https://ziglang.org/devlog/2026/#2026-05-30": {
+      "date": "2026-05-31",
+      "title": "Zig 的 ELF 链接器迎来重大成熟里程碑"
+    },
+    "https://s-macke.github.io/VoxelSpace/": {
+      "date": "2026-05-31",
+      "title": "Voxel Space：1992 年并非真正体素的渲染技术"
+    },
+    "https://ajin.im/is/building/omen.ops/": {
+      "date": "2026-05-31",
+      "title": "五百年朝鲜王朝宫廷征兆被重新构想为可观测性仪表盘"
+    },
+    "https://github.com/kristapsdz/openrsync": {
+      "date": "2026-05-31",
+      "title": "Openrsync：OpenBSD 团队开发的轻量级 rsync 替代方案逐渐受到关注"
+    },
+    "https://gptzero.me/investigations/ey": {
+      "date": "2026-05-31",
+      "title": "EY Canada published a cybersecurity report and most citations were hallucinated"
+    },
+    "https://www.economist.com/europe/2026/05/28/leos-first-encyclical-attacks-technological-messianism": {
+      "date": "2026-05-31",
+      "title": "教皇利奥首份通谕批判技术救世主义"
+    },
+    "https://simonwillison.net/2026/May/30/pyodide-asgi-browser/#atom-everything": {
+      "date": "2026-05-31",
+      "title": "通过 Pyodide 和 Service Worker 在浏览器中运行 Python ASGI 应用"
+    },
+    "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/": {
+      "date": "2026-05-31",
+      "title": "Domain expertise has always been the real moat"
+    },
+    "https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises": {
+      "date": "2026-05-31",
+      "title": "埃森哲以 12 亿美元收购 Ookla，强化网络智能能力"
+    },
+    "https://www.righto.com/2026/05/microcode-inside-intel-8087-floating.html": {
+      "date": "2026-05-31",
+      "title": "深入 Intel 8087 微码：寄存器交换机制解析"
+    },
+    "https://www.lloydslist.com/LL1157327/Hormuz-crisis-side-effect-a-sharp-rise-in-container-shipping-rates": {
+      "date": "2026-05-31",
+      "title": "霍尔木兹危机导致集装箱运价急剧上涨"
+    },
+    "https://simonwillison.net/2026/May/30/retiring-from-tech-to-live-offline/#atom-everything": {
+      "date": "2026-05-31",
+      "title": "Chad Whitacre 宣布退出科技行业，归隐线下生活"
+    },
+    "https://jackmaguire.org/blog/ai-job-grief/": {
+      "date": "2026-05-31",
+      "title": "AI 失业之痛：科技从业者面临的心理危机"
+    },
+    "https://pandoc-templates.org/": {
+      "date": "2026-05-31",
+      "title": "Pandoc 模板：社区讨论文档转换及与 Quarto 的对比"
+    },
+    "https://simonwillison.net/2026/May/30/daniel-jalkut/#atom-everything": {
+      "date": "2026-05-31",
+      "title": "丹尼尔·亚尔库特呼吁在 AI 讨论中保持理性"
+    },
+    "https://github.com/wolfSSL/wolfCOSE": {
+      "date": "2026-05-31",
+      "title": "wolfSSL 发布 wolfCOSE：面向嵌入式系统的零分配 C 语言 COSE 库"
+    },
+    "https://oxide.computer/blog/cosmo-sp": {
+      "date": "2026-05-31",
+      "title": "Oxide Computer 探讨 Cosmo 中消失的服务处理器"
+    },
+    "https://lowendmac.com/2013/jef-raskin-the-visionary-behind-the-mac/": {
+      "date": "2026-05-31",
+      "title": "Jef Raskin：Macintosh 背后的远见者"
     }
   }
 }
