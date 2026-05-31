@@ -456,6 +456,90 @@
     "https://lowendmac.com/2013/jef-raskin-the-visionary-behind-the-mac/": {
       "date": "2026-05-31",
       "title": "Jef Raskin：Macintosh 背后的远见者"
+    },
+    "https://www.theguardian.com/society/2026/may/31/daily-pill-daraxonrasib-double-survival-time-pancreatic-pancreas-cancer-clinical-trial": {
+      "date": "2026-06-01",
+      "title": "临床试验显示每日口服药 daraxonrasib 可使胰腺癌患者生存期翻倍"
+    },
+    "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting": {
+      "date": "2026-06-01",
+      "title": "Cloudflare Turnstile 要求 WebGL 指纹识别，引发隐私担忧"
+    },
+    "https://prismml.com/news/bonsai-image-4b": {
+      "date": "2026-06-01",
+      "title": "Bonsai Image 4B：面向本地设备的 1-bit 量化扩散模型"
+    },
+    "https://jbkempf.com/blog/2026/dav2d/": {
+      "date": "2026-06-01",
+      "title": "VideoLAN 发布开源 AV2 视频解码器 dav2d"
+    },
+    "https://twitter.com/i/status/2060746160558543217": {
+      "date": "2026-06-01",
+      "title": "Codex AI 智能体发现 Docker 提权变通方法"
+    },
+    "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai": {
+      "date": "2026-06-01",
+      "title": "AI 时代的快速原型开发"
+    },
+    "https://justine.lol/rseq/": {
+      "date": "2026-06-01",
+      "title": "可重启序列：Linux 中替代互斥锁的无锁编程方案"
+    },
+    "https://www.lucasfcosta.com/blog/backpressure-is-all-you-need": {
+      "date": "2026-06-01",
+      "title": "利用背压机制让 AI Agent 在人工审核前自我验证"
+    },
+    "https://deflock.org/": {
+      "date": "2026-06-01",
+      "title": "Deflock 完成全美 10 万个自动车牌识别器的地图绘制"
+    },
+    "https://blog.tymscar.com/posts/v100localllm/": {
+      "date": "2026-06-01",
+      "title": "开发者将 NVIDIA V100 数据中心 GPU 装入游戏电脑运行本地大模型"
+    },
+    "https://kenforthewin.github.io/atomic-editor/": {
+      "date": "2026-06-01",
+      "title": "Atomic Editor：基于 CodeMirror 6 的 Obsidian 风格实时预览编辑器"
+    },
+    "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration": {
+      "date": "2026-06-01",
+      "title": "ChatGPT for Google Sheets 可被利用窃取工作簿数据"
+    },
+    "https://hannesweissteiner.com/pdfs/frost.pdf": {
+      "date": "2026-06-01",
+      "title": "FROST：基于 OPFS 的 SSD 时序远程浏览器指纹技术"
+    },
+    "https://specification.website/": {
+      "date": "2026-06-01",
+      "title": "The Website Specification"
+    },
+    "https://paulgraham.com/boss.html": {
+      "date": "2026-06-01",
+      "title": "Paul Graham：你本不该有老板（2008）"
+    },
+    "https://simonwillison.net/2026/May/31/the-solution-might-be-cancelling-my-ai-subscription/#atom-everything": {
+      "date": "2026-06-01",
+      "title": "AI 订阅可能损害专注力和生产力"
+    },
+    "https://github.com/viggy28/streambed": {
+      "date": "2026-06-01",
+      "title": "Streambed：将 PostgreSQL 数据流式传输到 S3 上 Apache Iceberg 的开源工具"
+    },
+    "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/": {
+      "date": "2026-06-01",
+      "title": "Meta 正式推出 Instagram、Facebook 和 WhatsApp 付费订阅服务"
+    },
+    "https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html": {
+      "date": "2026-06-01",
+      "title": "伦敦免费屋顶露台：公共准入与私人控制的矛盾"
+    },
+    "https://github.com/pewdiepie-archdaemon/odysseus": {
+      "date": "2026-06-01",
+      "title": "PewDiePie 发布 Odysseus，一个部分在手机上构建的自托管 AI 工作空间"
+    },
+    "https://lwn.net/Articles/104185/": {
+      "date": "2026-06-01",
+      "title": "2004 年 Linux 补丁提议保护 X 服务器免受 OOM Killer 终止"
     }
   }
 }
