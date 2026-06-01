@@ -32,6 +32,7 @@ export default function Navbar({ locale }: Props) {
 
   const navItems = [
     { href: '/daily', label: t('daily') },
+    ...(locale === 'zh' ? [{ href: '/investment', label: '投资简报' }] : []),
     { href: '/projects', label: t('projects') },
     { href: '/about', label: t('about') },
   ]

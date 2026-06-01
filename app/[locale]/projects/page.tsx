@@ -39,13 +39,11 @@ export default async function ProjectsPage({ params }: Props) {
           {projects.map(p => {
             const badge = statusBadge(p.status)
             return (
-              <div key={p.slug} style={{
-                padding: '18px', background: 'var(--bg2)', border: '1px solid var(--line2)',
+              <div key={p.slug} className="surface-hover" style={{
+                padding: '18px', background: 'var(--surface-bg)', border: '1px solid var(--surface-border)',
                 borderRadius: 'var(--r2)', display: 'flex', flexDirection: 'column', gap: '10px',
                 transition: 'all .2s',
               }}
-              onMouseEnter={e => { (e.currentTarget as HTMLDivElement).style.borderColor = 'var(--line3)'; (e.currentTarget as HTMLDivElement).style.background = 'var(--bg3)' }}
-              onMouseLeave={e => { (e.currentTarget as HTMLDivElement).style.borderColor = 'var(--line2)'; (e.currentTarget as HTMLDivElement).style.background = 'var(--bg2)' }}
               >
                 {/* Title + status */}
                 <div style={{ display: 'flex', alignItems: 'flex-start', justifyContent: 'space-between', gap: '8px' }}>

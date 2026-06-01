@@ -36,13 +36,11 @@ export default async function DailyListPage({ params }: Props) {
         <div style={{ display: 'flex', flexDirection: 'column', gap: '8px' }}>
           {posts.map(post => (
             <Link key={post.slug} href={`/${locale}/daily/${post.date}`} style={{ textDecoration: 'none' }}>
-              <div style={{
+              <div className="surface-hover" style={{
                 display: 'flex', alignItems: 'center', justifyContent: 'space-between',
-                padding: '14px 18px', background: 'var(--bg2)', border: '1px solid var(--line2)',
+                padding: '14px 18px', background: 'var(--surface-bg)', border: '1px solid var(--surface-border)',
                 borderRadius: 'var(--r2)', transition: 'all .18s', cursor: 'pointer',
               }}
-              onMouseEnter={e => { (e.currentTarget as HTMLDivElement).style.background = 'var(--bg3)'; (e.currentTarget as HTMLDivElement).style.borderColor = 'var(--line3)' }}
-              onMouseLeave={e => { (e.currentTarget as HTMLDivElement).style.background = 'var(--bg2)'; (e.currentTarget as HTMLDivElement).style.borderColor = 'var(--line2)' }}
               >
                 <div style={{ display: 'flex', alignItems: 'center', gap: '14px' }}>
                   <span style={{ fontFamily: "'Courier New',monospace", fontSize: '11px', color: 'var(--gold)', letterSpacing: '.06em' }}>
