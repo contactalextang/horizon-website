@@ -540,6 +540,134 @@
     "https://lwn.net/Articles/104185/": {
       "date": "2026-06-01",
       "title": "2004 年 Linux 补丁提议保护 X 服务器免受 OOM Killer 终止"
+    },
+    "https://www.0xsid.com/blog/meta-account-takeover-fiasco": {
+      "date": "2026-06-02",
+      "title": "黑客通过提示注入攻击 Meta AI 支持机器人劫持 Instagram 账户"
+    },
+    "https://cs336.stanford.edu/": {
+      "date": "2026-06-02",
+      "title": "斯坦福 CS336：从零开始构建语言模型"
+    },
+    "https://www.quantamagazine.org/the-dirt-that-refused-to-die-20260601/": {
+      "date": "2026-06-02",
+      "title": "生化过程可能源自非生物地质化学"
+    },
+    "https://news.ycombinator.com/item?id=48356312": {
+      "date": "2026-06-02",
+      "title": "Expanse（YC P26）发布，优化 GPU 集群利用率"
+    },
+    "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx": {
+      "date": "2026-06-02",
+      "title": "Alphabet 宣布 800 亿美元股权融资以扩展 AI 基础设施"
+    },
+    "https://point.free/blog/gemma-4-on-a-2016-xeon/": {
+      "date": "2026-06-02",
+      "title": "Gemma 4 26B MoE 模型在 2016 年 Xeon CPU 上达到阅读速度"
+    },
+    "https://www.anthropic.com/news/confidential-draft-s1-sec": {
+      "date": "2026-06-02",
+      "title": "Anthropic 向 SEC 秘密提交 S-1 草案，迈出 IPO 关键一步"
+    },
+    "https://github.com/RedHatInsights/javascript-clients/issues/492": {
+      "date": "2026-06-02",
+      "title": "Red Hat Cloud Services 中发现恶意 npm 包"
+    },
+    "https://idlewords.com/talks/superintelligence.htm": {
+      "date": "2026-06-02",
+      "title": "超级智能：吞噬聪明人的想法（2016）"
+    },
+    "https://github.com/OpenBMB/VoxCPM": {
+      "date": "2026-06-02",
+      "title": "OpenBMB 发布 VoxCPM2：无需分词器的多语言语音克隆 TTS 模型"
+    },
+    "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md": {
+      "date": "2026-06-02",
+      "title": "斯坦福 CS336 课程发布 Claude Code AI Agent 使用指南"
+    },
+    "https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215": {
+      "date": "2026-06-02",
+      "title": "佛罗里达州起诉 OpenAI 及 Sam Altman，指控 AI 造成伤害"
+    },
+    "https://www.nvidia.com/en-us/products/rtx-spark/": {
+      "date": "2026-06-02",
+      "title": "英伟达 RTX Spark：面向 Windows PC 的 ARM 超级芯片"
+    },
+    "https://github.com/colbymchenry/codegraph": {
+      "date": "2026-06-02",
+      "title": "codegraph：预索引代码知识图谱降低 AI 编程代理的 token 消耗"
+    },
+    "https://github.com/chopratejas/headroom": {
+      "date": "2026-06-02",
+      "title": "Headroom：一款将 LLM token 用量降低 60%–95% 的 Python 库"
+    },
+    "https://github.com/heygen-com/hyperframes": {
+      "date": "2026-06-02",
+      "title": "Hyperframes：用 HTML 编写，渲染为视频，专为 AI Agent 打造"
+    },
+    "https://github.com/revfactory/harness": {
+      "date": "2026-06-02",
+      "title": "revfactory/harness：用于设计领域专用智能体团队的元技能框架"
+    },
+    "https://github.com/astral-sh/uv/releases/tag/0.11.18": {
+      "date": "2026-06-02",
+      "title": "uv 0.11.18 发布：修复性能回退并新增预览版 `uv check` 命令"
+    },
+    "https://debug.com/": {
+      "date": "2026-06-02",
+      "title": "Verily 的 Debug Project 利用 Wolbachia 细菌抑制蚊子种群"
+    },
+    "https://30fps.net/pages/255-vs-256-division/": {
+      "date": "2026-06-02",
+      "title": "RGB 值应该除以 255 还是 256 进行归一化？"
+    },
+    "https://eblog.fly.dev/githubbad.html": {
+      "date": "2026-06-02",
+      "title": "对 GitHub 的批评引发开发者迁移至替代平台"
+    },
+    "https://www.windowslatest.com/2026/06/01/microsoft-builds-its-ultimate-macbook-pro-rival-with-the-nvidia-powered-surface-laptop-ultra/": {
+      "date": "2026-06-02",
+      "title": "微软发布搭载 NVIDIA 芯片的 Surface Laptop Ultra"
+    },
+    "https://f055.net/technology/windows-gog-dos-games-on-m-series-macs/": {
+      "date": "2026-06-02",
+      "title": "在 M 系列 Mac 上通过 DOSBox 运行 GOG DOS 游戏"
+    },
+    "https://torrentfreak.com/the-pirate-bay-remains-resilient-20-years-after-the-raid/": {
+      "date": "2026-06-02",
+      "title": "海盗湾在警方突击搜查 20 年后依然顽强运营"
+    },
+    "https://lambdacreate.com/posts/sysadmining-like-its-2009": {
+      "date": "2026-06-02",
+      "title": "像 2009 年一样做系统管理：一次怀旧回顾"
+    },
+    "https://github.com/rohitg00/ai-engineering-from-scratch": {
+      "date": "2026-06-02",
+      "title": "rohitg00/ai-engineering-from-scratch 24 小时内获得 45 颗星"
+    },
+    "https://github.com/Imbad0202/academic-research-skills": {
+      "date": "2026-06-02",
+      "title": "面向 Claude Code 的学术研究技能工作流获 33 颗星"
+    },
+    "https://github.com/rohitg00/agentmemory": {
+      "date": "2026-06-02",
+      "title": "agentmemory：基于 TypeScript 的 AI 编程代理持久记忆库"
+    },
+    "https://github.com/run-llama/liteparse": {
+      "date": "2026-06-02",
+      "title": "LiteParse：一款基于 Rust 的新型开源文档解析器"
+    },
+    "https://github.com/mindfold-ai/Trellis": {
+      "date": "2026-06-02",
+      "title": "mindfold-ai/Trellis：一个新的 agent harness 项目在 GitHub 上获得少量关注"
+    },
+    "https://github.com/reconurge/flowsint": {
+      "date": "2026-06-02",
+      "title": "flowsint：一款面向网络安全分析师的 TypeScript 图调查工具"
+    },
+    "https://github.com/crynta/terax-ai": {
+      "date": "2026-06-02",
+      "title": "terax-ai：一款基于 TypeScript 的轻量级终端优先 AI 原生开发工作区"
     }
   }
 }
