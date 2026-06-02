@@ -1,166 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "https://www.politico.eu/article/netherlands-blocks-us-takeover-vital-digital-supplier/": {
-      "date": "2026-05-26",
-      "title": "荷兰阻止美国公司收购数字身份系统 DigiD 供应商 Solvinity"
-    },
-    "https://9to5google.com/2026/05/25/motorola-amazon-app-hijacking-behavior/": {
-      "date": "2026-05-26",
-      "title": "摩托罗拉手机劫持亚马逊应用以注入联盟营销代码"
-    },
-    "https://dynip.dev/": {
-      "date": "2026-05-26",
-      "title": "DynIP：支持 RFC 2136、IPv6 和 DNSSEC 的现代动态 DNS 服务"
-    },
-    "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/": {
-      "date": "2026-05-26",
-      "title": "用 AI 写出更好的代码，但速度更慢"
-    },
-    "https://ente.com/blog/how-shamirs-secret-sharing-works/": {
-      "date": "2026-05-26",
-      "title": "Shamir 秘密共享算法的可视化解析"
-    },
-    "https://www.bgr.com/2178211/japan-hypersonic-engine-ramjet-2-hour-flights-to-us/": {
-      "date": "2026-05-26",
-      "title": "日本成功测试用于 5 马赫飞行器的冲压发动机"
-    },
-    "https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout": {
-      "date": "2026-05-26",
-      "title": "Mullvad 推出出口 IP 指纹追踪缓解方案"
-    },
-    "https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law": {
-      "date": "2026-05-26",
-      "title": "加州提议将 Linux 从年龄验证法中豁免，此前引发社区强烈反对"
-    },
-    "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910": {
-      "date": "2026-05-26",
-      "title": "挪威投资 2PB 华为闪存存储用于主权大语言模型训练"
-    },
-    "https://simonwillison.net/2026/May/25/encyclical-on-ai/#atom-everything": {
-      "date": "2026-05-26",
-      "title": "教皇利奥十四世发布关于人工智能伦理的通谕"
-    },
-    "https://vllm.ai/blog/2026-05-26-eagle-3-1": {
-      "date": "2026-05-26",
-      "title": "EAGLE 3.1 由 EAGLE、vLLM 和 TorchSpec 团队联合发布"
-    },
-    "https://pscanf.com/s/354/": {
-      "date": "2026-05-26",
-      "title": "用户明显感到沮丧"
-    },
-    "https://www.reddit.com/r/MachineLearning/comments/1tnhnh5/the_famous_metr_ai_time_horizons_graph_contains/": {
-      "date": "2026-05-26",
-      "title": "METR AI 时间范围图因严重方法学错误受到批评"
-    },
-    "https://www.livescience.com/technology/quantum/scientists-trained-an-ai-model-using-an-ibm-quantum-computer-and-it-answered-questions-correctly-that-the-base-model-couldnt": {
-      "date": "2026-05-26",
-      "title": "科学家使用 IBM 量子计算机训练 AI 模型，表现超越基础模型"
-    },
-    "https://www.reddit.com/r/artificial/comments/1to0dmn/ai_is_becoming_epistemic_infrastructure/": {
-      "date": "2026-05-26",
-      "title": "AI is becoming epistemic infrastructure controlled by a handful of private individuals?"
-    },
-    "https://www.reddit.com/r/artificial/comments/1tnarvu/ai_agents_need_audit_trails_more_than_they_need/": {
-      "date": "2026-05-26",
-      "title": "AI agents need audit trails more than they need more autonomy"
-    },
-    "https://corrode.dev/learn/migration-guides/go-to-rust/": {
-      "date": "2026-05-26",
-      "title": "从 Go 迁移到 Rust：一份实用指南"
-    },
-    "https://github.com/Lum1104/Understand-Anything": {
-      "date": "2026-05-26",
-      "title": "Understand-Anything：将代码转换为交互式知识图谱"
-    },
-    "https://github.com/anthropics/knowledge-work-plugins": {
-      "date": "2026-05-26",
-      "title": "Anthropic 知识工作插件 24 小时内获得 108 颗星"
-    },
-    "https://github.com/mukul975/Anthropic-Cybersecurity-Skills": {
-      "date": "2026-05-26",
-      "title": "开源项目为 AI Agent 提供 754 项网络安全技能"
-    },
-    "https://github.com/safishamsi/graphify": {
-      "date": "2026-05-26",
-      "title": "Graphify：将任意代码库转换为可查询的知识图谱"
-    },
-    "https://github.com/shiyu-coder/Kronos": {
-      "date": "2026-05-26",
-      "title": "Kronos：面向金融 K 线序列的开源基础模型"
-    },
-    "https://github.com/CloakHQ/CloakBrowser": {
-      "date": "2026-05-26",
-      "title": "CloakBrowser：基于 Chromium 的隐身浏览器自动化工具可绕过机器人检测"
-    },
-    "https://www.githubstatus.com/?today": {
-      "date": "2026-05-26",
-      "title": "GitHub Actions 今日再次宕机"
-    },
-    "https://www.apa.org/news/press/releases/2014/04/creativity-walk": {
-      "date": "2026-05-26",
-      "title": "研究发现：散步比久坐更能激发创造力"
-    },
-    "https://thefrontpage.dev/": {
-      "date": "2026-05-26",
-      "title": "The Front Page：一款报纸风格的 Hacker News 前端，集成 AI 摘要"
-    },
-    "https://ni5arga.com/blog/posts/hacking-cbse/": {
-      "date": "2026-05-26",
-      "title": "CBSE 在线阅卷门户暴露严重安全漏洞"
-    },
-    "https://www.reddit.com/r/artificial/comments/1tnjhts/top_10_fastest_growing_ai_repos_this_week/": {
-      "date": "2026-05-26",
-      "title": "本周增长最快的十大 AI 代码库"
-    },
-    "https://github.com/Leonxlnx/taste-skill": {
-      "date": "2026-05-26",
-      "title": "Taste-Skill：一个旨在减少 AI 生成前端“垃圾内容”的 GitHub 项目"
-    },
-    "https://earthiongame.com/": {
-      "date": "2026-05-26",
-      "title": "Earthion：一款全新世嘉 Mega Drive 风格的射击游戏"
-    },
-    "https://www.ferrari.com/en-EN/auto/ferrari-luce": {
-      "date": "2026-05-26",
-      "title": "法拉利发布首款纯电动车型 Luce"
-    },
-    "https://stevemagness.substack.com/p/the-cost-of-safetyism": {
-      "date": "2026-05-26",
-      "title": "What we lost when we stopped letting kids leave the front yard"
-    },
-    "https://simonwillison.net/2026/May/26/corey-quinn/#atom-everything": {
-      "date": "2026-05-26",
-      "title": "Corey Quinn 抨击 Anthropic 对梵蒂冈的影响是极致的厂商游说"
-    },
-    "https://www.businessinsider.com/uber-coo-andrew-macdonald-ai-token-spending-harder-justify-2026-5": {
-      "date": "2026-05-26",
-      "title": "Uber 首席运营官质疑 AI 代币支出效率"
-    },
-    "https://www.wiz.io/blog/claude-wiz-integration?2": {
-      "date": "2026-05-26",
-      "title": "Wiz 集成 Anthropic 合规 API"
-    },
-    "https://github.com/NangoHQ/nango": {
-      "date": "2026-05-26",
-      "title": "NangoHQ/nango 作为 AI 集成工具在 GitHub 上走红，24 小时内获 53 颗星"
-    },
-    "https://github.com/Axorax/awesome-free-apps": {
-      "date": "2026-05-26",
-      "title": "Axorax/awesome-free-apps 24 小时内获得 50 颗星"
-    },
-    "https://github.com/Hmbown/CodeWhale": {
-      "date": "2026-05-26",
-      "title": "CodeWhale：面向开源权重模型的 Rust 编程代理"
-    },
-    "https://github.com/greensock/gsap-skills": {
-      "date": "2026-05-26",
-      "title": "GSAP 官方发布 AI 技能包，帮助编程智能体正确使用动画库"
-    },
-    "https://github.com/tashfeenahmed/freellmapi": {
-      "date": "2026-05-26",
-      "title": "freellmapi：聚合 14 个免费大模型 API 的 OpenAI 兼容代理"
-    },
     "https://arxiv.org/abs/2605.26099": {
       "date": "2026-05-27",
       "title": "研究者提出受睡眠启发的 LLM 记忆巩固机制"
@@ -668,6 +508,154 @@
     "https://github.com/crynta/terax-ai": {
       "date": "2026-06-02",
       "title": "terax-ai：一款基于 TypeScript 的轻量级终端优先 AI 原生开发工作区"
+    },
+    "https://www.anthropic.com/news/expanding-project-glasswing": {
+      "date": "2026-06-03",
+      "title": "Anthropic 将 Claude Mythos 扩展至 15 个国家的关键基础设施"
+    },
+    "https://microsoft.ai/news/introducingmai-code-1-flash/": {
+      "date": "2026-06-03",
+      "title": "微软发布 MAI-Code-1-Flash，137B 参数编程模型"
+    },
+    "https://microsoft.ai/news/introducing-mai-thinking-1/": {
+      "date": "2026-06-03",
+      "title": "微软发布 MAI-Thinking-1 推理模型"
+    },
+    "https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/": {
+      "date": "2026-06-03",
+      "title": "西雅图监控基础设施徒步考察"
+    },
+    "https://blog.adafruit.com/": {
+      "date": "2026-06-03",
+      "title": "Adafruit 收到 Flux.ai 律师的法律催告函"
+    },
+    "https://blog.zgp.org/the-advertising-cartel-coming-to-your-web-browser/": {
+      "date": "2026-06-03",
+      "title": "大型科技公司的浏览器广告联盟威胁用户隐私"
+    },
+    "https://www.kapa.ai/blog/how-we-index-images-for-rag": {
+      "date": "2026-06-03",
+      "title": "Kapa.ai 如何使用视觉模型为 RAG 索引图像"
+    },
+    "https://fergusfinn.com/blog/deepseek-v4-flash-mi300x/": {
+      "date": "2026-06-03",
+      "title": "DeepSeek-V4-Flash 成功在 AMD MI300X GPU 上运行"
+    },
+    "https://github.com/features/preview/github-app": {
+      "date": "2026-06-03",
+      "title": "GitHub Copilot 应用以技术预览版形式发布"
+    },
+    "https://blog.davidedmundson.co.uk/blog/596/": {
+      "date": "2026-06-03",
+      "title": "KDE Plasma 宣布最后一个支持 X11 的版本"
+    },
+    "https://www.computerworld.com/article/4180103/microsoft-unveils-scout-an-autonomous-ai-agent-built-on-openclaw.html": {
+      "date": "2026-06-03",
+      "title": "微软发布基于 OpenClaw 构建的自主 AI 智能体 Scout"
+    },
+    "https://mullvad.net/en/blog/age-verification-for-social-media-the-beginning-of-the-end-for-a-free-internet": {
+      "date": "2026-06-03",
+      "title": "社交媒体年龄验证可能终结自由互联网"
+    },
+    "https://github.com/s2-streamstore/replaya": {
+      "date": "2026-06-03",
+      "title": "RePlaya：基于持久化流的自托管浏览器会话回放工具，支持实时追踪"
+    },
+    "https://github.com/shiihaa-app/shiihaa-breath-detection": {
+      "date": "2026-06-03",
+      "title": "一款基于设备端呼吸检测的应用，摒弃游戏化设计，专注正念生物反馈"
+    },
+    "https://github.com/Lum1104/Understand-Anything": {
+      "date": "2026-06-03",
+      "title": "Understand-Anything 将代码库转换为交互式知识图谱"
+    },
+    "https://github.com/rtk-ai/rtk": {
+      "date": "2026-06-03",
+      "title": "rtk：基于 Rust 的 CLI 代理将 LLM token 消耗降低 60-90%"
+    },
+    "https://github.com/p-e-w/heretic": {
+      "date": "2026-06-03",
+      "title": "Heretic：自动移除语言模型审查机制的工具引发关注"
+    },
+    "https://www.lumafield.com/scan-of-the-month/byd": {
+      "date": "2026-06-03",
+      "title": "CT scans of BYD car parts"
+    },
+    "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left": {
+      "date": "2026-06-03",
+      "title": "用户因 Gmail 侵入式 AI 和糟糕体验而弃用"
+    },
+    "https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389": {
+      "date": "2026-06-03",
+      "title": "特朗普签署缩减版 AI 行政令，聚焦自愿审查"
+    },
+    "https://c9x.me/compile/release/qbe-1.3.html": {
+      "date": "2026-06-03",
+      "title": "QBE 1.3 发布，新增 Windows 支持，扩展最小化编译器适用范围"
+    },
+    "https://ianthehenry.com/posts/why-janet/": {
+      "date": "2026-06-03",
+      "title": "为什么选择 Janet？一位开发者对这门轻量级 Lisp 的推荐"
+    },
+    "https://simonwillison.net/2026/Jun/2/pasted-file-editor/#atom-everything": {
+      "date": "2026-06-03",
+      "title": "Simon Willison 使用 Codex 构建粘贴文件编辑器"
+    },
+    "https://github.com/thcp/stemdeck": {
+      "date": "2026-06-03",
+      "title": "Stemdeck：基于 JavaScript 的现代音频音轨分离平台"
+    },
+    "https://github.com/safishamsi/graphify": {
+      "date": "2026-06-03",
+      "title": "Graphify：将代码库转换为可查询知识图谱的 Python 工具"
+    },
+    "https://github.com/torvalds/ScrollWheel": {
+      "date": "2026-06-03",
+      "title": "Linus Torvalds 发布基于 RP2350 的极简滚轮项目"
+    },
+    "https://github.com/torvalds/GuitarPedal": {
+      "date": "2026-06-03",
+      "title": "Linus Torvalds 向 GuitarPedal 仓库推送了零次提交"
+    },
+    "https://openrepair.org/open-data/open-standard/": {
+      "date": "2026-06-03",
+      "title": "开放维修联盟发布维修数据开放共享标准"
+    },
+    "https://hpcalcs.com/product/hp-16c-collectors-edition/": {
+      "date": "2026-06-03",
+      "title": "HP 重新发布经典 HP-16C 程序员计算器收藏版"
+    },
+    "https://www.fidonet.org/inet92_Randy_Bush.txt": {
+      "date": "2026-06-03",
+      "title": "FidoNet：1993 年对早期去中心化网络的回顾"
+    },
+    "https://blog.tjll.net/you-dont-love-systemd-timers-enough/": {
+      "date": "2026-06-03",
+      "title": "为什么 systemd timers 是比 cron 更好的替代方案"
+    },
+    "https://news.ycombinator.com/item?id=48374528": {
+      "date": "2026-06-03",
+      "title": "Rudus（YC P26）推出面向混凝土分包商的 AI 工程量计算工具"
+    },
+    "https://github.com/nesquena/hermes-webui": {
+      "date": "2026-06-03",
+      "title": "Hermes WebUI 在 GitHub 上 24 小时内获得 50 颗星"
+    },
+    "https://github.com/pbakaus/impeccable": {
+      "date": "2026-06-03",
+      "title": "Impeccable：面向 AI 编程代理的设计语言"
+    },
+    "https://github.com/Leonxlnx/taste-skill": {
+      "date": "2026-06-03",
+      "title": "taste-skill：一个用「品味」对抗 AI 生成低质内容的 GitHub 项目"
+    },
+    "https://github.com/Yuan1z0825/nature-skills": {
+      "date": "2026-06-03",
+      "title": "nature-skills：面向 Nature 风格学术写作的 Python 工具"
+    },
+    "https://github.com/shareAI-lab/learn-claude-code": {
+      "date": "2026-06-03",
+      "title": "shareAI-lab/learn-claude-code：用 TypeScript 从零构建的极简 Claude Code 风格智能体"
     }
   }
 }
