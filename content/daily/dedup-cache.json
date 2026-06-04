@@ -435,7 +435,7 @@
     },
     "https://x.com/ylecun/status/2062298612634177748": {
       "date": "2026-06-04",
-      "title": "@ylecun: Trump's FY27 budget proposal would roughly halve the Na..."
+      "title": "@ylecun: Trump's FY27 budget would halve NSF budget..."
     },
     "https://x.com/sama/status/2061101875303530871": {
       "date": "2026-06-04",
@@ -447,7 +447,7 @@
     },
     "https://x.com/ylecun/status/2062213574617862615": {
       "date": "2026-06-04",
-      "title": "@ylecun: Basic science (largely funded via NSF) has historically ..."
+      "title": "@ylecun: Basic science has historically run at ~$10B/year..."
     },
     "https://x.com/ylecun/status/2062207836625522889": {
       "date": "2026-06-04",
@@ -464,6 +464,166 @@
     "https://x.com/sama/status/2061562575322492937": {
       "date": "2026-06-04",
       "title": "@sama: The OpenAI Foundation is doing a lot of wonderful things. ..."
+    },
+    "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/": {
+      "date": "2026-06-04",
+      "title": "Gemma 4 12B: A unified, encoder-free multimodal model"
+    },
+    "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/": {
+      "date": "2026-06-04",
+      "title": "Elixir v1.20: Now a gradually typed language"
+    },
+    "https://letsencrypt.org/2026/06/03/pq-certs": {
+      "date": "2026-06-04",
+      "title": "A Post-Quantum Future for Let's Encrypt"
+    },
+    "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/": {
+      "date": "2026-06-04",
+      "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it"
+    },
+    "https://maxleiter.com/blog/weights": {
+      "date": "2026-06-04",
+      "title": "They’re made out of weights"
+    },
+    "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/": {
+      "date": "2026-06-04",
+      "title": "Artificial intelligence is not conscious – Ted Chiang"
+    },
+    "https://x.com/MixRoute_ai/status/2062467740334436726": {
+      "date": "2026-06-04",
+      "title": "@MixRoute_ai: Claude Code leads SWE-bench Pro at ~69%..."
+    },
+    "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html": {
+      "date": "2026-06-04",
+      "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes"
+    },
+    "https://www.anthropic.com/engineering/how-we-contain-claude": {
+      "date": "2026-06-04",
+      "title": "The ways we contain Claude across products"
+    },
+    "https://burntsushi.net/encephalitis/": {
+      "date": "2026-06-04",
+      "title": "I was recently diagnosed with anti-NMDA receptor encephalitis"
+    },
+    "https://simonwillison.net/2026/Jun/3/uber-caps-usage/": {
+      "date": "2026-06-04",
+      "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing"
+    },
+    "https://www.blackmagicdesign.com/products/davinciresolve/whatsnew": {
+      "date": "2026-06-04",
+      "title": "DaVinci Resolve 21"
+    },
+    "https://www.espressif.com/en/products/socs/esp32-s31": {
+      "date": "2026-06-04",
+      "title": "ESP32-S31"
+    },
+    "https://www.ableton.com/en/live/extensions/": {
+      "date": "2026-06-04",
+      "title": "Ableton Extensions SDK"
+    },
+    "https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground": {
+      "date": "2026-06-04",
+      "title": "Mathematicians issue warning as AI rapidly gains ground"
+    },
+    "https://news.ycombinator.com/item?id=48387095": {
+      "date": "2026-06-04",
+      "title": "Launch HN: Hyper (YC P26) – Company brain to power agentic development"
+    },
+    "https://worrydream.com/refs/Lockhart_2002_-_A_Mathematician%27s_Lament.pdf": {
+      "date": "2026-06-04",
+      "title": "A Mathematician's Lament (2002) (pdf)"
+    },
+    "https://www.copetti.org/writings/consoles/playstation/": {
+      "date": "2026-06-04",
+      "title": "PlayStation Architecture"
+    },
+    "https://github.com/tastyeffectco/sandboxes": {
+      "date": "2026-06-04",
+      "title": "Self-hosted dev sandboxes with preview URLs (Docker, Go, no K8s)"
+    },
+    "https://simonwillison.net/2026/Jun/3/uber-caps-usage/#atom-everything": {
+      "date": "2026-06-04",
+      "title": "Uber Caps Usage of AI Tools Like Claude Code to Manage Costs"
+    },
+    "https://opensource.googleblog.com/2026/06/journey-to-jpeg-xl-how-open-source-experiments-shaped-the-future-of-image-coding.html": {
+      "date": "2026-06-04",
+      "title": "Journey to JPEG XL: open-source experiments shaped the future of image coding"
+    },
+    "https://github.com/duanebester/gooey": {
+      "date": "2026-06-04",
+      "title": "Gooey: A GPU-accelerated UI framework for Zig"
+    },
+    "https://github.com/unicity-astrid/astrid": {
+      "date": "2026-06-04",
+      "title": "unicity-astrid/astrid (+199⭐ past_24_hours)"
+    },
+    "https://github.com/mukul975/Anthropic-Cybersecurity-Skills": {
+      "date": "2026-06-04",
+      "title": "mukul975/Anthropic-Cybersecurity-Skills (+16⭐ past_24_hours)"
+    },
+    "https://github.com/rtk-ai/rtk": {
+      "date": "2026-06-04",
+      "title": "rtk-ai/rtk (+16⭐ past_24_hours)"
+    },
+    "https://x.com/iam_elias1/status/2062463243633967130": {
+      "date": "2026-06-04",
+      "title": "@iam_elias1: OpenHands strong free alternative to Devin..."
+    },
+    "https://github.com/Lum1104/Understand-Anything": {
+      "date": "2026-06-04",
+      "title": "Lum1104/Understand-Anything (+27⭐ past_24_hours)"
+    },
+    "https://github.com/MadsLorentzen/ai-job-search": {
+      "date": "2026-06-04",
+      "title": "MadsLorentzen/ai-job-search (+25⭐ past_24_hours)"
+    },
+    "https://github.com/safishamsi/graphify": {
+      "date": "2026-06-04",
+      "title": "safishamsi/graphify (+18⭐ past_24_hours)"
+    },
+    "https://github.com/astral-sh/uv/releases/tag/0.11.19": {
+      "date": "2026-06-04",
+      "title": "astral-sh/uv released 0.11.19"
+    },
+    "https://uruky.com/?il=en": {
+      "date": "2026-06-04",
+      "title": "Show HN: Uruky (EU-based Kagi alternative) now has Image Search and URL Rewrites"
+    },
+    "https://dumb.co/": {
+      "date": "2026-06-04",
+      "title": "Dumbphone 2"
+    },
+    "https://github.com/HKUDS/Vibe-Trading": {
+      "date": "2026-06-04",
+      "title": "HKUDS/Vibe-Trading (+28⭐ past_24_hours)"
+    },
+    "https://github.com/Leonxlnx/taste-skill": {
+      "date": "2026-06-04",
+      "title": "Leonxlnx/taste-skill (+24⭐ past_24_hours)"
+    },
+    "https://github.com/fathah/hermes-desktop": {
+      "date": "2026-06-04",
+      "title": "fathah/hermes-desktop (+14⭐ past_24_hours)"
+    },
+    "https://github.com/shareAI-lab/learn-claude-code": {
+      "date": "2026-06-04",
+      "title": "shareAI-lab/learn-claude-code (+13⭐ past_24_hours)"
+    },
+    "https://github.com/Crosstalk-Solutions/project-nomad": {
+      "date": "2026-06-04",
+      "title": "Crosstalk-Solutions/project-nomad (+12⭐ past_24_hours)"
+    },
+    "https://github.com/getpaseo/paseo": {
+      "date": "2026-06-04",
+      "title": "getpaseo/paseo (+12⭐ past_24_hours)"
+    },
+    "https://github.com/datawhalechina/hello-agents": {
+      "date": "2026-06-04",
+      "title": "datawhalechina/hello-agents (+12⭐ past_24_hours)"
+    },
+    "https://x.com/AIGenesis_/status/2062148649409491074": {
+      "date": "2026-06-04",
+      "title": "@AIGenesis_: Agentic AI is the defining shift of 2026..."
     }
   }
 }
