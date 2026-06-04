@@ -1,242 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "https://www.politico.eu/article/netherlands-blocks-us-takeover-vital-digital-supplier/": {
-      "date": "2026-05-26",
-      "title": "荷兰阻止美国公司收购数字身份系统 DigiD 供应商 Solvinity"
-    },
-    "https://9to5google.com/2026/05/25/motorola-amazon-app-hijacking-behavior/": {
-      "date": "2026-05-26",
-      "title": "摩托罗拉手机劫持亚马逊应用以注入联盟营销代码"
-    },
-    "https://dynip.dev/": {
-      "date": "2026-05-26",
-      "title": "DynIP：支持 RFC 2136、IPv6 和 DNSSEC 的现代动态 DNS 服务"
-    },
-    "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/": {
-      "date": "2026-05-26",
-      "title": "用 AI 写出更好的代码，但速度更慢"
-    },
-    "https://ente.com/blog/how-shamirs-secret-sharing-works/": {
-      "date": "2026-05-26",
-      "title": "Shamir 秘密共享算法的可视化解析"
-    },
-    "https://www.bgr.com/2178211/japan-hypersonic-engine-ramjet-2-hour-flights-to-us/": {
-      "date": "2026-05-26",
-      "title": "日本成功测试用于 5 马赫飞行器的冲压发动机"
-    },
-    "https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout": {
-      "date": "2026-05-26",
-      "title": "Mullvad 推出出口 IP 指纹追踪缓解方案"
-    },
-    "https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law": {
-      "date": "2026-05-26",
-      "title": "加州提议将 Linux 从年龄验证法中豁免，此前引发社区强烈反对"
-    },
-    "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910": {
-      "date": "2026-05-26",
-      "title": "挪威投资 2PB 华为闪存存储用于主权大语言模型训练"
-    },
-    "https://simonwillison.net/2026/May/25/encyclical-on-ai/#atom-everything": {
-      "date": "2026-05-26",
-      "title": "教皇利奥十四世发布关于人工智能伦理的通谕"
-    },
-    "https://vllm.ai/blog/2026-05-26-eagle-3-1": {
-      "date": "2026-05-26",
-      "title": "EAGLE 3.1 由 EAGLE、vLLM 和 TorchSpec 团队联合发布"
-    },
-    "https://pscanf.com/s/354/": {
-      "date": "2026-05-26",
-      "title": "用户明显感到沮丧"
-    },
-    "https://www.reddit.com/r/MachineLearning/comments/1tnhnh5/the_famous_metr_ai_time_horizons_graph_contains/": {
-      "date": "2026-05-26",
-      "title": "METR AI 时间范围图因严重方法学错误受到批评"
-    },
-    "https://www.livescience.com/technology/quantum/scientists-trained-an-ai-model-using-an-ibm-quantum-computer-and-it-answered-questions-correctly-that-the-base-model-couldnt": {
-      "date": "2026-05-26",
-      "title": "科学家使用 IBM 量子计算机训练 AI 模型，表现超越基础模型"
-    },
-    "https://www.reddit.com/r/artificial/comments/1to0dmn/ai_is_becoming_epistemic_infrastructure/": {
-      "date": "2026-05-26",
-      "title": "AI is becoming epistemic infrastructure controlled by a handful of private individuals?"
-    },
-    "https://www.reddit.com/r/artificial/comments/1tnarvu/ai_agents_need_audit_trails_more_than_they_need/": {
-      "date": "2026-05-26",
-      "title": "AI agents need audit trails more than they need more autonomy"
-    },
-    "https://corrode.dev/learn/migration-guides/go-to-rust/": {
-      "date": "2026-05-26",
-      "title": "从 Go 迁移到 Rust：一份实用指南"
-    },
-    "https://github.com/Lum1104/Understand-Anything": {
-      "date": "2026-05-26",
-      "title": "Understand-Anything：将代码转换为交互式知识图谱"
-    },
-    "https://github.com/anthropics/knowledge-work-plugins": {
-      "date": "2026-05-26",
-      "title": "Anthropic 知识工作插件 24 小时内获得 108 颗星"
-    },
-    "https://github.com/mukul975/Anthropic-Cybersecurity-Skills": {
-      "date": "2026-05-26",
-      "title": "开源项目为 AI Agent 提供 754 项网络安全技能"
-    },
-    "https://github.com/safishamsi/graphify": {
-      "date": "2026-05-26",
-      "title": "Graphify：将任意代码库转换为可查询的知识图谱"
-    },
-    "https://github.com/shiyu-coder/Kronos": {
-      "date": "2026-05-26",
-      "title": "Kronos：面向金融 K 线序列的开源基础模型"
-    },
-    "https://github.com/CloakHQ/CloakBrowser": {
-      "date": "2026-05-26",
-      "title": "CloakBrowser：基于 Chromium 的隐身浏览器自动化工具可绕过机器人检测"
-    },
-    "https://www.githubstatus.com/?today": {
-      "date": "2026-05-26",
-      "title": "GitHub Actions 今日再次宕机"
-    },
-    "https://www.apa.org/news/press/releases/2014/04/creativity-walk": {
-      "date": "2026-05-26",
-      "title": "研究发现：散步比久坐更能激发创造力"
-    },
-    "https://thefrontpage.dev/": {
-      "date": "2026-05-26",
-      "title": "The Front Page：一款报纸风格的 Hacker News 前端，集成 AI 摘要"
-    },
-    "https://ni5arga.com/blog/posts/hacking-cbse/": {
-      "date": "2026-05-26",
-      "title": "CBSE 在线阅卷门户暴露严重安全漏洞"
-    },
-    "https://www.reddit.com/r/artificial/comments/1tnjhts/top_10_fastest_growing_ai_repos_this_week/": {
-      "date": "2026-05-26",
-      "title": "本周增长最快的十大 AI 代码库"
-    },
-    "https://github.com/Leonxlnx/taste-skill": {
-      "date": "2026-05-26",
-      "title": "Taste-Skill：一个旨在减少 AI 生成前端“垃圾内容”的 GitHub 项目"
-    },
-    "https://earthiongame.com/": {
-      "date": "2026-05-26",
-      "title": "Earthion：一款全新世嘉 Mega Drive 风格的射击游戏"
-    },
-    "https://www.ferrari.com/en-EN/auto/ferrari-luce": {
-      "date": "2026-05-26",
-      "title": "法拉利发布首款纯电动车型 Luce"
-    },
-    "https://stevemagness.substack.com/p/the-cost-of-safetyism": {
-      "date": "2026-05-26",
-      "title": "What we lost when we stopped letting kids leave the front yard"
-    },
-    "https://simonwillison.net/2026/May/26/corey-quinn/#atom-everything": {
-      "date": "2026-05-26",
-      "title": "Corey Quinn 抨击 Anthropic 对梵蒂冈的影响是极致的厂商游说"
-    },
-    "https://www.businessinsider.com/uber-coo-andrew-macdonald-ai-token-spending-harder-justify-2026-5": {
-      "date": "2026-05-26",
-      "title": "Uber 首席运营官质疑 AI 代币支出效率"
-    },
-    "https://www.wiz.io/blog/claude-wiz-integration?2": {
-      "date": "2026-05-26",
-      "title": "Wiz 集成 Anthropic 合规 API"
-    },
-    "https://github.com/NangoHQ/nango": {
-      "date": "2026-05-26",
-      "title": "NangoHQ/nango 作为 AI 集成工具在 GitHub 上走红，24 小时内获 53 颗星"
-    },
-    "https://github.com/Axorax/awesome-free-apps": {
-      "date": "2026-05-26",
-      "title": "Axorax/awesome-free-apps 24 小时内获得 50 颗星"
-    },
-    "https://github.com/Hmbown/CodeWhale": {
-      "date": "2026-05-26",
-      "title": "CodeWhale：面向开源权重模型的 Rust 编程代理"
-    },
-    "https://github.com/greensock/gsap-skills": {
-      "date": "2026-05-26",
-      "title": "GSAP 官方发布 AI 技能包，帮助编程智能体正确使用动画库"
-    },
-    "https://github.com/tashfeenahmed/freellmapi": {
-      "date": "2026-05-26",
-      "title": "freellmapi：聚合 14 个免费大模型 API 的 OpenAI 兼容代理"
-    },
-    "https://arxiv.org/abs/2605.26099": {
-      "date": "2026-05-27",
-      "title": "研究者提出受睡眠启发的 LLM 记忆巩固机制"
-    },
-    "https://simonwillison.net/2026/May/26/copilot-cowork-exfiltrates-files/#atom-everything": {
-      "date": "2026-05-27",
-      "title": "Microsoft Copilot Cowork 存在通过邮件泄露数据的安全漏洞"
-    },
-    "https://www.science.org/content/blog-post/methyl-methacrylate-tank": {
-      "date": "2026-05-27",
-      "title": "甲基丙烯酸甲酯储罐事件凸显工业安全风险"
-    },
-    "https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/": {
-      "date": "2026-05-27",
-      "title": "西班牙因赌博牌照问题封锁 Polymarket 和 Kalshi"
-    },
-    "https://www.owlposting.com/p/the-ballad-of-tigit": {
-      "date": "2026-05-27",
-      "title": "The Ballad of TIGIT"
-    },
-    "https://www.minicor.com/": {
-      "date": "2026-05-27",
-      "title": "Minicor（YC P26）发布面向遗留 Windows 系统的可扩展桌面 RPA 平台"
-    },
-    "https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943": {
-      "date": "2026-05-27",
-      "title": "维基百科采用大科技公司的反劳工策略，引发强烈不满"
-    },
-    "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/": {
-      "date": "2026-05-27",
-      "title": "外包加本地 AI 将很快比前沿实验室更经济"
-    },
-    "https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/": {
-      "date": "2026-05-27",
-      "title": "你的函数是什么颜色？关于异步函数的争论"
-    },
-    "https://github.com/yugr/rust-slides/": {
-      "date": "2026-05-27",
-      "title": "Rust 性能接近 C 语言，但仍落后于现代 C++"
-    },
-    "https://sherwood.news/tech/stack-overflow-forum-dead-thanks-ai-but-companys-still-kicking-ai/": {
-      "date": "2026-05-27",
-      "title": "Stack Overflow 论坛衰落：AI 崛起与企业收购双重冲击"
-    },
-    "https://thebestworstcase.substack.com/p/dont-subscribe-so-casually": {
-      "date": "2026-05-27",
-      "title": "随意订阅背后的隐性心理操控"
-    },
-    "https://dynomight.net/crc-rates/": {
-      "date": "2026-05-27",
-      "title": "年轻人中结直肠癌发病率持续上升"
-    },
-    "https://simonwillison.net/2026/May/26/paul-graham/#atom-everything": {
-      "date": "2026-05-27",
-      "title": "Paul Graham 批评创始人使用 AI 代写邮件"
-    },
-    "https://www.reddit.com/r/MachineLearning/comments/1to2l4c/d_where_do_you_go_for_serious_ai_research/": {
-      "date": "2026-05-27",
-      "title": "在哪里可以找到严肃的 AI 研究讨论"
-    },
-    "https://gudok.xyz/transpose/": {
-      "date": "2026-05-27",
-      "title": "面向缓存效率的矩阵转置优化"
-    },
-    "https://www.cnbc.com/2026/05/26/dropbox-ceo-drew-houston-ashraf-alkarmi.html": {
-      "date": "2026-05-27",
-      "title": "Dropbox CEO Drew Houston 在公司增长停滞之际卸任"
-    },
-    "https://retrogamecoders.com/overhead-camera-view/": {
-      "date": "2026-05-27",
-      "title": "C64 BASIC 教程：实现复古游戏中的俯视地图视角"
-    },
-    "https://www.tomshardware.com/video-games/console-gaming/modern-blu-ray-drives-can-now-rip-gamecube-wii-and-xbox-360-games-to-pc-third-party-firmware-unlocks-game-rips-from-physical-media-on-select-players": {
-      "date": "2026-05-27",
-      "title": "OmniDrive 固件让蓝光光驱可提取 GameCube、Wii 和 Xbox 360 游戏"
-    },
     "https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications": {
       "date": "2026-05-28",
       "title": "苹果和谷歌加强对推送通知的控制"
@@ -668,6 +432,38 @@
     "https://github.com/crynta/terax-ai": {
       "date": "2026-06-02",
       "title": "terax-ai：一款基于 TypeScript 的轻量级终端优先 AI 原生开发工作区"
+    },
+    "https://x.com/ylecun/status/2062298612634177748": {
+      "date": "2026-06-04",
+      "title": "@ylecun: Trump's FY27 budget proposal would roughly halve the Na..."
+    },
+    "https://x.com/sama/status/2061101875303530871": {
+      "date": "2026-06-04",
+      "title": "@sama: Shared OpenAI's new Rosalind biodefense work to give the ..."
+    },
+    "https://x.com/sama/status/2059677202917331431": {
+      "date": "2026-06-04",
+      "title": "@sama: The OpenAI Foundation is committing $250M initially to mea..."
+    },
+    "https://x.com/ylecun/status/2062213574617862615": {
+      "date": "2026-06-04",
+      "title": "@ylecun: Basic science (largely funded via NSF) has historically ..."
+    },
+    "https://x.com/ylecun/status/2062207836625522889": {
+      "date": "2026-06-04",
+      "title": "@ylecun: Private funding cannot fully replace public basic resea..."
+    },
+    "https://x.com/sama/status/2061973280655904815": {
+      "date": "2026-06-04",
+      "title": "@sama: theUSshould lead on AI by continuing to develop the very ..."
+    },
+    "https://x.com/sama/status/2061117302528188712": {
+      "date": "2026-06-04",
+      "title": "@sama: OpenAI Robotics is hiring (full-stack hardware, ops, syste..."
+    },
+    "https://x.com/sama/status/2061562575322492937": {
+      "date": "2026-06-04",
+      "title": "@sama: The OpenAI Foundation is doing a lot of wonderful things. ..."
     }
   }
 }
