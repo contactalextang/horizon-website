@@ -1,142 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications": {
-      "date": "2026-05-28",
-      "title": "苹果和谷歌加强对推送通知的控制"
-    },
-    "https://github.com/golang/go/issues/77273": {
-      "date": "2026-05-28",
-      "title": "Go: Support for Generic Methods"
-    },
-    "https://www.reddit.com/r/MachineLearning/comments/1tpaw6x/aigenerated_cuda_kernels_silently_break_training/": {
-      "date": "2026-05-28",
-      "title": "AI 生成的 CUDA 内核通过基准测试却因数值精度问题在训练中静默失败"
-    },
-    "https://github.com/microsoft/agent-governance-toolkit": {
-      "date": "2026-05-28",
-      "title": "Microsoft 开源 AI Agent 治理工具包，全面覆盖 OWASP Agentic Top 10 风险"
-    },
-    "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/": {
-      "date": "2026-05-28",
-      "title": "YouTube 将自动为 AI 生成的视频添加标签"
-    },
-    "https://simonwillison.net/2026/May/27/product-market-fit/#atom-everything": {
-      "date": "2026-05-28",
-      "title": "Anthropic 与 OpenAI 在 AI 领域实现产品市场匹配"
-    },
-    "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/": {
-      "date": "2026-05-28",
-      "title": "谷歌推广 AI 搜索模式后，DuckDuckGo 访问量激增 28%"
-    },
-    "https://www.githubstatus.com/incidents/xy1tt3hs572m": {
-      "date": "2026-05-28",
-      "title": "GitHub 故障导致 Pull Request、Issue、Git 操作和 API 请求中断"
-    },
-    "https://brennan.day/gemini-gophers-and-fingers-oh-my-alternative-internets-beyond-https/": {
-      "date": "2026-05-28",
-      "title": "Gemini, Gophers, and Fingers. Oh My Alternative Internets Beyond HTTPS"
-    },
-    "https://arps18.github.io/posts/claude-code-mastery/": {
-      "date": "2026-05-28",
-      "title": "掌握 Claude Code：深入解析 CLAUDE.md、技能、子代理、插件与 MCP"
-    },
-    "https://arxiv.org/abs/2605.22391": {
-      "date": "2026-05-28",
-      "title": "全球食材关系被压缩为 2MB 的风味基元"
-    },
-    "https://posthog.com/blog/training-ai-models": {
-      "date": "2026-05-28",
-      "title": "PostHog 默认将用户数据用于 AI 模型训练"
-    },
-    "https://tinycld.org/": {
-      "date": "2026-05-28",
-      "title": "TinyCld：面向 Web 和 iOS 的开源办公套件"
-    },
-    "https://simonwillison.net/2026/May/26/the-pressure/#atom-everything": {
-      "date": "2026-05-28",
-      "title": "AI 驱动的安全报告让 curl 维护者不堪重负"
-    },
-    "https://arxiv.org/abs/2605.21779": {
-      "date": "2026-05-28",
-      "title": "FuzzingBrain V2：基于多 Agent LLM 的自动化漏洞发现与复现系统"
-    },
-    "https://v.redd.it/vhj3evv7dp3h1": {
-      "date": "2026-05-28",
-      "title": "AI 现已能生成完全虚假的人群场景"
-    },
-    "https://www.reddit.com/r/artificial/comments/1tosfvj/the_young_are_being_battered_by_ai_as_hiring/": {
-      "date": "2026-05-28",
-      "title": "AI 自动化重创初级岗位，招聘重心转向资深员工"
-    },
-    "https://github.com/hugohe3/ppt-master": {
-      "date": "2026-05-28",
-      "title": "ppt-master：用 Python 从任意文档生成可编辑的 PowerPoint 形状"
-    },
-    "https://miniscript.org/MiniMicro/index.html#about": {
-      "date": "2026-05-28",
-      "title": "Mini Micro：一款用于学习编程的幻想计算机"
-    },
-    "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/": {
-      "date": "2026-05-28",
-      "title": "科技 CEO 出现 AI 过度依赖现象，被冠以'AI 精神病'之名"
-    },
-    "https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/": {
-      "date": "2026-05-28",
-      "title": "私募股权收购美国核心公共服务"
-    },
-    "https://github.com/russellromney/honker": {
-      "date": "2026-05-28",
-      "title": "Honker 为 SQLite 带来 Postgres 风格的 NOTIFY/LISTEN 语义"
-    },
-    "https://github.com/addyosmani/agent-skills": {
-      "date": "2026-05-28",
-      "title": "addyosmani/agent-skills：面向 AI 编码代理的工程技能集"
-    },
-    "https://github.com/Video-Reason/VBVR-EvalKit": {
-      "date": "2026-05-28",
-      "title": "VBVR-EvalKit：一个评估视频模型推理能力的新框架"
-    },
-    "https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html": {
-      "date": "2026-05-28",
-      "title": "SimCity 3k in 4k (2025)"
-    },
-    "https://support.last.fm/t/last-fm-is-now-independent/118591": {
-      "date": "2026-05-28",
-      "title": "Last.fm 脱离 CBS/Paramount 重新独立运营"
-    },
-    "https://www.science.org/doi/10.1126/sciadv.aea5496?user_id=66c4bf745d78644b3aa57b08": {
-      "date": "2026-05-28",
-      "title": "压力破坏海马体对重叠记忆的整合与推理能力"
-    },
-    "https://help.delduca.org/": {
-      "date": "2026-05-28",
-      "title": "开发者为家人创建紧急短信/邮件求助页面"
-    },
-    "https://simonwillison.net/2026/May/27/kyle-ferrana/#atom-everything": {
-      "date": "2026-05-28",
-      "title": "《星际迷航》恶搞揭示 AI 编码代理的安全措施失败"
-    },
-    "https://www.pcmag.com/news/iphones-running-ios-26-freeze-facetime-calls-when-theres-nudity": {
-      "date": "2026-05-28",
-      "title": "iOS 26 在检测到裸露内容时冻结 FaceTime 通话"
-    },
-    "https://sverre.me/blog/rust-on-kindle/": {
-      "date": "2026-05-28",
-      "title": "Rust 和 Slint UI 成功运行在已越狱的 Kindle 上"
-    },
-    "https://www.youtube.com/watch?v=iqddnwKF8HQ": {
-      "date": "2026-05-28",
-      "title": "JetBrains 发布 Zig 创始人 Andrew Kelley 访谈视频"
-    },
-    "https://www.unicode.org/versions/Unicode18.0.0/": {
-      "date": "2026-05-28",
-      "title": "Unicode 18.0.0 Beta 发布，新增灯塔等表情符号"
-    },
-    "https://github.com/Open-Dev-Society/OpenStock": {
-      "date": "2026-05-28",
-      "title": "OpenStock：免费开源股票追踪平台获得关注"
-    },
     "https://helios.southlondonscientific.com/": {
       "date": "2026-05-31",
       "title": "Helios：英国任意地址的即插即用太阳能潜力估算工具"
@@ -624,6 +488,34 @@
     "https://x.com/AIGenesis_/status/2062148649409491074": {
       "date": "2026-06-04",
       "title": "@AIGenesis_: Agentic AI is the defining shift of 2026..."
+    },
+    "https://blog.cloudflare.com/voidzero-joins-cloudflare/": {
+      "date": "2026-06-05",
+      "title": "VoidZero Is Joining Cloudflare"
+    },
+    "https://momentsingraphics.de/Siggraph2026.html": {
+      "date": "2026-06-05",
+      "title": "Gaussian Point Splatting"
+    },
+    "https://electrek.co/2026/05/20/in-a-first-wind-solar-generated-more-power-than-gas-globally-april-2026/": {
+      "date": "2026-06-05",
+      "title": "In a first, wind and solar generated more power than gas globally in April 2026"
+    },
+    "https://boxes.dev/": {
+      "date": "2026-06-05",
+      "title": "Show HN: Boxes.dev: ditch localhost; run Claude Code and Codex in the cloud"
+    },
+    "https://www.fieggen.com/shoelace/secureknot.htm": {
+      "date": "2026-06-05",
+      "title": "Ian's Secure Shoelace Knot"
+    },
+    "https://github.com/huawei-csl/KVarN": {
+      "date": "2026-06-05",
+      "title": "KVarN: Native vLLM KV-cache quantization back end by Huawei"
+    },
+    "https://github.com/ZhuLinsen/daily_stock_analysis": {
+      "date": "2026-06-05",
+      "title": "ZhuLinsen/daily_stock_analysis (+18⭐ past_24_hours)"
     }
   }
 }
