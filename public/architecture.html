@@ -1,0 +1,642 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Horizon Website · System Architecture</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg: #070b14;
+      --surface: #0d1525;
+      --surface2: #111d33;
+      --border: #1e2d4a;
+      --accent-blue: #3b82f6;
+      --accent-cyan: #06b6d4;
+      --accent-green: #10b981;
+      --accent-purple: #8b5cf6;
+      --accent-amber: #f59e0b;
+      --text: #e2e8f0;
+      --text-muted: #64748b;
+      --text-dim: #94a3b8;
+    }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', system-ui, sans-serif;
+      min-height: 100vh;
+      padding: 48px 24px;
+      overflow-x: hidden;
+    }
+
+    /* Background grid */
+    body::before {
+      content: '';
+      position: fixed;
+      inset: 0;
+      background-image:
+        linear-gradient(rgba(59,130,246,0.03) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(59,130,246,0.03) 1px, transparent 1px);
+      background-size: 40px 40px;
+      pointer-events: none;
+    }
+
+    .page-header {
+      text-align: center;
+      margin-bottom: 56px;
+    }
+
+    .page-header h1 {
+      font-size: 28px;
+      font-weight: 700;
+      letter-spacing: -0.5px;
+      background: linear-gradient(135deg, #60a5fa, #06b6d4, #8b5cf6);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      margin-bottom: 8px;
+    }
+
+    .page-header p {
+      color: var(--text-muted);
+      font-size: 14px;
+    }
+
+    .diagram {
+      max-width: 1100px;
+      margin: 0 auto;
+      display: flex;
+      flex-direction: column;
+      gap: 0;
+      position: relative;
+    }
+
+    /* ── Layer ── */
+    .layer {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    .layer-label {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      padding: 0 4px;
+    }
+
+    .layer-label .icon {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 16px;
+      flex-shrink: 0;
+    }
+
+    .layer-label h2 {
+      font-size: 13px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 1.2px;
+      color: var(--text-muted);
+    }
+
+    .layer-label .badge {
+      font-size: 11px;
+      padding: 2px 8px;
+      border-radius: 999px;
+      font-weight: 500;
+    }
+
+    .layer-cards {
+      display: flex;
+      gap: 16px;
+      flex-wrap: wrap;
+    }
+
+    /* ── Card ── */
+    .card {
+      flex: 1;
+      min-width: 220px;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 20px;
+      position: relative;
+      transition: border-color 0.2s, transform 0.2s;
+    }
+
+    .card:hover {
+      border-color: #2a4070;
+      transform: translateY(-2px);
+    }
+
+    .card-accent {
+      position: absolute;
+      top: 0; left: 0; right: 0;
+      height: 3px;
+      border-radius: 14px 14px 0 0;
+    }
+
+    .card-header {
+      display: flex;
+      align-items: flex-start;
+      gap: 12px;
+      margin-bottom: 14px;
+    }
+
+    .card-icon {
+      width: 38px;
+      height: 38px;
+      border-radius: 10px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 18px;
+      flex-shrink: 0;
+    }
+
+    .card-title {
+      font-size: 14px;
+      font-weight: 600;
+      color: var(--text);
+      line-height: 1.3;
+    }
+
+    .card-subtitle {
+      font-size: 11px;
+      color: var(--text-muted);
+      margin-top: 2px;
+    }
+
+    .card-body {
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+
+    .tag-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 5px;
+    }
+
+    .tag {
+      font-size: 11px;
+      padding: 3px 8px;
+      border-radius: 6px;
+      border: 1px solid;
+      white-space: nowrap;
+    }
+
+    .detail {
+      font-size: 11.5px;
+      color: var(--text-dim);
+      line-height: 1.55;
+      display: flex;
+      align-items: flex-start;
+      gap: 6px;
+    }
+
+    .detail::before {
+      content: '›';
+      color: var(--text-muted);
+      flex-shrink: 0;
+      margin-top: 0.5px;
+    }
+
+    /* ── Arrow connector ── */
+    .connector {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 44px;
+      position: relative;
+    }
+
+    .connector-line {
+      width: 2px;
+      height: 100%;
+      position: relative;
+      overflow: visible;
+    }
+
+    .connector-line::before {
+      content: '';
+      position: absolute;
+      left: 50%;
+      top: 0;
+      bottom: 0;
+      width: 2px;
+      transform: translateX(-50%);
+      background: linear-gradient(to bottom, var(--border), var(--accent-blue));
+    }
+
+    .connector-arrow {
+      position: absolute;
+      bottom: -1px;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 0;
+      height: 0;
+      border-left: 6px solid transparent;
+      border-right: 6px solid transparent;
+      border-top: 8px solid var(--accent-blue);
+    }
+
+    .connector-label {
+      position: absolute;
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 3px 10px;
+      font-size: 10.5px;
+      color: var(--text-dim);
+      white-space: nowrap;
+      left: calc(50% + 16px);
+      top: 50%;
+      transform: translateY(-50%);
+    }
+
+    /* ── Pulse animation ── */
+    @keyframes pulse-flow {
+      0%   { opacity: 0; transform: translateY(0); }
+      20%  { opacity: 1; }
+      80%  { opacity: 1; }
+      100% { opacity: 0; transform: translateY(28px); }
+    }
+
+    .pulse-dot {
+      position: absolute;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 6px;
+      height: 6px;
+      border-radius: 50%;
+      background: var(--accent-cyan);
+      animation: pulse-flow 2.4s ease-in-out infinite;
+      box-shadow: 0 0 8px var(--accent-cyan);
+    }
+
+    /* ── Color themes ── */
+    .theme-blue  .card-accent { background: linear-gradient(90deg, #3b82f6, #06b6d4); }
+    .theme-blue  .card-icon   { background: rgba(59,130,246,0.12); }
+    .theme-blue  .tag         { background: rgba(59,130,246,0.08); border-color: rgba(59,130,246,0.25); color: #93c5fd; }
+    .theme-blue  .layer-label .icon { background: rgba(59,130,246,0.12); }
+    .theme-blue  .layer-label h2    { color: #60a5fa; }
+    .theme-blue  .badge       { background: rgba(59,130,246,0.12); color: #93c5fd; }
+
+    .theme-green .card-accent { background: linear-gradient(90deg, #10b981, #06b6d4); }
+    .theme-green .card-icon   { background: rgba(16,185,129,0.12); }
+    .theme-green .tag         { background: rgba(16,185,129,0.08); border-color: rgba(16,185,129,0.25); color: #6ee7b7; }
+    .theme-green .layer-label .icon { background: rgba(16,185,129,0.12); }
+    .theme-green .layer-label h2    { color: #34d399; }
+    .theme-green .badge       { background: rgba(16,185,129,0.12); color: #6ee7b7; }
+
+    .theme-purple .card-accent { background: linear-gradient(90deg, #8b5cf6, #3b82f6); }
+    .theme-purple .card-icon   { background: rgba(139,92,246,0.12); }
+    .theme-purple .tag         { background: rgba(139,92,246,0.08); border-color: rgba(139,92,246,0.25); color: #c4b5fd; }
+    .theme-purple .layer-label .icon { background: rgba(139,92,246,0.12); }
+    .theme-purple .layer-label h2    { color: #a78bfa; }
+    .theme-purple .badge       { background: rgba(139,92,246,0.12); color: #c4b5fd; }
+
+    .theme-amber .card-accent { background: linear-gradient(90deg, #f59e0b, #ef4444); }
+    .theme-amber .card-icon   { background: rgba(245,158,11,0.12); }
+    .theme-amber .tag         { background: rgba(245,158,11,0.08); border-color: rgba(245,158,11,0.25); color: #fcd34d; }
+    .theme-amber .layer-label .icon { background: rgba(245,158,11,0.12); }
+    .theme-amber .layer-label h2    { color: #fbbf24; }
+    .theme-amber .badge       { background: rgba(245,158,11,0.12); color: #fcd34d; }
+
+    /* ── Bottom meta ── */
+    .meta {
+      max-width: 1100px;
+      margin: 48px auto 0;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      justify-content: center;
+    }
+
+    .meta-item {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 10px 16px;
+      font-size: 12px;
+      color: var(--text-dim);
+    }
+
+    .meta-item .dot {
+      width: 8px; height: 8px;
+      border-radius: 50%;
+      flex-shrink: 0;
+    }
+
+    .meta-item strong {
+      color: var(--text);
+      font-weight: 600;
+    }
+
+    a { color: inherit; }
+
+    @media (max-width: 700px) {
+      .layer-cards { flex-direction: column; }
+      .card { min-width: unset; }
+      .connector-label { display: none; }
+    }
+  </style>
+</head>
+<body>
+
+<div class="page-header">
+  <h1>Horizon Website · System Architecture</h1>
+  <p>自动化内容生产 → 同步 → 发布 → 托管 全链路</p>
+</div>
+
+<div class="diagram">
+
+  <!-- ── Layer 1: 内容生产 ── -->
+  <div class="layer theme-blue">
+    <div class="layer-label">
+      <div class="icon">✍️</div>
+      <h2>内容生产层</h2>
+      <span class="badge">Content Production</span>
+    </div>
+    <div class="layer-cards">
+
+      <div class="card theme-blue">
+        <div class="card-accent"></div>
+        <div class="card-header">
+          <div class="card-icon">📊</div>
+          <div>
+            <div class="card-title">AI 产业每日简报 v4</div>
+            <div class="card-subtitle">Claude Opus 4.8 · 无头模式</div>
+          </div>
+        </div>
+        <div class="card-body">
+          <div class="detail">cron 06:00 SGT（美股盘后约 2h）</div>
+          <div class="detail">FMP MCP → Firecrawl → Exa 三级降级</div>
+          <div class="detail">Serenity 卡喉理论 D~G 子模块（14 支新标的）</div>
+          <div class="detail">10 视角按日期轮换，12 模块固定结构</div>
+          <div class="tag-row" style="margin-top:8px">
+            <span class="tag">Claude Opus 4.8</span>
+            <span class="tag">fmp-mcp</span>
+            <span class="tag">Firecrawl</span>
+            <span class="tag">Exa</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="card theme-blue">
+        <div class="card-accent"></div>
+        <div class="card-header">
+          <div class="card-icon">🌐</div>
+          <div>
+            <div class="card-title">Horizon 日报</div>
+            <div class="card-subtitle">Python 多源聚合 · uv run horizon</div>
+          </div>
+        </div>
+        <div class="card-body">
+          <div class="detail">GitHub · HackerNews · OSS Insight 多源抓取</div>
+          <div class="detail">24h 滑动窗口，英文 + 中文双语输出</div>
+          <div class="detail">输出至 Horizon/data/summaries/</div>
+          <div class="tag-row" style="margin-top:8px">
+            <span class="tag">Python / uv</span>
+            <span class="tag">English</span>
+            <span class="tag">中文</span>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- connector 1→2 -->
+  <div class="connector">
+    <div class="connector-line">
+      <div class="pulse-dot" style="animation-delay:0s"></div>
+      <div class="pulse-dot" style="animation-delay:1.2s"></div>
+      <div class="connector-arrow"></div>
+    </div>
+    <div class="connector-label">Markdown 文件写入本地磁盘</div>
+  </div>
+
+  <!-- ── Layer 2: 同步 ── -->
+  <div class="layer theme-green">
+    <div class="layer-label">
+      <div class="icon">🔄</div>
+      <h2>同步层</h2>
+      <span class="badge">Content Sync</span>
+    </div>
+    <div class="layer-cards">
+
+      <div class="card theme-green">
+        <div class="card-accent"></div>
+        <div class="card-header">
+          <div class="card-icon">📦</div>
+          <div>
+            <div class="card-title">sync-investment-content.mjs</div>
+            <div class="card-subtitle">Node.js ESM · 投资简报同步</div>
+          </div>
+        </div>
+        <div class="card-body">
+          <div class="detail">文件名 YYYYMMDD → 日期提取 → YYYY-MM-DD-zh.md</div>
+          <div class="detail">自动生成 YAML frontmatter（lang / source / title）</div>
+          <div class="detail">7 天滑动窗口去重缓存</div>
+          <div class="detail">源：v4版每日简报/ → 目标：content/investment/</div>
+          <div class="tag-row" style="margin-top:8px">
+            <span class="tag">Node.js</span>
+            <span class="tag">--source</span>
+            <span class="tag">--dest</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="card theme-green">
+        <div class="card-accent"></div>
+        <div class="card-header">
+          <div class="card-icon">🐍</div>
+          <div>
+            <div class="card-title">publish-to-website.py</div>
+            <div class="card-subtitle">Python · Horizon 日报发布</div>
+          </div>
+        </div>
+        <div class="card-body">
+          <div class="detail">Jaccard 相似度 ≥ 0.85 判定重复并跳过</div>
+          <div class="detail">自动注入 frontmatter（item_count / sources / top_tags）</div>
+          <div class="detail">源：data/summaries/ → 目标：content/daily/</div>
+          <div class="tag-row" style="margin-top:8px">
+            <span class="tag">Python / uv</span>
+            <span class="tag">Jaccard 去重</span>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- connector 2→3 -->
+  <div class="connector">
+    <div class="connector-line">
+      <div class="pulse-dot" style="animation-delay:0.4s"></div>
+      <div class="pulse-dot" style="animation-delay:1.6s"></div>
+      <div class="connector-arrow"></div>
+    </div>
+    <div class="connector-label">写入 content/ 目录（含 frontmatter）</div>
+  </div>
+
+  <!-- ── Layer 3: 发布 ── -->
+  <div class="layer theme-purple">
+    <div class="layer-label">
+      <div class="icon">📤</div>
+      <h2>发布层</h2>
+      <span class="badge">Git Publishing</span>
+    </div>
+    <div class="layer-cards">
+
+      <div class="card theme-purple" style="max-width:580px">
+        <div class="card-accent"></div>
+        <div class="card-header">
+          <div class="card-icon">🚀</div>
+          <div>
+            <div class="card-title">run-and-publish-website.sh</div>
+            <div class="card-subtitle">Bash 编排脚本 · 全流程 CI/CD</div>
+          </div>
+        </div>
+        <div class="card-body">
+          <div class="detail">git pull --ff-only（确保 clean working tree）</div>
+          <div class="detail">调用 sync-investment-content.mjs</div>
+          <div class="detail">调用 publish-to-website.py</div>
+          <div class="detail">git add content/daily/ content/investment/ → commit → push</div>
+          <div class="tag-row" style="margin-top:8px">
+            <span class="tag">Bash</span>
+            <span class="tag">git push origin main</span>
+            <span class="tag">SSH: github-horizon-website</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="card theme-purple" style="max-width:480px">
+        <div class="card-accent"></div>
+        <div class="card-header">
+          <div class="card-icon">💬</div>
+          <div>
+            <div class="card-title">send-telegram.py</div>
+            <div class="card-subtitle">Telegram 推送 · 08:30 SGT</div>
+          </div>
+        </div>
+        <div class="card-body">
+          <div class="detail">查找当日或最近 3 天最新简报</div>
+          <div class="detail">Markdown → Telegram HTML 格式转换</div>
+          <div class="detail">通过 Bot API 异步推送</div>
+          <div class="tag-row" style="margin-top:8px">
+            <span class="tag">Python</span>
+            <span class="tag">Telegram Bot API</span>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- connector 3→4 -->
+  <div class="connector">
+    <div class="connector-line">
+      <div class="pulse-dot" style="animation-delay:0.8s"></div>
+      <div class="pulse-dot" style="animation-delay:2.0s"></div>
+      <div class="connector-arrow"></div>
+    </div>
+    <div class="connector-label">push → GitHub webhook → Vercel build</div>
+  </div>
+
+  <!-- ── Layer 4: 托管 ── -->
+  <div class="layer theme-amber">
+    <div class="layer-label">
+      <div class="icon">☁️</div>
+      <h2>托管层</h2>
+      <span class="badge">Hosting</span>
+    </div>
+    <div class="layer-cards">
+
+      <div class="card theme-amber">
+        <div class="card-accent"></div>
+        <div class="card-header">
+          <div class="card-icon">▲</div>
+          <div>
+            <div class="card-title">Vercel · Next.js 16.2.6</div>
+            <div class="card-subtitle">自动触发 build + deploy</div>
+          </div>
+        </div>
+        <div class="card-body">
+          <div class="detail">GitHub push 触发 Vercel webhook</div>
+          <div class="detail">prebuild: sync-investment-content.mjs（再次同步确认）</div>
+          <div class="detail">next build → 静态 + 动态混合输出</div>
+          <div class="detail">TypeScript · Tailwind CSS · i18n (zh/en)</div>
+          <div class="tag-row" style="margin-top:8px">
+            <span class="tag">Next.js</span>
+            <span class="tag">TypeScript</span>
+            <span class="tag">Tailwind</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="card theme-amber">
+        <div class="card-accent"></div>
+        <div class="card-header">
+          <div class="card-icon">🌍</div>
+          <div>
+            <div class="card-title">horizon-website-beige.vercel.app</div>
+            <div class="card-subtitle">个人网站 · 对外可访问</div>
+          </div>
+        </div>
+        <div class="card-body">
+          <div class="detail"><a href="https://horizon-website-beige.vercel.app/zh" target="_blank">/zh — AI 简报 · 中文首页</a></div>
+          <div class="detail"><a href="https://horizon-website-beige.vercel.app/en" target="_blank">/en — Horizon Daily · 英文版</a></div>
+          <div class="detail">content/investment/ → 投资分析栏目</div>
+          <div class="detail">content/daily/ → 科技日报栏目</div>
+          <div class="tag-row" style="margin-top:8px">
+            <span class="tag">CDN 全球加速</span>
+            <span class="tag">自动 HTTPS</span>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+<!-- ── Meta info ── -->
+<div class="meta">
+  <div class="meta-item">
+    <div class="dot" style="background:#3b82f6"></div>
+    <span>简报生成 <strong>06:00 SGT</strong>（美股盘后）</span>
+  </div>
+  <div class="meta-item">
+    <div class="dot" style="background:#10b981"></div>
+    <span>Telegram 推送 <strong>08:30 SGT</strong></span>
+  </div>
+  <div class="meta-item">
+    <div class="dot" style="background:#8b5cf6"></div>
+    <span>GitHub Repo <strong>contactalextang/horizon-website</strong></span>
+  </div>
+  <div class="meta-item">
+    <div class="dot" style="background:#f59e0b"></div>
+    <span>Vercel deploy 约 <strong>1–3 分钟</strong></span>
+  </div>
+  <div class="meta-item">
+    <div class="dot" style="background:#06b6d4"></div>
+    <span>数据诚信：缺失字段标 <strong>[待验证]</strong>，绝不编造</span>
+  </div>
+</div>
+
+</body>
+</html>
