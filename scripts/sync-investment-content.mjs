@@ -22,10 +22,10 @@ function stripFrontmatter(content) {
 }
 
 export function dateFromSourceFilename(filename) {
-  const compactMatch = filename.match(/AI产业每日简报_v4_(20\d{2})(\d{2})(\d{2})/)
+  const compactMatch = filename.match(/^AI产业每日简报_v4_(20\d{2})(\d{2})(\d{2})(?: \(\d+\))?\.md$/)
   if (compactMatch) return `${compactMatch[1]}-${compactMatch[2]}-${compactMatch[3]}`
 
-  const isoMatch = filename.match(/(20\d{2})-(\d{2})-(\d{2})/)
+  const isoMatch = filename.match(/^(20\d{2})-(\d{2})-(\d{2})(?:-zh)?\.md$/)
   if (isoMatch) return `${isoMatch[1]}-${isoMatch[2]}-${isoMatch[3]}`
 
   return null
