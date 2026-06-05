@@ -162,8 +162,8 @@
       "title": "伦敦免费屋顶露台：公共准入与私人控制的矛盾"
     },
     "https://github.com/pewdiepie-archdaemon/odysseus": {
-      "date": "2026-06-01",
-      "title": "PewDiePie 发布 Odysseus，一个部分在手机上构建的自托管 AI 工作空间"
+      "date": "2026-06-05",
+      "title": "自托管 AI 工作区 Odysseus 24 小时内获 335 个 GitHub 星标"
     },
     "https://lwn.net/Articles/104185/": {
       "date": "2026-06-01",
@@ -222,12 +222,12 @@
       "title": "英伟达 RTX Spark：面向 Windows PC 的 ARM 超级芯片"
     },
     "https://github.com/colbymchenry/codegraph": {
-      "date": "2026-06-02",
-      "title": "codegraph：预索引代码知识图谱降低 AI 编程代理的 token 消耗"
+      "date": "2026-06-05",
+      "title": "CodeGraph：预索引知识图谱降低 AI 编程助手的 token 消耗"
     },
     "https://github.com/chopratejas/headroom": {
-      "date": "2026-06-02",
-      "title": "Headroom：一款将 LLM token 用量降低 60%–95% 的 Python 库"
+      "date": "2026-06-05",
+      "title": "Headroom：一款可将 LLM 输入压缩 60-95% 的 Python 工具"
     },
     "https://github.com/heygen-com/hyperframes": {
       "date": "2026-06-02",
@@ -270,8 +270,8 @@
       "title": "像 2009 年一样做系统管理：一次怀旧回顾"
     },
     "https://github.com/rohitg00/ai-engineering-from-scratch": {
-      "date": "2026-06-02",
-      "title": "rohitg00/ai-engineering-from-scratch 24 小时内获得 45 颗星"
+      "date": "2026-06-05",
+      "title": "从零开始学 AI 工程：一个热门的 GitHub 仓库"
     },
     "https://github.com/Imbad0202/academic-research-skills": {
       "date": "2026-06-02",
@@ -298,8 +298,8 @@
       "title": "terax-ai：一款基于 TypeScript 的轻量级终端优先 AI 原生开发工作区"
     },
     "https://x.com/ylecun/status/2062298612634177748": {
-      "date": "2026-06-04",
-      "title": "@ylecun: Trump's FY27 budget would halve NSF budget..."
+      "date": "2026-06-05",
+      "title": "LeCun 警告：特朗普 FY27 预算将 NSF 经费削减一半"
     },
     "https://x.com/sama/status/2061101875303530871": {
       "date": "2026-06-04",
@@ -342,8 +342,8 @@
       "title": "A Post-Quantum Future for Let's Encrypt"
     },
     "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/": {
-      "date": "2026-06-04",
-      "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it"
+      "date": "2026-06-05",
+      "title": "安全研究员花费 1500 美元测试 LLM 能否攻破一个故意留有漏洞的应用"
     },
     "https://maxleiter.com/blog/weights": {
       "date": "2026-06-04",
@@ -354,12 +354,12 @@
       "title": "Artificial intelligence is not conscious – Ted Chiang"
     },
     "https://x.com/MixRoute_ai/status/2062467740334436726": {
-      "date": "2026-06-04",
-      "title": "@MixRoute_ai: Claude Code leads SWE-bench Pro at ~69%..."
+      "date": "2026-06-05",
+      "title": "Claude Code 以约 69% 的成绩领跑 SWE-bench Pro 基准测试"
     },
     "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html": {
-      "date": "2026-06-04",
-      "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes"
+      "date": "2026-06-05",
+      "title": "UC Berkeley 计算机科学课程不及格率因 AI 使用增加和数学能力下降而飙升"
     },
     "https://www.anthropic.com/engineering/how-we-contain-claude": {
       "date": "2026-06-04",
@@ -418,48 +418,48 @@
       "title": "Gooey: A GPU-accelerated UI framework for Zig"
     },
     "https://github.com/unicity-astrid/astrid": {
-      "date": "2026-06-04",
-      "title": "unicity-astrid/astrid (+199⭐ past_24_hours)"
+      "date": "2026-06-05",
+      "title": "Astrid：一个专为 AI 智能体打造的 Rust 操作系统"
     },
     "https://github.com/mukul975/Anthropic-Cybersecurity-Skills": {
-      "date": "2026-06-04",
-      "title": "mukul975/Anthropic-Cybersecurity-Skills (+16⭐ past_24_hours)"
+      "date": "2026-06-05",
+      "title": "开源项目为 AI 智能体梳理 754 项网络安全技能，覆盖五大安全框架"
     },
     "https://github.com/rtk-ai/rtk": {
-      "date": "2026-06-04",
-      "title": "rtk-ai/rtk (+16⭐ past_24_hours)"
+      "date": "2026-06-05",
+      "title": "rtk：基于 Rust 的 CLI 代理声称可减少 60-90% 的 LLM Token 消耗"
     },
     "https://x.com/iam_elias1/status/2062463243633967130": {
-      "date": "2026-06-04",
-      "title": "@iam_elias1: OpenHands strong free alternative to Devin..."
+      "date": "2026-06-05",
+      "title": "OpenHands：免费的开源 AI 编程代理，Devin 的替代方案"
     },
     "https://github.com/Lum1104/Understand-Anything": {
-      "date": "2026-06-04",
-      "title": "Lum1104/Understand-Anything (+27⭐ past_24_hours)"
+      "date": "2026-06-05",
+      "title": "Understand-Anything：将代码转化为交互式知识图谱的 TypeScript 工具"
     },
     "https://github.com/MadsLorentzen/ai-job-search": {
-      "date": "2026-06-04",
-      "title": "MadsLorentzen/ai-job-search (+25⭐ past_24_hours)"
+      "date": "2026-06-05",
+      "title": "基于 Claude Code 的 AI 求职框架获 25 颗星"
     },
     "https://github.com/safishamsi/graphify": {
-      "date": "2026-06-04",
-      "title": "safishamsi/graphify (+18⭐ past_24_hours)"
+      "date": "2026-06-05",
+      "title": "Graphify 将代码库转换为可供 AI 助手查询的知识图谱"
     },
     "https://github.com/astral-sh/uv/releases/tag/0.11.19": {
-      "date": "2026-06-04",
-      "title": "astral-sh/uv released 0.11.19"
+      "date": "2026-06-05",
+      "title": "uv 0.11.19 发布：新增 CPython 3.15.0b2 和 PyEmscripten 平台支持"
     },
     "https://uruky.com/?il=en": {
-      "date": "2026-06-04",
-      "title": "Show HN: Uruky (EU-based Kagi alternative) now has Image Search and URL Rewrites"
+      "date": "2026-06-05",
+      "title": "Uruky 推出图片搜索和 URL 重写功能，作为欧盟版 Kagi 替代方案"
     },
     "https://dumb.co/": {
       "date": "2026-06-04",
       "title": "Dumbphone 2"
     },
     "https://github.com/HKUDS/Vibe-Trading": {
-      "date": "2026-06-04",
-      "title": "HKUDS/Vibe-Trading (+28⭐ past_24_hours)"
+      "date": "2026-06-05",
+      "title": "HKUDS/Vibe-Trading 24 小时内获得 28 颗星"
     },
     "https://github.com/Leonxlnx/taste-skill": {
       "date": "2026-06-04",
@@ -470,32 +470,32 @@
       "title": "fathah/hermes-desktop (+14⭐ past_24_hours)"
     },
     "https://github.com/shareAI-lab/learn-claude-code": {
-      "date": "2026-06-04",
-      "title": "shareAI-lab/learn-claude-code (+13⭐ past_24_hours)"
+      "date": "2026-06-05",
+      "title": "受 Claude Code 启发的 TypeScript 教育型 Nano Agent 获得关注"
     },
     "https://github.com/Crosstalk-Solutions/project-nomad": {
-      "date": "2026-06-04",
-      "title": "Crosstalk-Solutions/project-nomad (+12⭐ past_24_hours)"
+      "date": "2026-06-05",
+      "title": "Project N.O.M.A.D：集成 AI 工具的离线生存电脑"
     },
     "https://github.com/getpaseo/paseo": {
-      "date": "2026-06-04",
-      "title": "getpaseo/paseo (+12⭐ past_24_hours)"
+      "date": "2026-06-05",
+      "title": "Paseo：一款用于远程编排编程代理的 TypeScript 工具"
     },
     "https://github.com/datawhalechina/hello-agents": {
-      "date": "2026-06-04",
-      "title": "datawhalechina/hello-agents (+12⭐ past_24_hours)"
+      "date": "2026-06-05",
+      "title": "中文 AI 智能体教程《Hello-Agens》在 GitHub 上获得早期关注"
     },
     "https://x.com/AIGenesis_/status/2062148649409491074": {
-      "date": "2026-06-04",
-      "title": "@AIGenesis_: Agentic AI is the defining shift of 2026..."
+      "date": "2026-06-05",
+      "title": "Agentic AI 成为 2026 年最具决定性的转变"
     },
     "https://blog.cloudflare.com/voidzero-joins-cloudflare/": {
       "date": "2026-06-05",
-      "title": "VoidZero Is Joining Cloudflare"
+      "title": "Vite 开发团队 VoidZero 加入 Cloudflare"
     },
     "https://momentsingraphics.de/Siggraph2026.html": {
       "date": "2026-06-05",
-      "title": "Gaussian Point Splatting"
+      "title": "高斯点溅射：传统多边形渲染的新替代方案"
     },
     "https://electrek.co/2026/05/20/in-a-first-wind-solar-generated-more-power-than-gas-globally-april-2026/": {
       "date": "2026-06-05",
@@ -507,15 +507,63 @@
     },
     "https://www.fieggen.com/shoelace/secureknot.htm": {
       "date": "2026-06-05",
-      "title": "Ian's Secure Shoelace Knot"
+      "title": "Ian 的安全鞋带结在 Hacker News 上引发热议"
     },
     "https://github.com/huawei-csl/KVarN": {
       "date": "2026-06-05",
-      "title": "KVarN: Native vLLM KV-cache quantization back end by Huawei"
+      "title": "华为推出 KVarN：vLLM 原生 KV 缓存量化后端"
     },
     "https://github.com/ZhuLinsen/daily_stock_analysis": {
       "date": "2026-06-05",
-      "title": "ZhuLinsen/daily_stock_analysis (+18⭐ past_24_hours)"
+      "title": "ZhuLinsen/daily_stock_analysis 24 小时内获得 18 颗星"
+    },
+    "https://github.com/anthropics/defending-code-reference-harness": {
+      "date": "2026-06-05",
+      "title": "Anthropic 发布开源 AI 漏洞挖掘框架"
+    },
+    "https://www.anthropic.com/institute/recursive-self-improvement": {
+      "date": "2026-06-05",
+      "title": "Anthropic 探索 AI 递归自我改进的进展"
+    },
+    "https://havenweb.org/2026/05/28/retro-tech.html": {
+      "date": "2026-06-05",
+      "title": "复古科技育儿：用旧技术培养孩子的创造力"
+    },
+    "https://www.buchodi.com/meta-glasses-facial-recognition/": {
+      "date": "2026-06-05",
+      "title": "Meta 在智能眼镜上推出面部识别功能"
+    },
+    "https://news.ycombinator.com/item?id=48397731": {
+      "date": "2026-06-05",
+      "title": "Facebook 的 localhost 追踪已停止，浏览器防护措施正在推进"
+    },
+    "https://simonwillison.net/2026/Jun/4/a-slightly-different-version/#atom-everything": {
+      "date": "2026-06-05",
+      "title": "谷歌要求 404 Media 删除'人类在环中'相关声明"
+    },
+    "https://github.com/tejaswigowda/ffmpeg-webCLI": {
+      "date": "2026-06-05",
+      "title": "FFmpeg WebCLI：基于 WebAssembly 在浏览器中运行完整 FFmpeg，无需上传"
+    },
+    "https://cost.dev/": {
+      "date": "2026-06-05",
+      "title": "Show HN: Cost.dev (YC W21) – making agents cost-aware and cheaper to call"
+    },
+    "https://rozumem.xyz/posts/16": {
+      "date": "2026-06-05",
+      "title": "The desperation of NYTimes"
+    },
+    "https://castor.web.cern.ch/content/home.html": {
+      "date": "2026-06-05",
+      "title": "Castor：CERN 面向物理数据的分层存储管理系统"
+    },
+    "https://www.ashbyhq.com/blog/engineering/ai-ashby-engineering-and-the-future": {
+      "date": "2026-06-05",
+      "title": "Ashby 工程团队谈 AI 对工程工作的未来影响"
+    },
+    "https://github.com/pbakaus/impeccable": {
+      "date": "2026-06-05",
+      "title": "Impeccable：专为 AI 生成界面设计的新 JavaScript 设计语言"
     }
   }
 }

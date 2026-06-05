@@ -75,3 +75,27 @@ test('syncInvestmentBriefs skips cleanly when the source directory is absent', a
     skipped: true,
   })
 })
+
+test('syncInvestmentBriefs ignores backup markdown files', async () => {
+  const { syncInvestmentBriefs } = await import(modulePath)
+  const root = fs.mkdtempSync(path.join(os.tmpdir(), 'investment-sync-backup-'))
+  const sourceDir = path.join(root, 'v4版每日简报')
+  const destDir = path.join(root, 'content', 'investment')
+  fs.mkdirSync(sourceDir, { recursive: true })
+
+  fs.writeFileSync(
+    path.join(sourceDir, 'AI产业每日简报_v4_20260604.bak.md'),
+    '# Backup should not publish\n',
+  )
+  fs.writeFileSync(
+    path.join(sourceDir, 'AI产业每日简报_v4_20260604.md'),
+    '# 🌅 AI产业每日简报 v4 · 2026-06-04\n\n正式稿。\n',
+  )
+
+  const result = syncInvestmentBriefs({ sourceDir, destDir })
+  const published = fs.readFileSync(path.join(destDir, '2026-06-04-zh.md'), 'utf8')
+
+  assert.equal(result.copied, 1)
+  assert.match(published, /正式稿/)
+  assert.doesNotMatch(published, /Backup/)
+})
