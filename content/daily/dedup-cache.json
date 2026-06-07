@@ -1,90 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "https://helios.southlondonscientific.com/": {
-      "date": "2026-05-31",
-      "title": "Helios：英国任意地址的即插即用太阳能潜力估算工具"
-    },
-    "https://simonwillison.net/2026/May/30/how-we-contain-claude/#atom-everything": {
-      "date": "2026-05-31",
-      "title": "Anthropic 详解 Claude 各产品的沙箱隔离方案"
-    },
-    "https://openrouter.ai/announcements/series-b": {
-      "date": "2026-05-31",
-      "title": "OpenRouter 完成 1.13 亿美元 B 轮融资"
-    },
-    "https://ziglang.org/devlog/2026/#2026-05-30": {
-      "date": "2026-05-31",
-      "title": "Zig 的 ELF 链接器迎来重大成熟里程碑"
-    },
-    "https://s-macke.github.io/VoxelSpace/": {
-      "date": "2026-05-31",
-      "title": "Voxel Space：1992 年并非真正体素的渲染技术"
-    },
-    "https://ajin.im/is/building/omen.ops/": {
-      "date": "2026-05-31",
-      "title": "五百年朝鲜王朝宫廷征兆被重新构想为可观测性仪表盘"
-    },
-    "https://github.com/kristapsdz/openrsync": {
-      "date": "2026-05-31",
-      "title": "Openrsync：OpenBSD 团队开发的轻量级 rsync 替代方案逐渐受到关注"
-    },
-    "https://gptzero.me/investigations/ey": {
-      "date": "2026-05-31",
-      "title": "EY Canada published a cybersecurity report and most citations were hallucinated"
-    },
-    "https://www.economist.com/europe/2026/05/28/leos-first-encyclical-attacks-technological-messianism": {
-      "date": "2026-05-31",
-      "title": "教皇利奥首份通谕批判技术救世主义"
-    },
-    "https://simonwillison.net/2026/May/30/pyodide-asgi-browser/#atom-everything": {
-      "date": "2026-05-31",
-      "title": "通过 Pyodide 和 Service Worker 在浏览器中运行 Python ASGI 应用"
-    },
-    "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/": {
-      "date": "2026-05-31",
-      "title": "Domain expertise has always been the real moat"
-    },
-    "https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises": {
-      "date": "2026-05-31",
-      "title": "埃森哲以 12 亿美元收购 Ookla，强化网络智能能力"
-    },
-    "https://www.righto.com/2026/05/microcode-inside-intel-8087-floating.html": {
-      "date": "2026-05-31",
-      "title": "深入 Intel 8087 微码：寄存器交换机制解析"
-    },
-    "https://www.lloydslist.com/LL1157327/Hormuz-crisis-side-effect-a-sharp-rise-in-container-shipping-rates": {
-      "date": "2026-05-31",
-      "title": "霍尔木兹危机导致集装箱运价急剧上涨"
-    },
-    "https://simonwillison.net/2026/May/30/retiring-from-tech-to-live-offline/#atom-everything": {
-      "date": "2026-05-31",
-      "title": "Chad Whitacre 宣布退出科技行业，归隐线下生活"
-    },
-    "https://jackmaguire.org/blog/ai-job-grief/": {
-      "date": "2026-05-31",
-      "title": "AI 失业之痛：科技从业者面临的心理危机"
-    },
-    "https://pandoc-templates.org/": {
-      "date": "2026-05-31",
-      "title": "Pandoc 模板：社区讨论文档转换及与 Quarto 的对比"
-    },
-    "https://simonwillison.net/2026/May/30/daniel-jalkut/#atom-everything": {
-      "date": "2026-05-31",
-      "title": "丹尼尔·亚尔库特呼吁在 AI 讨论中保持理性"
-    },
-    "https://github.com/wolfSSL/wolfCOSE": {
-      "date": "2026-05-31",
-      "title": "wolfSSL 发布 wolfCOSE：面向嵌入式系统的零分配 C 语言 COSE 库"
-    },
-    "https://oxide.computer/blog/cosmo-sp": {
-      "date": "2026-05-31",
-      "title": "Oxide Computer 探讨 Cosmo 中消失的服务处理器"
-    },
-    "https://lowendmac.com/2013/jef-raskin-the-visionary-behind-the-mac/": {
-      "date": "2026-05-31",
-      "title": "Jef Raskin：Macintosh 背后的远见者"
-    },
     "https://www.theguardian.com/society/2026/may/31/daily-pill-daraxonrasib-double-survival-time-pancreatic-pancreas-cancer-clinical-trial": {
       "date": "2026-06-01",
       "title": "临床试验显示每日口服药 daraxonrasib 可使胰腺癌患者生存期翻倍"
@@ -162,8 +78,8 @@
       "title": "伦敦免费屋顶露台：公共准入与私人控制的矛盾"
     },
     "https://github.com/pewdiepie-archdaemon/odysseus": {
-      "date": "2026-06-05",
-      "title": "自托管 AI 工作区 Odysseus 24 小时内获 335 个 GitHub 星标"
+      "date": "2026-06-07",
+      "title": "pewdiepie-archdaemon/odysseus (+237⭐ past_24_hours)"
     },
     "https://lwn.net/Articles/104185/": {
       "date": "2026-06-01",
@@ -206,8 +122,8 @@
       "title": "超级智能：吞噬聪明人的想法（2016）"
     },
     "https://github.com/OpenBMB/VoxCPM": {
-      "date": "2026-06-02",
-      "title": "OpenBMB 发布 VoxCPM2：无需分词器的多语言语音克隆 TTS 模型"
+      "date": "2026-06-07",
+      "title": "OpenBMB/VoxCPM (+65⭐ past_24_hours)"
     },
     "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md": {
       "date": "2026-06-02",
@@ -222,12 +138,12 @@
       "title": "英伟达 RTX Spark：面向 Windows PC 的 ARM 超级芯片"
     },
     "https://github.com/colbymchenry/codegraph": {
-      "date": "2026-06-06",
-      "title": "GitHub 仓库 'codegraph' 在 24 小时内获得 72 个星标"
+      "date": "2026-06-07",
+      "title": "colbymchenry/codegraph (+77⭐ past_24_hours)"
     },
     "https://github.com/chopratejas/headroom": {
-      "date": "2026-06-06",
-      "title": "GitHub 仓库 'chopratejas/headroom' 获得 91 个星标"
+      "date": "2026-06-07",
+      "title": "chopratejas/headroom (+83⭐ past_24_hours)"
     },
     "https://github.com/heygen-com/hyperframes": {
       "date": "2026-06-02",
@@ -270,12 +186,12 @@
       "title": "像 2009 年一样做系统管理：一次怀旧回顾"
     },
     "https://github.com/rohitg00/ai-engineering-from-scratch": {
-      "date": "2026-06-06",
-      "title": "rohitg00/ai-engineering-from-scratch (+16⭐ past_24_hours)"
+      "date": "2026-06-07",
+      "title": "rohitg00/ai-engineering-from-scratch (+46⭐ past_24_hours)"
     },
     "https://github.com/Imbad0202/academic-research-skills": {
-      "date": "2026-06-02",
-      "title": "面向 Claude Code 的学术研究技能工作流获 33 颗星"
+      "date": "2026-06-07",
+      "title": "Imbad0202/academic-research-skills (+30⭐ past_24_hours)"
     },
     "https://github.com/rohitg00/agentmemory": {
       "date": "2026-06-02",
@@ -418,8 +334,8 @@
       "title": "Gooey: A GPU-accelerated UI framework for Zig"
     },
     "https://github.com/unicity-astrid/astrid": {
-      "date": "2026-06-06",
-      "title": "Unicity-astrid/astrid 在 GitHub 上获得 41 个星标"
+      "date": "2026-06-07",
+      "title": "unicity-astrid/astrid (+41⭐ past_24_hours)"
     },
     "https://github.com/mukul975/Anthropic-Cybersecurity-Skills": {
       "date": "2026-06-05",
@@ -434,16 +350,16 @@
       "title": "OpenHands：免费的开源 AI 编程代理，Devin 的替代方案"
     },
     "https://github.com/Lum1104/Understand-Anything": {
-      "date": "2026-06-06",
-      "title": "Lum1104/Understand-Anything 将代码转化为知识图谱"
+      "date": "2026-06-07",
+      "title": "Lum1104/Understand-Anything (+53⭐ past_24_hours)"
     },
     "https://github.com/MadsLorentzen/ai-job-search": {
-      "date": "2026-06-06",
-      "title": "MadsLorentzen/ai-job-search (+17⭐ past_24_hours)"
+      "date": "2026-06-07",
+      "title": "MadsLorentzen/ai-job-search (+31⭐ past_24_hours)"
     },
     "https://github.com/safishamsi/graphify": {
-      "date": "2026-06-06",
-      "title": "safishamsi/graphify (+21⭐ past_24_hours)"
+      "date": "2026-06-07",
+      "title": "safishamsi/graphify (+63⭐ past_24_hours)"
     },
     "https://github.com/astral-sh/uv/releases/tag/0.11.19": {
       "date": "2026-06-05",
@@ -462,8 +378,8 @@
       "title": "HKUDS/Vibe-Trading 24 小时内获得 28 颗星"
     },
     "https://github.com/Leonxlnx/taste-skill": {
-      "date": "2026-06-04",
-      "title": "Leonxlnx/taste-skill (+24⭐ past_24_hours)"
+      "date": "2026-06-07",
+      "title": "Leonxlnx/taste-skill (+115⭐ past_24_hours)"
     },
     "https://github.com/fathah/hermes-desktop": {
       "date": "2026-06-04",
@@ -562,8 +478,8 @@
       "title": "Ashby 工程团队谈 AI 对工程工作的未来影响"
     },
     "https://github.com/pbakaus/impeccable": {
-      "date": "2026-06-05",
-      "title": "Impeccable：专为 AI 生成界面设计的新 JavaScript 设计语言"
+      "date": "2026-06-07",
+      "title": "pbakaus/impeccable (+29⭐ past_24_hours)"
     },
     "https://openreview.net/pdf?id=Yxz92UuPLQ": {
       "date": "2026-06-06",
@@ -618,20 +534,20 @@
       "title": "传统提交鼓励关注错误的事情"
     },
     "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/#atom-everything": {
-      "date": "2026-06-06",
-      "title": "使用 MicroPython 和 WASM 在沙箱中运行 Python 代码"
+      "date": "2026-06-07",
+      "title": "Running Python code in a sandbox with MicroPython and WASM"
     },
     "https://simonwillison.net/2026/Jun/5/openai-help-lockdown-mode/#atom-everything": {
-      "date": "2026-06-06",
-      "title": "OpenAI 推出锁定模式以增强安全性"
+      "date": "2026-06-07",
+      "title": "OpenAI Help: Lockdown Mode"
     },
     "https://simonwillison.net/2026/Jun/5/andreas-kling/#atom-everything": {
       "date": "2026-06-06",
       "title": "安德烈亚斯·克林改变 Ladybird 浏览器开发流程"
     },
     "https://github.com/mvanhorn/last30days-skill": {
-      "date": "2026-06-06",
-      "title": "mvanhorn/last30days-skill 在 GitHub 上受欢迎"
+      "date": "2026-06-07",
+      "title": "mvanhorn/last30days-skill (+34⭐ past_24_hours)"
     },
     "https://www.bbc.com/news/live/c4g44ew3g1kt": {
       "date": "2026-06-06",
@@ -654,24 +570,24 @@
       "title": "与风险投资者的负面经历"
     },
     "https://simonwillison.net/2026/Jun/6/micropython-wasm/#atom-everything": {
-      "date": "2026-06-06",
-      "title": "发布 micropython-wasm 0.1a2"
+      "date": "2026-06-07",
+      "title": "micropython-wasm 0.1a2"
     },
     "https://classic100.gotski.workers.dev/": {
       "date": "2026-06-06",
       "title": "ABC 经典 100 排名可视化"
     },
     "https://github.com/lfnovo/open-notebook": {
-      "date": "2026-06-06",
-      "title": "lfnovo/open-notebook 在 GitHub 上获得人气"
+      "date": "2026-06-07",
+      "title": "lfnovo/open-notebook (+61⭐ past_24_hours)"
     },
     "https://github.com/microsoft/VibeVoice": {
       "date": "2026-06-06",
       "title": "microsoft/VibeVoice (+18⭐ past_24_hours)"
     },
     "https://github.com/Yuan1z0825/nature-skills": {
-      "date": "2026-06-06",
-      "title": "热门 GitHub 仓库：Yuan1z0825/nature-skills"
+      "date": "2026-06-07",
+      "title": "Yuan1z0825/nature-skills (+30⭐ past_24_hours)"
     },
     "https://github.com/RyanCodrai/turbovec": {
       "date": "2026-06-06",
@@ -680,6 +596,86 @@
     "https://github.com/opensquilla/opensquilla": {
       "date": "2026-06-06",
       "title": "opensquilla/opensquilla (+14⭐ past_24_hours)"
+    },
+    "https://leoveanu.com/2026-06-06-qwen3.7max/": {
+      "date": "2026-06-07",
+      "title": "The OnlyFans Economy of American AI"
+    },
+    "https://github.com/ValveSoftware/GameNetworkingSockets/issues/398": {
+      "date": "2026-06-07",
+      "title": "Valve P2P networking broken for more than 2 months"
+    },
+    "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/": {
+      "date": "2026-06-07",
+      "title": "LLMs are eroding my software engineering career and I don't know what to do"
+    },
+    "https://www.ioccc.org/2025/": {
+      "date": "2026-06-07",
+      "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners"
+    },
+    "https://github.com/devenjarvis/lathe": {
+      "date": "2026-06-07",
+      "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it"
+    },
+    "https://pdimagearchive.org/": {
+      "date": "2026-06-07",
+      "title": "Public Domain Image Archive"
+    },
+    "https://ntsc.rs/": {
+      "date": "2026-06-07",
+      "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts"
+    },
+    "https://arxiv.org/abs/2601.14470": {
+      "date": "2026-06-07",
+      "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering"
+    },
+    "https://github.com/roboflow/supervision": {
+      "date": "2026-06-07",
+      "title": "roboflow/supervision (+74⭐ past_24_hours)"
+    },
+    "https://github.com/CopilotKit/CopilotKit": {
+      "date": "2026-06-07",
+      "title": "CopilotKit/CopilotKit (+44⭐ past_24_hours)"
+    },
+    "https://github.com/anthropics/claude-code/issues/65697": {
+      "date": "2026-06-07",
+      "title": "Anthropic, please ship an official Claude Desktop for Linux"
+    },
+    "https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses": {
+      "date": "2026-06-07",
+      "title": "Field of clones: How horse replicas came to dominate polo"
+    },
+    "https://symbolica.io/posts/symbolica_2_0_release/": {
+      "date": "2026-06-07",
+      "title": "Symbolica 2.0: Programmable Symbols for Python and Rust"
+    },
+    "https://blog.podman.io/2025/10/podman-6-machine-usability-improvements/": {
+      "date": "2026-06-07",
+      "title": "Podman 6: machine usability improvements"
+    },
+    "https://kyushu.dev/": {
+      "date": "2026-06-07",
+      "title": "Show HN: Kyushu – A self-hostable WASM sandbox for JavaScript workers"
+    },
+    "https://github.com/Panniantong/Agent-Reach": {
+      "date": "2026-06-07",
+      "title": "Panniantong/Agent-Reach (+51⭐ past_24_hours)"
+    },
+    "https://github.com/Fincept-Corporation/FinceptTerminal": {
+      "date": "2026-06-07",
+      "title": "Fincept-Corporation/FinceptTerminal (+30⭐ past_24_hours)"
+    },
+    "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2849122": {
+      "date": "2026-06-07",
+      "title": "Vitamin D3 During Pregnancy and Cognitive Performance at 10 Years"
+    },
+    "https://arxiv.org/abs/2606.04299": {
+      "date": "2026-06-07",
+      "title": "Efficient and Training-Free Single-Image Diffusion Models"
+    },
+    "https://github.com/helloianneo/ian-xiaohei-illustrations": {
+      "date": "2026-06-07",
+      "title": "helloianneo/ian-xiaohei-illustrations (+40⭐ past_24_hours)"
     }
   }
 }
