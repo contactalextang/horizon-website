@@ -94,10 +94,38 @@ export default async function DailyDetailPage({ params }: Props) {
         </div>
       </div>
 
+      {post.status === 'warning' && (
+        <div style={{
+          border: '1px solid var(--amber)',
+          background: 'var(--amberbg)',
+          borderRadius: 'var(--r2)',
+          padding: '16px 18px',
+          marginBottom: '22px',
+        }}>
+          <div style={{
+            fontFamily: "'Courier New',monospace",
+            fontSize: '10px',
+            letterSpacing: '.14em',
+            textTransform: 'uppercase',
+            color: 'var(--amber)',
+            marginBottom: '8px',
+          }}>
+            {locale === 'zh' ? '评分异常' : 'Scoring Warning'}
+          </div>
+          <p style={{ color: 'var(--text2)', fontSize: '13px', lineHeight: 1.8 }}>
+            {locale === 'zh'
+              ? `Horizon 已分析 ${post.totalFetched} 条内容，但评分链路返回 0 条精选。请检查模型配置、API 返回和评分提示词后再信任本期结果。`
+              : `Horizon analyzed ${post.totalFetched} items, but the scoring pipeline selected 0. Check the model configuration, API response, and scoring prompt before trusting this issue.`}
+          </p>
+        </div>
+      )}
+
       {/* Section header */}
       <div style={{ display: 'flex', alignItems: 'center', gap: '12px', marginBottom: '12px' }}>
         <span style={{ fontFamily: "'Courier New',monospace", fontSize: '9px', letterSpacing: '.14em', textTransform: 'uppercase', color: 'var(--text3)' }}>
-          {locale === 'zh' ? '资讯' : 'Stories'}
+          {post.status === 'warning'
+            ? (locale === 'zh' ? '诊断' : 'Diagnostic')
+            : (locale === 'zh' ? '资讯' : 'Stories')}
         </span>
         <div style={{ flex: 1, height: '1px', background: 'var(--line)' }} />
         <span style={{ fontFamily: "'Courier New',monospace", fontSize: '9px', color: 'var(--text3)' }}>

@@ -34,6 +34,8 @@ export function getAllDailyMeta(locale: 'en' | 'zh'): DailyMeta[] {
         totalFetched: data.total_fetched || 0,
         sources: data.sources || [],
         topTags: data.top_tags || [],
+        status: data.status === 'warning' ? 'warning' : 'normal',
+        warningReason: data.warning_reason,
       } satisfies DailyMeta
     })
     .sort((a, b) => b.date.localeCompare(a.date))
@@ -57,6 +59,8 @@ export function getDailyPost(date: string, locale: 'en' | 'zh'): DailyPost | nul
     totalFetched: data.total_fetched || totalFetched,
     sources: data.sources || [],
     topTags: data.top_tags || [],
+    status: data.status === 'warning' ? 'warning' : 'normal',
+    warningReason: data.warning_reason,
     items: parseHorizonMarkdown(content),
     rawContent: content,
   }

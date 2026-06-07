@@ -54,11 +54,23 @@ export default async function HomePage({ params }: Props) {
             <>
               <Link className="front-feature" href={`/${locale}/daily/${latestMeta.date}`}>
                 <div className="issue-date">{latestMeta.date}</div>
-                <h3>{locale === 'zh' ? '今日技术情报精选' : 'Today’s Technical Intelligence'}</h3>
-                <p>
-                  {latestPost.itemCount} {locale === 'zh' ? '条精选，来自' : 'selected items from'} {latestPost.totalFetched}
-                  {locale === 'zh' ? ' 条采集内容。' : ' fetched items.'}
-                </p>
+                <h3>
+                  {latestPost.status === 'warning'
+                    ? (locale === 'zh' ? '今日评分异常诊断' : 'Scoring Anomaly Diagnostic')
+                    : (locale === 'zh' ? '今日技术情报精选' : 'Today’s Technical Intelligence')}
+                </h3>
+                {latestPost.status === 'warning' ? (
+                  <p>
+                    {locale === 'zh'
+                      ? `已分析 ${latestPost.totalFetched} 条内容，但评分链路返回 0 条精选。`
+                      : `Analyzed ${latestPost.totalFetched} items, but the scoring pipeline selected 0.`}
+                  </p>
+                ) : (
+                  <p>
+                    {latestPost.itemCount} {locale === 'zh' ? '条精选，来自' : 'selected items from'} {latestPost.totalFetched}
+                    {locale === 'zh' ? ' 条采集内容。' : ' fetched items.'}
+                  </p>
+                )}
                 {topStories.length > 0 && (
                   <ul>
                     {topStories.map(item => (
@@ -68,11 +80,13 @@ export default async function HomePage({ params }: Props) {
                 )}
               </Link>
 
-              <div style={{ marginTop: '14px' }}>
-                {topStories.map((item, i) => (
-                  <ItemCard key={item.index} item={item} animDelay={i * 0.06} />
-                ))}
-              </div>
+              {latestPost.status !== 'warning' && (
+                <div style={{ marginTop: '14px' }}>
+                  {topStories.map((item, i) => (
+                    <ItemCard key={item.index} item={item} animDelay={i * 0.06} />
+                  ))}
+                </div>
+              )}
             </>
           ) : (
             <p className="muted">{locale === 'zh' ? '暂无技术日报。' : 'No technology digest available yet.'}</p>

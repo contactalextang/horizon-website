@@ -24,6 +24,8 @@ export interface DailyMeta {
   totalFetched: number
   sources: string[]
   topTags: string[]
+  status: 'normal' | 'warning'
+  warningReason?: string
 }
 
 export interface DailyPost extends DailyMeta {

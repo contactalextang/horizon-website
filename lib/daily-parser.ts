@@ -104,5 +104,9 @@ export function parseHorizonMarkdown(content: string): DailyItem[] {
 export function parseStats(content: string): { totalFetched: number; itemCount: number } {
   const m = content.match(/From\s+(\d+)\s+items?,\s+(\d+)\s+important/i)
   if (m) return { totalFetched: parseInt(m[1]), itemCount: parseInt(m[2]) }
+  const warning = content.match(/Warning:\s+analyzed\s+(\d+)\s+items?,\s+but\s+scoring\s+selected\s+0/i)
+  if (warning) return { totalFetched: parseInt(warning[1]), itemCount: 0 }
+  const zhWarning = content.match(/警告：已分析\s+(\d+)\s+条内容，但评分筛选结果为\s+0/i)
+  if (zhWarning) return { totalFetched: parseInt(zhWarning[1]), itemCount: 0 }
   return { totalFetched: 0, itemCount: 0 }
 }
