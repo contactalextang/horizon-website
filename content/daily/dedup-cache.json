@@ -1,89 +1,9 @@
 {
   "version": 1,
   "entries": {
-    "https://www.theguardian.com/society/2026/may/31/daily-pill-daraxonrasib-double-survival-time-pancreatic-pancreas-cancer-clinical-trial": {
-      "date": "2026-06-01",
-      "title": "临床试验显示每日口服药 daraxonrasib 可使胰腺癌患者生存期翻倍"
-    },
-    "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting": {
-      "date": "2026-06-01",
-      "title": "Cloudflare Turnstile 要求 WebGL 指纹识别，引发隐私担忧"
-    },
-    "https://prismml.com/news/bonsai-image-4b": {
-      "date": "2026-06-01",
-      "title": "Bonsai Image 4B：面向本地设备的 1-bit 量化扩散模型"
-    },
-    "https://jbkempf.com/blog/2026/dav2d/": {
-      "date": "2026-06-01",
-      "title": "VideoLAN 发布开源 AV2 视频解码器 dav2d"
-    },
-    "https://twitter.com/i/status/2060746160558543217": {
-      "date": "2026-06-01",
-      "title": "Codex AI 智能体发现 Docker 提权变通方法"
-    },
-    "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai": {
-      "date": "2026-06-01",
-      "title": "AI 时代的快速原型开发"
-    },
-    "https://justine.lol/rseq/": {
-      "date": "2026-06-01",
-      "title": "可重启序列：Linux 中替代互斥锁的无锁编程方案"
-    },
-    "https://www.lucasfcosta.com/blog/backpressure-is-all-you-need": {
-      "date": "2026-06-01",
-      "title": "利用背压机制让 AI Agent 在人工审核前自我验证"
-    },
-    "https://deflock.org/": {
-      "date": "2026-06-01",
-      "title": "Deflock 完成全美 10 万个自动车牌识别器的地图绘制"
-    },
-    "https://blog.tymscar.com/posts/v100localllm/": {
-      "date": "2026-06-01",
-      "title": "开发者将 NVIDIA V100 数据中心 GPU 装入游戏电脑运行本地大模型"
-    },
-    "https://kenforthewin.github.io/atomic-editor/": {
-      "date": "2026-06-01",
-      "title": "Atomic Editor：基于 CodeMirror 6 的 Obsidian 风格实时预览编辑器"
-    },
-    "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration": {
-      "date": "2026-06-01",
-      "title": "ChatGPT for Google Sheets 可被利用窃取工作簿数据"
-    },
-    "https://hannesweissteiner.com/pdfs/frost.pdf": {
-      "date": "2026-06-01",
-      "title": "FROST：基于 OPFS 的 SSD 时序远程浏览器指纹技术"
-    },
-    "https://specification.website/": {
-      "date": "2026-06-01",
-      "title": "The Website Specification"
-    },
-    "https://paulgraham.com/boss.html": {
-      "date": "2026-06-01",
-      "title": "Paul Graham：你本不该有老板（2008）"
-    },
-    "https://simonwillison.net/2026/May/31/the-solution-might-be-cancelling-my-ai-subscription/#atom-everything": {
-      "date": "2026-06-01",
-      "title": "AI 订阅可能损害专注力和生产力"
-    },
-    "https://github.com/viggy28/streambed": {
-      "date": "2026-06-01",
-      "title": "Streambed：将 PostgreSQL 数据流式传输到 S3 上 Apache Iceberg 的开源工具"
-    },
-    "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/": {
-      "date": "2026-06-01",
-      "title": "Meta 正式推出 Instagram、Facebook 和 WhatsApp 付费订阅服务"
-    },
-    "https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html": {
-      "date": "2026-06-01",
-      "title": "伦敦免费屋顶露台：公共准入与私人控制的矛盾"
-    },
     "https://github.com/pewdiepie-archdaemon/odysseus": {
       "date": "2026-06-08",
       "title": "Odysseus AI 工作区在过去 24 小时内获得了 237 颗星。"
-    },
-    "https://lwn.net/Articles/104185/": {
-      "date": "2026-06-01",
-      "title": "2004 年 Linux 补丁提议保护 X 服务器免受 OOM Killer 终止"
     },
     "https://www.0xsid.com/blog/meta-account-takeover-fiasco": {
       "date": "2026-06-02",
@@ -138,12 +58,12 @@
       "title": "英伟达 RTX Spark：面向 Windows PC 的 ARM 超级芯片"
     },
     "https://github.com/colbymchenry/codegraph": {
-      "date": "2026-06-08",
-      "title": "TypeScript 预索引代码知识图谱提升 AI 编程助手效率"
+      "date": "2026-06-09",
+      "title": "新 TypeScript 代码知识图谱降低 AI 编程助手的 token 消耗"
     },
     "https://github.com/chopratejas/headroom": {
-      "date": "2026-06-08",
-      "title": "新型 Python 库 Headroom 压缩 LLM 输入，将 token 使用量降低 60‑95%"
+      "date": "2026-06-09",
+      "title": "新 Python 库 Headroom 可压缩 LLM 输入 60‑95%"
     },
     "https://github.com/heygen-com/hyperframes": {
       "date": "2026-06-02",
@@ -186,8 +106,8 @@
       "title": "像 2009 年一样做系统管理：一次怀旧回顾"
     },
     "https://github.com/rohitg00/ai-engineering-from-scratch": {
-      "date": "2026-06-08",
-      "title": "热门 GitHub 仓库提供从零开始的 AI 工程实践指南。"
+      "date": "2026-06-09",
+      "title": "热门 GitHub 仓库提供从零开始的 AI 工程实践指南"
     },
     "https://github.com/Imbad0202/academic-research-skills": {
       "date": "2026-06-08",
@@ -350,8 +270,8 @@
       "title": "OpenHands：免费的开源 AI 编程代理，Devin 的替代方案"
     },
     "https://github.com/Lum1104/Understand-Anything": {
-      "date": "2026-06-08",
-      "title": "Understand-Anything 将代码转换为可交互的知识图谱，供 AI 助手使用"
+      "date": "2026-06-09",
+      "title": "Understand-Anything 为代码库创建交互式知识图谱，支持 AI 编程助手"
     },
     "https://github.com/MadsLorentzen/ai-job-search": {
       "date": "2026-06-08",
@@ -378,8 +298,8 @@
       "title": "HKUDS/Vibe-Trading 24 小时内获得 28 颗星"
     },
     "https://github.com/Leonxlnx/taste-skill": {
-      "date": "2026-06-08",
-      "title": "Taste-Skill GitHub 仓库在 24 小时内获得 115 颗星"
+      "date": "2026-06-09",
+      "title": "Taste-Skill 库在 24 小时内获得 138 颗星，旨在提升 AI 前端输出"
     },
     "https://github.com/fathah/hermes-desktop": {
       "date": "2026-06-04",
@@ -390,8 +310,8 @@
       "title": "受 Claude Code 启发的 TypeScript 教育型 Nano Agent 获得关注"
     },
     "https://github.com/Crosstalk-Solutions/project-nomad": {
-      "date": "2026-06-06",
-      "title": "Crosstalk-Solutions/project-nomad (+13⭐ past_24_hours)"
+      "date": "2026-06-09",
+      "title": "Project N.O.M.A.D 在 24 小时内获得 49 颗 GitHub 星标"
     },
     "https://github.com/getpaseo/paseo": {
       "date": "2026-06-05",
@@ -478,8 +398,8 @@
       "title": "Ashby 工程团队谈 AI 对工程工作的未来影响"
     },
     "https://github.com/pbakaus/impeccable": {
-      "date": "2026-06-08",
-      "title": "pbakaus/impeccable 在 24 小时内获 29 颗星，发布 JavaScript AI 设计语言"
+      "date": "2026-06-09",
+      "title": "Impeccable JavaScript 设计语言库，用于 AI 驱动的设计工具"
     },
     "https://openreview.net/pdf?id=Yxz92UuPLQ": {
       "date": "2026-06-06",
@@ -546,8 +466,8 @@
       "title": "安德烈亚斯·克林改变 Ladybird 浏览器开发流程"
     },
     "https://github.com/mvanhorn/last30days-skill": {
-      "date": "2026-06-08",
-      "title": "GitHub 仓库 last30days-skill 在 24 小时内获得 34 颗星标"
+      "date": "2026-06-09",
+      "title": "新的 Python AI 代理技能聚合 Reddit、X、YouTube、HN、Polymarket 和网络以生成有依据的摘要"
     },
     "https://www.bbc.com/news/live/c4g44ew3g1kt": {
       "date": "2026-06-06",
@@ -578,8 +498,8 @@
       "title": "ABC 经典 100 排名可视化"
     },
     "https://github.com/lfnovo/open-notebook": {
-      "date": "2026-06-08",
-      "title": "开源 TypeScript NotebookLM 替代方案在 24 小时内获得 61 颗星"
+      "date": "2026-06-09",
+      "title": "开源 TypeScript 版 NotebookLM 在 GitHub 上快速走红"
     },
     "https://github.com/microsoft/VibeVoice": {
       "date": "2026-06-06",
@@ -590,8 +510,8 @@
       "title": "用于 Nature 期刊符合要求的图稿和稿件格式的 Python 工具包"
     },
     "https://github.com/RyanCodrai/turbovec": {
-      "date": "2026-06-06",
-      "title": "RyanCodrai/turbovec (+16⭐ past_24_hours)"
+      "date": "2026-06-09",
+      "title": "Rust 库 turbovec 提供基于 TurboQuant 的向量索引并附带 Python 绑定"
     },
     "https://github.com/opensquilla/opensquilla": {
       "date": "2026-06-06",
@@ -630,12 +550,12 @@
       "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering"
     },
     "https://github.com/roboflow/supervision": {
-      "date": "2026-06-08",
-      "title": "Roboflow supervision 库在 24 小时内获得 74 颗星"
+      "date": "2026-06-09",
+      "title": "Roboflow 的 supervision 在 24 小时内获得 108 颗星，成为趋势 CV 库"
     },
     "https://github.com/CopilotKit/CopilotKit": {
-      "date": "2026-06-08",
-      "title": "CopilotKit 获得 44 颗星，推出 AG-UI 协议用于 AI 代理"
+      "date": "2026-06-09",
+      "title": "CopilotKit 获得 61 颗星，提供 AI 代理的前端堆栈"
     },
     "https://github.com/anthropics/claude-code/issues/65697": {
       "date": "2026-06-08",
@@ -658,8 +578,8 @@
       "title": "Show HN: Kyushu – A self-hostable WASM sandbox for JavaScript workers"
     },
     "https://github.com/Panniantong/Agent-Reach": {
-      "date": "2026-06-08",
-      "title": "Agent-Reach：Python CLI 工具让 AI 代理免 API 浏览多平台"
+      "date": "2026-06-09",
+      "title": "Agent-Reach CLI 让 AI 代理免费访问多平台内容"
     },
     "https://github.com/Fincept-Corporation/FinceptTerminal": {
       "date": "2026-06-08",
@@ -724,6 +644,130 @@
     "https://www.alexself.dev/blog/automated-doubt": {
       "date": "2026-06-08",
       "title": "开发者分享自动化疑问捕获与解决工作流程"
+    },
+    "https://openai.com/index/openai-submits-confidential-s-1/": {
+      "date": "2026-06-09",
+      "title": "OpenAI 向 SEC 提交保密 S-1 文件，迈向可能的 IPO"
+    },
+    "https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf": {
+      "date": "2026-06-09",
+      "title": "Signal 警告英国拟议监控威胁个人设备隐私"
+    },
+    "https://www.apple.com/apple-intelligence/": {
+      "date": "2026-06-09",
+      "title": "苹果发布 Apple Intelligence 套件，带来 AI 增强的 Siri 功能"
+    },
+    "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/": {
+      "date": "2026-06-09",
+      "title": "苹果发布基于 Gemini 的 AI 架构，结合 Private Cloud Compute"
+    },
+    "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps": {
+      "date": "2026-06-09",
+      "title": "小米发布 MiMo-v2.5-Pro-UltraSpeed，1T 参数模型达 1000 token/s"
+    },
+    "https://developer.apple.com/documentation/coreai/": {
+      "date": "2026-06-09",
+      "title": "苹果推出 Core AI 框架用于设备端 AI 模型部署"
+    },
+    "https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social": {
+      "date": "2026-06-09",
+      "title": "反社交：潮流而非好友如今主导社交媒体信息流"
+    },
+    "https://techcrunch.com/2026/06/08/massachusetts-votes-to-pass-new-privacy-rights-bill-that-bans-sale-of-precise-location-data/": {
+      "date": "2026-06-09",
+      "title": "马萨诸塞州禁止出售精确位置数据的新隐私法案"
+    },
+    "https://reeserichardson.blog/2026/05/28/how-much-of-thermo-fishers-antibody-data-has-been-manipulated/": {
+      "date": "2026-06-09",
+      "title": "关于 Thermo Fisher 抗体数据被广泛篡改的指控"
+    },
+    "https://www.apple.com/apple-events/event-stream/": {
+      "date": "2026-06-09",
+      "title": "苹果 WWDC 2026 发布液态玻璃重塑、对话式快捷指令及延迟欧盟 Siri AI。"
+    },
+    "https://github.com/alibaba/open-code-review": {
+      "date": "2026-06-09",
+      "title": "阿里巴巴发布开源混合 LLM 和确定性代码审查工具"
+    },
+    "https://vorpus.github.io/performativeUI/": {
+      "date": "2026-06-09",
+      "title": "Show HN：Performative-UI —— 一套设计套路的 React 组件库"
+    },
+    "https://martinalderson.com/posts/xais-new-rental-business/": {
+      "date": "2026-06-09",
+      "title": "xAI 从 AI 实验室转向 GPU 租赁的数据中心 REIT"
+    },
+    "https://gitdot.io/": {
+      "date": "2026-06-09",
+      "title": "Gitdot：开源 Rust 打造的 GitHub 替代品，采用 CLI 风格界面"
+    },
+    "https://news.ycombinator.com/item?id=48449187": {
+      "date": "2026-06-09",
+      "title": "黑客新闻用户分享他们自建的个人 AI 工具"
+    },
+    "https://intunedhq.com/": {
+      "date": "2026-06-09",
+      "title": "Intuned（YC S22）发布 AI 驱动的浏览器自动化平台。"
+    },
+    "https://www.cypherpunkbooks.com/": {
+      "date": "2026-06-09",
+      "title": "赛博朋克图书馆在 Hacker News 上线，引发隐私讨论"
+    },
+    "https://burrito.bio/essays/what-limits-a-cells-size": {
+      "date": "2026-06-09",
+      "title": "文章解释细胞尺寸的生物物理限制"
+    },
+    "https://www.foodwatch.org/en/eu-banned-pesticides-found-in-rice-tea-and-spices": {
+      "date": "2026-06-09",
+      "title": "欧盟禁用农药在进口大米、茶叶和香料中被发现"
+    },
+    "https://www.wheresyoured.at/ai-is-slowing-down/": {
+      "date": "2026-06-09",
+      "title": "AI 发展似乎正在放缓。"
+    },
+    "https://lowtechguys.com/musicdecoy/": {
+      "date": "2026-06-09",
+      "title": "简单的 macOS 实用工具通过假应用阻止 Apple Music 自动启动"
+    },
+    "https://cognition.ai/blog/frontier-code": {
+      "date": "2026-06-09",
+      "title": "Cognition AI 发布 Frontier Code，用于 AI 辅助编程"
+    },
+    "https://inavoyage.blogspot.com/2026/06/im-building-parallel-internet-and-its.html": {
+      "date": "2026-06-09",
+      "title": "我正在构建一个并行互联网，名为 The Thinnernet"
+    },
+    "https://github.com/XingYu-Zhong/DeepSeek-GUI": {
+      "date": "2026-06-09",
+      "title": "DeepSeek-GUI 在 24 小时内获得 51 颗星，提供 TypeScript AI 代理工作区"
+    },
+    "https://github.com/alchaincyf/huashu-design": {
+      "date": "2026-06-09",
+      "title": "alchaincyf/huashu-design (+49⭐ past_24_hours)"
+    },
+    "https://github.com/aaif-goose/goose": {
+      "date": "2026-06-09",
+      "title": "Rust AI 代理 Goose 在 24 小时内获得 44 颗星"
+    },
+    "https://github.com/GyulyVGC/sniffnet": {
+      "date": "2026-06-09",
+      "title": "Sniffnet Rust 网络流量监控工具在 24 小时内获得 40 颗星。"
+    },
+    "https://github.com/refactoringhq/tolaria": {
+      "date": "2026-06-09",
+      "title": "Tolaria：新型 TypeScript 桌面应用，用于管理 Markdown 知识库"
+    },
+    "https://www.admin.ch/en/sustainability-initiative": {
+      "date": "2026-06-09",
+      "title": "瑞士将就将人口上限设为 1000 万的公投进行投票"
+    },
+    "https://1worldflag.com/": {
+      "date": "2026-06-09",
+      "title": "极简蓝点旗帜引发全球团结讨论"
+    },
+    "https://simonwillison.net/2026/Jun/7/datasette-agent-edit/#atom-everything": {
+      "date": "2026-06-09",
+      "title": "西蒙·威利森发布 datasette-agent-edit 0.1a0 用于代理文本编辑"
     }
   }
 }
