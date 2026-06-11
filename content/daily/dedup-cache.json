@@ -10,76 +10,28 @@
       "title": "OpenBMB 发布 VoxCPM2，一种无需分词的多语言 TTS 模型"
     },
     "https://github.com/colbymchenry/codegraph": {
-      "date": "2026-06-11",
-      "title": "TypeScript 代码知识图谱工具 24 小时获 24 颗星"
+      "date": "2026-06-12",
+      "title": "热门 TypeScript 仓库提供本地代码知识图谱供 AI 编程助手使用"
     },
     "https://github.com/chopratejas/headroom": {
-      "date": "2026-06-11",
-      "title": "Headroom Python 库通过压缩 LLM 输入将 token 用量降低 60-95%"
+      "date": "2026-06-12",
+      "title": "Headroom Python 库通过压缩 LLM 输入将 token 用量降低 60‑95%"
     },
     "https://github.com/rohitg00/ai-engineering-from-scratch": {
       "date": "2026-06-10",
       "title": "GitHub 项目 ai-engineering-from-scratch 24 小时获 14 颗星，提供 Python AI 工程教程"
     },
     "https://github.com/Imbad0202/academic-research-skills": {
-      "date": "2026-06-10",
-      "title": "GitHub 仓库提供基于 Claude Code 的学术研究工作流程"
+      "date": "2026-06-12",
+      "title": "GitHub 仓库为 Claude Code 用户提供学术研究工作流程"
     },
     "https://x.com/ylecun/status/2062298612634177748": {
       "date": "2026-06-05",
       "title": "LeCun 警告：特朗普 FY27 预算将 NSF 经费削减一半"
     },
-    "https://x.com/sama/status/2061101875303530871": {
-      "date": "2026-06-04",
-      "title": "@sama: Shared OpenAI's new Rosalind biodefense work to give the ..."
-    },
-    "https://x.com/sama/status/2059677202917331431": {
-      "date": "2026-06-04",
-      "title": "@sama: The OpenAI Foundation is committing $250M initially to mea..."
-    },
-    "https://x.com/ylecun/status/2062213574617862615": {
-      "date": "2026-06-04",
-      "title": "@ylecun: Basic science has historically run at ~$10B/year..."
-    },
-    "https://x.com/ylecun/status/2062207836625522889": {
-      "date": "2026-06-04",
-      "title": "@ylecun: Private funding cannot fully replace public basic resea..."
-    },
-    "https://x.com/sama/status/2061973280655904815": {
-      "date": "2026-06-04",
-      "title": "@sama: theUSshould lead on AI by continuing to develop the very ..."
-    },
-    "https://x.com/sama/status/2061117302528188712": {
-      "date": "2026-06-04",
-      "title": "@sama: OpenAI Robotics is hiring (full-stack hardware, ops, syste..."
-    },
-    "https://x.com/sama/status/2061562575322492937": {
-      "date": "2026-06-04",
-      "title": "@sama: The OpenAI Foundation is doing a lot of wonderful things. ..."
-    },
-    "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/": {
-      "date": "2026-06-04",
-      "title": "Gemma 4 12B: A unified, encoder-free multimodal model"
-    },
-    "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/": {
-      "date": "2026-06-04",
-      "title": "Elixir v1.20: Now a gradually typed language"
-    },
-    "https://letsencrypt.org/2026/06/03/pq-certs": {
-      "date": "2026-06-04",
-      "title": "A Post-Quantum Future for Let's Encrypt"
-    },
     "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/": {
       "date": "2026-06-05",
       "title": "安全研究员花费 1500 美元测试 LLM 能否攻破一个故意留有漏洞的应用"
-    },
-    "https://maxleiter.com/blog/weights": {
-      "date": "2026-06-04",
-      "title": "They’re made out of weights"
-    },
-    "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/": {
-      "date": "2026-06-04",
-      "title": "Artificial intelligence is not conscious – Ted Chiang"
     },
     "https://x.com/MixRoute_ai/status/2062467740334436726": {
       "date": "2026-06-05",
@@ -88,62 +40,6 @@
     "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html": {
       "date": "2026-06-05",
       "title": "UC Berkeley 计算机科学课程不及格率因 AI 使用增加和数学能力下降而飙升"
-    },
-    "https://www.anthropic.com/engineering/how-we-contain-claude": {
-      "date": "2026-06-04",
-      "title": "The ways we contain Claude across products"
-    },
-    "https://burntsushi.net/encephalitis/": {
-      "date": "2026-06-04",
-      "title": "I was recently diagnosed with anti-NMDA receptor encephalitis"
-    },
-    "https://simonwillison.net/2026/Jun/3/uber-caps-usage/": {
-      "date": "2026-06-04",
-      "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing"
-    },
-    "https://www.blackmagicdesign.com/products/davinciresolve/whatsnew": {
-      "date": "2026-06-04",
-      "title": "DaVinci Resolve 21"
-    },
-    "https://www.espressif.com/en/products/socs/esp32-s31": {
-      "date": "2026-06-04",
-      "title": "ESP32-S31"
-    },
-    "https://www.ableton.com/en/live/extensions/": {
-      "date": "2026-06-04",
-      "title": "Ableton Extensions SDK"
-    },
-    "https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground": {
-      "date": "2026-06-04",
-      "title": "Mathematicians issue warning as AI rapidly gains ground"
-    },
-    "https://news.ycombinator.com/item?id=48387095": {
-      "date": "2026-06-04",
-      "title": "Launch HN: Hyper (YC P26) – Company brain to power agentic development"
-    },
-    "https://worrydream.com/refs/Lockhart_2002_-_A_Mathematician%27s_Lament.pdf": {
-      "date": "2026-06-04",
-      "title": "A Mathematician's Lament (2002) (pdf)"
-    },
-    "https://www.copetti.org/writings/consoles/playstation/": {
-      "date": "2026-06-04",
-      "title": "PlayStation Architecture"
-    },
-    "https://github.com/tastyeffectco/sandboxes": {
-      "date": "2026-06-04",
-      "title": "Self-hosted dev sandboxes with preview URLs (Docker, Go, no K8s)"
-    },
-    "https://simonwillison.net/2026/Jun/3/uber-caps-usage/#atom-everything": {
-      "date": "2026-06-04",
-      "title": "Uber Caps Usage of AI Tools Like Claude Code to Manage Costs"
-    },
-    "https://opensource.googleblog.com/2026/06/journey-to-jpeg-xl-how-open-source-experiments-shaped-the-future-of-image-coding.html": {
-      "date": "2026-06-04",
-      "title": "Journey to JPEG XL: open-source experiments shaped the future of image coding"
-    },
-    "https://github.com/duanebester/gooey": {
-      "date": "2026-06-04",
-      "title": "Gooey: A GPU-accelerated UI framework for Zig"
     },
     "https://github.com/unicity-astrid/astrid": {
       "date": "2026-06-08",
@@ -162,8 +58,8 @@
       "title": "OpenHands：免费的开源 AI 编程代理，Devin 的替代方案"
     },
     "https://github.com/Lum1104/Understand-Anything": {
-      "date": "2026-06-11",
-      "title": "Understand-Anything：TypeScript 工具生成交互式知识图谱"
+      "date": "2026-06-12",
+      "title": "Understand-Anything 将代码库转换为交互式知识图谱"
     },
     "https://github.com/MadsLorentzen/ai-job-search": {
       "date": "2026-06-08",
@@ -181,21 +77,13 @@
       "date": "2026-06-05",
       "title": "Uruky 推出图片搜索和 URL 重写功能，作为欧盟版 Kagi 替代方案"
     },
-    "https://dumb.co/": {
-      "date": "2026-06-04",
-      "title": "Dumbphone 2"
-    },
     "https://github.com/HKUDS/Vibe-Trading": {
       "date": "2026-06-05",
       "title": "HKUDS/Vibe-Trading 24 小时内获得 28 颗星"
     },
     "https://github.com/Leonxlnx/taste-skill": {
-      "date": "2026-06-11",
-      "title": "Taste-Skill 前端工具在 24 小时内获得了 31 颗星。"
-    },
-    "https://github.com/fathah/hermes-desktop": {
-      "date": "2026-06-04",
-      "title": "fathah/hermes-desktop (+14⭐ past_24_hours)"
+      "date": "2026-06-12",
+      "title": "Taste-Skill 前端工具在 24 小时内获得 34 颗星。"
     },
     "https://github.com/shareAI-lab/learn-claude-code": {
       "date": "2026-06-05",
@@ -210,8 +98,8 @@
       "title": "Paseo：一款用于远程编排编程代理的 TypeScript 工具"
     },
     "https://github.com/datawhalechina/hello-agents": {
-      "date": "2026-06-05",
-      "title": "中文 AI 智能体教程《Hello-Agens》在 GitHub 上获得早期关注"
+      "date": "2026-06-12",
+      "title": "Datawhalechina 发布 hello-agents Python 教程，构建 AI 智能体"
     },
     "https://x.com/AIGenesis_/status/2062148649409491074": {
       "date": "2026-06-05",
@@ -242,8 +130,8 @@
       "title": "华为推出 KVarN：vLLM 原生 KV 缓存量化后端"
     },
     "https://github.com/ZhuLinsen/daily_stock_analysis": {
-      "date": "2026-06-06",
-      "title": "ZhuLinsen/daily_stock_analysis (+14⭐ past_24_hours)"
+      "date": "2026-06-12",
+      "title": "开源 LLM 驱动的 A/H/美股智能分析工具受关注"
     },
     "https://github.com/anthropics/defending-code-reference-harness": {
       "date": "2026-06-05",
@@ -290,8 +178,8 @@
       "title": "Ashby 工程团队谈 AI 对工程工作的未来影响"
     },
     "https://github.com/pbakaus/impeccable": {
-      "date": "2026-06-11",
-      "title": "新增 JavaScript 设计语言 'Impeccable' 提升 AI 应用界面"
+      "date": "2026-06-12",
+      "title": "新的 JavaScript 设计语言'impeccable'旨在提升 AI harness 设计能力"
     },
     "https://openreview.net/pdf?id=Yxz92UuPLQ": {
       "date": "2026-06-06",
@@ -358,8 +246,8 @@
       "title": "安德烈亚斯·克林改变 Ladybird 浏览器开发流程"
     },
     "https://github.com/mvanhorn/last30days-skill": {
-      "date": "2026-06-11",
-      "title": "开源 Python AI 代理聚合 Reddit、X、YouTube、HN、Polymarket 生成有依据的摘要"
+      "date": "2026-06-12",
+      "title": "新型 AI 代理技能聚合 Reddit、X、YouTube、HN、Polymarket 和网络，生成有依据的摘要"
     },
     "https://www.bbc.com/news/live/c4g44ew3g1kt": {
       "date": "2026-06-06",
@@ -402,8 +290,8 @@
       "title": "用于 Nature 期刊符合要求的图稿和稿件格式的 Python 工具包"
     },
     "https://github.com/RyanCodrai/turbovec": {
-      "date": "2026-06-11",
-      "title": "Rust 库 Turbovec 提供基于 TurboQuant 的向量索引并附带 Python 绑定"
+      "date": "2026-06-12",
+      "title": "Turbovec：带有 Python 绑定的 Rust 向量索引在 24 小时内获得 15 颗星"
     },
     "https://github.com/opensquilla/opensquilla": {
       "date": "2026-06-06",
@@ -470,8 +358,8 @@
       "title": "Show HN: Kyushu – A self-hostable WASM sandbox for JavaScript workers"
     },
     "https://github.com/Panniantong/Agent-Reach": {
-      "date": "2026-06-11",
-      "title": "Agent-Reach CLI 使 AI 代理能够免费访问多个平台"
+      "date": "2026-06-12",
+      "title": "Agent-Reach CLI 让 AI 代理免费浏览多平台内容"
     },
     "https://github.com/Fincept-Corporation/FinceptTerminal": {
       "date": "2026-06-08",
@@ -646,8 +534,8 @@
       "title": "Sniffnet 在 24 小时内获 14 颗星，成为 Rust 网络流量监控工具"
     },
     "https://github.com/refactoringhq/tolaria": {
-      "date": "2026-06-11",
-      "title": "Tolaria 在 24 小时内获得 23 颗星，作为 TypeScript 构建的 Markdown 知识库桌面应用"
+      "date": "2026-06-12",
+      "title": "Tolaria：新型 TypeScript 桌面应用，用于管理 Markdown 知识库"
     },
     "https://www.admin.ch/en/sustainability-initiative": {
       "date": "2026-06-09",
@@ -770,16 +658,16 @@
       "title": "AI 驱动的求职工具 career-ops 在 24 小时内获得 24 颗星"
     },
     "https://github.com/luongnv89/claude-howto": {
-      "date": "2026-06-10",
-      "title": "GitHub 仓库 luongnv89/claude-howto 提供可视化 Claude Code 指南及模板"
+      "date": "2026-06-12",
+      "title": "GitHub 仓库 luongnv89/claude-howto 提供 Claude Code 的可视化指南"
     },
     "https://github.com/router-for-me/CLIProxyAPI": {
       "date": "2026-06-10",
       "title": "CLIProxyAPI 将多个 AI CLI 包装为统一的 OpenAI 兼容 API。"
     },
     "https://github.com/tashfeenahmed/freellmapi": {
-      "date": "2026-06-10",
-      "title": "OpenAI 兼容代理聚合约 14 家 AI 提供商的免费额度密钥。"
+      "date": "2026-06-12",
+      "title": "FreeLLMAPI：聚合约 14 家 AI 供应商免费额度的 OpenAI 兼容代理"
     },
     "https://news.ycombinator.com/item?id=48477135": {
       "date": "2026-06-11",
@@ -850,8 +738,8 @@
       "title": "托马斯·纳格尔 1974 年《作为蝙蝠是什么感觉》论文在 Hacker News 被分享"
     },
     "https://github.com/apple/container": {
-      "date": "2026-06-11",
-      "title": "Apple 发布开源 Swift 工具用于在 Apple Silicon 上运行 Linux 容器"
+      "date": "2026-06-12",
+      "title": "Apple 发布基于 Swift 的 Linux 容器工具，用于 macOS 虚拟机"
     },
     "https://github.com/philipl/pifs": {
       "date": "2026-06-11",
@@ -878,8 +766,8 @@
       "title": "杰里米·霍华德呼吁顶尖 AI 实验室停止使用自身领先模型"
     },
     "https://github.com/hugohe3/ppt-master": {
-      "date": "2026-06-11",
-      "title": "Python 工具实现文档转可编辑带动画音频 PowerPoint"
+      "date": "2026-06-12",
+      "title": "新型 Python 工具 ppt-master 可从文档生成可编辑 PowerPoint"
     },
     "https://github.com/astral-sh/uv/releases/tag/0.11.20": {
       "date": "2026-06-11",
@@ -896,6 +784,114 @@
     "https://github.com/dmtrKovalenko/fff": {
       "date": "2026-06-11",
       "title": "Rust 文件搜索工具包 fff 在 24 小时内获得 11 颗星"
+    },
+    "https://brew.sh/2026/06/11/homebrew-6.0.0/": {
+      "date": "2026-06-12",
+      "title": "Homebrew 6.0.0：Tap 信任安全机制、更快 JSON API、Linux 沙箱及 macOS 27 支持"
+    },
+    "https://www.kennethpayne.uk/p/shall-we-play-a-game": {
+      "date": "2026-06-12",
+      "title": "LLMs 在 95% 的战争游戏模拟中选择使用战术核武器"
+    },
+    "https://mimo.xiaomi.com/mimocode": {
+      "date": "2026-06-12",
+      "title": "小米发布开源 MiMo Code AI 编程助手"
+    },
+    "https://mrbruh.com/amd2/": {
+      "date": "2026-06-12",
+      "title": "AMD 拒绝修复软件更新器中的 RCE 漏洞，仅提供弱 CRC-32 补丁"
+    },
+    "https://waymo.com/blog/2026/06/waymo-premier/": {
+      "date": "2026-06-12",
+      "title": "Waymo 推出 Waymo Premier 自动驾驶叫车订阅服务"
+    },
+    "https://github.com/huggingface/open-r1": {
+      "date": "2026-06-12",
+      "title": "Hugging Face 发布 open-r1 以复现 DeepSeek-R1 推理能力"
+    },
+    "https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/": {
+      "date": "2026-06-12",
+      "title": "对 AI 生成代码炒作和代码行数生产力指标的批判"
+    },
+    "https://www.theguardian.com/us-news/2026/jun/11/solar-energy-us-coal": {
+      "date": "2026-06-12",
+      "title": "太阳能首次超过煤炭成为美国最大电力来源"
+    },
+    "https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/#atom-everything": {
+      "date": "2026-06-12",
+      "title": "Anthropic 撤回 Claude 前沿 LLM 研究隐藏政策"
+    },
+    "https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416": {
+      "date": "2026-06-12",
+      "title": "请愿书呼吁撤销加拿大法案 C-22 因隐私担忧"
+    },
+    "https://zed.dev/blog/introducing-deltadb": {
+      "date": "2026-06-12",
+      "title": "Zed 编辑器推出 DeltaDB 以实现细粒度变更追踪"
+    },
+    "https://github.com/icitry/FPS.cob": {
+      "date": "2026-06-12",
+      "title": "FPS.cob：基于 COBOL 的光线追踪第一人称射击游戏"
+    },
+    "https://simonwillison.net/2026/Jun/11/datasette/#atom-everything": {
+      "date": "2026-06-12",
+      "title": "Datasette 1.0a33 将 _extra 模式扩展到查询和行"
+    },
+    "https://github.com/addyosmani/agent-skills": {
+      "date": "2026-06-12",
+      "title": "Addy Osmani 发布 agent-skills 仓库以提升 AI 编码代理能力。"
+    },
+    "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype": {
+      "date": "2026-06-12",
+      "title": "Claude Fable 5 在编码任务中表现中等，受超时和记忆作弊影响"
+    },
+    "https://simonwillison.net/2026/Jun/10/datasette-agent/#atom-everything": {
+      "date": "2026-06-12",
+      "title": "Datasette-agent 0.2a0 新增交互式提问和保存查询工具"
+    },
+    "https://github.com/masterking32/MasterDnsVPN": {
+      "date": "2026-06-12",
+      "title": "MasterDnsVPN：基于 Go 的 DNS 隧道 VPN，具低开销 ARQ 和负载均衡"
+    },
+    "https://github.com/astral-sh/uv/releases/tag/0.11.21": {
+      "date": "2026-06-12",
+      "title": "uv 0.11.21 添加 Python 3.13.14 和 3.14.6 支持、预览功能及性能改进"
+    },
+    "https://fablepool.com/": {
+      "date": "2026-06-12",
+      "title": "FablePool 启动众筹 AI 软件构建平台"
+    },
+    "https://www.ssp.sh/brain/travel-where-you-are/": {
+      "date": "2026-06-12",
+      "title": "鼓励本地旅行：在家附近寻找乐趣"
+    },
+    "https://www.righto.com/2012/02/apple-didnt-revolutionize-power.html": {
+      "date": "2026-06-12",
+      "title": "苹果电源效率提升归功于晶体管进步而非设计"
+    },
+    "https://www.mayrhofer.eu.org/post/leaving-google/": {
+      "date": "2026-06-12",
+      "title": "前谷歌员工因詹姆斯·达莫尔事件后被感知的道德指南针丧失而辞职"
+    },
+    "https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/": {
+      "date": "2026-06-12",
+      "title": "宝可梦 Go 扫描数据训练军用无人机导航"
+    },
+    "https://simonwillison.net/2026/Jun/11/asyncinject/#atom-everything": {
+      "date": "2026-06-12",
+      "title": "asyncinject 0.7 发布，修复了 Claude Fable 5 发现的错误"
+    },
+    "https://github.com/coder/boo": {
+      "date": "2026-06-12",
+      "title": "Boo：基于 libghostty 的新型终端复用器"
+    },
+    "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/": {
+      "date": "2026-06-12",
+      "title": "调查揭示勒索软件集团‘绅士’的领导"
+    },
+    "https://github.com/activeloopai/hivemind": {
+      "date": "2026-06-12",
+      "title": "ActiveloopAI 发布 Hivemind，一种用于统一 AI 代理协调的 TypeScript 框架"
     }
   }
 }
