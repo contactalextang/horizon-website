@@ -2,12 +2,12 @@
   "version": 1,
   "entries": {
     "https://github.com/colbymchenry/codegraph": {
-      "date": "2026-06-17",
-      "title": "CodeGraph：面向 AI 编程助手的预索引 TypeScript 代码知识图"
+      "date": "2026-06-18",
+      "title": "预索引代码知识图谱提升本地 AI 编程助手效率"
     },
     "https://github.com/chopratejas/headroom": {
-      "date": "2026-06-17",
-      "title": "Headroom Python 库在 24 小时内获 19 颗星，用于 LLM token 压缩"
+      "date": "2026-06-18",
+      "title": "Headroom Python 库通过压缩 LLM 输入将 token 用量降低 60-95%"
     },
     "https://github.com/rohitg00/ai-engineering-from-scratch": {
       "date": "2026-06-17",
@@ -18,16 +18,16 @@
       "title": "GitHub 仓库分享基于 Claude Code 的学术研究工作流程。"
     },
     "https://github.com/rtk-ai/rtk": {
-      "date": "2026-06-16",
-      "title": "Rust CLI 工具 rtk 可将 LLM token 消耗降低最高 90%。"
+      "date": "2026-06-18",
+      "title": "Rust CLI 代理 rtk 将 LLM token 使用降低 60-90%"
     },
     "https://github.com/Lum1104/Understand-Anything": {
       "date": "2026-06-14",
       "title": "Understand-Anything 将代码转化为交互式知识图谱"
     },
     "https://github.com/Leonxlnx/taste-skill": {
-      "date": "2026-06-17",
-      "title": "Taste-Skill GitHub 仓库过去 24 小时获得 22 颗星，提供 AI 前端代码改进工具"
+      "date": "2026-06-18",
+      "title": "Taste-Skill GitHub 仓库在 24 小时内获得 17 颗星。"
     },
     "https://github.com/datawhalechina/hello-agents": {
       "date": "2026-06-12",
@@ -42,8 +42,8 @@
       "title": "pbakaus/impeccable 在 24 小时内获得 15 颗星，推出 AI 设计语言"
     },
     "https://github.com/mvanhorn/last30days-skill": {
-      "date": "2026-06-17",
-      "title": "GitHub 项目 last30days-skill 在 24 小时内获得 19 颗星，作为跨平台 AI 研究代理"
+      "date": "2026-06-18",
+      "title": "新 Python AI 代理技能聚合 Reddit、X、YouTube、HN、Polymarket 及网络数据"
     },
     "https://github.com/lfnovo/open-notebook": {
       "date": "2026-06-16",
@@ -54,8 +54,8 @@
       "title": "Turbovec：带有 Python 绑定的 Rust 向量索引在 24 小时内获得 15 颗星"
     },
     "https://github.com/Panniantong/Agent-Reach": {
-      "date": "2026-06-17",
-      "title": "Agent-Reach CLI 使 AI 代理能够无需 API 费用浏览社交平台"
+      "date": "2026-06-18",
+      "title": "Agent-Reach CLI 使 AI 代理可免费浏览多平台内容。"
     },
     "https://github.com/alibaba/open-code-review": {
       "date": "2026-06-11",
@@ -65,121 +65,9 @@
       "date": "2026-06-11",
       "title": "TypeScript-based DeepSeek AI 模型 GUI 工作区，支持 Code 和 Claw 模式"
     },
-    "https://github.com/aaif-goose/goose": {
-      "date": "2026-06-10",
-      "title": "Rust AI 代理 Goose 在 24 小时内获得 21 颗星"
-    },
-    "https://github.com/GyulyVGC/sniffnet": {
-      "date": "2026-06-10",
-      "title": "Sniffnet 在 24 小时内获 14 颗星，成为 Rust 网络流量监控工具"
-    },
     "https://github.com/refactoringhq/tolaria": {
       "date": "2026-06-16",
       "title": "Tolaria：基于 TypeScript 的 Markdown 知识库桌面应用"
-    },
-    "https://www.anthropic.com/news/claude-fable-5-mythos-5": {
-      "date": "2026-06-10",
-      "title": "Anthropic 发布 Claude Fable 5，性能提升并加强安全防护"
-    },
-    "https://staniks.github.io/articles/catlantean-3d-blog-1/": {
-      "date": "2026-06-10",
-      "title": "像 1993 年一样制作图形"
-    },
-    "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html": {
-      "date": "2026-06-10",
-      "title": "如果 Claude Fable 不再帮助你，你永远不会知道"
-    },
-    "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/": {
-      "date": "2026-06-10",
-      "title": "微软开源 AI 工具遭供应链攻击窃取密码"
-    },
-    "https://perspectives.mvdirona.com/2026/06/flat-datacenter-networks-at-scale/": {
-      "date": "2026-06-10",
-      "title": "亚马逊发布弹性网络图平面数据中心网络"
-    },
-    "https://letsencrypt.org/documents/LE-SA-v1.7-June-04-2026-diff.pdf": {
-      "date": "2026-06-10",
-      "title": "Let's Encrypt 禁止在美国制裁地区使用证书"
-    },
-    "https://www.reuters.com/business/apple-failed-make-its-ai-tool-comply-eu-regulations-eu-commission-says-2026-06-09/": {
-      "date": "2026-06-10",
-      "title": "苹果因豁免请求被拒暂停在欧盟推出 Siri AI。"
-    },
-    "https://www.404media.co/fcc-wants-to-kill-burner-phones-by-forcing-telecoms-to-get-all-customers-ids/": {
-      "date": "2026-06-10",
-      "title": "FCC 提议要求电信运营商收集所有用户身份证件，以终结匿名预付手机"
-    },
-    "https://stratechery.com/2026/the-iphones-last-stand/": {
-      "date": "2026-06-10",
-      "title": "iPhone 是否面临最后的重大挑战？"
-    },
-    "https://www.apollo.com/wealth/the-daily-spark/where-is-the-ai-jobs-crisis": {
-      "date": "2026-06-10",
-      "title": "关于 AI 是否导致就业危机或裁员仅是疫情后正常化的争论"
-    },
-    "https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/": {
-      "date": "2026-06-10",
-      "title": "GitHub 宣布 npm v12 即将推出的重大变更"
-    },
-    "https://aarushgupta.io/posts/kan-fpga/": {
-      "date": "2026-06-10",
-      "title": "使用 Kolmogorov-Arnold 网络实现 FPGA 超快机器学习推理"
-    },
-    "https://tratt.net/laurie/blog/2026/test_case_reducers_are_underappreciated_debugging_tools.html": {
-      "date": "2026-06-10",
-      "title": "测试用例缩减器被强调为强大却被忽视的调试工具"
-    },
-    "https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/": {
-      "date": "2026-06-10",
-      "title": "文章批评将 AI 视为替代员工的 CEO 缺乏想象力"
-    },
-    "https://arxiv.org/abs/2605.15184": {
-      "date": "2026-06-10",
-      "title": "论文测试 grep 加 agentic 推理用于长上下文搜索"
-    },
-    "https://news.ycombinator.com/item?id=48463273": {
-      "date": "2026-06-10",
-      "title": "Transload 利用现有 CCTV 自动测量货运尺寸"
-    },
-    "https://qunabu.github.io/Gravity/": {
-      "date": "2026-06-10",
-      "title": "Gravity：从牛顿到爱因斯坦的交互式太阳系模拟器。"
-    },
-    "https://simonwillison.net/2026/Jun/8/wwdc/#atom-everything": {
-      "date": "2026-06-10",
-      "title": "苹果在 WWDC 2026 揭晓基于 Gemini 的 Siri AI"
-    },
-    "https://biffweb.com/p/core/": {
-      "date": "2026-06-10",
-      "title": "Biff.core 为 Clojure Web 应用引入系统组合框架。"
-    },
-    "https://alpinelinux.org/posts/Alpine-3.24.0-released.html": {
-      "date": "2026-06-10",
-      "title": "Alpine Linux 3.24.0 发布，带更新包和 musl 改进"
-    },
-    "https://simonwillison.net/2026/Jun/9/andrej-karpathy/#atom-everything": {
-      "date": "2026-06-10",
-      "title": "安德烈·卡帕西指出 AI 生成的软件触发杰文斯悖论，导致需求上升。"
-    },
-    "https://www.404media.co/this-company-will-add-phone-airpod-and-smartwatch-trackers-to-license-plate-readers/": {
-      "date": "2026-06-10",
-      "title": "公司计划在车牌识别系统中加入手机、AirPod 和智能手表追踪"
-    },
-    "https://simonwillison.net/2026/Jun/9/agentsview-custom-model-price/#atom-everything": {
-      "date": "2026-06-10",
-      "title": "在 AgentsView 中为模型设置自定义价格"
-    },
-    "https://github.com/signalblur/exifsmugglingpoc": {
-      "date": "2026-06-10",
-      "title": "概念验证展示如何在 JPEG EXIF 字段中隐藏数据"
-    },
-    "https://blog.gitbutler.com/true-grit": {
-      "date": "2026-06-10",
-      "title": "Grit：基于 Rust 的使用 AI 代理的 Git 重新实现"
-    },
-    "https://github.com/epoko77-ai/im-not-ai": {
-      "date": "2026-06-10",
-      "title": "GitHub 仓库发布 Python 工具，使 AI 生成文本看似人类撰写"
     },
     "https://github.com/santifer/career-ops": {
       "date": "2026-06-14",
@@ -188,10 +76,6 @@
     "https://github.com/luongnv89/claude-howto": {
       "date": "2026-06-12",
       "title": "GitHub 仓库 luongnv89/claude-howto 提供 Claude Code 的可视化指南"
-    },
-    "https://github.com/router-for-me/CLIProxyAPI": {
-      "date": "2026-06-10",
-      "title": "CLIProxyAPI 将多个 AI CLI 包装为统一的 OpenAI 兼容 API。"
     },
     "https://github.com/tashfeenahmed/freellmapi": {
       "date": "2026-06-13",
@@ -294,8 +178,8 @@
       "title": "杰里米·霍华德呼吁顶尖 AI 实验室停止使用自身领先模型"
     },
     "https://github.com/hugohe3/ppt-master": {
-      "date": "2026-06-17",
-      "title": "Python 工具将文档转换为可编辑的 PowerPoint，含动画和音频旁白"
+      "date": "2026-06-18",
+      "title": "AI 驱动的 Python 工具可将文档转换为可编辑的 PowerPoint 演示文稿"
     },
     "https://github.com/astral-sh/uv/releases/tag/0.11.20": {
       "date": "2026-06-11",
@@ -702,8 +586,8 @@
       "title": "裸 Linux 启动：从零构建最小内核"
     },
     "https://github.com/omnigent-ai/omnigent": {
-      "date": "2026-06-17",
-      "title": "Omnigent AI 发布基于 Python 的 AI 代理元套件"
+      "date": "2026-06-18",
+      "title": "Omnigent AI 发布 Python 元哈ーネ斯，支持代理切换与协作"
     },
     "https://github.com/OpenBMB/VoxCPM": {
       "date": "2026-06-17",
@@ -746,12 +630,12 @@
       "title": "兽医转行创始人推出免费 AI 草坪诊断工具"
     },
     "https://github.com/DietrichGebert/ponytail": {
-      "date": "2026-06-17",
-      "title": "Ponytail GitHub 仓库在 24 小时内获得 191 颗星，推崇懒惰 AI 代码生成"
+      "date": "2026-06-18",
+      "title": "Ponytail：让 AI 代理像懒惰的资深开发者一样编写最少代码"
     },
     "https://github.com/GoogleCloudPlatform/knowledge-catalog": {
-      "date": "2026-06-17",
-      "title": "Google Cloud Platform 发布 Knowledge Catalog Python 工具库，24 小时获 27 颗星"
+      "date": "2026-06-18",
+      "title": "Google Cloud Knowledge Catalog 仓库在 24 小时内获得 13 颗星"
     },
     "https://github.com/itsfatduck/optimizerDuck": {
       "date": "2026-06-16",
@@ -876,6 +760,102 @@
     "https://github.com/Yuan1z0825/nature-skills": {
       "date": "2026-06-17",
       "title": "Python 仓库提供 Nature 期刊图表模板，24 小时获 11 颗星"
+    },
+    "https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/": {
+      "date": "2026-06-18",
+      "title": "美国暂缓将 DeepSeek 列入实体清单，因更广泛的中美技术制裁。"
+    },
+    "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index": {
+      "date": "2026-06-18",
+      "title": "GLM-5.2 在 Artificial Analysis 智能指数中成为领先开放权重模型"
+    },
+    "https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/": {
+      "date": "2026-06-18",
+      "title": "美国科学因政科学合作破裂而陷入混乱"
+    },
+    "https://arstechnica.com/information-technology/2026/06/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct/": {
+      "date": "2026-06-18",
+      "title": "特斯科因博通许可政策反弹将 4 万工作负载从 VMware 迁移。"
+    },
+    "https://openai.com/index/ai-chemist-improves-reaction/": {
+      "date": "2026-06-18",
+      "title": "OpenAI AI 化学家提升困难药物化学反应产率。"
+    },
+    "https://lore.org/": {
+      "date": "2026-06-18",
+      "title": "Lore：面向可扩展游戏开发的开源版本控制系统"
+    },
+    "https://openrouter.ai/blog/insights/royale-last-agent-standing/": {
+      "date": "2026-06-18",
+      "title": "OpenRouter 推出机器人短跑基准测试，比较 Claude 与 Grok"
+    },
+    "https://github.com/Adam-CAD/CADAM": {
+      "date": "2026-06-18",
+      "title": "Adam 发布开源 AI CAD 平台 CADAM，基于 LLM 和 OpenSCAD"
+    },
+    "https://ribbie.tv/watch": {
+      "date": "2026-06-18",
+      "title": "展示 HN：实时 MLB 比赛以 8‑Bit 像素艺术直播"
+    },
+    "https://www.rfc-editor.org/info/rfc10008/": {
+      "date": "2026-06-18",
+      "title": "RFC 10008 标准化新的 HTTP QUERY 方法"
+    },
+    "https://discuss.grapheneos.org/d/35949-volkswagen-app?page=3": {
+      "date": "2026-06-18",
+      "title": "大众汽车因 Play Protect 限制封锁 GrapheneOS 用户"
+    },
+    "https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/": {
+      "date": "2026-06-18",
+      "title": "The Competitive Moat That AI Can't Replicate"
+    },
+    "https://bubbles.town/": {
+      "date": "2026-06-18",
+      "title": "Bubbles.town 推出类 Hacker News 的独立博客聚合器"
+    },
+    "https://simonwillison.net/2026/Jun/17/charity-majors/#atom-everything": {
+      "date": "2026-06-18",
+      "title": "Charity Majors 指出 AI 使代码生产变得廉价且可一次性使用"
+    },
+    "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/": {
+      "date": "2026-06-18",
+      "title": "泄露文件显示 OpenAI 每年亏损数十亿美元"
+    },
+    "https://www.thesignalist.io/s/the-dialogue-dividend/": {
+      "date": "2026-06-18",
+      "title": "与他人大声思考胜过独自思考"
+    },
+    "https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars": {
+      "date": "2026-06-18",
+      "title": "Photobucket 收取 5 美元以在删除非活跃账户前恢复图片"
+    },
+    "https://github.com/rxi/microui": {
+      "date": "2026-06-18",
+      "title": "MicroUI – 一个用 ANSI C 编写的微型可移植即时模式 UI 库"
+    },
+    "https://github.com/alibaba/zvec": {
+      "date": "2026-06-18",
+      "title": "阿里巴巴发布轻量级进程内向量数据库 zvec"
+    },
+    "https://claude.com/blog/the-founders-playbook": {
+      "date": "2026-06-18",
+      "title": "创始人指南：如何打造 AI 原生初创公司"
+    },
+    "https://simonwillison.net/2026/Jun/17/click-to-play-component/#atom-everything": {
+      "date": "2026-06-18",
+      "title": "点击播放 Web 组件按需加载 GIF"
+    },
+    "https://simonwillison.net/2026/Jun/17/netnewswire-status/#atom-everything": {
+      "date": "2026-06-18",
+      "title": "Simon Willison 赞扬 Brent Simmons 退休后的 NetNewsWire"
+    },
+    "https://kevin.burke.dev/kevin/walnut-creek-single-stair/": {
+      "date": "2026-06-18",
+      "title": "沃尔纳特克里克的单楼梯规定阻止了带游乐场的三居室公寓。"
+    },
+    "https://flickey.site/": {
+      "date": "2026-06-18",
+      "title": "免费 macOS 菜单栏应用可纠正错误键盘布局输入"
     }
   }
 }
