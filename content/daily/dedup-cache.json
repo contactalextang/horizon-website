@@ -29,14 +29,6 @@
       "date": "2026-06-19",
       "title": "Leonxlnx/taste-skill 在 24 小时内获 21 颗星，提供 AI 味觉技能。"
     },
-    "https://github.com/datawhalechina/hello-agents": {
-      "date": "2026-06-12",
-      "title": "Datawhalechina 发布 hello-agents Python 教程，构建 AI 智能体"
-    },
-    "https://github.com/ZhuLinsen/daily_stock_analysis": {
-      "date": "2026-06-12",
-      "title": "开源 LLM 驱动的 A/H/美股智能分析工具受关注"
-    },
     "https://github.com/pbakaus/impeccable": {
       "date": "2026-06-16",
       "title": "pbakaus/impeccable 在 24 小时内获得 15 颗星，推出 AI 设计语言"
@@ -48,10 +40,6 @@
     "https://github.com/lfnovo/open-notebook": {
       "date": "2026-06-16",
       "title": "开源 TypeScript 版 NotebookLM 在 24 小时内获得 31 颗星"
-    },
-    "https://github.com/RyanCodrai/turbovec": {
-      "date": "2026-06-12",
-      "title": "Turbovec：带有 Python 绑定的 Rust 向量索引在 24 小时内获得 15 颗星"
     },
     "https://github.com/Panniantong/Agent-Reach": {
       "date": "2026-06-19",
@@ -65,10 +53,6 @@
       "date": "2026-06-14",
       "title": "AI 驱动的求职应用 career-ops 在 24 小时内获得 17 颗星"
     },
-    "https://github.com/luongnv89/claude-howto": {
-      "date": "2026-06-12",
-      "title": "GitHub 仓库 luongnv89/claude-howto 提供 Claude Code 的可视化指南"
-    },
     "https://github.com/tashfeenahmed/freellmapi": {
       "date": "2026-06-13",
       "title": "GitHub 仓库 freellmapi 推出 OpenAI 兼容代理，聚合免费层 LLM 密钥"
@@ -81,113 +65,9 @@
       "date": "2026-06-19",
       "title": "AI 驱动的工具可将文档转换为可编辑的 PowerPoint 演示文稿"
     },
-    "https://brew.sh/2026/06/11/homebrew-6.0.0/": {
-      "date": "2026-06-12",
-      "title": "Homebrew 6.0.0：Tap 信任安全机制、更快 JSON API、Linux 沙箱及 macOS 27 支持"
-    },
-    "https://www.kennethpayne.uk/p/shall-we-play-a-game": {
-      "date": "2026-06-12",
-      "title": "LLMs 在 95% 的战争游戏模拟中选择使用战术核武器"
-    },
-    "https://mimo.xiaomi.com/mimocode": {
-      "date": "2026-06-12",
-      "title": "小米发布开源 MiMo Code AI 编程助手"
-    },
-    "https://mrbruh.com/amd2/": {
-      "date": "2026-06-12",
-      "title": "AMD 拒绝修复软件更新器中的 RCE 漏洞，仅提供弱 CRC-32 补丁"
-    },
-    "https://waymo.com/blog/2026/06/waymo-premier/": {
-      "date": "2026-06-12",
-      "title": "Waymo 推出 Waymo Premier 自动驾驶叫车订阅服务"
-    },
-    "https://github.com/huggingface/open-r1": {
-      "date": "2026-06-12",
-      "title": "Hugging Face 发布 open-r1 以复现 DeepSeek-R1 推理能力"
-    },
-    "https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/": {
-      "date": "2026-06-12",
-      "title": "对 AI 生成代码炒作和代码行数生产力指标的批判"
-    },
-    "https://www.theguardian.com/us-news/2026/jun/11/solar-energy-us-coal": {
-      "date": "2026-06-12",
-      "title": "太阳能首次超过煤炭成为美国最大电力来源"
-    },
-    "https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/#atom-everything": {
-      "date": "2026-06-12",
-      "title": "Anthropic 撤回 Claude 前沿 LLM 研究隐藏政策"
-    },
-    "https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416": {
-      "date": "2026-06-12",
-      "title": "请愿书呼吁撤销加拿大法案 C-22 因隐私担忧"
-    },
-    "https://zed.dev/blog/introducing-deltadb": {
-      "date": "2026-06-12",
-      "title": "Zed 编辑器推出 DeltaDB 以实现细粒度变更追踪"
-    },
-    "https://github.com/icitry/FPS.cob": {
-      "date": "2026-06-12",
-      "title": "FPS.cob：基于 COBOL 的光线追踪第一人称射击游戏"
-    },
-    "https://simonwillison.net/2026/Jun/11/datasette/#atom-everything": {
-      "date": "2026-06-12",
-      "title": "Datasette 1.0a33 将 _extra 模式扩展到查询和行"
-    },
-    "https://github.com/addyosmani/agent-skills": {
-      "date": "2026-06-12",
-      "title": "Addy Osmani 发布 agent-skills 仓库以提升 AI 编码代理能力。"
-    },
-    "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype": {
-      "date": "2026-06-12",
-      "title": "Claude Fable 5 在编码任务中表现中等，受超时和记忆作弊影响"
-    },
-    "https://simonwillison.net/2026/Jun/10/datasette-agent/#atom-everything": {
-      "date": "2026-06-12",
-      "title": "Datasette-agent 0.2a0 新增交互式提问和保存查询工具"
-    },
     "https://github.com/masterking32/MasterDnsVPN": {
       "date": "2026-06-14",
       "title": "MasterDnsVPN：基于 Go 的 DNS 隧道 VPN，24 小时获 13 星"
-    },
-    "https://github.com/astral-sh/uv/releases/tag/0.11.21": {
-      "date": "2026-06-12",
-      "title": "uv 0.11.21 添加 Python 3.13.14 和 3.14.6 支持、预览功能及性能改进"
-    },
-    "https://fablepool.com/": {
-      "date": "2026-06-12",
-      "title": "FablePool 启动众筹 AI 软件构建平台"
-    },
-    "https://www.ssp.sh/brain/travel-where-you-are/": {
-      "date": "2026-06-12",
-      "title": "鼓励本地旅行：在家附近寻找乐趣"
-    },
-    "https://www.righto.com/2012/02/apple-didnt-revolutionize-power.html": {
-      "date": "2026-06-12",
-      "title": "苹果电源效率提升归功于晶体管进步而非设计"
-    },
-    "https://www.mayrhofer.eu.org/post/leaving-google/": {
-      "date": "2026-06-12",
-      "title": "前谷歌员工因詹姆斯·达莫尔事件后被感知的道德指南针丧失而辞职"
-    },
-    "https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/": {
-      "date": "2026-06-12",
-      "title": "宝可梦 Go 扫描数据训练军用无人机导航"
-    },
-    "https://simonwillison.net/2026/Jun/11/asyncinject/#atom-everything": {
-      "date": "2026-06-12",
-      "title": "asyncinject 0.7 发布，修复了 Claude Fable 5 发现的错误"
-    },
-    "https://github.com/coder/boo": {
-      "date": "2026-06-12",
-      "title": "Boo：基于 libghostty 的新型终端复用器"
-    },
-    "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/": {
-      "date": "2026-06-12",
-      "title": "调查揭示勒索软件集团‘绅士’的领导"
-    },
-    "https://github.com/activeloopai/hivemind": {
-      "date": "2026-06-12",
-      "title": "ActiveloopAI 发布 Hivemind，一种用于统一 AI 代理协调的 TypeScript 框架"
     },
     "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/": {
       "date": "2026-06-13",
@@ -856,6 +736,62 @@
     "https://github.com/heygen-com/hyperframes": {
       "date": "2026-06-19",
       "title": "HeyGen 发布 HyperFrames，面向 AI 代理的 TypeScript HTML 视频渲染库"
+    },
+    "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a": {
+      "date": "2026-06-20",
+      "title": "Project Valhalla 的值类特性将在 JDK 28 中发布，历时十年"
+    },
+    "https://overreacted.io/there-are-no-instances-in-atproto/": {
+      "date": "2026-06-20",
+      "title": "ATProto 中没有实例"
+    },
+    "https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech": {
+      "date": "2026-06-20",
+      "title": "新法案旨在对抗政府施压以沉默合法在线言论"
+    },
+    "https://aiclambake.com/clamtakes/linear-a/": {
+      "date": "2026-06-20",
+      "title": "业余爱好者声称使用 AI 工具破译了线性 A 文字"
+    },
+    "https://github.com/astral-sh/uv/releases/tag/0.11.22": {
+      "date": "2026-06-20",
+      "title": "uv 0.11.22 发布：加入轮子先发布、环境变量、预览特性及解析器性能提升"
+    },
+    "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/": {
+      "date": "2026-06-20",
+      "title": "挪威在小学实施近乎禁止使用 AI"
+    },
+    "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/": {
+      "date": "2026-06-20",
+      "title": "Hyundai buys Boston Dynamics"
+    },
+    "https://www.eff.org/deeplinks/2026/06/court-records-should-be-free": {
+      "date": "2026-06-20",
+      "title": "EFF 呼吁免费公开获取法院记录"
+    },
+    "https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314": {
+      "date": "2026-06-20",
+      "title": "Companies rein in AI usage as costs strain budgets"
+    },
+    "https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything": {
+      "date": "2026-06-20",
+      "title": "Datasette Apps 插件支持在 Datasette 内托管沙箱 HTML+JS 应用"
+    },
+    "https://vocabowl-870366514258.us-west1.run.app/": {
+      "date": "2026-06-20",
+      "title": "在线测验测试 170,000 个英语单词的掌握情况"
+    },
+    "https://tales.fromprod.com/2026/169/google-workspace-threatening-to-block-firefox.html": {
+      "date": "2026-06-20",
+      "title": "Google Workspace 管理员可通过 Context-Aware Access 阻止 Firefox 访问"
+    },
+    "https://www.the-independent.com/arts-entertainment/films/news/sam-altman-biopic-amazon-openai-deal-b2999321.html": {
+      "date": "2026-06-20",
+      "title": "亚马逊在宣布 OpenAI 合作后取消萨姆·阿尔特曼传记电影"
+    },
+    "https://www.theescapenewsletter.com/p/the-airpods-effect": {
+      "date": "2026-06-20",
+      "title": "AirPods 使人们在拥挤环境中获得个人听觉空间"
     }
   }
 }
