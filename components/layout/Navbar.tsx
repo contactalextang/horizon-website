@@ -31,6 +31,8 @@ export default function Navbar({ locale }: Props) {
   }).replace(/(\d+)\/(\d+)\/(\d+)/, '$3·$1·$2')
 
   const navItems = [
+    { href: '/makancloud', label: t('makancloud') },
+    { href: '/buildlog', label: t('buildlog') },
     { href: '/daily', label: t('daily') },
     ...(locale === 'zh' ? [{ href: '/investment', label: '投资简报' }] : []),
     { href: '/projects', label: t('projects') },

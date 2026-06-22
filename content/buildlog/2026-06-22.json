@@ -1,0 +1,23 @@
+{
+  "date": "2026-06-22",
+  "title": {
+    "en": "Two Weeks of Sprints: POS, Stripe, and Knowing When to Pivot",
+    "zh": "两周冲刺：POS、Stripe，以及什么时候该掉头"
+  },
+  "summary": {
+    "en": "Pushing MakanCloud through three sprints taught me more from the deviations than from the plan itself.",
+    "zh": "把膳云 MakanCloud 推过三个 sprint，让我学到最多的不是计划本身，而是那些偏差。"
+  },
+  "body": {
+    "en": "## What I actually shipped\n\nMost of these two weeks went into MakanCloud, the restaurant ops product I'm building. The bulk of the work was making the POS layer generic instead of hard-wired to one setup — terminal management UI, registration flow, and the plumbing that lets a new merchant onboard without me holding their hand. I also spun up a local dev database from scratch (carefully kept away from anything production touches) and wrote a full click-through HTML test sheet so the whole \"create a new merchant\" path can be verified by a human, not just by hope.\n\n## The pivot that mattered\n\nMidway through, I hit a wall: a payments milestone was blocked because the Stripe account simply wasn't ready yet. The honest move was to stop pretending it would appear and reorder the work — so I spent that time polishing the registration UX instead, then came back and wrote the Stripe integration docs once the path was clear. Small lesson, but a real one: a blocked task isn't a reason to stall the sprint, it's a signal to resequence.\n\n## Reviewing my own deviations\n\nThe habit that paid off most was the boring one — before each new sprint, reading back the previous plan and asking plainly: what did I actually finish, where did I drift, and what does that drift cost the next sprint? Planning forward feels productive; reviewing backward is what keeps the forecast honest.\n\nElsewhere I paused some automated daily content jobs (resuming mid-month), looked into why a side project's site is hard to reach from inside China, and cleaned up a folder that kept filling with stray temp files. Not glamorous, but that's most of building in public.\n\nIf you want a system like this built — or custom software for your own ops — feel free to reach out.",
+    "zh": "## 这两周真正交付了什么\n\n大部分时间都投在膳云 MakanCloud——我在做的餐饮运营产品上。核心工作是把 POS 层从「只为一种配置写死」改成通用化：终端管理界面、注册流程，以及让新商户能自助上手、不用我手把手带的那套底层逻辑。我还从零初始化了一套本地开发数据库（小心翼翼地和生产环境彻底隔离），并写了一份完整的点击式 HTML 测试清单，让「创建新商户」的整条流程能由人真正走一遍，而不是靠运气。\n\n## 那次值得记的掉头\n\n中途撞了墙：一个支付相关的里程碑卡住了，因为 Stripe 账号还没就绪。诚实的做法是别再假装它会自己冒出来，而是重排顺序——于是我把那段时间拿去打磨注册页的 UX，等路径清晰后再回来补 Stripe 集成文档。小道理，但很真实：一个被卡住的任务不是停摆整个 sprint 的理由，而是该重新排序的信号。\n\n## 复盘自己的偏差\n\n收益最大的反而是最枯燥的习惯——每开新 sprint 前，回读上一份计划，老实问自己：实际完成了什么、在哪里跑偏了、这些偏差会让下个 sprint 付出什么代价。往前规划让人感觉高效，往后复盘才让预期保持诚实。\n\n其余还做了些杂活：暂停了几个每天自动出内容的定时任务（本月中恢复）、排查一个副项目的网站在中国境内难以访问的问题、清理了一个总在堆积临时文件的文件夹。算不上光鲜，但 building in public 大半就是这些。\n\n如果你也想做类似的系统，或者需要为自己的业务定制软件，欢迎找我聊。\n\n（本文仅为开发记录，不构成投资建议。）"
+  },
+  "tags": [
+    "building-in-public",
+    "AI",
+    "MakanCloud",
+    "POS",
+    "Stripe",
+    "sprint-review"
+  ]
+}

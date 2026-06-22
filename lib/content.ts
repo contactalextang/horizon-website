@@ -4,6 +4,8 @@ import matter from 'gray-matter'
 import type { DailyMeta, DailyPost } from '@/types/daily'
 import type { InvestmentMeta, InvestmentPost } from '@/types/investment'
 import type { Project } from '@/types/project'
+import type { WhatsNewItem } from '@/types/makancloud'
+import type { BuildlogEntry, BuildlogFile } from '@/types/buildlog'
 import { parseHorizonMarkdown, parseStats } from './daily-parser'
 import { dateFromInvestmentFilename, parseInvestmentMarkdown } from './investment-parser'
 import { renderMarkdownToHtml } from './markdown'
@@ -12,6 +14,8 @@ const CONTENT_DIR = path.join(process.cwd(), 'content')
 const DAILY_DIR = path.join(CONTENT_DIR, 'daily')
 const INVESTMENT_DIR = path.join(CONTENT_DIR, 'investment')
 const PROJECTS_DIR = path.join(CONTENT_DIR, 'projects')
+const MAKANCLOUD_DIR = path.join(CONTENT_DIR, 'makancloud')
+const BUILDLOG_DIR = path.join(CONTENT_DIR, 'buildlog')
 
 // ─── Daily Posts ────────────────────────────────────────────────
 
@@ -157,4 +161,54 @@ export function getAllProjects(): Project[] {
 
 export function getFeaturedProjects(): Project[] {
   return getAllProjects().filter(p => p.featured)
+}
+
+// ─── MakanCloud What's New（由 sync 脚本从膳云 changelog 维护）──────
+
+export function getMakanWhatsNew(): WhatsNewItem[] {
+  const file = path.join(MAKANCLOUD_DIR, 'whatsnew.json')
+  if (!fs.existsSync(file)) return []
+  try {
+    const data = JSON.parse(fs.readFileSync(file, 'utf8'))
+    const items: WhatsNewItem[] = Array.isArray(data.items) ? data.items : []
+    return items
+      .filter(i => i && i.date && (i.zh || i.en))
+      .sort((a, b) => b.date.localeCompare(a.date))
+  } catch {
+    return []
+  }
+}
+
+// ─── Build log（building-in-public，仅放已审核条目）─────────────
+
+function readBuildlogFile(file: string, locale: 'en' | 'zh'): BuildlogEntry | null {
+  try {
+    const data = JSON.parse(fs.readFileSync(path.join(BUILDLOG_DIR, file), 'utf8')) as BuildlogFile
+    if (!data.date) return null
+    const pickLocale = (b: { en: string; zh: string }) => b[locale] || b.zh || b.en || ''
+    return {
+      slug: data.date,
+      date: data.date,
+      title: pickLocale(data.title),
+      summary: pickLocale(data.summary),
+      bodyMarkdown: pickLocale(data.body),
+      tags: data.tags || [],
+    }
+  } catch {
+    return null
+  }
+}
+
+export function getAllBuildlog(locale: 'en' | 'zh'): BuildlogEntry[] {
+  if (!fs.existsSync(BUILDLOG_DIR)) return []
+  return fs.readdirSync(BUILDLOG_DIR)
+    .filter(f => f.endsWith('.json') && !f.startsWith('_'))
+    .map(f => readBuildlogFile(f, locale))
+    .filter((e): e is BuildlogEntry => e !== null)
+    .sort((a, b) => b.date.localeCompare(a.date))
+}
+
+export function getBuildlogEntry(slug: string, locale: 'en' | 'zh'): BuildlogEntry | null {
+  if (!fs.existsSync(path.join(BUILDLOG_DIR, `${slug}.json`))) return null
+  return readBuildlogFile(`${slug}.json`, locale)
 }

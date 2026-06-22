@@ -2,7 +2,9 @@
   "nav": {
     "daily": "每日简报",
     "projects": "项目展示",
-    "about": "关于"
+    "about": "关于",
+    "makancloud": "膳云",
+    "buildlog": "开发日志"
   },
   "footer": {
     "copy": "© 2026 · AI 驱动"

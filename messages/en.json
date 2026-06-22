@@ -2,7 +2,9 @@
   "nav": {
     "daily": "Daily",
     "projects": "Projects",
-    "about": "About"
+    "about": "About",
+    "makancloud": "MakanCloud",
+    "buildlog": "Build log"
   },
   "footer": {
     "copy": "© 2026 · Powered by AI"

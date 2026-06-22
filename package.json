@@ -6,7 +6,8 @@
     "dev": "next dev",
     "test": "node --test tests/*.test.mjs",
     "sync:investment": "node scripts/sync-investment-content.mjs",
-    "prebuild": "node scripts/sync-investment-content.mjs",
+    "sync:makancloud": "node scripts/sync-makancloud-whatsnew.mjs",
+    "prebuild": "node scripts/sync-investment-content.mjs && node scripts/sync-makancloud-whatsnew.mjs",
     "build": "next build",
     "start": "next start"
   },
