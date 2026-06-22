@@ -31,7 +31,7 @@ const serif = "'EB Garamond',var(--font-garamond),Georgia,serif"
 export default async function MakanCloudPage({ params }: Props) {
   const { locale } = await params
   const whatsNew = getMakanWhatsNew()
-  const tryUrl = process.env.NEXT_PUBLIC_MAKAN_URL || `/${locale}/about`
+  const tryUrl = process.env.NEXT_PUBLIC_MAKAN_URL || 'https://makancloud.com/register'
 
   const jsonld = [
     makanCloudJsonLd(locale),
