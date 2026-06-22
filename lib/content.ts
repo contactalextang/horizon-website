@@ -187,7 +187,7 @@ function readBuildlogFile(file: string, locale: 'en' | 'zh'): BuildlogEntry | nu
     if (!data.date) return null
     const pickLocale = (b: { en: string; zh: string }) => b[locale] || b.zh || b.en || ''
     return {
-      slug: data.date,
+      slug: data.slug || data.date,
       date: data.date,
       title: pickLocale(data.title),
       summary: pickLocale(data.summary),
@@ -209,6 +209,17 @@ export function getAllBuildlog(locale: 'en' | 'zh'): BuildlogEntry[] {
 }
 
 export function getBuildlogEntry(slug: string, locale: 'en' | 'zh'): BuildlogEntry | null {
-  if (!fs.existsSync(path.join(BUILDLOG_DIR, `${slug}.json`))) return null
-  return readBuildlogFile(`${slug}.json`, locale)
+  // 先试精确文件名匹配
+  const direct = path.join(BUILDLOG_DIR, `${slug}.json`)
+  if (fs.existsSync(direct)) return readBuildlogFile(`${slug}.json`, locale)
+  // 再扫描所有文件，按 slug 字段查找（自动发布的文件 slug != filename）
+  if (!fs.existsSync(BUILDLOG_DIR)) return null
+  const match = fs.readdirSync(BUILDLOG_DIR).find(f => {
+    if (!f.endsWith('.json') || f.startsWith('_')) return false
+    try {
+      const data = JSON.parse(fs.readFileSync(path.join(BUILDLOG_DIR, f), 'utf8'))
+      return (data.slug || data.date) === slug
+    } catch { return false }
+  })
+  return match ? readBuildlogFile(match, locale) : null
 }
