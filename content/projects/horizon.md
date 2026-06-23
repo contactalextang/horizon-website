@@ -10,7 +10,7 @@ github_url: "https://github.com/contactalextang/Horizon"
 featured: true
 date: "2026-05-20"
 status: "active"
-order: 1
+order: 3
 ---
 
 ## 功能特点

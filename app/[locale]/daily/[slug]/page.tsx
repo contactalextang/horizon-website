@@ -28,7 +28,7 @@ export async function generateMetadata({ params }: Props) {
   const post = getDailyPost(slug, locale) ?? getDailyPost(slug, 'en')
   if (!post) return {}
   return {
-    title: `${post.title} — Horizon Daily`,
+    title: `${post.title} — Alex Tang`,
     description: `${post.itemCount} items selected from ${post.totalFetched} total`,
   }
 }

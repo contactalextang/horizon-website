@@ -1,18 +1,17 @@
 {
   "nav": {
-    "daily": "每日简报",
+    "daily": "技术资讯",
+    "investment": "投资研究",
     "projects": "项目展示",
-    "about": "关于",
-    "makancloud": "膳云",
-    "buildlog": "开发日志"
+    "about": "关于"
   },
   "footer": {
     "copy": "© 2026 · AI 驱动"
   },
   "home": {
-    "eyebrow": "AI 智能简报",
-    "title": "今日",
-    "titleEm": "智能简报",
+    "eyebrow": "独立开发者 · AI 产品构建者",
+    "title": "Alex",
+    "titleEm": "Tang",
     "statsSelected": "精选条目",
     "statsFetched": "采集总数",
     "statsSources": "信息源",
@@ -23,8 +22,8 @@
     "viewAll": "查看全部"
   },
   "daily": {
-    "listTitle": "简报归档",
-    "listDesc": "历史 AI 智能简报",
+    "listTitle": "技术资讯归档",
+    "listDesc": "历史 AI 技术资讯简报",
     "items": "条",
     "selected": "精选自",
     "sources": "个来源",

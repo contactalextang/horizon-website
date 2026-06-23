@@ -8,8 +8,8 @@ export async function generateMetadata({ params }: Props) {
   const { locale } = await params
   if (locale !== 'zh') return {}
   return {
-    title: 'AI 投资简报 — Horizon Daily',
-    description: 'AI 产业、资本市场与上市公司每日投研简报',
+    title: '投资研究 — Alex Tang',
+    description: 'AI 产业、资本市场与上市公司每日投研笔记',
   }
 }
 
@@ -24,7 +24,7 @@ export default async function InvestmentListPage({ params }: Props) {
     <main className="page-shell">
       <section className="magazine-hero compact">
         <div className="kicker">AI INVESTMENT RESEARCH</div>
-        <h1>AI 投资简报</h1>
+        <h1>投资研究</h1>
         <p>
           面向 AI 产业链、资本市场、一级市场和技术突破的每日研究笔记。
         </p>
@@ -36,7 +36,7 @@ export default async function InvestmentListPage({ params }: Props) {
       </section>
 
       {posts.length === 0 ? (
-        <p className="muted">暂无投资简报。</p>
+        <p className="muted">暂无投资研究。</p>
       ) : (
         <section className="issue-grid">
           {posts.map(post => (

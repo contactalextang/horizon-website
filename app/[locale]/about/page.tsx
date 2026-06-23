@@ -9,7 +9,7 @@ const serif = "'EB Garamond',var(--font-garamond),Georgia,serif"
 
 export async function generateMetadata({ params }: Props) {
   const { locale } = await params
-  const title = locale === 'zh' ? '关于 — AI 学习 · 软件定制 · 投资交流' : 'About — building with AI, custom software, investing'
+  const title = locale === 'zh' ? '关于 — AI · 软件定制 · 投资交流' : 'About — building with AI, custom software, investing'
   const description =
     locale === 'zh'
       ? '我是一名独立开发者，用 AI 把想法做成真产品（膳云 MakanCloud），承接软件定制，并做投资交流。'
@@ -24,7 +24,7 @@ export async function generateMetadata({ params }: Props) {
 
 const tracks = [
   {
-    kicker: { en: 'Learning in public', zh: 'AI 学习' },
+    kicker: { en: 'AI', zh: 'AI' },
     title: { en: 'Building with AI, every day', zh: '每天和 AI 一起做产品' },
     body: {
       en: 'I work with AI agents (Claude, Codex) on real projects and share the workflows, decisions and pitfalls. AI is the leverage that lets one person ship a full business system.',
@@ -68,7 +68,7 @@ export default async function AboutPage({ params }: Props) {
           {locale === 'zh' ? '关于' : 'About'}
         </div>
         <h1 style={{ fontFamily: serif, fontSize: '32px', fontWeight: locale === 'zh' ? 700 : 400, color: 'var(--text)', lineHeight: 1.2 }}>
-          {locale === 'zh' ? 'AI 学习 · 软件定制 · 投资交流' : 'Building with AI · custom software · investing'}
+          {locale === 'zh' ? 'AI · 软件定制 · 投资交流' : 'Building with AI · custom software · investing'}
         </h1>
         <p style={{ fontSize: '14px', color: 'var(--text2)', lineHeight: 1.8, marginTop: '12px' }}>
           {locale === 'zh'

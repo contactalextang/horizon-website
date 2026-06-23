@@ -13,7 +13,7 @@ export default function Footer() {
         fontFamily: "'STSong','SimSun','Songti SC',Georgia,serif",
         fontSize: '14px', fontWeight: 700, color: 'var(--gold)',
       }}>
-        Horizon
+        Alex Tang
       </span>
       <div style={{ display: 'flex', gap: '18px' }}>
         {[

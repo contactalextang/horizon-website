@@ -11,7 +11,6 @@ export default function Navbar({ locale }: Props) {
   const pathname = usePathname()
   const router = useRouter()
 
-  // Strip leading locale prefix to get the base path
   const basePath = pathname.replace(/^\/(en|zh)/, '') || '/'
 
   function isActive(href: string) {
@@ -24,18 +23,15 @@ export default function Navbar({ locale }: Props) {
     router.push(newPath)
   }
 
-  // Format today's date
   const today = new Date()
   const dateStr = today.toLocaleDateString('en-US', {
     year: 'numeric', month: '2-digit', day: '2-digit'
   }).replace(/(\d+)\/(\d+)\/(\d+)/, '$3·$1·$2')
 
   const navItems = [
-    { href: '/makancloud', label: t('makancloud') },
-    { href: '/buildlog', label: t('buildlog') },
-    { href: '/daily', label: t('daily') },
-    ...(locale === 'zh' ? [{ href: '/investment', label: '投资简报' }] : []),
     { href: '/projects', label: t('projects') },
+    { href: '/daily', label: t('daily') },
+    ...(locale === 'zh' ? [{ href: '/investment', label: t('investment') }] : []),
     { href: '/about', label: t('about') },
   ]
 
@@ -53,11 +49,7 @@ export default function Navbar({ locale }: Props) {
           fontSize: '16px', fontWeight: 700,
           color: 'var(--gold)', letterSpacing: '.06em', textDecoration: 'none',
         }}>
-          Horizon
-          <span style={{ color: 'var(--text3)', margin: '0 6px', fontSize: '10px' }}>·</span>
-          <span style={{ fontSize: '10px', color: 'var(--text3)', fontFamily: "'Courier New',monospace", letterSpacing: '.1em' }}>
-            DAILY
-          </span>
+          Alex Tang
         </Link>
       </div>
 

@@ -4,7 +4,7 @@
  */
 export const SITE_URL = (process.env.NEXT_PUBLIC_SITE_URL || 'https://horizon-daily.vercel.app').replace(/\/$/, '')
 
-export const SITE_NAME = 'Horizon'
+export const SITE_NAME = 'Alex Tang'
 export const SITE_AUTHOR = 'Alex Tang'
 
 export const LOCALES = ['en', 'zh'] as const

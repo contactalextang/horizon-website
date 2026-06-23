@@ -7,7 +7,7 @@ type Props = { params: Promise<{ locale: 'en' | 'zh' }> }
 export async function generateMetadata({ params }: Props) {
   const { locale } = await params
   const t = await getTranslations({ locale, namespace: 'daily' })
-  return { title: `${t('listTitle')} — Horizon Daily` }
+  return { title: `${t('listTitle')} — Alex Tang` }
 }
 
 export default async function DailyListPage({ params }: Props) {
@@ -24,7 +24,7 @@ export default async function DailyListPage({ params }: Props) {
           {locale === 'en' ? 'Archive' : '归档'}
         </div>
         <h1 style={{ fontFamily: "'EB Garamond',var(--font-garamond),Georgia,serif", fontSize: '32px', fontWeight: 400, color: 'var(--text)' }}>
-          {locale === 'en' ? 'Daily Archive' : '简报归档'}
+          {locale === 'en' ? 'Tech News Archive' : '技术资讯归档'}
         </h1>
       </div>
 

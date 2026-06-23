@@ -6,7 +6,7 @@ export const dynamic = 'force-static'
 // llms.txt：给 AI 引擎的站点导览（GEO）。约定见 https://llmstxt.org
 export async function GET() {
   const latestDaily = getAllDailyMeta('en')[0]
-  const body = `# Horizon — Alex Tang
+  const body = `# Alex Tang
 
 > Solo builder shipping real products with AI. Creator of MakanCloud (膳云), a Singapore F&B operations SaaS. Also: custom software, an AI-curated tech digest, and investing notes.
 

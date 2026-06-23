@@ -21,8 +21,8 @@ export async function generateMetadata({ params }: Props) {
   if (!post) return {}
 
   return {
-    title: `${post.title} — AI 投资简报`,
-    description: post.signals[0] || 'AI 产业、资本市场与上市公司每日投研简报',
+    title: `${post.title} — 投资研究 · Alex Tang`,
+    description: post.signals[0] || 'AI 产业、资本市场与上市公司每日投研笔记',
   }
 }
 
@@ -36,7 +36,7 @@ export default async function InvestmentDetailPage({ params }: Props) {
   return (
     <main className="page-shell wide">
       <section className="investment-cover">
-        <Link className="text-link" href="/zh/investment">← 投资简报归档</Link>
+        <Link className="text-link" href="/zh/investment">← 投资研究归档</Link>
         <div className="kicker">{post.date} · AI INVESTMENT RESEARCH</div>
         <h1>{post.title}</h1>
         <div className="issue-meta strong">

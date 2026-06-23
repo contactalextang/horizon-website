@@ -1,18 +1,17 @@
 {
   "nav": {
-    "daily": "Daily",
+    "daily": "Tech News",
+    "investment": "Investment Research",
     "projects": "Projects",
-    "about": "About",
-    "makancloud": "MakanCloud",
-    "buildlog": "Build log"
+    "about": "About"
   },
   "footer": {
     "copy": "© 2026 · Powered by AI"
   },
   "home": {
-    "eyebrow": "AI INTELLIGENCE DIGEST",
-    "title": "Today's Intelligence",
-    "titleEm": "Digest",
+    "eyebrow": "Indie Builder · AI Products",
+    "title": "Alex",
+    "titleEm": "Tang",
     "statsSelected": "Selected Items",
     "statsFetched": "Total Fetched",
     "statsSources": "Sources",
@@ -23,8 +22,8 @@
     "viewAll": "View all"
   },
   "daily": {
-    "listTitle": "Daily Archive",
-    "listDesc": "All past AI intelligence digests",
+    "listTitle": "Tech News Archive",
+    "listDesc": "All past AI tech news digests",
     "items": "items",
     "selected": "selected from",
     "sources": "sources",
