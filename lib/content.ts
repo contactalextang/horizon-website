@@ -98,6 +98,7 @@ export function getAllInvestmentMeta(): InvestmentMeta[] {
         readingMinutes: data.reading_minutes || parsed.readingMinutes,
         sections: data.sections || parsed.sections,
         signals: data.signals || parsed.signals,
+        summary: data.summary || parsed.summary,
       } satisfies InvestmentMeta
     })
     .filter((post): post is InvestmentMeta => post !== null)
@@ -123,6 +124,7 @@ export async function getInvestmentPost(date: string): Promise<InvestmentPost | 
     readingMinutes: data.reading_minutes || parsed.readingMinutes,
     sections: data.sections || parsed.sections,
     signals: data.signals || parsed.signals,
+    summary: data.summary || parsed.summary,
     rawContent: content,
     html: await renderMarkdownToHtml(content),
   }

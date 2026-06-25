@@ -6,6 +6,7 @@ export interface InvestmentMeta {
   readingMinutes: number
   sections: string[]
   signals: string[]
+  summary: string
 }
 
 export interface InvestmentPost extends InvestmentMeta {

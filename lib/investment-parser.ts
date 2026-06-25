@@ -4,6 +4,7 @@ export type ParsedInvestmentMarkdown = {
   readingMinutes: number
   sections: string[]
   signals: string[]
+  summary: string
 }
 
 function cleanHeading(value: string): string {
@@ -56,11 +57,17 @@ export function parseInvestmentMarkdown(content: string, fallbackDate: string): 
       .slice(0, 3)
     : []
 
+  // 概要：抽取正文「一句话阅读引导」blockquote 作为卡片摘要
+  const summaryMatch = content.match(/一句话阅读引导[^：:]*[：:]\s*([^\n]+)/)
+  let summary = summaryMatch ? stripMarkdown(summaryMatch[1]) : ''
+  if (summary.length > 120) summary = summary.slice(0, 118).trimEnd() + '…'
+
   return {
     title,
     date: fallbackDate,
     readingMinutes,
     sections,
     signals,
+    summary,
   }
 }

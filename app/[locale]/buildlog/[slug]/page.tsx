@@ -65,7 +65,7 @@ export default async function BuildlogDetail({ params }: Props) {
         )}
       </div>
 
-      <div className="prose" style={{ fontSize: '15px', color: 'var(--text)', lineHeight: 1.85 }} dangerouslySetInnerHTML={{ __html: html }} />
+      <div className="markdown-article" dangerouslySetInnerHTML={{ __html: html }} />
 
       <div style={{ marginTop: '40px', paddingTop: '20px', borderTop: '1px solid var(--line)' }}>
         <a href={`/${locale}/buildlog`} style={{ fontFamily: mono, fontSize: '11px', color: 'var(--gold)', textDecoration: 'none' }}>

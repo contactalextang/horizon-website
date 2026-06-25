@@ -66,6 +66,145 @@ body {
   --surface-border: var(--line3);
 }
 
+/* ─── Navbar ─────────────────────────────────────────────── */
+.navbar {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 0 24px;
+  border-bottom: 1px solid var(--line);
+  background: rgba(255, 255, 255, 0.92);
+  backdrop-filter: blur(16px);
+}
+
+.navbar-logo {
+  font-family: 'STSong', 'SimSun', 'Songti SC', Georgia, serif;
+  font-size: 16px;
+  font-weight: 700;
+  color: var(--gold);
+  letter-spacing: .06em;
+  text-decoration: none;
+}
+
+.navbar-links {
+  display: flex;
+  align-items: center;
+  gap: 2px;
+  list-style: none;
+  flex: 1;
+}
+
+.navbar-link {
+  display: block;
+  padding: 5px 11px;
+  font-size: 12px;
+  color: var(--text2);
+  text-decoration: none;
+  border-radius: var(--r);
+  border: 1px solid transparent;
+  transition: all .15s;
+}
+
+.navbar-link.is-active {
+  color: var(--gold);
+  border-color: var(--gold2);
+  background: var(--goldbg);
+}
+
+.navbar-right {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-shrink: 0;
+}
+
+.navbar-date {
+  font-family: 'Courier New', monospace;
+  font-size: 10px;
+  color: var(--text3);
+  letter-spacing: .06em;
+}
+
+.navbar-lang {
+  display: flex;
+  align-items: center;
+  gap: 2px;
+  padding: 2px;
+  background: var(--bg3);
+  border: 1px solid var(--line2);
+  border-radius: 16px;
+}
+
+.navbar-lang-btn {
+  padding: 3px 10px;
+  border-radius: 12px;
+  border: none;
+  background: transparent;
+  color: var(--text3);
+  font-family: 'Courier New', monospace;
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: .06em;
+  cursor: pointer;
+  transition: all .18s;
+}
+
+.navbar-lang-btn.is-active {
+  border: 1px solid var(--gold2);
+  background: var(--goldbg2);
+  color: var(--gold);
+}
+
+.navbar-burger {
+  display: none;
+  width: 32px;
+  height: 32px;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid var(--line2);
+  border-radius: var(--r);
+  background: transparent;
+  color: var(--text2);
+  font-size: 15px;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.navbar-menu {
+  position: absolute;
+  top: 50px;
+  left: 0;
+  right: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  padding: 10px 16px 14px;
+  border-bottom: 1px solid var(--line);
+  background: rgba(255, 255, 255, 0.97);
+  backdrop-filter: blur(16px);
+}
+
+.navbar-menu .navbar-link {
+  font-size: 14px;
+  padding: 9px 12px;
+}
+
+@media (max-width: 720px) {
+  .navbar-links,
+  .navbar-date {
+    display: none;
+  }
+
+  .navbar-burger {
+    display: inline-flex;
+  }
+}
+
 .page-shell {
   max-width: 1120px;
   margin: 0 auto;
@@ -182,9 +321,9 @@ body {
 }
 
 .front-feature.investment {
-  background: linear-gradient(145deg, #181511, #2A2114 48%, #0E3B36);
+  background: linear-gradient(160deg, #2C2823 0%, #383021 55%, #27433E 100%);
   color: #fff;
-  border-color: rgba(255,255,255,.16);
+  border-color: rgba(255,255,255,.12);
 }
 
 .front-feature h3 {

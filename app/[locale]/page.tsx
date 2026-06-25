@@ -1,6 +1,5 @@
 import Link from 'next/link'
 import { getAllDailyMeta, getAllInvestmentMeta, getDailyPost, getAllProjects } from '@/lib/content'
-import ItemCard from '@/components/daily/ItemCard'
 
 type Props = { params: Promise<{ locale: 'en' | 'zh' }> }
 
@@ -35,9 +34,10 @@ export default async function HomePage({ params }: Props) {
   const investmentPosts = locale === 'zh' ? getAllInvestmentMeta() : []
   const latestInvestment = investmentPosts[0] || null
 
-  // Projects (all except makancloud which is featured separately)
-  const allProjects = getAllProjects()
-  const otherProjects = allProjects.filter(p => p.slug !== 'makancloud').slice(0, 2)
+  // Projects: 指定三张「更多项目」卡 —— 智囊团 / 内容生产大师 / 量化交易系统
+  const ORDER = ['site-selection', 'content-engine', 'v8-trading']
+  const bySlug = Object.fromEntries(getAllProjects().map(p => [p.slug, p]))
+  const otherProjects = ORDER.map(s => bySlug[s]).filter(Boolean)
 
   const makanBadges = [
     L('门店订货', 'Ordering'), L('中央厨房', 'Kitchen'), L('配送调度', 'Delivery'),
@@ -75,6 +75,68 @@ export default async function HomePage({ params }: Props) {
             {L('查看项目 →', 'View Projects →')}
           </Link>
         </div>
+      </section>
+
+      {/* ══ CONTENT PREVIEW ══ */}
+      <section className="front-grid" style={{ marginTop: '44px' }}>
+        {/* Tech news column */}
+        <div className="front-section">
+          <div className="kicker">{L('技术资讯', 'Tech News')}</div>
+          <h2>{L('最新技术日报', 'Latest Tech Digest')}</h2>
+
+          {latestMeta && latestPost ? (
+            <>
+              <Link className="front-feature" href={`/${locale}/daily/${latestMeta.date}`}>
+                <div className="issue-date">{latestMeta.date}</div>
+                <h3>
+                  {latestPost.status === 'warning'
+                    ? L('今日评分异常诊断', 'Scoring Anomaly Diagnostic')
+                    : L('今日技术情报精选', "Today's Technical Intelligence")}
+                </h3>
+                {latestPost.status !== 'warning' && (
+                  <p>
+                    {latestPost.itemCount} {L('条精选，来自', 'selected from')} {latestPost.totalFetched}
+                    {L(' 条采集内容。', ' fetched items.')}
+                  </p>
+                )}
+                {topStories.length > 0 && (
+                  <ul>{topStories.map(item => <li key={item.index}>{item.title}</li>)}</ul>
+                )}
+              </Link>
+            </>
+          ) : (
+            <p className="muted">{L('暂无技术资讯。', 'No tech digest yet.')}</p>
+          )}
+        </div>
+
+        {/* Investment research column (zh only) */}
+        {locale === 'zh' && (
+          <div className="front-section">
+            <div className="kicker">投资研究</div>
+            <h2>最新投资研究</h2>
+            {latestInvestment ? (
+              <Link className="front-feature investment" href={`/zh/investment/${latestInvestment.slug}`}>
+                <div className="issue-date">{latestInvestment.date}</div>
+                <h3>{latestInvestment.title}</h3>
+                <p>
+                  {latestInvestment.readingMinutes} 分钟阅读，覆盖 {latestInvestment.sections.length} 个产业与市场模块。
+                </p>
+                {latestInvestment.summary && (
+                  <p>{latestInvestment.summary}</p>
+                )}
+                {latestInvestment.signals.length > 0 && (
+                  <ul>{latestInvestment.signals.map(s => <li key={s}>{s}</li>)}</ul>
+                )}
+              </Link>
+            ) : (
+              <p className="muted">暂无投资研究。</p>
+            )}
+            <div style={{ marginTop: '14px', display: 'flex', gap: '10px', flexWrap: 'wrap' }}>
+              <Link className="text-link gold" href="/zh/investment">查看投资研究归档 →</Link>
+              {latestMeta && <Link className="text-link" href={`/zh/daily/${latestMeta.date}`}>阅读技术日报 →</Link>}
+            </div>
+          </div>
+        )}
       </section>
 
       {/* ══ MAKANCLOUD FLAGSHIP ══ */}
@@ -172,71 +234,6 @@ export default async function HomePage({ params }: Props) {
         </section>
       )}
 
-      {/* ══ CONTENT PREVIEW ══ */}
-      <section className="front-grid" style={{ marginTop: '44px' }}>
-        {/* Tech news column */}
-        <div className="front-section">
-          <div className="kicker">{L('技术资讯', 'Tech News')}</div>
-          <h2>{L('最新技术日报', 'Latest Tech Digest')}</h2>
-
-          {latestMeta && latestPost ? (
-            <>
-              <Link className="front-feature" href={`/${locale}/daily/${latestMeta.date}`}>
-                <div className="issue-date">{latestMeta.date}</div>
-                <h3>
-                  {latestPost.status === 'warning'
-                    ? L('今日评分异常诊断', 'Scoring Anomaly Diagnostic')
-                    : L('今日技术情报精选', "Today's Technical Intelligence")}
-                </h3>
-                {latestPost.status !== 'warning' && (
-                  <p>
-                    {latestPost.itemCount} {L('条精选，来自', 'selected from')} {latestPost.totalFetched}
-                    {L(' 条采集内容。', ' fetched items.')}
-                  </p>
-                )}
-                {topStories.length > 0 && (
-                  <ul>{topStories.map(item => <li key={item.index}>{item.title}</li>)}</ul>
-                )}
-              </Link>
-              {latestPost.status !== 'warning' && (
-                <div style={{ marginTop: '14px' }}>
-                  {topStories.map((item, i) => (
-                    <ItemCard key={item.index} item={item} animDelay={i * 0.06} />
-                  ))}
-                </div>
-              )}
-            </>
-          ) : (
-            <p className="muted">{L('暂无技术资讯。', 'No tech digest yet.')}</p>
-          )}
-        </div>
-
-        {/* Investment research column (zh only) */}
-        {locale === 'zh' && (
-          <div className="front-section">
-            <div className="kicker">投资研究</div>
-            <h2>最新投资研究</h2>
-            {latestInvestment ? (
-              <Link className="front-feature investment" href={`/zh/investment/${latestInvestment.slug}`}>
-                <div className="issue-date">{latestInvestment.date}</div>
-                <h3>{latestInvestment.title}</h3>
-                <p>
-                  {latestInvestment.readingMinutes} 分钟阅读，覆盖 {latestInvestment.sections.length} 个产业与市场模块。
-                </p>
-                {latestInvestment.signals.length > 0 && (
-                  <ul>{latestInvestment.signals.map(s => <li key={s}>{s}</li>)}</ul>
-                )}
-              </Link>
-            ) : (
-              <p className="muted">暂无投资研究。</p>
-            )}
-            <div style={{ marginTop: '14px', display: 'flex', gap: '10px', flexWrap: 'wrap' }}>
-              <Link className="text-link gold" href="/zh/investment">查看投资研究归档 →</Link>
-              {latestMeta && <Link className="text-link" href={`/zh/daily/${latestMeta.date}`}>阅读技术日报 →</Link>}
-            </div>
-          </div>
-        )}
-      </section>
     </main>
   )
 }

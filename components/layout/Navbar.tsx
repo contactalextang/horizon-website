@@ -1,5 +1,6 @@
 'use client'
 
+import { useState } from 'react'
 import Link from 'next/link'
 import { usePathname, useRouter } from 'next/navigation'
 import { useTranslations } from 'next-intl'
@@ -10,6 +11,7 @@ export default function Navbar({ locale }: Props) {
   const t = useTranslations('nav')
   const pathname = usePathname()
   const router = useRouter()
+  const [menuOpen, setMenuOpen] = useState(false)
 
   const basePath = pathname.replace(/^\/(en|zh)/, '') || '/'
 
@@ -29,72 +31,72 @@ export default function Navbar({ locale }: Props) {
   }).replace(/(\d+)\/(\d+)\/(\d+)/, '$3·$1·$2')
 
   const navItems = [
-    { href: '/projects', label: t('projects') },
     { href: '/daily', label: t('daily') },
     ...(locale === 'zh' ? [{ href: '/investment', label: t('investment') }] : []),
+    { href: '/projects', label: t('projects') },
     { href: '/about', label: t('about') },
   ]
 
+  function linkClass(href: string) {
+    return `navbar-link${isActive(href) ? ' is-active' : ''}`
+  }
+
   return (
-    <nav style={{
-      position: 'sticky', top: 0, zIndex: 100, height: '50px',
-      display: 'flex', alignItems: 'center', justifyContent: 'space-between',
-      padding: '0 24px', borderBottom: '1px solid var(--line)', gap: '12px',
-      background: 'rgba(255,255,255,0.92)', backdropFilter: 'blur(16px)',
-    }}>
+    <nav className="navbar">
       {/* Logo */}
       <div style={{ display: 'flex', alignItems: 'center', gap: '10px' }}>
-        <Link href={`/${locale}`} style={{
-          fontFamily: "'STSong','SimSun','Songti SC',Georgia,serif",
-          fontSize: '16px', fontWeight: 700,
-          color: 'var(--gold)', letterSpacing: '.06em', textDecoration: 'none',
-        }}>
+        <Link href={`/${locale}`} className="navbar-logo">
           Alex Tang
         </Link>
       </div>
 
-      {/* Nav links */}
-      <ul style={{ display: 'flex', alignItems: 'center', gap: '2px', listStyle: 'none', flex: 1 }}>
+      {/* Nav links (desktop) */}
+      <ul className="navbar-links">
         {navItems.map(item => (
           <li key={item.href}>
-            <Link href={`/${locale}${item.href}`} style={{
-              display: 'block', padding: '5px 11px', fontSize: '12px',
-              color: isActive(item.href) ? 'var(--gold)' : 'var(--text2)',
-              textDecoration: 'none', borderRadius: 'var(--r)',
-              border: `1px solid ${isActive(item.href) ? 'var(--gold2)' : 'transparent'}`,
-              background: isActive(item.href) ? 'var(--goldbg)' : 'transparent',
-              transition: 'all .15s',
-            }}>
+            <Link href={`/${locale}${item.href}`} className={linkClass(item.href)}>
               {item.label}
             </Link>
           </li>
         ))}
       </ul>
 
-      {/* Right: date + lang toggle */}
-      <div style={{ display: 'flex', alignItems: 'center', gap: '10px', flexShrink: 0 }}>
-        <span style={{ fontFamily: "'Courier New',monospace", fontSize: '10px', color: 'var(--text3)', letterSpacing: '.06em' }}>
-          {dateStr}
-        </span>
-        <div style={{
-          display: 'flex', alignItems: 'center',
-          background: 'var(--bg3)', border: '1px solid var(--line2)',
-          borderRadius: '16px', padding: '2px', gap: '2px',
-        }}>
+      {/* Right: date + lang toggle + burger */}
+      <div className="navbar-right">
+        <span className="navbar-date">{dateStr}</span>
+        <div className="navbar-lang">
           {(['en', 'zh'] as const).map(lang => (
-            <button key={lang} onClick={() => switchLocale(lang)} style={{
-              padding: '3px 10px', borderRadius: '12px',
-              fontFamily: "'Courier New',monospace", fontSize: '10px', fontWeight: 600,
-              letterSpacing: '.06em', cursor: 'pointer', border: locale === lang ? '1px solid var(--gold2)' : 'none',
-              background: locale === lang ? 'var(--goldbg2)' : 'transparent',
-              color: locale === lang ? 'var(--gold)' : 'var(--text3)',
-              transition: 'all .18s',
-            }}>
+            <button key={lang} onClick={() => switchLocale(lang)}
+              className={`navbar-lang-btn${locale === lang ? ' is-active' : ''}`}>
               {lang === 'en' ? 'EN' : '中'}
             </button>
           ))}
         </div>
+        <button
+          className="navbar-burger"
+          aria-label="Menu"
+          aria-expanded={menuOpen}
+          onClick={() => setMenuOpen(o => !o)}
+        >
+          {menuOpen ? '✕' : '☰'}
+        </button>
       </div>
+
+      {/* Mobile dropdown menu */}
+      {menuOpen && (
+        <div className="navbar-menu">
+          {navItems.map(item => (
+            <Link
+              key={item.href}
+              href={`/${locale}${item.href}`}
+              className={linkClass(item.href)}
+              onClick={() => setMenuOpen(false)}
+            >
+              {item.label}
+            </Link>
+          ))}
+        </div>
+      )}
     </nav>
   )
 }
