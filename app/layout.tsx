@@ -10,12 +10,12 @@ const garamond = EB_Garamond({
 })
 
 const description =
-  'Alex Tang — building with AI in public. MakanCloud (膳云), a Singapore F&B operations SaaS, plus custom software, an AI-curated tech digest, and investing notes.'
+  'Alex Tang — 独立开发者，专注用 AI 构建真实产品。新加坡餐饮 SaaS 膳云 MakanCloud 创始人，同时分享 AI 技术资讯、投资研究和构建日志。'
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
   title: {
-    default: `${SITE_NAME} — building with AI`,
+    default: `${SITE_NAME} — 独立开发者 · AI 产品构建者`,
     template: `%s — ${SITE_NAME}`,
   },
   description,
@@ -26,19 +26,19 @@ export const metadata: Metadata = {
     languages: {
       en: '/en',
       zh: '/zh',
-      'x-default': '/en',
+      'x-default': '/zh',
     },
   },
   openGraph: {
     type: 'website',
     siteName: SITE_NAME,
-    title: `${SITE_NAME} — building with AI`,
+    title: `${SITE_NAME} — 独立开发者 · AI 产品构建者`,
     description,
     url: SITE_URL,
   },
   twitter: {
     card: 'summary_large_image',
-    title: `${SITE_NAME} — building with AI`,
+    title: `${SITE_NAME} — 独立开发者 · AI 产品构建者`,
     description,
   },
   robots: { index: true, follow: true },

@@ -7,7 +7,7 @@ export const SITE_URL = (process.env.NEXT_PUBLIC_SITE_URL || 'https://alextang.d
 export const SITE_NAME = 'Alex Tang'
 export const SITE_AUTHOR = 'Alex Tang'
 
-export const LOCALES = ['en', 'zh'] as const
+export const LOCALES = ['zh', 'en'] as const
 export type Locale = (typeof LOCALES)[number]
 
 /** 给定 locale 与 path（以 / 开头，不含 locale 前缀），返回绝对 URL。 */
@@ -22,6 +22,6 @@ export function languageAlternates(path = ''): Record<string, string> {
   return {
     en: `${SITE_URL}/en${clean}`,
     zh: `${SITE_URL}/zh${clean}`,
-    'x-default': `${SITE_URL}/en${clean}`,
+    'x-default': `${SITE_URL}/zh${clean}`,
   }
 }
