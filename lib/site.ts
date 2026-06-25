@@ -1,8 +1,8 @@
 /**
  * 站点级常量。生产域名通过环境变量 NEXT_PUBLIC_SITE_URL 覆盖
- * （Vercel 项目设置里配置；本地/未配置时用占位默认值）。
+ * （部署时在实例上为 pm2 进程配置；本地/未配置时回退到正式域名）。
  */
-export const SITE_URL = (process.env.NEXT_PUBLIC_SITE_URL || 'https://horizon-daily.vercel.app').replace(/\/$/, '')
+export const SITE_URL = (process.env.NEXT_PUBLIC_SITE_URL || 'https://alextang.dev').replace(/\/$/, '')
 
 export const SITE_NAME = 'Alex Tang'
 export const SITE_AUTHOR = 'Alex Tang'
