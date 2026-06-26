@@ -313,7 +313,9 @@ body {
 .front-feature {
   display: block;
   padding: 20px;
+  height: 376px;
   min-height: 250px;
+  overflow: hidden;
   border: 1px solid var(--line2);
   border-radius: var(--r2);
   text-decoration: none;
@@ -344,6 +346,26 @@ body {
 .front-feature.investment p,
 .front-feature.investment li {
   color: rgba(255,255,255,.72);
+}
+
+.feature-summary,
+.feature-list {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.feature-summary {
+  -webkit-line-clamp: 3;
+}
+
+.feature-summary + .feature-summary,
+.feature-list {
+  margin-top: 6px;
+}
+
+.feature-list {
+  -webkit-line-clamp: 3;
 }
 
 .front-feature ul,

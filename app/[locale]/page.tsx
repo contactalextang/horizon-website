@@ -94,13 +94,13 @@ export default async function HomePage({ params }: Props) {
                     : L('今日技术情报精选', "Today's Technical Intelligence")}
                 </h3>
                 {latestPost.status !== 'warning' && (
-                  <p>
+                  <p className="feature-summary">
                     {latestPost.itemCount} {L('条精选，来自', 'selected from')} {latestPost.totalFetched}
                     {L(' 条采集内容。', ' fetched items.')}
                   </p>
                 )}
                 {topStories.length > 0 && (
-                  <ul>{topStories.map(item => <li key={item.index}>{item.title}</li>)}</ul>
+                  <ul className="feature-list">{topStories.map(item => <li key={item.index}>{item.title}</li>)}</ul>
                 )}
               </Link>
             </>
@@ -118,14 +118,14 @@ export default async function HomePage({ params }: Props) {
               <Link className="front-feature investment" href={`/zh/investment/${latestInvestment.slug}`}>
                 <div className="issue-date">{latestInvestment.date}</div>
                 <h3>{latestInvestment.title}</h3>
-                <p>
+                <p className="feature-summary">
                   {latestInvestment.readingMinutes} 分钟阅读，覆盖 {latestInvestment.sections.length} 个产业与市场模块。
                 </p>
                 {latestInvestment.summary && (
-                  <p>{latestInvestment.summary}</p>
+                  <p className="feature-summary">{latestInvestment.summary}</p>
                 )}
                 {latestInvestment.signals.length > 0 && (
-                  <ul>{latestInvestment.signals.map(s => <li key={s}>{s}</li>)}</ul>
+                  <ul className="feature-list">{latestInvestment.signals.map(s => <li key={s}>{s}</li>)}</ul>
                 )}
               </Link>
             ) : (
