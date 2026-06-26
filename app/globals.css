@@ -313,9 +313,7 @@ body {
 .front-feature {
   display: block;
   padding: 20px;
-  height: 376px;
   min-height: 250px;
-  overflow: hidden;
   border: 1px solid var(--line2);
   border-radius: var(--r2);
   text-decoration: none;
