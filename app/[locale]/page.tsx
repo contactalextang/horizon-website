@@ -28,7 +28,7 @@ export default async function HomePage({ params }: Props) {
   const allDaysDisplay = displayLocale === locale ? allDays : getAllDailyMeta('en')
   const latestMeta = allDaysDisplay[0] || null
   const latestPost = latestMeta ? getDailyPost(latestMeta.date, displayLocale) : null
-  const topStories = latestPost?.items.slice(0, 3) || []
+  const topStories = latestPost?.items.slice(0, 5) || []
 
   // Investment research (zh only)
   const investmentPosts = locale === 'zh' ? getAllInvestmentMeta() : []

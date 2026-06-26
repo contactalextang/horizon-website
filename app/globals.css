@@ -313,7 +313,9 @@ body {
 .front-feature {
   display: block;
   padding: 20px;
+  height: 320px;
   min-height: 250px;
+  overflow: hidden;
   border: 1px solid var(--line2);
   border-radius: var(--r2);
   text-decoration: none;
@@ -363,7 +365,7 @@ body {
 }
 
 .feature-list {
-  -webkit-line-clamp: 3;
+  -webkit-line-clamp: 5;
 }
 
 .front-feature ul,
@@ -570,6 +572,10 @@ body {
 
   .toc {
     position: static;
+  }
+
+  .front-feature {
+    height: 350px;
   }
 
   .magazine-hero {
