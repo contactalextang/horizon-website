@@ -14,20 +14,20 @@
       "title": "Rust CLI 代理 rtk 将 LLM token 消耗降低 60-90%"
     },
     "https://github.com/Leonxlnx/taste-skill": {
-      "date": "2026-06-27",
-      "title": "Taste-Skill 前端项目旨在提升 AI 生成的前端质量"
+      "date": "2026-06-28",
+      "title": "Taste-Skill GitHub 仓库在 24 小时内获得 22 颗星，提供 AI 前端提示库"
     },
     "https://github.com/mvanhorn/last30days-skill": {
       "date": "2026-06-26",
       "title": "新型 Python AI 代理技能聚合 Reddit、X、YouTube、HN、Polymarket 生成摘要"
     },
     "https://github.com/Panniantong/Agent-Reach": {
-      "date": "2026-06-27",
-      "title": "Agent-Reach CLI 工具让 AI 代理可免费浏览多平台内容"
+      "date": "2026-06-28",
+      "title": "Agent-Reach CLI 让 AI 代理免费访问全网"
     },
     "https://github.com/hugohe3/ppt-master": {
-      "date": "2026-06-27",
-      "title": "开源 Python 工具可将文档转换为可编辑 PowerPoint 并附 AI 旁白。"
+      "date": "2026-06-28",
+      "title": "AI 驱动的 Python 工具可将文档转换为可编辑的 PowerPoint，保留原生形状。"
     },
     "https://github.com/DietrichGebert/ponytail": {
       "date": "2026-06-24",
@@ -38,68 +38,12 @@
       "title": "新发布的 Python 工具包助力 Nature 期刊图表合规，24 小时获 16 星"
     },
     "https://github.com/DeusData/codebase-memory-mcp": {
-      "date": "2026-06-27",
-      "title": "高性能 MCP 服务器将代码库索引为知识图谱"
+      "date": "2026-06-28",
+      "title": "DeusData 发布高性能 C 基础 MCP 服务器，用于代码库知识图谱"
     },
     "https://github.com/heygen-com/hyperframes": {
       "date": "2026-06-24",
       "title": "HeyGen 发布 Hyperframes TypeScript 库，用于 AI 代理的 HTML 视频渲染"
-    },
-    "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a": {
-      "date": "2026-06-20",
-      "title": "Project Valhalla 的值类特性将在 JDK 28 中发布，历时十年"
-    },
-    "https://overreacted.io/there-are-no-instances-in-atproto/": {
-      "date": "2026-06-20",
-      "title": "ATProto 中没有实例"
-    },
-    "https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech": {
-      "date": "2026-06-20",
-      "title": "新法案旨在对抗政府施压以沉默合法在线言论"
-    },
-    "https://aiclambake.com/clamtakes/linear-a/": {
-      "date": "2026-06-20",
-      "title": "业余爱好者声称使用 AI 工具破译了线性 A 文字"
-    },
-    "https://github.com/astral-sh/uv/releases/tag/0.11.22": {
-      "date": "2026-06-20",
-      "title": "uv 0.11.22 发布：加入轮子先发布、环境变量、预览特性及解析器性能提升"
-    },
-    "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/": {
-      "date": "2026-06-20",
-      "title": "挪威在小学实施近乎禁止使用 AI"
-    },
-    "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/": {
-      "date": "2026-06-20",
-      "title": "Hyundai buys Boston Dynamics"
-    },
-    "https://www.eff.org/deeplinks/2026/06/court-records-should-be-free": {
-      "date": "2026-06-20",
-      "title": "EFF 呼吁免费公开获取法院记录"
-    },
-    "https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314": {
-      "date": "2026-06-20",
-      "title": "Companies rein in AI usage as costs strain budgets"
-    },
-    "https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything": {
-      "date": "2026-06-20",
-      "title": "Datasette Apps 插件支持在 Datasette 内托管沙箱 HTML+JS 应用"
-    },
-    "https://vocabowl-870366514258.us-west1.run.app/": {
-      "date": "2026-06-20",
-      "title": "在线测验测试 170,000 个英语单词的掌握情况"
-    },
-    "https://tales.fromprod.com/2026/169/google-workspace-threatening-to-block-firefox.html": {
-      "date": "2026-06-20",
-      "title": "Google Workspace 管理员可通过 Context-Aware Access 阻止 Firefox 访问"
-    },
-    "https://www.the-independent.com/arts-entertainment/films/news/sam-altman-biopic-amazon-openai-deal-b2999321.html": {
-      "date": "2026-06-20",
-      "title": "亚马逊在宣布 OpenAI 合作后取消萨姆·阿尔特曼传记电影"
-    },
-    "https://www.theescapenewsletter.com/p/the-airpods-effect": {
-      "date": "2026-06-20",
-      "title": "AirPods 使人们在拥挤环境中获得个人听觉空间"
     },
     "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community": {
       "date": "2026-06-21",
@@ -170,8 +114,8 @@
       "title": "Sean Lynch 指出 MCP 的主要价值在于隔离认证流程"
     },
     "https://github.com/calesthio/OpenMontage": {
-      "date": "2026-06-27",
-      "title": "OpenMontage 首次发布作为首个开源代理视频制作系统。"
+      "date": "2026-06-28",
+      "title": "OpenMontage 发布开源代理视频制作系统。"
     },
     "https://startupwiki.tech/": {
       "date": "2026-06-21",
@@ -290,8 +234,8 @@
       "title": "开源 bsharp 项目推出儿童游戏化绝对音高训练"
     },
     "https://github.com/ZhuLinsen/daily_stock_analysis": {
-      "date": "2026-06-27",
-      "title": "ZhuLinsen/daily_stock_analysis 在 24 小时内获得 24 颗星"
+      "date": "2026-06-28",
+      "title": "ZhuLinsen 开源 LLM 驱动的多市场股票分析系统"
     },
     "https://github.com/playRealmRumble/Realm-Rumble": {
       "date": "2026-06-22",
@@ -574,8 +518,8 @@
       "title": "使用对象存储桶作为 Git 后端"
     },
     "https://github.com/xbtlin/ai-berkshire": {
-      "date": "2026-06-27",
-      "title": "GitHub 仓库 xbtlin/ai-berkshire 在 24 小时内获得 26 颗星"
+      "date": "2026-06-28",
+      "title": "新框架运用巴菲特价值投资理念，基于 Claude Code 多智能体分析。"
     },
     "https://www.thomann.de/blog/en/inside/thomann-takes-legal-action-against-fender/": {
       "date": "2026-06-25",
@@ -598,8 +542,8 @@
       "title": "AI 驱动的逆向工程技能路由库在 GitHub 上快速获得关注"
     },
     "https://github.com/JCodesMore/ai-website-cloner-template": {
-      "date": "2026-06-27",
-      "title": "AI 驱动的网站克隆模板在 24 小时内获得 20 颗星"
+      "date": "2026-06-28",
+      "title": "AI 驱动的网站克隆模板在 24 小时内获得 38 颗星"
     },
     "https://scrollprize.org/firstscroll": {
       "date": "2026-06-26",
@@ -662,8 +606,8 @@
       "title": "开源 Python AI 代理自动评估简历在 GitHub 趋热"
     },
     "https://github.com/tashfeenahmed/freellmapi": {
-      "date": "2026-06-27",
-      "title": "freellmapi 聚合 16 家 LLM 免费额度的 TypeScript 代理。"
+      "date": "2026-06-28",
+      "title": "freellmapi 聚合 16 家免费 LLM 额度的 OpenAI 兼容代理"
     },
     "https://github.com/googleworkspace/cli": {
       "date": "2026-06-26",
@@ -694,8 +638,8 @@
       "title": "美国政府将审批谁能使用 OpenAI 的 GPT-5.6 模型"
     },
     "https://github.com/workweave/router": {
-      "date": "2026-06-27",
-      "title": "智能模型路由器集成到 Claude、Codex 和 Cursor 以实现成本效益的 LLM 选择"
+      "date": "2026-06-28",
+      "title": "基于 Go 的 LLM 路由器 workweave/router 获得 18 颗星，承诺低于 50ms 路由"
     },
     "https://alephneuro.com/blog/ultrasound-brain": {
       "date": "2026-06-27",
@@ -758,8 +702,92 @@
       "title": "EFF 警告加州 3D 打印机监控法案"
     },
     "https://github.com/mauriceboe/TREK": {
-      "date": "2026-06-27",
-      "title": "新自托管旅行规划器 TREK 在 24 小时内获得 18 颗星。"
+      "date": "2026-06-28",
+      "title": "TREK：自托管 TypeScript 旅行规划器在 24 小时内获得 28 颗星"
+    },
+    "https://www.openra.net/": {
+      "date": "2026-06-28",
+      "title": "OpenRA 因现代化经典 RTS 游戏获社区热烈好评"
+    },
+    "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf": {
+      "date": "2026-06-28",
+      "title": "DSpark：通过 speculative decoding 提升 LLM 推理速度 60‑85%"
+    },
+    "https://pluralistic.net/2026/06/27/zuckerstreisand-2/": {
+      "date": "2026-06-28",
+      "title": "Zuckerberg's war on whistleblowers"
+    },
+    "https://ipcrawl.com/": {
+      "date": "2026-06-28",
+      "title": "IP Crawl 揭露数千台未受保护的公共网络摄像头"
+    },
+    "https://dervis.de/physical/": {
+      "date": "2026-06-28",
+      "title": "主张实体媒体所有权而非数字许可"
+    },
+    "https://danluu.com/discontinuities/": {
+      "date": "2026-06-28",
+      "title": "可疑的断点：人类偏导致数据激增"
+    },
+    "https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/": {
+      "date": "2026-06-28",
+      "title": "后 Mythos 时代的网络安全：保持冷静，注重基础"
+    },
+    "https://github.com/astral-sh/uv/releases/tag/0.11.25": {
+      "date": "2026-06-28",
+      "title": "uv 0.11.25 发布，包含 tar 库安全更新和锁文件改进"
+    },
+    "https://github.com/kageroumado/adrafinil": {
+      "date": "2026-06-28",
+      "title": "Adrafinil：仅在 AI 代理活跃时保持 Mac 合盖唤醒的开源工具"
+    },
+    "https://cauenapier.com/blog/townsquare_release/": {
+      "date": "2026-06-28",
+      "title": "TownSquare 推出轻量级匿名头像存在层，供网站使用"
+    },
+    "https://w.pitula.me/fintech-engineering-handbook/": {
+      "date": "2026-06-28",
+      "title": "金融科技工程手册发布，获赞也受批评"
+    },
+    "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/": {
+      "date": "2026-06-28",
+      "title": "亚洲 AI 初创公司在 Anthropic 出口禁令下发布类 Mythos 模型"
+    },
+    "https://github.com/simplex-chat/simplex-chat": {
+      "date": "2026-06-28",
+      "title": "SimpleX Chat 在 24 小时内获 63 颗星，成为首个无用户标识的消息网络"
+    },
+    "https://github.com/EpicGames/lore": {
+      "date": "2026-06-28",
+      "title": "Epic Games 发布基于 Rust 的开源版本控制系统 Lore"
+    },
+    "https://github.com/CyberStrikeus/CyberStrike": {
+      "date": "2026-06-28",
+      "title": "CyberStrike AI 驱动的进攻性安全代理获得 14 颗星。"
+    },
+    "https://github.com/bikini/exploitarium": {
+      "date": "2026-06-28",
+      "title": "匿名 GitHub 账号发布 alleged 0-day 漏洞，多数被质疑为已知或不切实际"
+    },
+    "https://www.psychologytoday.com/au/blog/mood-by-microbe/202606/what-ozempic-does-to-the-gut-brain-axis": {
+      "date": "2026-06-28",
+      "title": "GLP-1 药物导致体重下降并逆转小鼠抑郁样行为"
+    },
+    "https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/": {
+      "date": "2026-06-28",
+      "title": "使用 LXC 增强 X11 应用程序安全"
+    },
+    "https://github.com/Lakr233/AssppWeb": {
+      "date": "2026-06-28",
+      "title": "AssppWeb TypeScript 仓库在 24 小时内获得 28 颗星"
+    },
+    "https://github.com/ogulcancelik/herdr": {
+      "date": "2026-06-28",
+      "title": "Rust 终端代理多路复用器 herdr 在 24 小时内获得 20 颗星"
+    },
+    "https://github.com/antirez/ds4": {
+      "date": "2026-06-28",
+      "title": "antirez 发布基于 C 的 ds4 本地推理引擎，支持 DeepSeek V4 Flash/Pro"
     }
   }
 }
