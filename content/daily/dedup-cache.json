@@ -45,105 +45,9 @@
       "date": "2026-06-24",
       "title": "HeyGen 发布 Hyperframes TypeScript 库，用于 AI 代理的 HTML 视频渲染"
     },
-    "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community": {
-      "date": "2026-06-21",
-      "title": "SMPTE 向公众免费开放其标准库"
-    },
-    "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/": {
-      "date": "2026-06-21",
-      "title": "网站逐字复制了《晦涩之 sorrow》全书。"
-    },
-    "https://github.com/oven-sh/WebKit/pull/249": {
-      "date": "2026-06-21",
-      "title": "Bun 提交 PR 向 JavaScriptCore 添加共享内存线程以实现真正并行"
-    },
-    "https://www.argusred.com/cli": {
-      "date": "2026-06-21",
-      "title": "展示 HN：后训练的 LLM 用于渗透测试绕过安全拒绝"
-    },
-    "https://blog.cloudflare.com/temporary-accounts/": {
-      "date": "2026-06-21",
-      "title": "Cloudflare 为 AI 代理推出临时 Worker 账号"
-    },
-    "https://www.tomshardware.com/pc-components/cpus/amd-will-reinstate-memory-encryption-on-ryzen-9000-cpus-through-a-bios-update-in-july-tsme-is-coming-back-after-valuable-community-feedback": {
-      "date": "2026-06-21",
-      "title": "AMD 将通过七月 BIOS 更新恢复 Ryzen 9000 CPU 的 TSME。"
-    },
-    "https://github.com/DatanoiseTV/ember-hackernews": {
-      "date": "2026-06-21",
-      "title": "展示 HN：Ember，一个专注无障碍的原生 iOS Hacker News 阅读器，使用 SwiftUI 构建"
-    },
-    "https://www.sciencedaily.com/releases/2026/06/260617032207.htm": {
-      "date": "2026-06-21",
-      "title": "哺乳动物的再生能力处于休眠状态，未被丧失。"
-    },
-    "https://www.phoronix.com/news/Linux-7.2-Drops-strncpy": {
-      "date": "2026-06-21",
-      "title": "Linux 内核在六年工作后移除不安全的 strncpy 。"
-    },
-    "https://www.cnn.com/2026/06/20/americas/brazil-hackers-unauthorized-alert-latam": {
-      "date": "2026-06-21",
-      "title": "黑客在巴西全国范围内发送未经授权的紧急警报"
-    },
-    "https://github.com/koala73/worldmonitor": {
-      "date": "2026-06-21",
-      "title": "新型 TypeScript 实时全球情报仪表盘在 24 小时内获得 17 颗星"
-    },
-    "https://www.lispm.net/apps/uhf-x11/": {
-      "date": "2026-06-21",
-      "title": "UHF X11 为 Apple Vision Pro 带来 X11 服务器以运行旧版应用"
-    },
-    "https://clickhouse.com/blog/postgresbench": {
-      "date": "2026-06-21",
-      "title": "PostgresBench：可复现的 PostgreSQL 服务基准测试"
-    },
-    "https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html": {
-      "date": "2026-06-21",
-      "title": "志愿者逆向工程《F-15 Strike Eagle II》以实现现代移植"
-    },
-    "https://cssquake.com/": {
-      "date": "2026-06-21",
-      "title": "CSSQuake：仅用 CSS 和少量 JS 重现经典游戏 Quake"
-    },
-    "https://www.politico.com/news/magazine/2026/06/20/south-korea-weapons-dealer-trump-00959559": {
-      "date": "2026-06-21",
-      "title": "韩国武器出口因成本优势激增"
-    },
-    "https://simonwillison.net/2026/Jun/19/sean-lynch/#atom-everything": {
-      "date": "2026-06-21",
-      "title": "Sean Lynch 指出 MCP 的主要价值在于隔离认证流程"
-    },
     "https://github.com/calesthio/OpenMontage": {
       "date": "2026-06-28",
       "title": "OpenMontage 发布开源代理视频制作系统。"
-    },
-    "https://startupwiki.tech/": {
-      "date": "2026-06-21",
-      "title": "StartupWiki 推出免费无需账户的初创公司数据库。"
-    },
-    "https://github.com/overflowy/make-look-scanned": {
-      "date": "2026-06-21",
-      "title": "CLI/WASM 工具为 PDF 添加扫描效果"
-    },
-    "https://www.phoronix.com/news/systemd-261": {
-      "date": "2026-06-21",
-      "title": "Systemd 261 发布，新增 systemd-sysinstall、IMDSD 和 storagectl 工具"
-    },
-    "https://mitchivin.com/": {
-      "date": "2026-06-21",
-      "title": "Show HN：Windows XP 作品集，内含可运行的 Game Boy 和 iPod 模拟器"
-    },
-    "https://github.com/confh/Tiny": {
-      "date": "2026-06-21",
-      "title": "Show HN：Tiny —— 支持内联 Go 原生函数的解释型动态语言"
-    },
-    "https://github.com/yaojingang/yao-meta-skill": {
-      "date": "2026-06-21",
-      "title": "新 Python 仓库推出 YAO 框架用于可重用 AI 代理技能"
-    },
-    "https://github.com/xrpcommunity/XRP-community-wallet": {
-      "date": "2026-06-21",
-      "title": "社区构建的去中心化 TypeScript 钱包支持 XRP 和 EVM，24 小时获 11 颗星"
     },
     "https://github.com/withastro/flue": {
       "date": "2026-06-24",
@@ -788,6 +692,110 @@
     "https://github.com/antirez/ds4": {
       "date": "2026-06-28",
       "title": "antirez 发布基于 C 的 ds4 本地推理引擎，支持 DeepSeek V4 Flash/Pro"
+    },
+    "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html": {
+      "date": "2026-06-29",
+      "title": "教授谴责布朗大学考试中大规模 AI 作弊"
+    },
+    "https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online": {
+      "date": "2026-06-29",
+      "title": "KIDS 法案提出强制在线访问年龄验证"
+    },
+    "https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/": {
+      "date": "2026-06-29",
+      "title": "欧盟通过秘密谈判推动 Chat Control 立法"
+    },
+    "https://antoine.fi/mri-analysis-using-claude-code-opus": {
+      "date": "2026-06-29",
+      "title": "患者使用 Claude Code AI 进行 MRI 第二意见"
+    },
+    "https://github.com/librepods-org/librepods": {
+      "date": "2026-06-29",
+      "title": "Librepods：开源实现让非苹果设备使用 AirPods 高级功能"
+    },
+    "https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing": {
+      "date": "2026-06-29",
+      "title": "Tokenmaxxing 已死，万岁 Tokenmaxxing"
+    },
+    "https://www.righto.com/2026/06/space-shuttle-io-processor-boards.html": {
+      "date": "2026-06-29",
+      "title": "Examining circuit boards from the Space Shuttle's I/O Processor"
+    },
+    "https://github.com/openai/codex/issues/2847": {
+      "date": "2026-06-29",
+      "title": "OpenAI Codex 排除敏感文件的议题仍未解决"
+    },
+    "https://aresluna.org/the-curious-case-of-the-disappearing-polish-s/": {
+      "date": "2026-06-29",
+      "title": "波兰语消失的Ś之谜（2015）"
+    },
+    "https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number": {
+      "date": "2026-06-29",
+      "title": "ISC'26 TOP500 榜单发布新冠军超级计算机"
+    },
+    "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/": {
+      "date": "2026-06-29",
+      "title": "GLM 5.2 在 Semgrep 的网络安全基准测试中击败 Claude"
+    },
+    "https://pudding.cool/2026/06/menu-story/": {
+      "date": "2026-06-29",
+      "title": "The Pudding 推出互动故事，展示 5000 份纽约公共图书馆历史菜单"
+    },
+    "https://dam.stanford.edu/memory-prices.html": {
+      "date": "2026-06-29",
+      "title": "1960-2026 年内存每 GB 价格图表引发讨论"
+    },
+    "http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html": {
+      "date": "2026-06-29",
+      "title": "在 Lemote Yeeloong MIPS 笔记本上运行 OpenBSD 需要进行 workaround。"
+    },
+    "https://zanagrams.com/": {
+      "date": "2026-06-29",
+      "title": "Show HN：Zanagrams 推出基于网页的单词拼图游戏"
+    },
+    "https://www.pcmag.com/opinions/the-us-used-to-demand-the-best-tech-now-we-ban-it": {
+      "date": "2026-06-29",
+      "title": "美国转向技术禁令政策"
+    },
+    "https://github.com/rochus-keller/MUMPS/blob/main/docs/MUMPS_Primer.adoc": {
+      "date": "2026-06-29",
+      "title": "MUMPS 76 Primer 周年纪念版发布"
+    },
+    "https://simonwillison.net/2026/Jun/28/jon-udell/#atom-everything": {
+      "date": "2026-06-29",
+      "title": "Jon Udell 将 AI 代理重新定义为开发循环中的队友"
+    },
+    "https://blog.pascalschuster.de/article/do-llms-pass-the-mirror-test": {
+      "date": "2026-06-29",
+      "title": "大语言模型能否通过镜像测试？探索 AI 自我认知"
+    },
+    "https://arxiv.org/abs/2606.25313": {
+      "date": "2026-06-29",
+      "title": "研究者展示了包含 100 万个 p 比特的可编程概率计算机。"
+    },
+    "https://www.openculture.com/2020/10/daisugi.html": {
+      "date": "2026-06-29",
+      "title": "Daisugi 是一种从树干培育直木的日本方法。"
+    },
+    "https://simonwillison.net/2026/Jun/28/hack-your-summer/#atom-everything": {
+      "date": "2026-06-29",
+      "title": "Hack Your Summer 推出免费四周学生项目冲刺"
+    },
+    "https://github.com/kamaludu/bash4llm/": {
+      "date": "2026-06-29",
+      "title": "Bash4LLM+: 一个无依赖的 Bash LLM API 包装器"
+    },
+    "https://github.com/JustVugg/nanoeuler": {
+      "date": "2026-06-29",
+      "title": "Show HN：NanoEuler – 纯 C/CUDA 实现的 GPT-2 规模模型"
+    },
+    "https://archive.org/details/colby1968-computer-aided-language-development-in-non-speaking-children": {
+      "date": "2026-06-29",
+      "title": "1968 年斯坦福关于非言语儿童计算机辅助语言发展的报告"
+    },
+    "https://frequal.com/Perspectives/DrmFreeAuthors.html": {
+      "date": "2026-06-29",
+      "title": "HN 展示免 DRM 书籍与经典"
     }
   }
 }
