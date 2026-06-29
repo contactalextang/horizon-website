@@ -33,10 +33,6 @@
       "date": "2026-06-24",
       "title": "GitHub 仓库 ponytail 让 AI 代理像资深懒惰开发者一样编写最少代码"
     },
-    "https://github.com/Yuan1z0825/nature-skills": {
-      "date": "2026-06-22",
-      "title": "新发布的 Python 工具包助力 Nature 期刊图表合规，24 小时获 16 星"
-    },
     "https://github.com/DeusData/codebase-memory-mcp": {
       "date": "2026-06-28",
       "title": "DeusData 发布高性能 C 基础 MCP 服务器，用于代码库知识图谱"
@@ -57,61 +53,9 @@
       "date": "2026-06-24",
       "title": "Turso 获得 21 颗星，作为基于 Rust 的 SQLite 兼容内嵌数据库"
     },
-    "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction": {
-      "date": "2026-06-22",
-      "title": "优先考虑代码重复而非错误抽象"
-    },
-    "https://support.claude.com/en/articles/14328960-identity-verification-on-claude": {
-      "date": "2026-06-22",
-      "title": "Anthropic 为 Claude 模型引入强制身份验证"
-    },
-    "https://norvig.com/lispy.html": {
-      "date": "2026-06-22",
-      "title": "彼得·诺维格 2010 年用 Python 编写 Lisp 解释器的教程"
-    },
-    "https://brandur.org/minimum-viable-unit": {
-      "date": "2026-06-22",
-      "title": "可售软件的最小可行单元解释"
-    },
-    "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/": {
-      "date": "2026-06-22",
-      "title": "指南展示如何在个人网站中添加 JSON-LD 结构化数据"
-    },
-    "https://fosterelli.co/developers-dont-understand-cors": {
-      "date": "2026-06-22",
-      "title": "开发者不理解 CORS（2019）"
-    },
-    "https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/#atom-everything": {
-      "date": "2026-06-22",
-      "title": "Cloudflare 推出临时 Workers 部署功能以便快速测试"
-    },
     "https://github.com/mukul975/Anthropic-Cybersecurity-Skills": {
       "date": "2026-06-27",
       "title": "新开源仓库提供 754 项 AI 代理网络安全技能"
-    },
-    "https://apertvs.ai/": {
-      "date": "2026-06-22",
-      "title": "Apertus – 开放基础模型用于主权 AI"
-    },
-    "https://www.mooreds.com/wordpress/archives/3518": {
-      "date": "2026-06-22",
-      "title": "建议在行动前通知，除非有人反对"
-    },
-    "https://github.com/namgyaaal/avoxelgame": {
-      "date": "2026-06-22",
-      "title": "业余爱好者发布用 APL 编写的 3D 体素游戏引擎"
-    },
-    "https://github.com/raiyanyahya/recall": {
-      "date": "2026-06-22",
-      "title": "Recall：在 LLM 会话之间持久化项目上下文以节省 token"
-    },
-    "https://clevercrow.io/": {
-      "date": "2026-06-22",
-      "title": "CleverCrow 推出基于代币的 GitHub 仓库资助模式"
-    },
-    "https://github.com/penpot/penpot": {
-      "date": "2026-06-22",
-      "title": "Penpot 在 24 小时内获得 49 颗 GitHub 星标，成为热门开源设计工具"
     },
     "https://github.com/jamiepine/voicebox": {
       "date": "2026-06-27",
@@ -121,33 +65,9 @@
       "date": "2026-06-25",
       "title": "NVIDIA 发布开源 Python 安全扫描工具 SkillSpector 用于 AI agent 技能"
     },
-    "https://www.beyondallreason.info/": {
-      "date": "2026-06-22",
-      "title": "Beyond All Reason：免费开源 RTS，灵感源自 Total Annihilation"
-    },
-    "https://powerfox.jazzzny.me/": {
-      "date": "2026-06-22",
-      "title": "PowerFox 浏览器：轻量级隐私导向的个人项目"
-    },
-    "https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html": {
-      "date": "2026-06-22",
-      "title": "博客称许多技术现象呈对数行为"
-    },
-    "https://github.com/paytonjjones/bsharp": {
-      "date": "2026-06-22",
-      "title": "开源 bsharp 项目推出儿童游戏化绝对音高训练"
-    },
     "https://github.com/ZhuLinsen/daily_stock_analysis": {
       "date": "2026-06-28",
       "title": "ZhuLinsen 开源 LLM 驱动的多市场股票分析系统"
-    },
-    "https://github.com/playRealmRumble/Realm-Rumble": {
-      "date": "2026-06-22",
-      "title": "开源 Solana 策略游戏 Realm‑Rumble 获 18 颗星星"
-    },
-    "https://github.com/Alishahryar1/free-claude-code": {
-      "date": "2026-06-22",
-      "title": "免费通过终端、VSCode 和 Discord 使用 Claude Code 和 Codex"
     },
     "https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509": {
       "date": "2026-06-23",
@@ -796,6 +716,78 @@
     "https://frequal.com/Perspectives/DrmFreeAuthors.html": {
       "date": "2026-06-29",
       "title": "HN 展示免 DRM 书籍与经典"
+    },
+    "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully": {
+      "date": "2026-06-30",
+      "title": "火箭实验室收购 Iridium 以实现垂直整合。"
+    },
+    "https://humphri.es/blog/WATaBoy/": {
+      "date": "2026-06-30",
+      "title": "WATaBoy：将 Game Boy 指令 JIT 编译为 WebAssembly 胜过原生解释器"
+    },
+    "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision": {
+      "date": "2026-06-30",
+      "title": "美国最高法院裁定地理围栏令状需受宪法保护"
+    },
+    "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/": {
+      "date": "2026-06-30",
+      "title": "CUDA 内核启动过程详解"
+    },
+    "https://en.sedaily.com/international/2026/06/29/samsung-sk-hynix-micron-sued-in-us-over-memory-price-fixing": {
+      "date": "2026-06-30",
+      "title": "三星、SK 海力士和美光在美国被起诉涉嫌内存价格垄断"
+    },
+    "https://det.social/@lostgen/116820546568940358": {
+      "date": "2026-06-30",
+      "title": "Mullvad 首席执行官被揭为瑞典 Örebro 党主要资助者"
+    },
+    "https://simonwillison.net/2026/Jun/29/ornith/#atom-everything": {
+      "date": "2026-06-30",
+      "title": "Ornith-1.0：开放权重 MIT 许可的用于 Agentic 编码的 LLM 发布"
+    },
+    "https://quesma.com/blog/qwen-36-is-awesome/": {
+      "date": "2026-06-30",
+      "title": "Qwen 3.6 27B 被视为本地 LLM 开发的甜点"
+    },
+    "https://torrentfreak.com/european-isps-want-rightsholders-held-accountable-for-overblocking-damage/": {
+      "date": "2026-06-30",
+      "title": "欧洲 ISP 要求版权方对过度封锁造成的损害承担责任"
+    },
+    "https://queue.acm.org/detail.cfm?id=3819084": {
+      "date": "2026-06-30",
+      "title": "你对形式验证一无所知"
+    },
+    "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models": {
+      "date": "2026-06-30",
+      "title": "Micro-Agent 框架让轻量级代理通过 API 协作超越前沿模型"
+    },
+    "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/": {
+      "date": "2026-06-30",
+      "title": ".self 顶级域名提案：支持免费自托管个人域名"
+    },
+    "https://github.com/deepreinforce-ai/Ornith-1": {
+      "date": "2026-06-30",
+      "title": "Ornith-1.0 发布：基于 Qwen 的自改进智能体编码模型"
+    },
+    "https://htmx.org/essays/working-with-ai/": {
+      "date": "2026-06-30",
+      "title": "使用 AI 的具体示例"
+    },
+    "https://www.cpushack.com/2026/06/03/sandia-national-labs-sa3000-8085-cpu/": {
+      "date": "2026-06-30",
+      "title": "桑迪亚国家实验室基于 8085 架构开发辐射硬化 SA3000 CPU"
+    },
+    "https://alexwlchan.net/2026/computer-room/": {
+      "date": "2026-06-30",
+      "title": "作者重新设计电脑房以分离工作和休闲技术"
+    },
+    "https://twitter.com/i/status/2071277885646868536": {
+      "date": "2026-06-30",
+      "title": "Instagram 将用户照片用于 Meta 眼镜广告"
+    },
+    "https://github.com/jumpserver/jumpserver": {
+      "date": "2026-06-30",
+      "title": "JumpServer 发布开源特权访问管理平台"
     }
   }
 }

@@ -2,6 +2,18 @@
   "_note": "由 scripts/sync-makancloud-whatsnew.mjs 从 膳云/CLAUDE.md changelog 自动维护；新版本会被追加（en 可能为空，待补译）。",
   "items": [
     {
+      "version": "",
+      "date": "2026-06-30",
+      "zh": "生产加固 Wave 1/2/3 合并到 main 并部署上线",
+      "en": ""
+    },
+    {
+      "version": "Sprint 9",
+      "date": "2026-06-22",
+      "zh": "第三方冷库寄存（Partner）功能：中央厨房冷库可按 Partner 维度出租寄存。",
+      "en": "Third-party cold-storage (Partner): central-kitchen cold storage can be rented out and isolated per partner."
+    },
+    {
       "version": "v8.5.1",
       "date": "2026-06-18",
       "zh": "自助点单历史订单按桌会话隔离，新顾客看到干净的订单列表。",
@@ -30,12 +42,6 @@
       "date": "2026-06-10",
       "zh": "Stripe 订阅计费上线（4 套餐，Checkout 端到端测试通过）；平台/租户管理分离。",
       "en": "Stripe subscription billing live (4 plans, Checkout e2e tested); platform/tenant admin separation."
-    },
-    {
-      "version": "Sprint 9",
-      "date": "2026-06-22",
-      "zh": "第三方冷库寄存（Partner）功能：中央厨房冷库可按 Partner 维度出租寄存。",
-      "en": "Third-party cold-storage (Partner): central-kitchen cold storage can be rented out and isolated per partner."
     }
   ]
 }
