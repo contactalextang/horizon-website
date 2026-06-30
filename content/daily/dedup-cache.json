@@ -69,113 +69,13 @@
       "date": "2026-06-28",
       "title": "ZhuLinsen 开源 LLM 驱动的多市场股票分析系统"
     },
-    "https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509": {
-      "date": "2026-06-23",
-      "title": "加拿大计划在未来 15 年内建设多达 10 座新核反应堆"
-    },
-    "https://github.com/openai/codex/issues/28224": {
-      "date": "2026-06-23",
-      "title": "Codex logging bug may write TBs to local SSDs"
-    },
-    "https://ipvm.com/reports/police-chiefs-track": {
-      "date": "2026-06-23",
-      "title": "警方首长使用 Flock 车牌识别跟踪女性，凸显令状必要性。"
-    },
-    "https://lwn.net/Articles/1029767/": {
-      "date": "2026-06-23",
-      "title": "Linux Secure Boot 证书将在 2025 年到期"
-    },
-    "https://mitchellh.com/writing/zig-donation-2026": {
-      "date": "2026-06-23",
-      "title": "米切尔·哈希莫托向 Zig 软件基金会再捐 40 万美元"
-    },
-    "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/": {
-      "date": "2026-06-23",
-      "title": "Claude Code 的「Extended Thinking」输出仅是摘要，而非原始推理"
-    },
-    "https://docs.deno.com/runtime/desktop/": {
-      "date": "2026-06-23",
-      "title": "Deno Desktop 框架实现跨平台 GUI 应用"
-    },
-    "https://blog.ericgoldman.org/archives/2026/06/blogger-defeats-photographers-copyright-claim-sokolskyfilm-v-messiah.htm": {
-      "date": "2026-06-23",
-      "title": "博主胜诉摄影师版权主张的合理使用辩护"
-    },
-    "https://simonwillison.net/2026/Jun/21/sqlite-utils/#atom-everything": {
-      "date": "2026-06-23",
-      "title": "sqlite-utils 4.0rc1 发布，加入迁移支持和嵌套事务"
-    },
-    "https://store.steampowered.com/news/group/45479024/view/685257114654870245": {
-      "date": "2026-06-23",
-      "title": "Steam Machine 今日发布，开放式游戏优化 PC"
-    },
-    "https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes": {
-      "date": "2026-06-23",
-      "title": "不列颠哥伦比亚时区变更对 PostgreSQL 应用的影响"
-    },
-    "https://hustvl.github.io/Moebius/": {
-      "date": "2026-06-23",
-      "title": "Moebius：0.2B 参数图像修复模型媲美 10B 性能"
-    },
-    "https://techstackups.com/comparisons/glm-5.2-vs-opus/": {
-      "date": "2026-06-23",
-      "title": "GLM 5.2 与 Claude Opus 的一次性提示对比"
-    },
-    "https://www.chevron.com/newsroom/2026/q2/chevron-signs-20-year-power-agreement-with-microsoft-for-west-texas-data-center": {
-      "date": "2026-06-23",
-      "title": "雪佛龙与微软签署 20 年西得州数据中心供电协议"
-    },
     "https://github.com/alibaba/open-code-review": {
       "date": "2026-06-24",
       "title": "阿里巴巴开源 Go 代码审查工具"
     },
-    "https://spur.us/blog/smart-tv-apps-residential-proxy-sdks": {
-      "date": "2026-06-23",
-      "title": "近一半 LG 智能电视应用被发现嵌入住宅代理 SDK"
-    },
-    "https://manualdousuario.net/en/smart-glasses-ugly-tacky/": {
-      "date": "2026-06-23",
-      "title": "批评称当前智能眼镜土气，引发关于外观与实用性的讨论"
-    },
-    "https://oak.space/oak/oak": {
-      "date": "2026-06-23",
-      "title": "Oak：面向 AI 代理的 Git 替代版本控制系统"
-    },
-    "https://www.righto.com/2020/05/die-analysis-of-8087-math-coprocessors.html": {
-      "date": "2026-06-23",
-      "title": "Die analysis of the 8087 math coprocessor's fast bit shifter (2020)"
-    },
-    "https://puzzlelair.com/": {
-      "date": "2026-06-23",
-      "title": "展示 HN：开发者推出无广告逻辑谜题网站"
-    },
     "https://github.com/StarTrail-org/PixelRAG": {
       "date": "2026-06-25",
       "title": "PixelRAG 推出像素原生搜索，作为网页解析的替代方案"
-    },
-    "https://github.com/dorukkumkumoglu/optocamzero": {
-      "date": "2026-06-23",
-      "title": "Optocam Zero：基于 Raspberry Pi Zero 的自制数码相机"
-    },
-    "https://arun.is/blog/japan-symbols/": {
-      "date": "2026-06-23",
-      "title": "日本符号无需文字即可传达意义。"
-    },
-    "https://www.displaymate.com/": {
-      "date": "2026-06-23",
-      "title": "DisplayMate 网站在 Hacker News 上被分享并引发讨论"
-    },
-    "https://www.wespiser.com/posts/2026-06-19-best-dog-treat.html": {
-      "date": "2026-06-23",
-      "title": "使用 Bradley-Terry 模型通过成对比较排名狗零食"
-    },
-    "https://www.theregister.com/personal-tech/2026/06/22/the-memory-crisis-is-getting-so-bad-that-even-retro-ram-prices-are-going-to-the-moon/5259627": {
-      "date": "2026-06-23",
-      "title": "复古 RAM 价格因内存危机飙升"
-    },
-    "https://www.acquired.fm/episodes/the-walt-disney-company": {
-      "date": "2026-06-23",
-      "title": "Acquired.fm 播客探讨迪士尼的怀旧 monetization 策略。"
     },
     "https://github.com/webadderallorg/Recordly": {
       "date": "2026-06-24",
@@ -788,6 +688,82 @@
     "https://github.com/jumpserver/jumpserver": {
       "date": "2026-06-30",
       "title": "JumpServer 发布开源特权访问管理平台"
+    },
+    "https://www.anthropic.com/news/claude-sonnet-5": {
+      "date": "2026-07-01",
+      "title": "Anthropic 发布 Claude Sonnet 5，采用新分词器并提升 agentic 能力。"
+    },
+    "https://thereallo.dev/blog/claude-code-prompt-steganography": {
+      "date": "2026-07-01",
+      "title": "Claude Code 在请求中嵌入隐写标记"
+    },
+    "https://claude.com/product/claude-science": {
+      "date": "2026-07-01",
+      "title": "Anthropic 发布 Claude Science，面向数据科学的 AI 助手"
+    },
+    "https://ngrok.com/blog/i-ported-kubernetes-to-the-browser": {
+      "date": "2026-07-01",
+      "title": "Kubernetes 现在可以在浏览器中通过 WebAssembly 运行。"
+    },
+    "https://deepmind.google/models/gemini-image/flash-lite/": {
+      "date": "2026-07-01",
+      "title": "谷歌 DeepMind 发布 Nano Banana 2 Lite，快速蒸馏图像生成模型"
+    },
+    "https://www.gutenberg.org/ebooks/24518": {
+      "date": "2026-07-01",
+      "title": "黑客新闻讨论 1852 年经典著作关于群众心理与金融泡沫"
+    },
+    "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1": {
+      "date": "2026-07-01",
+      "title": "Meta 的 Brain2Qwerty 通过 EEG 解码想象语言为文本，无需手术"
+    },
+    "https://gauthier-lechevalier.com/radar": {
+      "date": "2026-07-01",
+      "title": "我在 2025 年自制了毫米波材料分类雷达。"
+    },
+    "https://www.knopper.net/knoppix/index-en.html": {
+      "date": "2026-07-01",
+      "title": "黑客新闻帖回忆 Knoppix 在学校的使用经历"
+    },
+    "https://taonaw.com/2026/06/27/have-you-restarted-your-computer.html": {
+      "date": "2026-07-01",
+      "title": "黑客新闻讨论电脑重启频率与习惯"
+    },
+    "https://www.latimes.com/business/story/2026-06-30/shadow-bribery-market-inside-amazon-preys-on-desperate-sellers": {
+      "date": "2026-07-01",
+      "title": "亚马逊卖家曝光暗中贿赂市场以获取虚假评价。"
+    },
+    "https://simonwillison.net/2026/Jun/30/shot-scraper-video/#atom-everything": {
+      "date": "2026-07-01",
+      "title": "Shot-scraper 1.10 新增视频命令用于录制网页代理演示。"
+    },
+    "https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/": {
+      "date": "2026-07-01",
+      "title": "TabFM：谷歌的零样本表格数据基础模型"
+    },
+    "https://github.com/astral-sh/uv/releases/tag/0.11.26": {
+      "date": "2026-07-01",
+      "title": "uv 0.11.26 发布，带来性能优化和构建缓存警告"
+    },
+    "https://simonwillison.net/2026/Jun/30/the-ai-compass/#atom-everything": {
+      "date": "2026-07-01",
+      "title": "互动 AI 指南针测验将伦理观映射至 30 种原型"
+    },
+    "https://simonwillison.net/2026/Jun/29/html-table-extractor/#atom-everything": {
+      "date": "2026-07-01",
+      "title": "西蒙·威利森发布 HTML 表格提取工具"
+    },
+    "https://blog.cr.yp.to/20260630-risk.html": {
+      "date": "2026-07-01",
+      "title": "理解格点风险：营销声明与实际安全的对比。"
+    },
+    "https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06": {
+      "date": "2026-07-01",
+      "title": "Mistral 发布 Leanstral 1.5，更新的轻量级语言模型。"
+    },
+    "https://www.newyorker.com/magazine/2026/07/06/morbid-saul-justin-newman-book-review-eat-your-ice-cream-ezekiel-j-emanuel": {
+      "date": "2026-07-01",
+      "title": "《纽约客》评论《Morbid》，质疑现代长寿科学。"
     }
   }
 }
