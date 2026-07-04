@@ -1,14 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "https://github.com/colbymchenry/codegraph": {
-      "date": "2026-06-27",
-      "title": "新 TypeScript 代码知识图谱降低 AI 编码助手的 token 使用"
-    },
-    "https://github.com/chopratejas/headroom": {
-      "date": "2026-06-27",
-      "title": "Headroom：Python 库压缩 LLM 输入，降低 token 用量 60-95%"
-    },
     "https://github.com/rtk-ai/rtk": {
       "date": "2026-07-02",
       "title": "Rust CLI 代理可将开发命令的 LLM token 消耗降低 60-90%。"
@@ -18,28 +10,24 @@
       "title": "Taste-Skill GitHub 仓库在 24 小时内获得 22 颗星，提供 AI 前端提示库"
     },
     "https://github.com/Panniantong/Agent-Reach": {
-      "date": "2026-07-04",
-      "title": "Agent-Reach CLI 让 AI 代理免费浏览多平台内容。"
+      "date": "2026-07-05",
+      "title": "Agent-Reach CLI 让 AI 代理免费访问多平台"
     },
     "https://github.com/hugohe3/ppt-master": {
       "date": "2026-07-03",
       "title": "开源 AI 工具从文档生成可编辑 PowerPoint"
     },
     "https://github.com/DeusData/codebase-memory-mcp": {
-      "date": "2026-07-04",
+      "date": "2026-07-05",
       "title": "DeusData 发布高性能无依赖 MCP 服务器，用于代码库知识图谱"
     },
     "https://github.com/calesthio/OpenMontage": {
-      "date": "2026-07-04",
-      "title": "OpenMontage 发布开源代理视频制作框架"
-    },
-    "https://github.com/mukul975/Anthropic-Cybersecurity-Skills": {
-      "date": "2026-06-27",
-      "title": "新开源仓库提供 754 项 AI 代理网络安全技能"
+      "date": "2026-07-05",
+      "title": "OpenMontage 发布开源代理视频制作系统。"
     },
     "https://github.com/jamiepine/voicebox": {
-      "date": "2026-07-04",
-      "title": "开源 TypeScript AI 声音工作室 Voicebox 在 24 小时内获得 13 颗星"
+      "date": "2026-07-05",
+      "title": "开源 AI 语音工作室 Voicebox 在 24 小时内获得 10 颗星"
     },
     "https://github.com/ZhuLinsen/daily_stock_analysis": {
       "date": "2026-07-04",
@@ -48,10 +36,6 @@
     "https://github.com/xbtlin/ai-berkshire": {
       "date": "2026-07-03",
       "title": "GitHub 项目 ai-berkshire 24 小时获 14 颗星，提供 AI 驱动的价值投资框架"
-    },
-    "https://github.com/shanraisshan/claude-code-best-practice": {
-      "date": "2026-06-27",
-      "title": "GitHub 仓库分享 Claude Code 最佳实践：从振动编码到智能体工程"
     },
     "https://github.com/JCodesMore/ai-website-cloner-template": {
       "date": "2026-07-02",
@@ -66,80 +50,16 @@
       "title": "OpenAI 兼容代理聚合 16 家 LLM 提供商的免费额度。"
     },
     "https://github.com/stablyai/orca": {
-      "date": "2026-07-04",
-      "title": "Orca 发布基于 TypeScript 的并行编码代理开发环境"
-    },
-    "https://openai.com/index/previewing-gpt-5-6-sol/": {
-      "date": "2026-06-27",
-      "title": "OpenAI 预览 GPT‑5.6 Sol 模型， Cerebras 硬件达 750 tokens/s"
-    },
-    "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/": {
-      "date": "2026-06-27",
-      "title": "美国政府将审批谁能使用 OpenAI 的 GPT-5.6 模型"
+      "date": "2026-07-05",
+      "title": "StablyAI 发布 Orca，一种用于并行编码代理的 TypeScript Agent 开发环境"
     },
     "https://github.com/workweave/router": {
       "date": "2026-07-02",
       "title": "基于 Go 的代理系统模型路由器在 24 小时内获得 13 颗星"
     },
-    "https://alephneuro.com/blog/ultrasound-brain": {
-      "date": "2026-06-27",
-      "title": "超声脑部成像被探索为便携式神经影像工具"
-    },
-    "https://kotaku.com/playstation-store-movies-digital-studio-canal-terminator-2000711013": {
-      "date": "2026-06-27",
-      "title": "索尼因许可证到期从 PlayStation 库中删除 551 部已购电影"
-    },
-    "https://www.science.org/content/article/why-have-papers-one-history-s-most-famous-physicists-been-retracted": {
-      "date": "2026-06-27",
-      "title": "Springer Nature 撤回两篇马克斯·普朗克论文，留空白页仍收费"
-    },
-    "https://simonwillison.net/2026/Jun/26/hack-my-ai-assistant/#atom-everything": {
-      "date": "2026-06-27",
-      "title": "2000 人尝试黑客攻击我的 AI 助手未成功泄露秘密"
-    },
-    "https://simonwillison.net/2026/Jun/26/incident-report/#atom-everything": {
-      "date": "2026-06-27",
-      "title": "讽刺 AI 代理争议致昂贵循环与假新闻稿。"
-    },
-    "https://blog.doubleword.ai/frontier-os-llm": {
-      "date": "2026-06-27",
-      "title": "分析开放权重与闭源大语言模型的性能差距"
-    },
-    "https://lefakkomies.github.io/pynomo-doc/introduction/introduction.html#what-is-a-nomogram-and-why-would-it-interest-me": {
-      "date": "2026-06-27",
-      "title": "名义图入门及其实际应用"
-    },
-    "https://gossamer-lang.org/": {
-      "date": "2026-06-27",
-      "title": "Gossamer 推出类 Rust 语法、协程和无暂停内存模型"
-    },
-    "https://www.newsweek.com/cost-me-the-election-data-centers-trigger-voter-backlash-12118327": {
-      "date": "2026-06-27",
-      "title": "选民因保密和环境问题对数据中心项目产生反对"
-    },
-    "https://commerce.jolla.com/products/jolla-phone-october-2026": {
-      "date": "2026-06-27",
-      "title": "Jolla 宣布 2026 年 10 月发布新款 Sailfish OS 手机。"
-    },
-    "https://simonwillison.net/2026/Jun/26/dean-w-ball/#atom-everything": {
-      "date": "2026-06-27",
-      "title": "迪恩·W·贝尔警告前沿 AI 模型利润窗口正在缩短。"
-    },
-    "https://www.jtekt.co.jp/e/products/capacitor/capacitor_about.html": {
-      "date": "2026-06-27",
-      "title": "锂离子电容器概述：混合型储能设备"
-    },
     "https://github.com/alibaba/page-agent": {
-      "date": "2026-07-04",
-      "title": "阿里巴巴发布 TypeScript 页面代理，支持自然语言控制网页界面。"
-    },
-    "https://github.com/Tessil/hopscotch-map": {
-      "date": "2026-06-27",
-      "title": "头文件-only C++ hopscotch 哈希映射和集合库发布"
-    },
-    "https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme": {
-      "date": "2026-06-27",
-      "title": "EFF 警告加州 3D 打印机监控法案"
+      "date": "2026-07-05",
+      "title": "阿里巴巴发布 TypeScript 版 Page-Agent，实现自然语言网页控制"
     },
     "https://github.com/mauriceboe/TREK": {
       "date": "2026-07-02",
@@ -222,8 +142,8 @@
       "title": "AssppWeb TypeScript 仓库在 24 小时内获得 28 颗星"
     },
     "https://github.com/ogulcancelik/herdr": {
-      "date": "2026-07-04",
-      "title": "基于 Rust 的终端 AI 代理复用器 herdr 在 24 小时内获 11 颗星"
+      "date": "2026-07-05",
+      "title": "Rust 终端代理多路复用器 herdr 在 24 小时内获得 20 颗星。"
     },
     "https://github.com/antirez/ds4": {
       "date": "2026-06-28",
@@ -634,8 +554,8 @@
       "title": "zkGolf：LLM 生成的经过形式验证的优化零知识证明电路"
     },
     "https://github.com/erincatto/box3d": {
-      "date": "2026-07-04",
-      "title": "Erin Catto 发布 Box3D，一个新的开源 3D 物理引擎，用于游戏"
+      "date": "2026-07-05",
+      "title": "Erin Catto 发布开源 3D 物理引擎 Box3D"
     },
     "https://cdn.arstechnica.net/wp-content/uploads/2026/07/EFF-letter-to-FTC-on-X-consent-order-7-2-26.pdf": {
       "date": "2026-07-03",
@@ -650,8 +570,8 @@
       "title": "JEP 539 将 JVM 的严格字段初始化移至预览功能。"
     },
     "https://github.com/diegosouzapw/OmniRoute": {
-      "date": "2026-07-04",
-      "title": "OmniRoute：新型 TypeScript AI 网关支持 160+ LLM 提供商并具备令牌压缩"
+      "date": "2026-07-05",
+      "title": "OmniRoute：免费 TypeScript AI 网关，支持 160+ 提供商及令牌压缩"
     },
     "https://www.zachtronics.com/exapunks/": {
       "date": "2026-07-03",
@@ -678,12 +598,12 @@
       "title": "使任何 LLM 能够通过帧提取处理视频的工具"
     },
     "https://github.com/usestrix/strix": {
-      "date": "2026-07-04",
-      "title": "Strix AI 工具在 24 小时内获 50 星，实现自动漏洞修复。"
+      "date": "2026-07-05",
+      "title": "Strix 是一个开源的 AI 工具，用于检测和修复应用漏洞。"
     },
     "https://github.com/facebook/astryx": {
-      "date": "2026-07-04",
-      "title": "Facebook 发布 Astryx，一种基于 TypeScript 的 AI 就绪设计系统"
+      "date": "2026-07-05",
+      "title": "Facebook 开源 TypeScript 设计系统 Astryx 在 24 小时内获得 31 颗星"
     },
     "https://github.com/TencentCloud/CubeSandbox": {
       "date": "2026-07-03",
@@ -806,8 +726,8 @@
       "title": "FreeBSD 因 ZFS ARC 缓存而似乎占用大量内存"
     },
     "https://github.com/Zackriya-Solutions/meetily": {
-      "date": "2026-07-04",
-      "title": "Meetily：开源 Rust AI 会议助手在 24 小时内获得 15 颗星"
+      "date": "2026-07-05",
+      "title": "Zackriya-Solutions/meetily (+15⭐ past_24_hours)"
     },
     "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/": {
       "date": "2026-07-04",
@@ -846,16 +766,104 @@
       "title": "LangChain 发布 OpenWiki CLI 自动生成代码库文档"
     },
     "https://github.com/browser-use/video-use": {
-      "date": "2026-07-04",
-      "title": "新的 Python 库通过编码代理实现视频编辑。"
+      "date": "2026-07-05",
+      "title": "browser-use/video-use：用于编码代理视频编辑的 Python 库"
     },
     "https://github.com/openai/codex-plugin-cc": {
-      "date": "2026-07-04",
-      "title": "OpenAI 发布 Codex 插件以在 Claude Code 中实现代码审查"
+      "date": "2026-07-05",
+      "title": "OpenAI 发布 JavaScript 插件，使 Claude Code 能使用 Codex"
     },
     "https://github.com/ctxrs/ctx": {
-      "date": "2026-07-04",
-      "title": "ctxrs/ctx (+10⭐ past_24_hours)"
+      "date": "2026-07-05",
+      "title": "基于 Rust 的 ctxrs/ctx 发布为 AI 编码代理的 Agentic 开发环境"
+    },
+    "https://javoriuski.com/post/youtube": {
+      "date": "2026-07-05",
+      "title": "YouTube Studio 提示注入漏洞导致创作者私密视频泄露"
+    },
+    "https://ziglang.org/devlog/2026/#2026-06-30": {
+      "date": "2026-07-05",
+      "title": "Zig 将包管理功能从编译器移至构建系统"
+    },
+    "https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/": {
+      "date": "2026-07-05",
+      "title": "天体物理学家对 JWST 发现的'小红点'感到困惑，可能预示新类天体"
+    },
+    "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234": {
+      "date": "2026-07-05",
+      "title": "$200k 赏金启动，旨在扫描所有类似 Google Books 的图书"
+    },
+    "https://www.tomshardware.com/tech-industry/data-centers/cheyenne-suspends-data-center-fill-and-flush-and-closed-loop-discharges-after-meta-contractor-contaminated-its-reuse-water-system": {
+      "date": "2026-07-05",
+      "title": "Meta 数据中心排水因污染物检测被暂停"
+    },
+    "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/": {
+      "date": "2026-07-05",
+      "title": "室内二氧化碳水平可能影响决策和认知表现"
+    },
+    "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main": {
+      "date": "2026-07-05",
+      "title": "命令与征服：将军们在 macOS、iOS 上通过 Fable 实现原生移植"
+    },
+    "https://github.com/anthropics/claude-code/issues/74066": {
+      "date": "2026-07-05",
+      "title": "在 LLM API 如 Claude Code 中报告潜在的会话/缓存泄漏"
+    },
+    "https://www.jefftk.com/p/verizon-is-about-to-break-our-watches": {
+      "date": "2026-07-05",
+      "title": "Verizon 网络更改威胁智能手表连接"
+    },
+    "https://peteris.rocks/blog/htop/": {
+      "date": "2026-07-05",
+      "title": "解释 Linux 中 htop 和 top 的所有指标"
+    },
+    "https://www.euronews.com/next/2026/06/30/finlands-last-analogue-landline-phones-go-silent-after-150-years": {
+      "date": "2026-07-05",
+      "title": "芬兰最后的模拟固定电话在 150 年后静默"
+    },
+    "https://adamraudonis.github.io/splats4D/": {
+      "date": "2026-07-05",
+      "title": "Fable 创建新型 4D splat 文件格式用于动态高斯溅射"
+    },
+    "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/": {
+      "date": "2026-07-05",
+      "title": "更好的模型，更差的工具：AI 进步超越工具发展"
+    },
+    "https://github.com/maximqaxd/wince-dc": {
+      "date": "2026-07-05",
+      "title": "社区项目在世嘉 Dreamcast 上运行 Windows CE"
+    },
+    "https://art.joonas.wtf/": {
+      "date": "2026-07-05",
+      "title": "Plein Air"
+    },
+    "https://github.com/openai/codex/issues/30364": {
+      "date": "2026-07-05",
+      "title": "GitHub issue 指出 GPT-5.5 Codex 的 reasoning-token 聚类可能导致性能下降"
+    },
+    "https://arxiv.org/abs/2606.26967": {
+      "date": "2026-07-05",
+      "title": "协议窥探：AirDrop 和 Quick Share 漏洞研究"
+    },
+    "https://www.mattgreer.dev/blog/gba-dev-logging/": {
+      "date": "2026-07-05",
+      "title": "Game Boy Advance 主机开发的控制台日志指南"
+    },
+    "https://www.endbasic.dev/2026/07/endbasic-0.14.html": {
+      "date": "2026-07-05",
+      "title": "EndBASIC 0.14 添加了多媒体功能。"
+    },
+    "https://mightyburger.net/projects/curveball/": {
+      "date": "2026-07-05",
+      "title": "Curveball 是 Neverball 关卡设计的曲线生成工具。"
+    },
+    "https://github.com/MadsLorentzen/ai-job-search": {
+      "date": "2026-07-05",
+      "title": "这是一个开源 TypeScript 框架，利用 Claude AI 自动化求职申请。"
+    },
+    "https://github.com/Emily2040/seedance-2.0": {
+      "date": "2026-07-05",
+      "title": "Seedance 2.0 GitHub 仓库在 24 小时内获得 10 颗星"
     }
   }
 }
