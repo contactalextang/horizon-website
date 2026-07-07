@@ -5,10 +5,6 @@
       "date": "2026-07-02",
       "title": "Rust CLI 代理可将开发命令的 LLM token 消耗降低 60-90%。"
     },
-    "https://github.com/Leonxlnx/taste-skill": {
-      "date": "2026-06-28",
-      "title": "Taste-Skill GitHub 仓库在 24 小时内获得 22 颗星，提供 AI 前端提示库"
-    },
     "https://github.com/Panniantong/Agent-Reach": {
       "date": "2026-07-05",
       "title": "Agent-Reach CLI 让 AI 代理免费访问多平台"
@@ -65,58 +61,6 @@
       "date": "2026-07-02",
       "title": "TREK 在 24 小时内获得 19 颗星，成为自托管 TypeScript 旅行规划器"
     },
-    "https://www.openra.net/": {
-      "date": "2026-06-28",
-      "title": "OpenRA 因现代化经典 RTS 游戏获社区热烈好评"
-    },
-    "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf": {
-      "date": "2026-06-28",
-      "title": "DSpark：通过 speculative decoding 提升 LLM 推理速度 60‑85%"
-    },
-    "https://pluralistic.net/2026/06/27/zuckerstreisand-2/": {
-      "date": "2026-06-28",
-      "title": "Zuckerberg's war on whistleblowers"
-    },
-    "https://ipcrawl.com/": {
-      "date": "2026-06-28",
-      "title": "IP Crawl 揭露数千台未受保护的公共网络摄像头"
-    },
-    "https://dervis.de/physical/": {
-      "date": "2026-06-28",
-      "title": "主张实体媒体所有权而非数字许可"
-    },
-    "https://danluu.com/discontinuities/": {
-      "date": "2026-06-28",
-      "title": "可疑的断点：人类偏导致数据激增"
-    },
-    "https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/": {
-      "date": "2026-06-28",
-      "title": "后 Mythos 时代的网络安全：保持冷静，注重基础"
-    },
-    "https://github.com/astral-sh/uv/releases/tag/0.11.25": {
-      "date": "2026-06-28",
-      "title": "uv 0.11.25 发布，包含 tar 库安全更新和锁文件改进"
-    },
-    "https://github.com/kageroumado/adrafinil": {
-      "date": "2026-06-28",
-      "title": "Adrafinil：仅在 AI 代理活跃时保持 Mac 合盖唤醒的开源工具"
-    },
-    "https://cauenapier.com/blog/townsquare_release/": {
-      "date": "2026-06-28",
-      "title": "TownSquare 推出轻量级匿名头像存在层，供网站使用"
-    },
-    "https://w.pitula.me/fintech-engineering-handbook/": {
-      "date": "2026-06-28",
-      "title": "金融科技工程手册发布，获赞也受批评"
-    },
-    "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/": {
-      "date": "2026-06-28",
-      "title": "亚洲 AI 初创公司在 Anthropic 出口禁令下发布类 Mythos 模型"
-    },
-    "https://github.com/simplex-chat/simplex-chat": {
-      "date": "2026-06-28",
-      "title": "SimpleX Chat 在 24 小时内获 63 颗星，成为首个无用户标识的消息网络"
-    },
     "https://github.com/EpicGames/lore": {
       "date": "2026-07-02",
       "title": "Epic Games 发布了基于 Rust 的开源版本控制系统 lore。"
@@ -125,133 +69,9 @@
       "date": "2026-07-02",
       "title": "AI 驱动的进攻性安全代理 CyberStrike 在 24 小时内获得 12 颗星"
     },
-    "https://github.com/bikini/exploitarium": {
-      "date": "2026-06-28",
-      "title": "匿名 GitHub 账号发布 alleged 0-day 漏洞，多数被质疑为已知或不切实际"
-    },
-    "https://www.psychologytoday.com/au/blog/mood-by-microbe/202606/what-ozempic-does-to-the-gut-brain-axis": {
-      "date": "2026-06-28",
-      "title": "GLP-1 药物导致体重下降并逆转小鼠抑郁样行为"
-    },
-    "https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/": {
-      "date": "2026-06-28",
-      "title": "使用 LXC 增强 X11 应用程序安全"
-    },
-    "https://github.com/Lakr233/AssppWeb": {
-      "date": "2026-06-28",
-      "title": "AssppWeb TypeScript 仓库在 24 小时内获得 28 颗星"
-    },
     "https://github.com/ogulcancelik/herdr": {
       "date": "2026-07-05",
       "title": "Rust 终端代理多路复用器 herdr 在 24 小时内获得 20 颗星。"
-    },
-    "https://github.com/antirez/ds4": {
-      "date": "2026-06-28",
-      "title": "antirez 发布基于 C 的 ds4 本地推理引擎，支持 DeepSeek V4 Flash/Pro"
-    },
-    "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html": {
-      "date": "2026-06-29",
-      "title": "教授谴责布朗大学考试中大规模 AI 作弊"
-    },
-    "https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online": {
-      "date": "2026-06-29",
-      "title": "KIDS 法案提出强制在线访问年龄验证"
-    },
-    "https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/": {
-      "date": "2026-06-29",
-      "title": "欧盟通过秘密谈判推动 Chat Control 立法"
-    },
-    "https://antoine.fi/mri-analysis-using-claude-code-opus": {
-      "date": "2026-06-29",
-      "title": "患者使用 Claude Code AI 进行 MRI 第二意见"
-    },
-    "https://github.com/librepods-org/librepods": {
-      "date": "2026-06-29",
-      "title": "Librepods：开源实现让非苹果设备使用 AirPods 高级功能"
-    },
-    "https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing": {
-      "date": "2026-06-29",
-      "title": "Tokenmaxxing 已死，万岁 Tokenmaxxing"
-    },
-    "https://www.righto.com/2026/06/space-shuttle-io-processor-boards.html": {
-      "date": "2026-06-29",
-      "title": "Examining circuit boards from the Space Shuttle's I/O Processor"
-    },
-    "https://github.com/openai/codex/issues/2847": {
-      "date": "2026-06-29",
-      "title": "OpenAI Codex 排除敏感文件的议题仍未解决"
-    },
-    "https://aresluna.org/the-curious-case-of-the-disappearing-polish-s/": {
-      "date": "2026-06-29",
-      "title": "波兰语消失的Ś之谜（2015）"
-    },
-    "https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number": {
-      "date": "2026-06-29",
-      "title": "ISC'26 TOP500 榜单发布新冠军超级计算机"
-    },
-    "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/": {
-      "date": "2026-06-29",
-      "title": "GLM 5.2 在 Semgrep 的网络安全基准测试中击败 Claude"
-    },
-    "https://pudding.cool/2026/06/menu-story/": {
-      "date": "2026-06-29",
-      "title": "The Pudding 推出互动故事，展示 5000 份纽约公共图书馆历史菜单"
-    },
-    "https://dam.stanford.edu/memory-prices.html": {
-      "date": "2026-06-29",
-      "title": "1960-2026 年内存每 GB 价格图表引发讨论"
-    },
-    "http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html": {
-      "date": "2026-06-29",
-      "title": "在 Lemote Yeeloong MIPS 笔记本上运行 OpenBSD 需要进行 workaround。"
-    },
-    "https://zanagrams.com/": {
-      "date": "2026-06-29",
-      "title": "Show HN：Zanagrams 推出基于网页的单词拼图游戏"
-    },
-    "https://www.pcmag.com/opinions/the-us-used-to-demand-the-best-tech-now-we-ban-it": {
-      "date": "2026-06-29",
-      "title": "美国转向技术禁令政策"
-    },
-    "https://github.com/rochus-keller/MUMPS/blob/main/docs/MUMPS_Primer.adoc": {
-      "date": "2026-06-29",
-      "title": "MUMPS 76 Primer 周年纪念版发布"
-    },
-    "https://simonwillison.net/2026/Jun/28/jon-udell/#atom-everything": {
-      "date": "2026-06-29",
-      "title": "Jon Udell 将 AI 代理重新定义为开发循环中的队友"
-    },
-    "https://blog.pascalschuster.de/article/do-llms-pass-the-mirror-test": {
-      "date": "2026-06-29",
-      "title": "大语言模型能否通过镜像测试？探索 AI 自我认知"
-    },
-    "https://arxiv.org/abs/2606.25313": {
-      "date": "2026-06-29",
-      "title": "研究者展示了包含 100 万个 p 比特的可编程概率计算机。"
-    },
-    "https://www.openculture.com/2020/10/daisugi.html": {
-      "date": "2026-06-29",
-      "title": "Daisugi 是一种从树干培育直木的日本方法。"
-    },
-    "https://simonwillison.net/2026/Jun/28/hack-your-summer/#atom-everything": {
-      "date": "2026-06-29",
-      "title": "Hack Your Summer 推出免费四周学生项目冲刺"
-    },
-    "https://github.com/kamaludu/bash4llm/": {
-      "date": "2026-06-29",
-      "title": "Bash4LLM+: 一个无依赖的 Bash LLM API 包装器"
-    },
-    "https://github.com/JustVugg/nanoeuler": {
-      "date": "2026-06-29",
-      "title": "Show HN：NanoEuler – 纯 C/CUDA 实现的 GPT-2 规模模型"
-    },
-    "https://archive.org/details/colby1968-computer-aided-language-development-in-non-speaking-children": {
-      "date": "2026-06-29",
-      "title": "1968 年斯坦福关于非言语儿童计算机辅助语言发展的报告"
-    },
-    "https://frequal.com/Perspectives/DrmFreeAuthors.html": {
-      "date": "2026-06-29",
-      "title": "HN 展示免 DRM 书籍与经典"
     },
     "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully": {
       "date": "2026-06-30",
@@ -570,8 +390,8 @@
       "title": "JEP 539 将 JVM 的严格字段初始化移至预览功能。"
     },
     "https://github.com/diegosouzapw/OmniRoute": {
-      "date": "2026-07-05",
-      "title": "OmniRoute：免费 TypeScript AI 网关，支持 160+ 提供商及令牌压缩"
+      "date": "2026-07-07",
+      "title": "OmniRoute：新型 TypeScript AI 网关聚合 160+ 大模型提供商"
     },
     "https://www.zachtronics.com/exapunks/": {
       "date": "2026-07-03",
@@ -726,8 +546,8 @@
       "title": "FreeBSD 因 ZFS ARC 缓存而似乎占用大量内存"
     },
     "https://github.com/Zackriya-Solutions/meetily": {
-      "date": "2026-07-05",
-      "title": "Zackriya-Solutions/meetily (+15⭐ past_24_hours)"
+      "date": "2026-07-07",
+      "title": "Meetily：开源 Rust AI 会议助手 24 小时获 18 颗星"
     },
     "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/": {
       "date": "2026-07-04",
@@ -762,8 +582,8 @@
       "title": "文章从第一性原理探讨软件开发"
     },
     "https://github.com/langchain-ai/openwiki": {
-      "date": "2026-07-04",
-      "title": "LangChain 发布 OpenWiki CLI 自动生成代码库文档"
+      "date": "2026-07-07",
+      "title": "LangChain AI 发布 OpenWiki CLI 自动生成代理文档"
     },
     "https://github.com/browser-use/video-use": {
       "date": "2026-07-05",
@@ -858,12 +678,120 @@
       "title": "Curveball 是 Neverball 关卡设计的曲线生成工具。"
     },
     "https://github.com/MadsLorentzen/ai-job-search": {
-      "date": "2026-07-05",
-      "title": "这是一个开源 TypeScript 框架，利用 Claude AI 自动化求职申请。"
+      "date": "2026-07-07",
+      "title": "开源 TypeScript 框架利用 Claude Code 自动化求职申请"
     },
     "https://github.com/Emily2040/seedance-2.0": {
       "date": "2026-07-05",
       "title": "Seedance 2.0 GitHub 仓库在 24 小时内获得 10 颗星"
+    },
+    "https://github.com/V4bel/Januscape": {
+      "date": "2026-07-07",
+      "title": "Januscape: Guest-to-Host Escape in KVM/x86 (CVE-2026-53359)"
+    },
+    "https://openwrt.org/toh/openwrt/one": {
+      "date": "2026-07-07",
+      "title": "OpenWrt One 发布：面向 DIY 网络的开源硬件路由器"
+    },
+    "https://www.anthropic.com/research/global-workspace": {
+      "date": "2026-07-07",
+      "title": "Anthropic 提出语言模型的全局工作空间机制"
+    },
+    "https://simonwillison.net/2026/Jul/6/hy3/#atom-everything": {
+      "date": "2026-07-07",
+      "title": "腾讯发布 2950 亿参数的 Hy3 混合专家模型，采用 Apache 2.0 许可证。"
+    },
+    "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/": {
+      "date": "2026-07-07",
+      "title": "GLM 5.2 发布引发 AI 利润空间收缩讨论"
+    },
+    "https://cakehonolulu.github.io/linux-for-jaguar/": {
+      "date": "2026-07-07",
+      "title": "Atari Jaguar 上运行 Linux"
+    },
+    "https://stevekrouse.com/learn-to-code": {
+      "date": "2026-07-07",
+      "title": "Learning to code is still worthwhile"
+    },
+    "https://arxiv.org/abs/2607.01504": {
+      "date": "2026-07-07",
+      "title": "Kani：一种用于 Rust 的位精确模型检查器"
+    },
+    "https://simonwillison.net/2026/Jul/6/sqlite-utils/#atom-everything": {
+      "date": "2026-07-07",
+      "title": "sqlite-utils 4.0rc3 已发布，支持复合外键。"
+    },
+    "https://www.openssh.org/txt/release-10.4": {
+      "date": "2026-07-07",
+      "title": "OpenSSH 10.4/10.4p1 发布，包含安全修复和新功能"
+    },
+    "https://github.com/SmtimesIWndr/gdid-reversal": {
+      "date": "2026-07-07",
+      "title": "Windows GDID 逆向工程完整分析发布"
+    },
+    "https://github.com/astral-sh/uv/releases/tag/0.11.27": {
+      "date": "2026-07-07",
+      "title": "uv 0.11.27 发布，加入缓存、性能优化及无扩展名 shebang 预览"
+    },
+    "https://github.com/MaximeRivest/Riddle": {
+      "date": "2026-07-07",
+      "title": "开发者将 reMarkable 平板变成 AI 驱动的汤姆·里德尔日记"
+    },
+    "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home": {
+      "date": "2026-07-07",
+      "title": "如何在家中自行测序 DNA"
+    },
+    "https://www.comaps.app/": {
+      "date": "2026-07-07",
+      "title": "CoMaps 宣布作为社区驱动的 Organic Maps 分支"
+    },
+    "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals": {
+      "date": "2026-07-07",
+      "title": "小型 AI 模型在网络不可靠地区获得关注"
+    },
+    "https://www.kapa.ai/blog/how-we-prune-rag-context": {
+      "date": "2026-07-07",
+      "title": "修剪 RAG 上下文仅保留答案所需信息"
+    },
+    "https://news.xbox.com/en-us/2026/07/06/resetting-xbox/": {
+      "date": "2026-07-07",
+      "title": "微软 Xbox 部门宣布战略重置"
+    },
+    "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo": {
+      "date": "2026-07-07",
+      "title": "AMD 发布 4000 美元 Ryzen AI Halo 开发套件。"
+    },
+    "https://github.com/iOfficeAI/OfficeCLI": {
+      "date": "2026-07-07",
+      "title": "OfficeCLI：面向 AI 代理的开源 CLI 工具，无需 Office 即可操作 Office 文件"
+    },
+    "https://elm-lang.org/news/faster-builds": {
+      "date": "2026-07-07",
+      "title": "Elm 迈向 1.0 版本及其与 LLM 兼容性的讨论"
+    },
+    "https://github.com/polyml/polyml": {
+      "date": "2026-07-07",
+      "title": "Poly/ML – A Standard ML Implementation"
+    },
+    "https://wiki.xxiivv.com/site/m_pc.html": {
+      "date": "2026-07-07",
+      "title": "M/PC：受 Forth 启发的连接式操作系统"
+    },
+    "https://github.com/Trystan-SA/claude-design-system-prompt": {
+      "date": "2026-07-07",
+      "title": "逆向工程的 Claude Design 提示使 LLM 成为无障碍感知的设计协作者。"
+    },
+    "https://dernocua.github.io/notes/aluminum-foil.html": {
+      "date": "2026-07-07",
+      "title": "黑客新闻帖子讨论铝箔的用途、误区与创意应用"
+    },
+    "https://devz.cl/posts/acryonym-fatigue-series-why-i-m-wary-of-engineering-acronyms/": {
+      "date": "2026-07-07",
+      "title": "作者推出关于工程缩写疲劳及沟通清晰度的系列文章"
+    },
+    "https://github.com/teamchong/pxpipe": {
+      "date": "2026-07-07",
+      "title": "pxpipe TypeScript 工具通过将文本渲染为图像来降低 LLM token 使用量"
     }
   }
 }
