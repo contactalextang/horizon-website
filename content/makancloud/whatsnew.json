@@ -2,6 +2,12 @@
   "_note": "由 scripts/sync-makancloud-whatsnew.mjs 从 膳云/CLAUDE.md changelog 自动维护；新版本会被追加（en 可能为空，待补译）。",
   "items": [
     {
+      "version": "v8.16.0 三项修复",
+      "date": "2026-07-07",
+      "zh": "pay_at_counter 文案 + 订阅逾期门禁 + 自助点单列表刷新",
+      "en": ""
+    },
+    {
       "version": "",
       "date": "2026-06-30",
       "zh": "生产加固 Wave 1/2/3 合并到 main 并部署上线",
