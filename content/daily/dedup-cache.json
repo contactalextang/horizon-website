@@ -1,10 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "https://github.com/rtk-ai/rtk": {
-      "date": "2026-07-02",
-      "title": "Rust CLI 代理可将开发命令的 LLM token 消耗降低 60-90%。"
-    },
     "https://github.com/Panniantong/Agent-Reach": {
       "date": "2026-07-05",
       "title": "Agent-Reach CLI 让 AI 代理免费访问多平台"
@@ -33,157 +29,17 @@
       "date": "2026-07-03",
       "title": "GitHub 项目 ai-berkshire 24 小时获 14 颗星，提供 AI 驱动的价值投资框架"
     },
-    "https://github.com/JCodesMore/ai-website-cloner-template": {
-      "date": "2026-07-02",
-      "title": "AI 驱动的 TypeScript 模板可实现一键网站克隆。"
-    },
-    "https://github.com/inkeep/open-knowledge": {
-      "date": "2026-07-02",
-      "title": "inkeep/open-knowledge：AI 原生 Markdown 编辑器和 LLM Wiki 获得星标"
-    },
-    "https://github.com/tashfeenahmed/freellmapi": {
-      "date": "2026-07-02",
-      "title": "OpenAI 兼容代理聚合 16 家 LLM 提供商的免费额度。"
-    },
     "https://github.com/stablyai/orca": {
       "date": "2026-07-05",
       "title": "StablyAI 发布 Orca，一种用于并行编码代理的 TypeScript Agent 开发环境"
-    },
-    "https://github.com/workweave/router": {
-      "date": "2026-07-02",
-      "title": "基于 Go 的代理系统模型路由器在 24 小时内获得 13 颗星"
     },
     "https://github.com/alibaba/page-agent": {
       "date": "2026-07-05",
       "title": "阿里巴巴发布 TypeScript 版 Page-Agent，实现自然语言网页控制"
     },
-    "https://github.com/mauriceboe/TREK": {
-      "date": "2026-07-02",
-      "title": "TREK 在 24 小时内获得 19 颗星，成为自托管 TypeScript 旅行规划器"
-    },
-    "https://github.com/EpicGames/lore": {
-      "date": "2026-07-02",
-      "title": "Epic Games 发布了基于 Rust 的开源版本控制系统 lore。"
-    },
-    "https://github.com/CyberStrikeus/CyberStrike": {
-      "date": "2026-07-02",
-      "title": "AI 驱动的进攻性安全代理 CyberStrike 在 24 小时内获得 12 颗星"
-    },
     "https://github.com/ogulcancelik/herdr": {
       "date": "2026-07-05",
       "title": "Rust 终端代理多路复用器 herdr 在 24 小时内获得 20 颗星。"
-    },
-    "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/": {
-      "date": "2026-07-02",
-      "title": "首次创建出能够生长和分裂的完全合成细胞"
-    },
-    "https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/": {
-      "date": "2026-07-02",
-      "title": "索尼宣布 2028 年起停止新 PlayStation 游戏实体光盘制作"
-    },
-    "https://box2d.org/posts/2026/06/announcing-box3d/": {
-      "date": "2026-07-02",
-      "title": "Erin Catto 宣布 Box3D，开源 3D 物理引擎，继承 Box2D"
-    },
-    "https://blog.cloudflare.com/monetization-gateway/": {
-      "date": "2026-07-02",
-      "title": "Cloudflare 推出基于 HTTP 402 和稳定币的 monetization 网关"
-    },
-    "https://probelab.io/blog/optimistic-provide/": {
-      "date": "2026-07-02",
-      "title": "IPFS 内容发布速度通过乐观提供提升 10 倍"
-    },
-    "https://heyoncall.com/blog/fixing-kubernetes-kubelet-memory-leak": {
-      "date": "2026-07-02",
-      "title": "在 Kubernetes 1.36 中发现 kubelet 内存泄漏，临时解决方案及 v1.36.3 修复"
-    },
-    "https://hydrogenaudio.org/index.php/topic,129691.0.html": {
-      "date": "2026-07-02",
-      "title": "FFmpeg 9.1 发布新 AAC 编码器，音质提升"
-    },
-    "https://reclaimthenet.org/sony-deletes-551-studiocanal-movies-playstation-owners-paid-for": {
-      "date": "2026-07-02",
-      "title": "索尼删除 PlayStation 用户已购买的 551 部 StudioCanal 电影"
-    },
-    "https://zcode.z.ai/en": {
-      "date": "2026-07-02",
-      "title": "ZCode 简化 GLM-5.2 使用的开发者工具"
-    },
-    "https://anatoliybabushka.com/blog/when-to-rewrite-working-code.html": {
-      "date": "2026-07-02",
-      "title": "大多数代码重写服务于工程师而非业务需求"
-    },
-    "https://wasm.chdb.io/": {
-      "date": "2026-07-02",
-      "title": "ClickHouse OLAP 引擎编译到 WebAssembly 以在浏览器中运行"
-    },
-    "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/": {
-      "date": "2026-07-02",
-      "title": "成为图形程序员所需必备技能的指南"
-    },
-    "https://ciechanow.ski/internal-combustion-engine/": {
-      "date": "2026-07-02",
-      "title": "2021 年内燃机交互式指南"
-    },
-    "https://news.ycombinator.com/item?id=48747976": {
-      "date": "2026-07-02",
-      "title": "Ask HN：谁在招聘？2026 年 7 月线程"
-    },
-    "https://twitter.com/claudeai/status/2072402636813607381": {
-      "date": "2026-07-02",
-      "title": "Fable 5 模型回归，引发安全与代币经济学担忧。"
-    },
-    "https://cerebrium.ai/blog/reducing-gpu-cold-starts-with-memory-snapshots-restoring-cuda-workloads-in-second": {
-      "date": "2026-07-02",
-      "title": "使用 GPU 快照减少 GVisor 冷启动延迟"
-    },
-    "https://golemui.com/": {
-      "date": "2026-07-02",
-      "title": "Show HN：GolemUI – 声明式表单引擎"
-    },
-    "https://github.com/every-app/open-seo": {
-      "date": "2026-07-02",
-      "title": "OpenSEO：新开源 TypeScript SEO 工具 24 小时获 22 颗星。"
-    },
-    "https://github.com/KittenML/KittenTTS": {
-      "date": "2026-07-02",
-      "title": "KittenML 发布紧凑型开源 TTS 模型，体积低于 25MB"
-    },
-    "https://www.workerowned.info/": {
-      "date": "2026-07-02",
-      "title": "展示 HN：可搜索的 22k+工人合作社产品目录"
-    },
-    "https://hanakai.org/blog/2026/06/30/hanami-3-0-in-full-bloom": {
-      "date": "2026-07-02",
-      "title": "Hanami 3.0 发布，架构改进及邮件集成"
-    },
-    "https://twitter.com/Gavriel_Cohen/status/2072432348805669139": {
-      "date": "2026-07-02",
-      "title": "Fable 开源 NanoClaw 的 800 美元代理工厂"
-    },
-    "https://www.j-times.org/en/media/articles/japan-shinise-1400-years-2026/": {
-      "date": "2026-07-02",
-      "title": "日本拥有 41%的百年企业，揭秘其超长寿命的秘密"
-    },
-    "https://www.qualcomm.com/developer/blog/2026/06/qualcomm-linux-2-now-available": {
-      "date": "2026-07-02",
-      "title": "Qualcomm 发布适用于 Dragonwing IoT 平台的 Linux 2.0"
-    },
-    "https://www.weaverobotics.com/isaac-1": {
-      "date": "2026-07-02",
-      "title": "Weave Robotics 宣布 7,999 美元家用机器人 Isaac 1，2026 秋季交付"
-    },
-    "https://www.researchgate.net/publication/353058947_Global_regional_and_national_burden_of_mortality_associated_with_non-optimal_ambient_temperatures_from_2000_to_2019_a_three-stage_modelling_study": {
-      "date": "2026-07-02",
-      "title": "研究使用三阶段模型估算 2000‑2019 年全球温度相关死亡负担"
-    },
-    "https://github.com/BuilderIO/agent-native": {
-      "date": "2026-07-02",
-      "title": "BuilderIO 发布 TypeScript 框架用于构建 agent-native 应用"
-    },
-    "https://github.com/tinyhumansai/openhuman": {
-      "date": "2026-07-02",
-      "title": "Rust-based OpenHuman AI 助手在 24 小时内获得 14 颗星"
     },
     "https://mathstodon.xyz/@iblech/116769502749142438": {
       "date": "2026-07-03",
@@ -530,8 +386,8 @@
       "title": "Curveball 是 Neverball 关卡设计的曲线生成工具。"
     },
     "https://github.com/MadsLorentzen/ai-job-search": {
-      "date": "2026-07-09",
-      "title": "基于 Claude Code 的开源 TypeScript 求职助手"
+      "date": "2026-07-10",
+      "title": "基于 Claude Code 的开源 TypeScript 求职助手在 24 小时内获得 21 颗星"
     },
     "https://github.com/Emily2040/seedance-2.0": {
       "date": "2026-07-05",
@@ -766,8 +622,8 @@
       "title": "欧盟迈向复活私人消息扫描立法的一步"
     },
     "https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/#atom-everything": {
-      "date": "2026-07-09",
-      "title": "Bun JavaScript 运行时从 Zig 重写为 Rust"
+      "date": "2026-07-10",
+      "title": "将 Bun JavaScript 运行时从 Zig 重写为 Rust"
     },
     "https://openai.com/index/separating-signal-from-noise-coding-evaluations/": {
       "date": "2026-07-09",
@@ -816,6 +672,102 @@
     "https://mira-wm.com/": {
       "date": "2026-07-09",
       "title": "MIRA：基于《火箭联盟》游戏数据的多玩家交互式世界模型"
+    },
+    "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/": {
+      "date": "2026-07-10",
+      "title": "欧洲议会批准 Chat Control 1.0 进行无令状私信扫描"
+    },
+    "https://simonwillison.net/2026/Jul/9/gpt-5-6/#atom-everything": {
+      "date": "2026-07-10",
+      "title": "OpenAI 发布 GPT-5.6 系列：Luna、Terra、Sol 及新定价"
+    },
+    "https://github.com/malisper/pgrust": {
+      "date": "2026-07-10",
+      "title": "PostgreSQL 的 Rust 重写版通过所有回归测试"
+    },
+    "https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/": {
+      "date": "2026-07-10",
+      "title": "玻璃骨干：为何美军后勤将在下次战争中崩溃"
+    },
+    "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/": {
+      "date": "2026-07-10",
+      "title": "Meta 发布 Muse Spark 1.1 代理 AI 模型，提供 API 访问和评估报告"
+    },
+    "https://tuxnet.dev/posts/tls-for-internal-services/": {
+      "date": "2026-07-10",
+      "title": "内部服务 TLS 证书的最佳实践：使用 DNS-01 验证"
+    },
+    "https://simonwillison.net/2026/Jul/8/introducing-gptlive/#atom-everything": {
+      "date": "2026-07-10",
+      "title": "OpenAI 发布 GPT‑Live 语音模式，支持 GPT‑5.5 后台卸载"
+    },
+    "https://hy.tencent.com/research/hy3": {
+      "date": "2026-07-10",
+      "title": "腾讯 Hy3 模型在 OpenRouter 上线，定价具有竞争力"
+    },
+    "https://datacenter.iers.org/data/latestVersion/bulletinC.txt": {
+      "date": "2026-07-10",
+      "title": "2026 年 12 月底将不插入闰秒"
+    },
+    "https://www.context.dev/": {
+      "date": "2026-07-10",
+      "title": "Context.dev 发布 YC 支持的结构化网页数据提取 API"
+    },
+    "https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark": {
+      "date": "2026-07-10",
+      "title": "GLM 5.2 在 VAT 记账基准测试中匹配人类准确度"
+    },
+    "https://tomesphere.com/atlas": {
+      "date": "2026-07-10",
+      "title": "交互式论文图谱映射 850 万篇研究论文"
+    },
+    "https://www.pangram.com/blog/ai-in-your-feed": {
+      "date": "2026-07-10",
+      "title": "AI 生成内容充斥 LinkedIn，引发真实性担忧"
+    },
+    "https://lucid.earthpilot.ai/": {
+      "date": "2026-07-10",
+      "title": "交互式网页工具让用户在 AI 生成词元前查看和编辑其内部状态"
+    },
+    "https://github.com/JustVugg/colibri": {
+      "date": "2026-07-10",
+      "title": "Show HN: Getting GLM 5.2 running on my slow computer"
+    },
+    "https://18words.com/": {
+      "date": "2026-07-10",
+      "title": "Show HN：18 Words 计时制网页单词游戏上线"
+    },
+    "https://scotto.me/blog/2026-07-09-why-lisp/": {
+      "date": "2026-07-10",
+      "title": "通往 Lisp 之路：为什么是 Lisp"
+    },
+    "https://www.damninteresting.com/a-possible-future/": {
+      "date": "2026-07-10",
+      "title": "社区讨论 Damn Interesting 博客的未来支持"
+    },
+    "https://mitpress.mit.edu/9780262053198/simpolitics/": {
+      "date": "2026-07-10",
+      "title": "开放获取书籍《SimPolitics》探讨用计算机模拟解决政治问题"
+    },
+    "https://lazypi.org/": {
+      "date": "2026-07-10",
+      "title": "Pi.dev 的观点配置工具简化了设置"
+    },
+    "https://simonwillison.net/2026/Jul/9/llm-meta-ai/#atom-everything": {
+      "date": "2026-07-10",
+      "title": "Simon Willison 发布 llm-meta-ai 0.1，支持 Meta muse-spark-1.1 模型"
+    },
+    "https://speedcube.com.br/": {
+      "date": "2026-07-10",
+      "title": "开源浏览器 Rubik 魔方求解器和计时器，带 AI 识别"
+    },
+    "https://guides.rubyevents.org/meetups/": {
+      "date": "2026-07-10",
+      "title": "如何开始一个 Ruby Meetup"
+    },
+    "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/": {
+      "date": "2026-07-10",
+      "title": "Mitchell Hashimoto 访谈：谈 Ghostty 终端与 Zig 语言"
     }
   }
 }
