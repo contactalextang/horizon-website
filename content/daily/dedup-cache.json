@@ -73,82 +73,6 @@
       "date": "2026-07-05",
       "title": "Rust 终端代理多路复用器 herdr 在 24 小时内获得 20 颗星。"
     },
-    "https://www.anthropic.com/news/claude-sonnet-5": {
-      "date": "2026-07-01",
-      "title": "Anthropic 发布 Claude Sonnet 5，采用新分词器并提升 agentic 能力。"
-    },
-    "https://thereallo.dev/blog/claude-code-prompt-steganography": {
-      "date": "2026-07-01",
-      "title": "Claude Code 在请求中嵌入隐写标记"
-    },
-    "https://claude.com/product/claude-science": {
-      "date": "2026-07-01",
-      "title": "Anthropic 发布 Claude Science，面向数据科学的 AI 助手"
-    },
-    "https://ngrok.com/blog/i-ported-kubernetes-to-the-browser": {
-      "date": "2026-07-01",
-      "title": "Kubernetes 现在可以在浏览器中通过 WebAssembly 运行。"
-    },
-    "https://deepmind.google/models/gemini-image/flash-lite/": {
-      "date": "2026-07-01",
-      "title": "谷歌 DeepMind 发布 Nano Banana 2 Lite，快速蒸馏图像生成模型"
-    },
-    "https://www.gutenberg.org/ebooks/24518": {
-      "date": "2026-07-01",
-      "title": "黑客新闻讨论 1852 年经典著作关于群众心理与金融泡沫"
-    },
-    "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1": {
-      "date": "2026-07-01",
-      "title": "Meta 的 Brain2Qwerty 通过 EEG 解码想象语言为文本，无需手术"
-    },
-    "https://gauthier-lechevalier.com/radar": {
-      "date": "2026-07-01",
-      "title": "我在 2025 年自制了毫米波材料分类雷达。"
-    },
-    "https://www.knopper.net/knoppix/index-en.html": {
-      "date": "2026-07-01",
-      "title": "黑客新闻帖回忆 Knoppix 在学校的使用经历"
-    },
-    "https://taonaw.com/2026/06/27/have-you-restarted-your-computer.html": {
-      "date": "2026-07-01",
-      "title": "黑客新闻讨论电脑重启频率与习惯"
-    },
-    "https://www.latimes.com/business/story/2026-06-30/shadow-bribery-market-inside-amazon-preys-on-desperate-sellers": {
-      "date": "2026-07-01",
-      "title": "亚马逊卖家曝光暗中贿赂市场以获取虚假评价。"
-    },
-    "https://simonwillison.net/2026/Jun/30/shot-scraper-video/#atom-everything": {
-      "date": "2026-07-01",
-      "title": "Shot-scraper 1.10 新增视频命令用于录制网页代理演示。"
-    },
-    "https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/": {
-      "date": "2026-07-01",
-      "title": "TabFM：谷歌的零样本表格数据基础模型"
-    },
-    "https://github.com/astral-sh/uv/releases/tag/0.11.26": {
-      "date": "2026-07-01",
-      "title": "uv 0.11.26 发布，带来性能优化和构建缓存警告"
-    },
-    "https://simonwillison.net/2026/Jun/30/the-ai-compass/#atom-everything": {
-      "date": "2026-07-01",
-      "title": "互动 AI 指南针测验将伦理观映射至 30 种原型"
-    },
-    "https://simonwillison.net/2026/Jun/29/html-table-extractor/#atom-everything": {
-      "date": "2026-07-01",
-      "title": "西蒙·威利森发布 HTML 表格提取工具"
-    },
-    "https://blog.cr.yp.to/20260630-risk.html": {
-      "date": "2026-07-01",
-      "title": "理解格点风险：营销声明与实际安全的对比。"
-    },
-    "https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06": {
-      "date": "2026-07-01",
-      "title": "Mistral 发布 Leanstral 1.5，更新的轻量级语言模型。"
-    },
-    "https://www.newyorker.com/magazine/2026/07/06/morbid-saul-justin-newman-book-review-eat-your-ice-cream-ezekiel-j-emanuel": {
-      "date": "2026-07-01",
-      "title": "《纽约客》评论《Morbid》，质疑现代长寿科学。"
-    },
     "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/": {
       "date": "2026-07-02",
       "title": "首次创建出能够生长和分裂的完全合成细胞"
@@ -606,8 +530,8 @@
       "title": "Curveball 是 Neverball 关卡设计的曲线生成工具。"
     },
     "https://github.com/MadsLorentzen/ai-job-search": {
-      "date": "2026-07-08",
-      "title": "开源 TypeScript 求职框架基于 Claude Code 获得 10 颗星"
+      "date": "2026-07-09",
+      "title": "基于 Claude Code 的开源 TypeScript 求职助手"
     },
     "https://github.com/Emily2040/seedance-2.0": {
       "date": "2026-07-05",
@@ -690,8 +614,8 @@
       "title": "AMD 发布 4000 美元 Ryzen AI Halo 开发套件。"
     },
     "https://github.com/iOfficeAI/OfficeCLI": {
-      "date": "2026-07-07",
-      "title": "OfficeCLI：面向 AI 代理的开源 CLI 工具，无需 Office 即可操作 Office 文件"
+      "date": "2026-07-09",
+      "title": "OfficeCLI：面向 AI 代理的开源 C#命令行 Office 自动化工具"
     },
     "https://elm-lang.org/news/faster-builds": {
       "date": "2026-07-07",
@@ -820,6 +744,78 @@
     "https://arxiv.org/abs/2607.02820": {
       "date": "2026-07-08",
       "title": "Git 哈希链可塑性攻击新论文描述"
+    },
+    "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/": {
+      "date": "2026-07-09",
+      "title": "TypeScript 7 发布，类型检查速度提升最高达 12 倍"
+    },
+    "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02": {
+      "date": "2026-07-09",
+      "title": "约翰迪尔同意让农民维修设备，FTC 和解达成"
+    },
+    "https://openai.com/index/introducing-gpt-live/": {
+      "date": "2026-07-09",
+      "title": "OpenAI 发布 GPT‑Live 语音助手，可后台委托 GPT‑5.5"
+    },
+    "https://blog.cloudflare.com/meerkat-introduction/": {
+      "date": "2026-07-09",
+      "title": "Cloudflare 发布 Meerkat，一种基于 QuePaxa 的全球分布式共识系统"
+    },
+    "https://cyberinsider.com/eu-now-one-step-away-from-reviving-private-message-scanning-rules/": {
+      "date": "2026-07-09",
+      "title": "欧盟迈向复活私人消息扫描立法的一步"
+    },
+    "https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/#atom-everything": {
+      "date": "2026-07-09",
+      "title": "Bun JavaScript 运行时从 Zig 重写为 Rust"
+    },
+    "https://openai.com/index/separating-signal-from-noise-coding-evaluations/": {
+      "date": "2026-07-09",
+      "title": "区分编码模型评估中的信号与噪声"
+    },
+    "https://www.hmans.dev/blog/chatto-is-open-source": {
+      "date": "2026-07-09",
+      "title": "Chatto 现已开源"
+    },
+    "https://microsoft.github.io/flint-chart/#/": {
+      "date": "2026-07-09",
+      "title": "微软发布 Flint，面向 AI 代理的可视化语言"
+    },
+    "https://x.ai/news/grok-4-5": {
+      "date": "2026-07-09",
+      "title": "xAI 发布 Grok 4.5，宣称其推理效率比 Opus 高 4 倍"
+    },
+    "https://github.com/linuxrebel/DocuBrowser": {
+      "date": "2026-07-09",
+      "title": "DocuBrowser 实现本地可搜索的文档知识库。"
+    },
+    "https://simonwillison.net/2026/Jul/8/kenton-varda/#atom-everything": {
+      "date": "2026-07-09",
+      "title": "肯顿·瓦尔达禁止 AI 生成的提交信息。"
+    },
+    "https://www.cloudflare.com/drop/": {
+      "date": "2026-07-09",
+      "title": "Cloudflare 推出 Drop，一个简单的文件上传共享服务"
+    },
+    "https://www.abeyk.com/escape-the-rat-race/": {
+      "date": "2026-07-09",
+      "title": "FAANG 模拟器：互动游戏模拟科技职业路径"
+    },
+    "https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users/": {
+      "date": "2026-07-09",
+      "title": "仅影响左手用户的软件 Bug"
+    },
+    "https://forum.openmandriva.org/t/statement-regarding-attempted-distribution-sabotage/8997": {
+      "date": "2026-07-09",
+      "title": "OpenMandriva 报告称贡献者试图破坏仓库"
+    },
+    "https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off": {
+      "date": "2026-07-09",
+      "title": "比较 Grok 4.5、GPT-5.5 和 Claude 构建相同应用的表现"
+    },
+    "https://mira-wm.com/": {
+      "date": "2026-07-09",
+      "title": "MIRA：基于《火箭联盟》游戏数据的多玩家交互式世界模型"
     }
   }
 }
