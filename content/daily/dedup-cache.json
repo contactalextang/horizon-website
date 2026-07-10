@@ -5,10 +5,6 @@
       "date": "2026-07-05",
       "title": "Agent-Reach CLI 让 AI 代理免费访问多平台"
     },
-    "https://github.com/hugohe3/ppt-master": {
-      "date": "2026-07-03",
-      "title": "开源 AI 工具从文档生成可编辑 PowerPoint"
-    },
     "https://github.com/DeusData/codebase-memory-mcp": {
       "date": "2026-07-05",
       "title": "DeusData 发布高性能无依赖 MCP 服务器，用于代码库知识图谱"
@@ -25,10 +21,6 @@
       "date": "2026-07-04",
       "title": "ZhuLinsen 发布 LLM 驱动的多市场股票分析工具，支持实时新闻"
     },
-    "https://github.com/xbtlin/ai-berkshire": {
-      "date": "2026-07-03",
-      "title": "GitHub 项目 ai-berkshire 24 小时获 14 颗星，提供 AI 驱动的价值投资框架"
-    },
     "https://github.com/stablyai/orca": {
       "date": "2026-07-05",
       "title": "StablyAI 发布 Orca，一种用于并行编码代理的 TypeScript Agent 开发环境"
@@ -41,89 +33,13 @@
       "date": "2026-07-05",
       "title": "Rust 终端代理多路复用器 herdr 在 24 小时内获得 20 颗星。"
     },
-    "https://mathstodon.xyz/@iblech/116769502749142438": {
-      "date": "2026-07-03",
-      "title": "Linux 6.9 LUKS 挂起回归导致加密密钥残留内存"
-    },
-    "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/": {
-      "date": "2026-07-03",
-      "title": "Podman 6.0.0 发布，带来增强网络、Quadlet 功能及自动 SQLite 迁移。"
-    },
-    "https://github.com/Chocobozzz/PeerTube": {
-      "date": "2026-07-03",
-      "title": "PeerTube 是一个免费、去中心化且联邦的视频平台"
-    },
-    "https://www.dbos.dev/blog/co-locating-workflow-state-with-your-data": {
-      "date": "2026-07-03",
-      "title": "PostgreSQL 事务为分布式工作流提供原子性。"
-    },
-    "https://manufact.com/": {
-      "date": "2026-07-03",
-      "title": "Manufact 发布 MCP 云服务，定位为 MCP 应用的 Vercel"
-    },
-    "https://github.com/immich-app/immich/discussions/29439": {
-      "date": "2026-07-03",
-      "title": "Immich 3.0 发布引发 Hacker News 关于自托管照片管理的讨论"
-    },
-    "https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv": {
-      "date": "2026-07-03",
-      "title": "西班牙禁止公共和私营公司使用 Palantir 服务，因国家安全担忧"
-    },
-    "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/": {
-      "date": "2026-07-03",
-      "title": "日本最高法院裁定 AI 不能被列为专利发明人"
-    },
-    "http://www.lmdb.tech/doc/": {
-      "date": "2026-07-03",
-      "title": "LMDB 1.0 已发布为稳定的高性能内存映射键值存储。"
-    },
-    "https://zk.golf/": {
-      "date": "2026-07-03",
-      "title": "zkGolf：LLM 生成的经过形式验证的优化零知识证明电路"
-    },
     "https://github.com/erincatto/box3d": {
       "date": "2026-07-05",
       "title": "Erin Catto 发布开源 3D 物理引擎 Box3D"
     },
-    "https://cdn.arstechnica.net/wp-content/uploads/2026/07/EFF-letter-to-FTC-on-X-consent-order-7-2-26.pdf": {
-      "date": "2026-07-03",
-      "title": "EFF 呼吁 FTC 对 X 同意令中的 Grok AI 生成的 CSAM 采取行动"
-    },
-    "https://simonwillison.net/2026/Jul/2/understand-to-participate/#atom-everything": {
-      "date": "2026-07-03",
-      "title": "Geoffrey Litt 提出“理解以参与”概念应用于 AI 编码代理"
-    },
-    "https://openjdk.org/jeps/539": {
-      "date": "2026-07-03",
-      "title": "JEP 539 将 JVM 的严格字段初始化移至预览功能。"
-    },
     "https://github.com/diegosouzapw/OmniRoute": {
       "date": "2026-07-07",
       "title": "OmniRoute：新型 TypeScript AI 网关聚合 160+ 大模型提供商"
-    },
-    "https://www.zachtronics.com/exapunks/": {
-      "date": "2026-07-03",
-      "title": "Exapunks（2018）：Zachtronics 的类汇编编程益智游戏"
-    },
-    "https://pradyuprasad.com/writings/how-to-ask-for-help/": {
-      "date": "2026-07-03",
-      "title": "如何有效地向陌生人寻求帮助"
-    },
-    "https://people.xiph.org/~xiphmont/demo/neil-young.html#toc_wd2bm": {
-      "date": "2026-07-03",
-      "title": "文章驳斥 24 位/192kHz 音乐下载的可听优势"
-    },
-    "https://simonwillison.net/2026/Jul/2/dspy-datasette-agent-prompts/#atom-everything": {
-      "date": "2026-07-03",
-      "title": "使用 DSPy 改进 Datasette Agent 的 SQL 提示词生成"
-    },
-    "https://blog.okturtles.org/2026/07/short-leash-ai-method/": {
-      "date": "2026-07-03",
-      "title": "Short Leash AI 编码方法用于击败 Fable"
-    },
-    "https://github.com/HUANGCHIHHUNGLeo/claude-real-video": {
-      "date": "2026-07-03",
-      "title": "使任何 LLM 能够通过帧提取处理视频的工具"
     },
     "https://github.com/usestrix/strix": {
       "date": "2026-07-08",
@@ -132,54 +48,6 @@
     "https://github.com/facebook/astryx": {
       "date": "2026-07-05",
       "title": "Facebook 开源 TypeScript 设计系统 Astryx 在 24 小时内获得 31 颗星"
-    },
-    "https://github.com/TencentCloud/CubeSandbox": {
-      "date": "2026-07-03",
-      "title": "腾讯云发布 CubeSandbox，用于 AI 代理的 Rust 沙箱"
-    },
-    "https://github.com/altic-dev/FluidVoice": {
-      "date": "2026-07-03",
-      "title": "FluidVoice：macOS 本地语音转文字应用获 15 颗星"
-    },
-    "https://github.com/segaboy/vulkan-netbsd": {
-      "date": "2026-07-03",
-      "title": "Vulkan 支持通过 GitHub 仓库在 NetBSD 上可用"
-    },
-    "https://magik.net/librecad/": {
-      "date": "2026-07-03",
-      "title": "LibreCAD 通过 WebAssembly 移植到浏览器运行"
-    },
-    "https://simonwillison.net/2026/Jul/2/llm-coding-agent/#atom-everything": {
-      "date": "2026-07-03",
-      "title": "Simon Willison 发布 llm-coding-agent 0.1a0，一个早期 alpha 编码代理"
-    },
-    "https://blastradar.vercel.app/": {
-      "date": "2026-07-03",
-      "title": "BlastRadar 提供 Git diff 的即时生产风险评分。"
-    },
-    "https://www.sdcard.org/developers/sd-standard-overview/sdio-isdio/wireless-lan-sd/": {
-      "date": "2026-07-03",
-      "title": "SD 协会发布 SDIO 无线局域网标准概览"
-    },
-    "https://aasnova.org/2026/07/01/a-new-catalog-of-stellar-rotation-periods-for-over-a-million-stars/": {
-      "date": "2026-07-03",
-      "title": "发布超过一百万颗恒星自转周期的新目录"
-    },
-    "https://github.com/HKUDS/Vibe-Trading": {
-      "date": "2026-07-03",
-      "title": "HKUDS/Vibe-Trading GitHub 仓库在 24 小时内获得 36 颗星"
-    },
-    "https://github.com/makerspet/oomwoo": {
-      "date": "2026-07-03",
-      "title": "开源扫地机器人 OOMWOO 在 24 小时内获得 22 颗星星"
-    },
-    "https://github.com/tt-a1i/archify": {
-      "date": "2026-07-03",
-      "title": "Archify：支持主题切换和多格式导出的 JavaScript 架构图生成工具"
-    },
-    "https://github.com/Yu9191/wloc": {
-      "date": "2026-07-03",
-      "title": "JavaScript 工具通过修改 gs-loc 实现 iOS 代理定位欺骗。"
     },
     "https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/": {
       "date": "2026-07-04",
@@ -386,8 +254,8 @@
       "title": "Curveball 是 Neverball 关卡设计的曲线生成工具。"
     },
     "https://github.com/MadsLorentzen/ai-job-search": {
-      "date": "2026-07-10",
-      "title": "基于 Claude Code 的开源 TypeScript 求职助手在 24 小时内获得 21 颗星"
+      "date": "2026-07-11",
+      "title": "AI 求职框架 MadsLorentzen/ai-job-search 获 13 星"
     },
     "https://github.com/Emily2040/seedance-2.0": {
       "date": "2026-07-05",
@@ -768,6 +636,86 @@
     "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/": {
       "date": "2026-07-10",
       "title": "Mitchell Hashimoto 访谈：谈 Ghostty 终端与 Zig 语言"
+    },
+    "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/": {
+      "date": "2026-07-11",
+      "title": "QuadRF 开源射频成像设备可探测无人机并透视墙体 Wi‑Fi 信号"
+    },
+    "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/": {
+      "date": "2026-07-11",
+      "title": "好工具是隐形的：无缝工具设计的哲学"
+    },
+    "https://ianreppel.org/how-successful-companies-go-blind/": {
+      "date": "2026-07-11",
+      "title": "成功公司如何失去创新优势"
+    },
+    "https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html": {
+      "date": "2026-07-11",
+      "title": "苹果起诉 OpenAI，指控前高管盗取商业机密。"
+    },
+    "https://casp.ac/reports/ai-enabled-terrorism": {
+      "date": "2026-07-11",
+      "title": "How the terrorist group Boko Haram uses frontier AI"
+    },
+    "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf": {
+      "date": "2026-07-11",
+      "title": "GPT-5.6 Sol Ultra 声称证明了 Cycle Double Cover 猜想"
+    },
+    "https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/": {
+      "date": "2026-07-11",
+      "title": "口述历史揭示《终结者 2》的突破性视觉特效技术"
+    },
+    "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban": {
+      "date": "2026-07-11",
+      "title": "纽约市禁止欺骗性订阅做法，实行点击取消规则"
+    },
+    "https://ergo.org/courses/computation-as-a-universal-and-fundamental-concept": {
+      "date": "2026-07-11",
+      "title": "探索计算作为普遍基本概念。"
+    },
+    "https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246": {
+      "date": "2026-07-11",
+      "title": "用户呼吁谷歌保留 Gemini 2.5 Flash 模型"
+    },
+    "https://unstack.io/write-code-like-a-human-will-maintain-it": {
+      "date": "2026-07-11",
+      "title": "像人类维护代码一样编写代码"
+    },
+    "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models": {
+      "date": "2026-07-11",
+      "title": "GPT-5.6、Grok 4.5、Claude 和 Muse Spark 通过构建四个相同应用进行基准测试"
+    },
+    "https://waratlas.org/": {
+      "date": "2026-07-11",
+      "title": "战争图谱：人类历史上每场命名战争的交互式地图"
+    },
+    "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/": {
+      "date": "2026-07-11",
+      "title": "齿形石螺牙齿强度超过蜘蛛丝成为天然材料之最"
+    },
+    "https://nebusec.ai/research/ionstack-part-2/": {
+      "date": "2026-07-11",
+      "title": "GhostLock：影响所有 Linux 发行版 15 年的栈使用后释放漏洞"
+    },
+    "https://simonwillison.net/2026/Jul/10/nilay-patel/#atom-everything": {
+      "date": "2026-07-11",
+      "title": "尼尔·帕特尔称 AR 眼镜需持续视频捕捉和云端处理"
+    },
+    "https://arxiv.org/abs/2607.08147": {
+      "date": "2026-07-11",
+      "title": "Prismata：防御网页代理中的跨站提示注入"
+    },
+    "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/": {
+      "date": "2026-07-11",
+      "title": "网页抓取法律与技术挑战的最新进展"
+    },
+    "https://www.atomscale.ai/updates/our-thesis-atom-to-scale": {
+      "date": "2026-07-11",
+      "title": "材料创新的瓶颈在于放大而非发现"
+    },
+    "https://sxp.studio/apps/subz": {
+      "date": "2026-07-11",
+      "title": "Show HN：SubjectiveZero，开源的代理节点编辑器，用于创意编程"
     }
   }
 }
