@@ -13,6 +13,8 @@ export function personJsonLd() {
     jobTitle: 'Indie software builder',
     description: 'Solo builder shipping real products with AI; creator of MakanCloud (膳云). Available for custom software work.',
     knowsAbout: ['AI-assisted software development', 'SaaS', 'Restaurant operations software', 'F&B technology', 'Investing'],
+    // sameAs：把本站实体与外部资料关联，强化搜索引擎/AI 的知识图谱识别。
+    sameAs: ['https://github.com/contactalextang'],
   }
 }
 
