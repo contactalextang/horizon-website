@@ -1,17 +1,9 @@
 {
   "version": 1,
   "entries": {
-    "https://github.com/diegosouzapw/OmniRoute": {
-      "date": "2026-07-07",
-      "title": "OmniRoute：新型 TypeScript AI 网关聚合 160+ 大模型提供商"
-    },
     "https://github.com/usestrix/strix": {
       "date": "2026-07-08",
       "title": "Strix 推出开源 AI 工具实现自动漏洞发现"
-    },
-    "https://github.com/Zackriya-Solutions/meetily": {
-      "date": "2026-07-07",
-      "title": "Meetily：开源 Rust AI 会议助手 24 小时获 18 颗星"
     },
     "https://github.com/langchain-ai/openwiki": {
       "date": "2026-07-08",
@@ -21,113 +13,9 @@
       "date": "2026-07-11",
       "title": "AI 求职框架 MadsLorentzen/ai-job-search 获 13 星"
     },
-    "https://github.com/V4bel/Januscape": {
-      "date": "2026-07-07",
-      "title": "Januscape: Guest-to-Host Escape in KVM/x86 (CVE-2026-53359)"
-    },
-    "https://openwrt.org/toh/openwrt/one": {
-      "date": "2026-07-07",
-      "title": "OpenWrt One 发布：面向 DIY 网络的开源硬件路由器"
-    },
-    "https://www.anthropic.com/research/global-workspace": {
-      "date": "2026-07-07",
-      "title": "Anthropic 提出语言模型的全局工作空间机制"
-    },
-    "https://simonwillison.net/2026/Jul/6/hy3/#atom-everything": {
-      "date": "2026-07-07",
-      "title": "腾讯发布 2950 亿参数的 Hy3 混合专家模型，采用 Apache 2.0 许可证。"
-    },
-    "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/": {
-      "date": "2026-07-07",
-      "title": "GLM 5.2 发布引发 AI 利润空间收缩讨论"
-    },
-    "https://cakehonolulu.github.io/linux-for-jaguar/": {
-      "date": "2026-07-07",
-      "title": "Atari Jaguar 上运行 Linux"
-    },
-    "https://stevekrouse.com/learn-to-code": {
-      "date": "2026-07-07",
-      "title": "Learning to code is still worthwhile"
-    },
-    "https://arxiv.org/abs/2607.01504": {
-      "date": "2026-07-07",
-      "title": "Kani：一种用于 Rust 的位精确模型检查器"
-    },
-    "https://simonwillison.net/2026/Jul/6/sqlite-utils/#atom-everything": {
-      "date": "2026-07-07",
-      "title": "sqlite-utils 4.0rc3 已发布，支持复合外键。"
-    },
-    "https://www.openssh.org/txt/release-10.4": {
-      "date": "2026-07-07",
-      "title": "OpenSSH 10.4/10.4p1 发布，包含安全修复和新功能"
-    },
-    "https://github.com/SmtimesIWndr/gdid-reversal": {
-      "date": "2026-07-07",
-      "title": "Windows GDID 逆向工程完整分析发布"
-    },
-    "https://github.com/astral-sh/uv/releases/tag/0.11.27": {
-      "date": "2026-07-07",
-      "title": "uv 0.11.27 发布，加入缓存、性能优化及无扩展名 shebang 预览"
-    },
-    "https://github.com/MaximeRivest/Riddle": {
-      "date": "2026-07-07",
-      "title": "开发者将 reMarkable 平板变成 AI 驱动的汤姆·里德尔日记"
-    },
-    "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home": {
-      "date": "2026-07-07",
-      "title": "如何在家中自行测序 DNA"
-    },
-    "https://www.comaps.app/": {
-      "date": "2026-07-07",
-      "title": "CoMaps 宣布作为社区驱动的 Organic Maps 分支"
-    },
-    "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals": {
-      "date": "2026-07-07",
-      "title": "小型 AI 模型在网络不可靠地区获得关注"
-    },
-    "https://www.kapa.ai/blog/how-we-prune-rag-context": {
-      "date": "2026-07-07",
-      "title": "修剪 RAG 上下文仅保留答案所需信息"
-    },
-    "https://news.xbox.com/en-us/2026/07/06/resetting-xbox/": {
-      "date": "2026-07-07",
-      "title": "微软 Xbox 部门宣布战略重置"
-    },
-    "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo": {
-      "date": "2026-07-07",
-      "title": "AMD 发布 4000 美元 Ryzen AI Halo 开发套件。"
-    },
     "https://github.com/iOfficeAI/OfficeCLI": {
       "date": "2026-07-09",
       "title": "OfficeCLI：面向 AI 代理的开源 C#命令行 Office 自动化工具"
-    },
-    "https://elm-lang.org/news/faster-builds": {
-      "date": "2026-07-07",
-      "title": "Elm 迈向 1.0 版本及其与 LLM 兼容性的讨论"
-    },
-    "https://github.com/polyml/polyml": {
-      "date": "2026-07-07",
-      "title": "Poly/ML – A Standard ML Implementation"
-    },
-    "https://wiki.xxiivv.com/site/m_pc.html": {
-      "date": "2026-07-07",
-      "title": "M/PC：受 Forth 启发的连接式操作系统"
-    },
-    "https://github.com/Trystan-SA/claude-design-system-prompt": {
-      "date": "2026-07-07",
-      "title": "逆向工程的 Claude Design 提示使 LLM 成为无障碍感知的设计协作者。"
-    },
-    "https://dernocua.github.io/notes/aluminum-foil.html": {
-      "date": "2026-07-07",
-      "title": "黑客新闻帖子讨论铝箔的用途、误区与创意应用"
-    },
-    "https://devz.cl/posts/acryonym-fatigue-series-why-i-m-wary-of-engineering-acronyms/": {
-      "date": "2026-07-07",
-      "title": "作者推出关于工程缩写疲劳及沟通清晰度的系列文章"
-    },
-    "https://github.com/teamchong/pxpipe": {
-      "date": "2026-07-07",
-      "title": "pxpipe TypeScript 工具通过将文本渲染为图像来降低 LLM token 使用量"
     },
     "https://kb.cert.org/vuls/id/213560": {
       "date": "2026-07-08",
@@ -724,6 +612,94 @@
     "https://github.com/mathaix/OpenClawMachines": {
       "date": "2026-07-14",
       "title": "OpenClawMachines 为 OpenClaw 添加企业级控制平面"
+    },
+    "https://prismml.com/news/bonsai-27b": {
+      "date": "2026-07-15",
+      "title": "Bonsai 27B：可在手机上运行的 270 亿参数语言模型"
+    },
+    "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/": {
+      "date": "2026-07-15",
+      "title": "文章警告 AI 辅助编码提升生产力但增加软件复杂性。"
+    },
+    "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left": {
+      "date": "2026-07-15",
+      "title": "Cursor 0day：当全面披露成为唯一的防护手段"
+    },
+    "https://www.artfish.ai/p/offloading-thinking-to-ai": {
+      "date": "2026-07-15",
+      "title": "关于 AI 离载人类思考的争论"
+    },
+    "https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/": {
+      "date": "2026-07-15",
+      "title": "在 Linux 上测量输入延迟：X11 vs. Wayland, VRR 和 DXVK"
+    },
+    "https://twitter.com/demishassabis/status/2076957440109625718": {
+      "date": "2026-07-15",
+      "title": "Demis Hassabis 提出安全发展通用人工智能的计划"
+    },
+    "https://adi.bio/reality": {
+      "date": "2026-07-15",
+      "title": "警告 AI 过度依赖：拥抱真实理解"
+    },
+    "https://simonwillison.net/2026/Jul/14/lobsters-sqlite/#atom-everything": {
+      "date": "2026-07-15",
+      "title": "Lobsters 从 MariaDB 迁移到 SQLite"
+    },
+    "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing": {
+      "date": "2026-07-15",
+      "title": "如何阻止 Claude 过度使用'load-bearing'等 LLM 口头禅"
+    },
+    "https://www.bobbytables.io/p/the-agentic-loop-three-loops-in-a": {
+      "date": "2026-07-15",
+      "title": "The Agentic Loop: Three loops in a trench coat"
+    },
+    "https://simonwillison.net/2026/Jul/14/armin-ronacher/#atom-everything": {
+      "date": "2026-07-15",
+      "title": "Armin Ronacher 论软件项目中的共享语言与摩擦。"
+    },
+    "https://www.derekthompson.org/p/a-philosophers-one-word-theory-to": {
+      "date": "2026-07-15",
+      "title": "阿格尼斯·卡拉德提出“单一语境”理论以解释数字身份融合"
+    },
+    "https://simonwillison.net/2026/Jul/14/uvx-github-actions-cache/#atom-everything": {
+      "date": "2026-07-15",
+      "title": "通过 UV_EXCLUDE_NEWER 在 GitHub Actions 中实现 uvx 的缓存友好使用"
+    },
+    "https://simonwillison.net/2026/Jul/13/doomql/#atom-everything": {
+      "date": "2026-07-15",
+      "title": "DOOMQL：基于 SQLite 的终端版 Doom 游戏"
+    },
+    "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/": {
+      "date": "2026-07-15",
+      "title": "Dependabot 版本更新新增默认包冷却功能"
+    },
+    "https://www.alexedwards.net/blog/how-i-use-htmx-with-go": {
+      "date": "2026-07-15",
+      "title": "作者演示在 Go Web 应用中集成 HTMX"
+    },
+    "https://agnost.ai/": {
+      "date": "2026-07-15",
+      "title": "Agnost AI 推出从聊天和语音代理中提取用户反馈的分析工具"
+    },
+    "https://www.verbaprima.com/": {
+      "date": "2026-07-15",
+      "title": "Show HN: 名著开篇句子。"
+    },
+    "https://www.cbc.ca/news/world/stubhub-ceo-class-action-scalping-9.7268987": {
+      "date": "2026-07-15",
+      "title": "StubHub 及 CEO 被控 500 万美元集体诉讼，涉嫌票务黄牛。"
+    },
+    "https://simonwillison.net/2026/Jul/14/datasette/#atom-everything": {
+      "date": "2026-07-15",
+      "title": "Datasette 1.0a37 发布，性能和文档得到改进"
+    },
+    "https://www.bis.org/publ/bisbull120.pdf": {
+      "date": "2026-07-15",
+      "title": "AI 繁荣融资：从现金流转向债务"
+    },
+    "https://gwern.net/guardian-angel": {
+      "date": "2026-07-15",
+      "title": "守护天使：个性化 LLM 提升生产力与安全"
     }
   }
 }
