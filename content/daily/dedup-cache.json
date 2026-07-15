@@ -1,14 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "https://github.com/usestrix/strix": {
-      "date": "2026-07-08",
-      "title": "Strix 推出开源 AI 工具实现自动漏洞发现"
-    },
-    "https://github.com/langchain-ai/openwiki": {
-      "date": "2026-07-08",
-      "title": "LangChain 发布 OpenWiki CLI 用于 AI 代理文档生成"
-    },
     "https://github.com/MadsLorentzen/ai-job-search": {
       "date": "2026-07-11",
       "title": "AI 求职框架 MadsLorentzen/ai-job-search 获 13 星"
@@ -16,106 +8,6 @@
     "https://github.com/iOfficeAI/OfficeCLI": {
       "date": "2026-07-09",
       "title": "OfficeCLI：面向 AI 代理的开源 C#命令行 Office 自动化工具"
-    },
-    "https://kb.cert.org/vuls/id/213560": {
-      "date": "2026-07-08",
-      "title": "在多个 Tenda 路由器固件版本中发现隐藏的身份验证后门"
-    },
-    "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/": {
-      "date": "2026-07-08",
-      "title": "本地、CPU 友好、高质量的文本转语音（TTS）——Kokoro"
-    },
-    "https://fightchatcontrol.eu/chat-control-overview": {
-      "date": "2026-07-08",
-      "title": "欧盟聊天控制 1.0 和 2.0 提案旨在扫描私人消息以检测 CSAM。"
-    },
-    "https://allaboutcookies.org/eu-mandatory-distracted-driver-system": {
-      "date": "2026-07-08",
-      "title": "欧盟要求所有新车配备驾驶员监控摄像头"
-    },
-    "https://anthonyhobday.com/blog/20260410": {
-      "date": "2026-07-08",
-      "title": "关于定义和实现软件质量的思考"
-    },
-    "https://blog.zksecurity.xyz/posts/circl-bugs/": {
-      "date": "2026-07-08",
-      "title": "AI 在 Cloudflare 的 Circl 加密库中发现七个真实漏洞"
-    },
-    "https://simonwillison.net/2026/Jul/7/sqlite-utils-4/#atom-everything": {
-      "date": "2026-07-08",
-      "title": "sqlite-utils 4.0 发布，加入数据库架构迁移、嵌套事务和复合外键支持"
-    },
-    "https://www.gao.gov/products/gao-26-108193": {
-      "date": "2026-07-08",
-      "title": "GAO 指出 DOE 过早排除更便宜的核废料清理方案"
-    },
-    "https://streetcomplete.app/": {
-      "date": "2026-07-08",
-      "title": "StreetComplete 通过小任务游戏化 OpenStreetMap 贡献"
-    },
-    "https://twitter.com/claudeai/status/2074548242386178258": {
-      "date": "2026-07-08",
-      "title": "Anthropic 将 Fable 5 访问延伸至所有付费计划直至 7 月 12 日"
-    },
-    "https://davit.app/": {
-      "date": "2026-07-08",
-      "title": "Show HN: Davit, a Apple Containers UI"
-    },
-    "https://github.com/rowboatlabs/rowboat": {
-      "date": "2026-07-08",
-      "title": "Show HN：Rowboat —— 开源本地优先的 Claude Desktop 替代品"
-    },
-    "https://github.com/jimparis/qr-font": {
-      "date": "2026-07-08",
-      "title": "Jim 的 TrueType 二维码字体实现可选中的二维码"
-    },
-    "https://www.dw.com/en/germany-migrants-skilled-workers-integration-labor-market-bureaucracy-language-housing/a-77853162": {
-      "date": "2026-07-08",
-      "title": "为什么技术工人来到德国后又离开"
-    },
-    "https://pgdog.dev/blog/why-yet-another-connection-pooler": {
-      "date": "2026-07-08",
-      "title": "介绍 PgDog：支持预处理语句的新 Postgres 连接池"
-    },
-    "https://github.com/astral-sh/uv/releases/tag/0.11.28": {
-      "date": "2026-07-08",
-      "title": "Astral 发布 uv 0.11.28，加强 ZIP 安全并升级 GraalPy"
-    },
-    "https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/": {
-      "date": "2026-07-08",
-      "title": "MIT 开放课程发布 1986 年 SICP 完整视频讲座。"
-    },
-    "https://30papers.com/": {
-      "date": "2026-07-08",
-      "title": "适合初学者的网站展示 Ilya Sutskever 的 30 篇必读机器学习论文"
-    },
-    "https://lv1.sh/": {
-      "date": "2026-07-08",
-      "title": "为 K 和 Q 语言推出新的闭源运行时"
-    },
-    "https://vatsalbakshi.com/blog/benfords-law/": {
-      "date": "2026-07-08",
-      "title": "面向真实数据集的交互式本福德定律探索器发布"
-    },
-    "https://simonwillison.net/2026/Jul/7/github-code-component/#atom-everything": {
-      "date": "2026-07-08",
-      "title": "Simon Willison 演示由 GPT-5.5 生成的 GitHub 代码 Web 组件"
-    },
-    "https://www.economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong": {
-      "date": "2026-07-08",
-      "title": "分析《经济学人》预测准确性引发的争论"
-    },
-    "https://chiptune-radio.alephvoid.com/": {
-      "date": "2026-07-08",
-      "title": "Show HN：Chiptune Radio 流式播放算法生成的 8‑Bit 音乐"
-    },
-    "https://moxiedocs.com/mermaid-diagram-editor": {
-      "date": "2026-07-08",
-      "title": "Moxie Docs 推出免费 Mermaid 图表编辑器"
-    },
-    "https://arxiv.org/abs/2607.02820": {
-      "date": "2026-07-08",
-      "title": "Git 哈希链可塑性攻击新论文描述"
     },
     "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/": {
       "date": "2026-07-09",
@@ -700,6 +592,90 @@
     "https://gwern.net/guardian-angel": {
       "date": "2026-07-15",
       "title": "守护天使：个性化 LLM 提升生产力与安全"
+    },
+    "https://thinkingmachines.ai/news/introducing-inkling/": {
+      "date": "2026-07-16",
+      "title": "Thinking Machines 发布开放权重多模态模型 Inkling，支持音频"
+    },
+    "https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/": {
+      "date": "2026-07-16",
+      "title": "Stripe 和 Advent 联合提出收购 PayPal 的报价，超过 530 亿美元"
+    },
+    "https://simonwillison.net/2026/Jul/15/claude-web-fetch-exfiltration/#atom-everything": {
+      "date": "2026-07-16",
+      "title": "Claude web_fetch 工具漏洞可通过嵌套链接泄露数据。"
+    },
+    "https://github.com/xai-org/grok-build": {
+      "date": "2026-07-16",
+      "title": "xAI 发布 Grok Build CLI 工具，引发数据外泄担忧"
+    },
+    "https://dev.moe/en/3025": {
+      "date": "2026-07-16",
+      "title": "探索 Telegram 的分布式数据中心架构"
+    },
+    "https://github.com/vshulcz/deja-vu/": {
+      "date": "2026-07-16",
+      "title": "开源 deja-vu 提供 SSH 同步的持久内存用于编码代理"
+    },
+    "https://github.com/astral-sh/uv/releases/tag/0.11.29": {
+      "date": "2026-07-16",
+      "title": "uv 0.11.29 增加了 gzip 压缩的 PyPy 工件、JSON 树输出以及 CUDA 13.2 支持。"
+    },
+    "https://developer.puter.com/labs/firefox-wasm/": {
+      "date": "2026-07-16",
+      "title": "Firefox 通过 WebAssembly 编译并在 HTML 画布中运行"
+    },
+    "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/": {
+      "date": "2026-07-16",
+      "title": "Gemma 4 26B 在 13 年老旧 Xeon CPU 上无 GPU 达到 5 tokens/sec"
+    },
+    "https://clocks.dev/": {
+      "date": "2026-07-16",
+      "title": "数字时钟设计精选画廊引发 Hacker News 讨论"
+    },
+    "https://github.com/welcome-to-the-sunny-side/misa77": {
+      "date": "2026-07-16",
+      "title": "Show HN: misa77 - 一种解码速度比 LZ4 快 2 倍且压缩率更好的编解码器"
+    },
+    "https://simonwillison.net/2026/Jul/14/github-changeling/#atom-everything": {
+      "date": "2026-07-16",
+      "title": "Quoting GitHub Changelog"
+    },
+    "https://economics.mit.edu/sites/default/files/2026-07/speculative_growth_AI_public.pdf": {
+      "date": "2026-07-16",
+      "title": "MIT 论文分析 AI 增长是否类似过去的科技泡沫"
+    },
+    "https://hugodaniel.com/posts/the-end-of-creativity/": {
+      "date": "2026-07-16",
+      "title": "创造力的终结：AI 对人类原创性的影响"
+    },
+    "https://brainless.swerdlow.dev/": {
+      "date": "2026-07-16",
+      "title": "Brainless 展示了模仿 Claude Code、Codex 和 Grok 界面的 Shadcn UI 组件"
+    },
+    "https://ramones.dev/posts/mental-health/": {
+      "date": "2026-07-16",
+      "title": "优先考虑心理健康和沟通以实现个人和职业成功"
+    },
+    "https://eardatasci.github.io/c/ambiance/index.html": {
+      "date": "2026-07-16",
+      "title": "Towards a harness that can do anything"
+    },
+    "https://academic.oup.com/sleep/article/47/1/zsad253/7280269": {
+      "date": "2026-07-16",
+      "title": "睡眠规律比睡眠时长更能预测死亡风险"
+    },
+    "https://mass-driver.com/article/from-human-hands": {
+      "date": "2026-07-16",
+      "title": "公司拒绝在设计与生产中使用 AI，坚持人工工艺"
+    },
+    "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf": {
+      "date": "2026-07-16",
+      "title": "西格尔基金会呼吁积极资助开源人工智能"
+    },
+    "https://www.lexaloffle.com/voxatron.php": {
+      "date": "2026-07-16",
+      "title": "Voxatron 在 Hacker News 上获得适度关注，作为基于体素的幻想主机"
     }
   }
 }

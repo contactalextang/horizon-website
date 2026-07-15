@@ -2,6 +2,12 @@
   "_note": "由 scripts/sync-makancloud-whatsnew.mjs 从 膳云/CLAUDE.md changelog 自动维护；新版本会被追加（en 可能为空，待补译）。",
   "items": [
     {
+      "version": "",
+      "date": "2026-07-15",
+      "zh": "YeahPay Cloud MISPOS 二期 S4 交付 + 热修 S3 遗漏的 order.status 分流",
+      "en": ""
+    },
+    {
       "version": "YeahPay Cloud MISPOS 二期 S3",
       "date": "2026-07-14",
       "zh": "收银台下单→终端推送",
