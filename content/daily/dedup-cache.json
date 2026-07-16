@@ -5,81 +5,9 @@
       "date": "2026-07-11",
       "title": "AI 求职框架 MadsLorentzen/ai-job-search 获 13 星"
     },
-    "https://github.com/iOfficeAI/OfficeCLI": {
-      "date": "2026-07-09",
-      "title": "OfficeCLI：面向 AI 代理的开源 C#命令行 Office 自动化工具"
-    },
-    "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/": {
-      "date": "2026-07-09",
-      "title": "TypeScript 7 发布，类型检查速度提升最高达 12 倍"
-    },
-    "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02": {
-      "date": "2026-07-09",
-      "title": "约翰迪尔同意让农民维修设备，FTC 和解达成"
-    },
-    "https://openai.com/index/introducing-gpt-live/": {
-      "date": "2026-07-09",
-      "title": "OpenAI 发布 GPT‑Live 语音助手，可后台委托 GPT‑5.5"
-    },
-    "https://blog.cloudflare.com/meerkat-introduction/": {
-      "date": "2026-07-09",
-      "title": "Cloudflare 发布 Meerkat，一种基于 QuePaxa 的全球分布式共识系统"
-    },
-    "https://cyberinsider.com/eu-now-one-step-away-from-reviving-private-message-scanning-rules/": {
-      "date": "2026-07-09",
-      "title": "欧盟迈向复活私人消息扫描立法的一步"
-    },
     "https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/#atom-everything": {
       "date": "2026-07-10",
       "title": "将 Bun JavaScript 运行时从 Zig 重写为 Rust"
-    },
-    "https://openai.com/index/separating-signal-from-noise-coding-evaluations/": {
-      "date": "2026-07-09",
-      "title": "区分编码模型评估中的信号与噪声"
-    },
-    "https://www.hmans.dev/blog/chatto-is-open-source": {
-      "date": "2026-07-09",
-      "title": "Chatto 现已开源"
-    },
-    "https://microsoft.github.io/flint-chart/#/": {
-      "date": "2026-07-09",
-      "title": "微软发布 Flint，面向 AI 代理的可视化语言"
-    },
-    "https://x.ai/news/grok-4-5": {
-      "date": "2026-07-09",
-      "title": "xAI 发布 Grok 4.5，宣称其推理效率比 Opus 高 4 倍"
-    },
-    "https://github.com/linuxrebel/DocuBrowser": {
-      "date": "2026-07-09",
-      "title": "DocuBrowser 实现本地可搜索的文档知识库。"
-    },
-    "https://simonwillison.net/2026/Jul/8/kenton-varda/#atom-everything": {
-      "date": "2026-07-09",
-      "title": "肯顿·瓦尔达禁止 AI 生成的提交信息。"
-    },
-    "https://www.cloudflare.com/drop/": {
-      "date": "2026-07-09",
-      "title": "Cloudflare 推出 Drop，一个简单的文件上传共享服务"
-    },
-    "https://www.abeyk.com/escape-the-rat-race/": {
-      "date": "2026-07-09",
-      "title": "FAANG 模拟器：互动游戏模拟科技职业路径"
-    },
-    "https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users/": {
-      "date": "2026-07-09",
-      "title": "仅影响左手用户的软件 Bug"
-    },
-    "https://forum.openmandriva.org/t/statement-regarding-attempted-distribution-sabotage/8997": {
-      "date": "2026-07-09",
-      "title": "OpenMandriva 报告称贡献者试图破坏仓库"
-    },
-    "https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off": {
-      "date": "2026-07-09",
-      "title": "比较 Grok 4.5、GPT-5.5 和 Claude 构建相同应用的表现"
-    },
-    "https://mira-wm.com/": {
-      "date": "2026-07-09",
-      "title": "MIRA：基于《火箭联盟》游戏数据的多玩家交互式世界模型"
     },
     "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/": {
       "date": "2026-07-10",
@@ -676,6 +604,118 @@
     "https://www.lexaloffle.com/voxatron.php": {
       "date": "2026-07-16",
       "title": "Voxatron 在 Hacker News 上获得适度关注，作为基于体素的幻想主机"
+    },
+    "https://www.kimi.com/blog/kimi-k3": {
+      "date": "2026-07-17",
+      "title": "Kimi K3 推出开放前沿智能。"
+    },
+    "https://www.spaceweather.gov/news/goes-19-safe-hold": {
+      "date": "2026-07-17",
+      "title": "GOES-19 气象卫星进入安全保持模式，暂停大西洋飓风监测"
+    },
+    "https://simonwillison.net/2026/Jul/16/inkling/#atom-everything": {
+      "date": "2026-07-17",
+      "title": "Thinking Machines Lab 发布 975B 参数开放权重多模态 MoE 模型 Inkling"
+    },
+    "https://simonwillison.net/2026/Jul/16/linus-torvalds/#atom-everything": {
+      "date": "2026-07-17",
+      "title": "林纳斯·托瓦兹称 AI 是有用工具，Linux 不反对 AI。"
+    },
+    "https://simonwillison.net/2026/Jul/15/grok-build/#atom-everything": {
+      "date": "2026-07-17",
+      "title": "xAI 在隐私争议后开源 Grok Build"
+    },
+    "https://lmstudio.ai/blog/introducing-lm-studio-bionic": {
+      "date": "2026-07-17",
+      "title": "LM Studio Bionic 发布：本地运行开源模型的 AI 代理"
+    },
+    "https://www.mixfont.com/experiments/decoy-font": {
+      "date": "2026-07-17",
+      "title": "欺骗字体展示对人类和 AI 视觉模型不同的文本"
+    },
+    "https://blog.lyc8503.net/en/post/llm-classifier/": {
+      "date": "2026-07-17",
+      "title": "使用经典机器学习检测 LLM 生成文本"
+    },
+    "https://community.oneplus.com/thread/2170715118587871237": {
+      "date": "2026-07-17",
+      "title": "OnePlus 停止在美国和欧洲的运营"
+    },
+    "https://rtfeldman.com/rust-to-zig": {
+      "date": "2026-07-17",
+      "title": "作者报告了从 Rust 到 Zig 重写编译器的进展。"
+    },
+    "https://sinja.io/blog/data-landscape-guide-for-developers": {
+      "date": "2026-07-17",
+      "title": "面向开发者的数据工具生态指南"
+    },
+    "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/": {
+      "date": "2026-07-17",
+      "title": "作者在承认批评者担忧的情况下仍为使用 LLM 辩护"
+    },
+    "https://www.bbc.com/future/article/20260715-how-period-trackers-share-womens-private-details": {
+      "date": "2026-07-17",
+      "title": "BBC 调查发现经期追踪应用将敏感数据共享给第三方"
+    },
+    "https://nicholas-afk.github.io/AttoChess/": {
+      "date": "2026-07-17",
+      "title": "AttoChess：16 位 x86 DOS 上仅 278 字节的象棋引擎"
+    },
+    "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/": {
+      "date": "2026-07-17",
+      "title": "微软 Comic Chat 现已开源。"
+    },
+    "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/": {
+      "date": "2026-07-17",
+      "title": "谷歌将 NotebookLM 重命名为 Gemini Notebook"
+    },
+    "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model": {
+      "date": "2026-07-17",
+      "title": "在低显存 Linux 桌面上训练踢鼓扩散模型"
+    },
+    "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6": {
+      "date": "2026-07-17",
+      "title": "Hacker News 对比 Claude Fable 5 与 GPT-5.6 生成的低质量 AI 音乐视频"
+    },
+    "https://ente.com/open/": {
+      "date": "2026-07-17",
+      "title": "Ente 公布收入和用户数据以促进透明度"
+    },
+    "https://simonwillison.net/2026/Jul/16/bad-codex-bug/#atom-everything": {
+      "date": "2026-07-17",
+      "title": "引用 Thibault Sottiaux"
+    },
+    "https://hellorecon.com/blog/cve-2026-25089": {
+      "date": "2026-07-17",
+      "title": "FortiSandbox 未授权命令注入漏洞 (CVE-2026-25089) 被加入 CISA KEV 目录"
+    },
+    "https://libretto.sh/debug-agents": {
+      "date": "2026-07-17",
+      "title": "Libretto PR 代理自动修复失败的 Playwright 脚本"
+    },
+    "https://news.ycombinator.com/item?id=48937020": {
+      "date": "2026-07-17",
+      "title": "Traceforce 发布 AI 应用安全监控平台及开源 MCP 渗透工具"
+    },
+    "https://simonwillison.net/2026/Jul/16/grok-mermaid/#atom-everything": {
+      "date": "2026-07-17",
+      "title": "Simon Willison 发布 grok-mermaid，使用 WebAssembly 将 Mermaid 图表转为 Unicode 盒绘图"
+    },
+    "https://arxiv.org/abs/2607.11938": {
+      "date": "2026-07-17",
+      "title": "数据科学的数学基础"
+    },
+    "https://timelinescan.com/": {
+      "date": "2026-07-17",
+      "title": "Timeline Scan 利用 AI 修复扫描照片的日期"
+    },
+    "https://www.science.org/doi/10.1126/science.aea9708": {
+      "date": "2026-07-17",
+      "title": "在宜居带的岩石系外行星大气中检测到逃逸的氦。"
+    },
+    "https://bamboo.kickstage.com/": {
+      "date": "2026-07-17",
+      "title": "Show HN：BambooGrid – 开源电力网格建模和潮流网页界面"
     }
   }
 }
