@@ -5,106 +5,6 @@
       "date": "2026-07-11",
       "title": "AI 求职框架 MadsLorentzen/ai-job-search 获 13 星"
     },
-    "https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/#atom-everything": {
-      "date": "2026-07-10",
-      "title": "将 Bun JavaScript 运行时从 Zig 重写为 Rust"
-    },
-    "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/": {
-      "date": "2026-07-10",
-      "title": "欧洲议会批准 Chat Control 1.0 进行无令状私信扫描"
-    },
-    "https://simonwillison.net/2026/Jul/9/gpt-5-6/#atom-everything": {
-      "date": "2026-07-10",
-      "title": "OpenAI 发布 GPT-5.6 系列：Luna、Terra、Sol 及新定价"
-    },
-    "https://github.com/malisper/pgrust": {
-      "date": "2026-07-10",
-      "title": "PostgreSQL 的 Rust 重写版通过所有回归测试"
-    },
-    "https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/": {
-      "date": "2026-07-10",
-      "title": "玻璃骨干：为何美军后勤将在下次战争中崩溃"
-    },
-    "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/": {
-      "date": "2026-07-10",
-      "title": "Meta 发布 Muse Spark 1.1 代理 AI 模型，提供 API 访问和评估报告"
-    },
-    "https://tuxnet.dev/posts/tls-for-internal-services/": {
-      "date": "2026-07-10",
-      "title": "内部服务 TLS 证书的最佳实践：使用 DNS-01 验证"
-    },
-    "https://simonwillison.net/2026/Jul/8/introducing-gptlive/#atom-everything": {
-      "date": "2026-07-10",
-      "title": "OpenAI 发布 GPT‑Live 语音模式，支持 GPT‑5.5 后台卸载"
-    },
-    "https://hy.tencent.com/research/hy3": {
-      "date": "2026-07-10",
-      "title": "腾讯 Hy3 模型在 OpenRouter 上线，定价具有竞争力"
-    },
-    "https://datacenter.iers.org/data/latestVersion/bulletinC.txt": {
-      "date": "2026-07-10",
-      "title": "2026 年 12 月底将不插入闰秒"
-    },
-    "https://www.context.dev/": {
-      "date": "2026-07-10",
-      "title": "Context.dev 发布 YC 支持的结构化网页数据提取 API"
-    },
-    "https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark": {
-      "date": "2026-07-10",
-      "title": "GLM 5.2 在 VAT 记账基准测试中匹配人类准确度"
-    },
-    "https://tomesphere.com/atlas": {
-      "date": "2026-07-10",
-      "title": "交互式论文图谱映射 850 万篇研究论文"
-    },
-    "https://www.pangram.com/blog/ai-in-your-feed": {
-      "date": "2026-07-10",
-      "title": "AI 生成内容充斥 LinkedIn，引发真实性担忧"
-    },
-    "https://lucid.earthpilot.ai/": {
-      "date": "2026-07-10",
-      "title": "交互式网页工具让用户在 AI 生成词元前查看和编辑其内部状态"
-    },
-    "https://github.com/JustVugg/colibri": {
-      "date": "2026-07-10",
-      "title": "Show HN: Getting GLM 5.2 running on my slow computer"
-    },
-    "https://18words.com/": {
-      "date": "2026-07-10",
-      "title": "Show HN：18 Words 计时制网页单词游戏上线"
-    },
-    "https://scotto.me/blog/2026-07-09-why-lisp/": {
-      "date": "2026-07-10",
-      "title": "通往 Lisp 之路：为什么是 Lisp"
-    },
-    "https://www.damninteresting.com/a-possible-future/": {
-      "date": "2026-07-10",
-      "title": "社区讨论 Damn Interesting 博客的未来支持"
-    },
-    "https://mitpress.mit.edu/9780262053198/simpolitics/": {
-      "date": "2026-07-10",
-      "title": "开放获取书籍《SimPolitics》探讨用计算机模拟解决政治问题"
-    },
-    "https://lazypi.org/": {
-      "date": "2026-07-10",
-      "title": "Pi.dev 的观点配置工具简化了设置"
-    },
-    "https://simonwillison.net/2026/Jul/9/llm-meta-ai/#atom-everything": {
-      "date": "2026-07-10",
-      "title": "Simon Willison 发布 llm-meta-ai 0.1，支持 Meta muse-spark-1.1 模型"
-    },
-    "https://speedcube.com.br/": {
-      "date": "2026-07-10",
-      "title": "开源浏览器 Rubik 魔方求解器和计时器，带 AI 识别"
-    },
-    "https://guides.rubyevents.org/meetups/": {
-      "date": "2026-07-10",
-      "title": "如何开始一个 Ruby Meetup"
-    },
-    "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/": {
-      "date": "2026-07-10",
-      "title": "Mitchell Hashimoto 访谈：谈 Ghostty 终端与 Zig 语言"
-    },
     "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/": {
       "date": "2026-07-11",
       "title": "QuadRF 开源射频成像设备可探测无人机并透视墙体 Wi‑Fi 信号"
@@ -716,6 +616,106 @@
     "https://bamboo.kickstage.com/": {
       "date": "2026-07-17",
       "title": "Show HN：BambooGrid – 开源电力网格建模和潮流网页界面"
+    },
+    "https://www.bbc.com/news/articles/cy4kdd1e0ejo": {
+      "date": "2026-07-18",
+      "title": "首次在宜居带发现类地系外行星 LHS 1140b 的大气"
+    },
+    "https://simonwillison.net/2026/Jul/16/kimi-k3/": {
+      "date": "2026-07-18",
+      "title": "Kimi K3, and what we can still learn from the pelican benchmark"
+    },
+    "https://stateofopensource.ai/": {
+      "date": "2026-07-18",
+      "title": "The state of open source AI"
+    },
+    "https://blog.zksecurity.xyz/posts/openvm-bugs/": {
+      "date": "2026-07-18",
+      "title": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM"
+    },
+    "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876": {
+      "date": "2026-07-18",
+      "title": "EEG 研究显示大脑能同时编码两个语音流"
+    },
+    "https://sofar.belfortlabs.cloud/": {
+      "date": "2026-07-18",
+      "title": "同态加密使 CIFAR-10 推理延迟约 200 毫秒"
+    },
+    "https://mceglowski.substack.com/p/more-bounce-to-the-ounce": {
+      "date": "2026-07-18",
+      "title": "More Bounce to the Ounce"
+    },
+    "https://scotto.me/blog/2026-07-17-which-lisp/": {
+      "date": "2026-07-18",
+      "title": "A Road to Lisp: Which Lisp"
+    },
+    "https://simonwillison.net/2026/Jul/16/firefox-in-webassembly/#atom-everything": {
+      "date": "2026-07-18",
+      "title": "Firefox 通过 WebAssembly 编译并在另一浏览器中运行"
+    },
+    "https://goliath32.com/blog/z80.html": {
+      "date": "2026-07-18",
+      "title": "Zilog Z80 迎来 50 周年"
+    },
+    "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/": {
+      "date": "2026-07-18",
+      "title": "SQLite 实用技巧：.expert 模式与备份策略"
+    },
+    "https://isene.org/2026/07/Frame.html": {
+      "date": "2026-07-18",
+      "title": "Frame 是由 LLM 编写的纯汇编 Linux X 服务器。"
+    },
+    "https://improvesomething.today/responses-to-problems/": {
+      "date": "2026-07-18",
+      "title": "人们应对问题的三种非解决方式"
+    },
+    "https://honeypotlive.cc/": {
+      "date": "2026-07-18",
+      "title": "Show HN：实时仪表板可视化 SSH 蜜罐机器人交互"
+    },
+    "https://repebble.com/blog/pebble-mega-update-july-2026": {
+      "date": "2026-07-18",
+      "title": "Pebble 宣布 2026 年 7 月大更新。"
+    },
+    "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html": {
+      "date": "2026-07-18",
+      "title": "FAA 恢复波音对 737 MAX 和 787 的自行鉴定适航权"
+    },
+    "https://app.everything.diena.co/": {
+      "date": "2026-07-18",
+      "title": "展示 HN 呈现一个 400 万维基百科事件的可缩放时间线。"
+    },
+    "https://news.ycombinator.com/item?id=48949551": {
+      "date": "2026-07-18",
+      "title": "作者感谢 Hacker News 15 年对 Recurse Center 的支持"
+    },
+    "https://workspaces.xyz/": {
+      "date": "2026-07-18",
+      "title": "Hacker News 展示 500+ 位创作者的工作空间及装备报告"
+    },
+    "https://simonwillison.net/2026/Jul/17/llm-cliche-highlighter/#atom-everything": {
+      "date": "2026-07-18",
+      "title": "Simon Willison 发布 LLM 陈词滥调高亮工具"
+    },
+    "https://simonwillison.net/2026/Jul/17/spot-birds-not-golf/#atom-everything": {
+      "date": "2026-07-18",
+      "title": "观鸟而非高尔夫"
+    },
+    "https://github.com/Fei-Away/Codex-Dream-Skin": {
+      "date": "2026-07-18",
+      "title": "Fei-Away 发布 Codex Dream Skin 主题，24 小时内获 30 颗星"
+    },
+    "https://github.com/stablyai/orca": {
+      "date": "2026-07-18",
+      "title": "Orca：基于 TypeScript 的并行编码代理开发环境"
+    },
+    "https://github.com/nitrocloudofficial/nitrostack": {
+      "date": "2026-07-18",
+      "title": "新型 TypeScript 全栈框架 NitroStack 发布，用于 MCP 服务器和 AI 原生应用。"
+    },
+    "https://github.com/emilkowalski/skills": {
+      "date": "2026-07-18",
+      "title": "GitHub 仓库“设计工程师技能”在 24 小时内获得 10 颗星。"
     }
   }
 }
