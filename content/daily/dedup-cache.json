@@ -1,90 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "https://github.com/MadsLorentzen/ai-job-search": {
-      "date": "2026-07-11",
-      "title": "AI 求职框架 MadsLorentzen/ai-job-search 获 13 星"
-    },
-    "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/": {
-      "date": "2026-07-11",
-      "title": "QuadRF 开源射频成像设备可探测无人机并透视墙体 Wi‑Fi 信号"
-    },
-    "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/": {
-      "date": "2026-07-11",
-      "title": "好工具是隐形的：无缝工具设计的哲学"
-    },
-    "https://ianreppel.org/how-successful-companies-go-blind/": {
-      "date": "2026-07-11",
-      "title": "成功公司如何失去创新优势"
-    },
-    "https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html": {
-      "date": "2026-07-11",
-      "title": "苹果起诉 OpenAI，指控前高管盗取商业机密。"
-    },
-    "https://casp.ac/reports/ai-enabled-terrorism": {
-      "date": "2026-07-11",
-      "title": "How the terrorist group Boko Haram uses frontier AI"
-    },
-    "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf": {
-      "date": "2026-07-11",
-      "title": "GPT-5.6 Sol Ultra 声称证明了 Cycle Double Cover 猜想"
-    },
-    "https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/": {
-      "date": "2026-07-11",
-      "title": "口述历史揭示《终结者 2》的突破性视觉特效技术"
-    },
-    "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban": {
-      "date": "2026-07-11",
-      "title": "纽约市禁止欺骗性订阅做法，实行点击取消规则"
-    },
-    "https://ergo.org/courses/computation-as-a-universal-and-fundamental-concept": {
-      "date": "2026-07-11",
-      "title": "探索计算作为普遍基本概念。"
-    },
-    "https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246": {
-      "date": "2026-07-11",
-      "title": "用户呼吁谷歌保留 Gemini 2.5 Flash 模型"
-    },
-    "https://unstack.io/write-code-like-a-human-will-maintain-it": {
-      "date": "2026-07-11",
-      "title": "像人类维护代码一样编写代码"
-    },
-    "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models": {
-      "date": "2026-07-11",
-      "title": "GPT-5.6、Grok 4.5、Claude 和 Muse Spark 通过构建四个相同应用进行基准测试"
-    },
-    "https://waratlas.org/": {
-      "date": "2026-07-11",
-      "title": "战争图谱：人类历史上每场命名战争的交互式地图"
-    },
-    "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/": {
-      "date": "2026-07-11",
-      "title": "齿形石螺牙齿强度超过蜘蛛丝成为天然材料之最"
-    },
-    "https://nebusec.ai/research/ionstack-part-2/": {
-      "date": "2026-07-11",
-      "title": "GhostLock：影响所有 Linux 发行版 15 年的栈使用后释放漏洞"
-    },
-    "https://simonwillison.net/2026/Jul/10/nilay-patel/#atom-everything": {
-      "date": "2026-07-11",
-      "title": "尼尔·帕特尔称 AR 眼镜需持续视频捕捉和云端处理"
-    },
-    "https://arxiv.org/abs/2607.08147": {
-      "date": "2026-07-11",
-      "title": "Prismata：防御网页代理中的跨站提示注入"
-    },
-    "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/": {
-      "date": "2026-07-11",
-      "title": "网页抓取法律与技术挑战的最新进展"
-    },
-    "https://www.atomscale.ai/updates/our-thesis-atom-to-scale": {
-      "date": "2026-07-11",
-      "title": "材料创新的瓶颈在于放大而非发现"
-    },
-    "https://sxp.studio/apps/subz": {
-      "date": "2026-07-11",
-      "title": "Show HN：SubjectiveZero，开源的代理节点编辑器，用于创意编程"
-    },
     "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom": {
       "date": "2026-07-12",
       "title": "英伟达的投资凸显 GPU 热潮中的循环融资。"
@@ -710,12 +626,88 @@
       "title": "Orca：基于 TypeScript 的并行编码代理开发环境"
     },
     "https://github.com/nitrocloudofficial/nitrostack": {
-      "date": "2026-07-18",
-      "title": "新型 TypeScript 全栈框架 NitroStack 发布，用于 MCP 服务器和 AI 原生应用。"
+      "date": "2026-07-19",
+      "title": "NitroStack：用于 MCP 和 AI 原生应用的 TypeScript 全栈框架"
     },
     "https://github.com/emilkowalski/skills": {
       "date": "2026-07-18",
       "title": "GitHub 仓库“设计工程师技能”在 24 小时内获得 10 颗星。"
+    },
+    "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/": {
+      "date": "2026-07-19",
+      "title": "GPT-5.6 通过提示解决凸优化 30 年悬而未决的问题"
+    },
+    "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent": {
+      "date": "2026-07-19",
+      "title": "LG 显示器通过 Windows Update 静默安装软件，未经用户同意"
+    },
+    "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/": {
+      "date": "2026-07-19",
+      "title": "Kimi K3 蒸馏后成为对标前沿 AI 模型的竞争者"
+    },
+    "https://data.stackexchange.com/stackoverflow/query/1953768#graph": {
+      "date": "2026-07-19",
+      "title": "图表显示 Stack Overflow 活动随着 AI 工具兴起而下降"
+    },
+    "https://queue.acm.org/detail.cfm?id=3818307": {
+      "date": "2026-07-19",
+      "title": "Poul-Henning Kamp 讨论了 bikeshedding 与 MD5crypt。"
+    },
+    "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/": {
+      "date": "2026-07-19",
+      "title": "Fable 5 与 GPT-5.6 Sol 在 NP 难问题上比较 /goal 提示"
+    },
+    "https://maurycyz.com/projects/bad_jpeg/": {
+      "date": "2026-07-19",
+      "title": "逆序 JPEG 实现倒序加载。"
+    },
+    "https://q3edit.com/": {
+      "date": "2026-07-19",
+      "title": "Show HN：Q3Edit – 基于浏览器的 Quake 3 地图编辑器与播放器"
+    },
+    "https://negroniventurestudios.com/2026/07/18/the-computer-at-the-bottom-of-a-canal/": {
+      "date": "2026-07-19",
+      "title": "运河底部的计算机。"
+    },
+    "https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything": {
+      "date": "2026-07-19",
+      "title": "Anthropic 将 Claude Fable 5 永久加入高级套餐，限额减半"
+    },
+    "https://www.benlandautaylor.com/p/if-you-build-it-they-will-come": {
+      "date": "2026-07-19",
+      "title": "社区建设需要主动维护，而非自发形成"
+    },
+    "https://tangled.org/gleam.run/gleam": {
+      "date": "2026-07-19",
+      "title": "Gleam 语言现已在 Tangled 平台上架"
+    },
+    "https://ykdojo.github.io/claude-controls-mac/": {
+      "date": "2026-07-19",
+      "title": "指南：使用闲置 Mac 运行 Claude Code 进行自动化"
+    },
+    "https://deepmind.google/blog/our-approach-to-bioresilience/": {
+      "date": "2026-07-19",
+      "title": "DeepMind 和 Isomorphic Labs 阐释生物韧性方法"
+    },
+    "https://elixir-lang.org/": {
+      "date": "2026-07-19",
+      "title": "Elixir 官方网站全新改版，采用暗色模式并优化导航"
+    },
+    "https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything": {
+      "date": "2026-07-19",
+      "title": "西蒙·威利森发布交互式 SQLite 查询解释器工具"
+    },
+    "https://arxiv.org/abs/2607.14587": {
+      "date": "2026-07-19",
+      "title": "研究论文分析 Qubes OS 安全记录"
+    },
+    "https://haxxorwpm.0s.is/": {
+      "date": "2026-07-19",
+      "title": "面向开发者的打字速度测试工具上线，支持自定义布局"
+    },
+    "https://simonwillison.net/2026/Jul/18/quixote/#atom-everything": {
+      "date": "2026-07-19",
+      "title": "Quixote Python Web 框架在 21 年后收到提交"
     }
   }
 }
