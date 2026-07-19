@@ -1,73 +1,9 @@
 {
   "version": 1,
   "entries": {
-    "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom": {
-      "date": "2026-07-12",
-      "title": "英伟达的投资凸显 GPU 热潮中的循环融资。"
-    },
-    "https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf": {
-      "date": "2026-07-12",
-      "title": "1993 年 PDF 揭示 SVD 早期历史。"
-    },
-    "https://www.iroh.computer/blog/mesh-llm": {
-      "date": "2026-07-12",
-      "title": "Mesh LLM 通过 iroh P2P 实现分布式 LLM 推理"
-    },
-    "https://github.com/Wren6991/RISCBoy": {
-      "date": "2026-07-12",
-      "title": "RISCBoy：开源 RISC-V 掌机，灵感来源于 Game Boy Advance"
-    },
-    "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres": {
-      "date": "2026-07-12",
-      "title": "我们将 PgBouncer 的吞吐量提升了 4 倍"
-    },
-    "https://timeseriesofindia.com/economy/reads/upi-architecture/": {
-      "date": "2026-07-12",
-      "title": "UPI：支付交易的解剖"
-    },
-    "https://evanhahn.com/prefer-strict-tables-in-sqlite/": {
-      "date": "2026-07-12",
-      "title": "优先使用 SQLite 的严格表"
-    },
-    "https://shipthatcode.com/": {
-      "date": "2026-07-12",
-      "title": "免费交互式平台教您从零重建 Redis、Git 和数据库"
-    },
-    "https://www.economist.com/science-and-technology/2026/07/08/how-to-hide-from-killer-drones": {
-      "date": "2026-07-12",
-      "title": "如何躲避杀手无人机"
-    },
-    "https://antjs.org/": {
-      "date": "2026-07-12",
-      "title": "Ant：全新一体化 JavaScript 运行时生态系统发布"
-    },
-    "https://nagylukas.github.io/orbit.html": {
-      "date": "2026-07-12",
-      "title": "Orbit：iOS AR 应用可视化 15k+ 颗卫星、行星和星座"
-    },
-    "https://fabiensanglard.net/tb4/index.html": {
-      "date": "2026-07-12",
-      "title": "设计可靠唤醒设备的 Thunderbolt 4 扩展坞"
-    },
-    "https://archive.cancerworld.net/featured/how-doctors-die/": {
-      "date": "2026-07-12",
-      "title": "医生往往选择较少激进的临终关怀方式对待自己"
-    },
-    "https://www.zerofs.net/blog/zerofs-vs-aws-s3-files/": {
-      "date": "2026-07-12",
-      "title": "ZeroFS 与 Amazon S3 的对比博客文章"
-    },
     "https://simonwillison.net/2026/Jul/11/sqlite-utils/#atom-everything": {
       "date": "2026-07-13",
       "title": "sqlite-utils 4.1 新增 --code 选项，支持通过 Python 代码生成插入行"
-    },
-    "https://slacreditwatch.com/": {
-      "date": "2026-07-12",
-      "title": "公共账本追踪云服务中断及触发的 SLA 赔付"
-    },
-    "https://github.com/sqlsure/sqlsure": {
-      "date": "2026-07-12",
-      "title": "Sqlsure 推出用于 AI 生成 SQL 的确定性语义检查。"
     },
     "https://scrapfly.dev/posts/browser-math-os-fingerprint/": {
       "date": "2026-07-13",
@@ -708,6 +644,86 @@
     "https://simonwillison.net/2026/Jul/18/quixote/#atom-everything": {
       "date": "2026-07-19",
       "title": "Quixote Python Web 框架在 21 年后收到提交"
+    },
+    "https://twitter.com/Alibaba_Qwen/status/2078759124914098291": {
+      "date": "2026-07-20",
+      "title": "阿里巴巴宣布即将发布 2.4 万亿参数开放权重 LLM Qwen 3.8"
+    },
+    "https://news.ycombinator.com/item?id=48968606": {
+      "date": "2026-07-20",
+      "title": "展示 HN：我用 1600 美元的 ESP32 替换了 12 万美元的保龄球馆计分系统"
+    },
+    "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4": {
+      "date": "2026-07-20",
+      "title": "Minecraft Java Edition 现已采用 SDL3"
+    },
+    "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard": {
+      "date": "2026-07-20",
+      "title": "销售 2500 个 MIDI 录音机表明硬件开发并不难"
+    },
+    "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study": {
+      "date": "2026-07-20",
+      "title": "AI 建议使准确率降低三倍而信心翻倍，研究发现"
+    },
+    "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/#atom-everything": {
+      "date": "2026-07-20",
+      "title": "Claude Code 现采用 Rust 版 Bun，启动速度提升约 10%"
+    },
+    "https://github.com/openai/codex/pull/33972/files": {
+      "date": "2026-07-20",
+      "title": "OpenAI 将 Codex 模型上下文减少至 272k token。"
+    },
+    "https://twitter.com/kimi_moonshot/status/2078855608565207130": {
+      "date": "2026-07-20",
+      "title": "Moonshot AI 暂停 Kimi K3 新订阅。"
+    },
+    "https://www.phoronix.com/news/Last-MPEG-4-Patent-Expired": {
+      "date": "2026-07-20",
+      "title": "最后一个 MPEG-4 视觉专利到期，编解码器成为免版税"
+    },
+    "https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/": {
+      "date": "2026-07-20",
+      "title": "作者分享加入 IndieWeb 的经验与所学"
+    },
+    "https://sgt.hootr.club/blog/home-server-rebirth/": {
+      "date": "2026-07-20",
+      "title": "家庭服务器故障与重建：树莓派 SD 卡问题及社区方案"
+    },
+    "https://videocardz.com/newz/modder-runs-gta-iii-inside-gta-san-andreas-on-an-in-game-tv": {
+      "date": "2026-07-20",
+      "title": "模组制作者在 GTA:圣安地列斯的游戏内电视上运行 GTA III"
+    },
+    "https://www.bbc.com/news/articles/cvg8edqq5g5o": {
+      "date": "2026-07-20",
+      "title": "雷利花园英国香蕉在 15 年后重新萌发"
+    },
+    "https://retrogamecoders.com/c64-basic-dungeon-part8/": {
+      "date": "2026-07-20",
+      "title": "教程：使用 Commodore 64 BASIC 制作哥布林地牢爬行游戏"
+    },
+    "https://www.hmd.com/en_int/hmd-touch-4g": {
+      "date": "2026-07-20",
+      "title": "HMD 发布面向印度市场的预算版 Touch 4G 手机"
+    },
+    "https://simonwillison.net/2026/Jul/19/ai-mania/#atom-everything": {
+      "date": "2026-07-20",
+      "title": "AI 狂热削弱全球决策"
+    },
+    "https://www.eff.org/deeplinks/2026/07/we-want-texans-know-their-rights-qa-mayday-health-impact-surveillance-abortion": {
+      "date": "2026-07-20",
+      "title": "EFF 呼吁德州居民了解健康数据隐私权，应对堕胎相关法律变化"
+    },
+    "https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html": {
+      "date": "2026-07-20",
+      "title": "新款 IA-64 模拟器可在 Itanium 硬件上启动 Windows"
+    },
+    "https://justsomebody.dev/blog/mikrotik-home-router": {
+      "date": "2026-07-20",
+      "title": "HomeLab #1：使用 MikroTik 作为家庭路由器"
+    },
+    "https://www.onepercentbrighter.com/p/natural-experiments-prove-feeding": {
+      "date": "2026-07-20",
+      "title": "自然实验表明浮游植物可去除二氧化碳"
     }
   }
 }

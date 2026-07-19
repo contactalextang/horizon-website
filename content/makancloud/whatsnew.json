@@ -3,6 +3,12 @@
   "items": [
     {
       "version": "",
+      "date": "2026-07-19",
+      "zh": "Mika 客服 RAG 检索升级",
+      "en": ""
+    },
+    {
+      "version": "",
       "date": "2026-07-15",
       "zh": "YeahPay Cloud MISPOS 二期 S4 交付 + 热修 S3 遗漏的 order.status 分流",
       "en": ""
