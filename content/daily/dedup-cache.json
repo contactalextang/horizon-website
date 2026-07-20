@@ -1,94 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "https://simonwillison.net/2026/Jul/11/sqlite-utils/#atom-everything": {
-      "date": "2026-07-13",
-      "title": "sqlite-utils 4.1 新增 --code 选项，支持通过 Python 代码生成插入行"
-    },
-    "https://scrapfly.dev/posts/browser-math-os-fingerprint/": {
-      "date": "2026-07-13",
-      "title": "Chromium 148 的 Math.tanh 变化使操作系统级指纹识别成为可能"
-    },
-    "https://systima.ai/blog/claude-code-vs-opencode-token-overhead": {
-      "date": "2026-07-13",
-      "title": "Claude Code 在提示前消耗约 33k tokens，而 OpenCode 仅约 7k"
-    },
-    "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/": {
-      "date": "2026-07-13",
-      "title": "研究者将因果理论应用于大型语言模型的机制解释"
-    },
-    "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html": {
-      "date": "2026-07-13",
-      "title": "我喜欢 LLMs，但讨厌炒作"
-    },
-    "https://arxiv.org/abs/2607.06377": {
-      "date": "2026-07-13",
-      "title": "缺乏理解的自动化"
-    },
-    "https://fabiensanglard.net/extinct/index.html": {
-      "date": "2026-07-13",
-      "title": "类比 CGI 取代实拍，LLM 使手写编码过时"
-    },
-    "https://dakra.github.io/ghostel/": {
-      "date": "2026-07-13",
-      "title": "Ghostel.el：基于 libghostty 的 Emacs 终端模拟器"
-    },
-    "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6": {
-      "date": "2026-07-13",
-      "title": "将生产 AI 代理迁移至 GPT-5.6 实现 2.2× 加速、27% 成本降低"
-    },
-    "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/": {
-      "date": "2026-07-13",
-      "title": "陶哲轩展示 LLM 生成的教育可视化应用"
-    },
-    "https://www.theregister.com/on-prem/2026/07/11/irish-datacenters-now-guzzle-23-of-the-countrys-electricity/5270013": {
-      "date": "2026-07-13",
-      "title": "爱尔兰数据中心消耗全国 23%的电力"
-    },
-    "http://incompleteideas.net/IncIdeas/OneStepTrap.html": {
-      "date": "2026-07-13",
-      "title": "警告 AI 研究中的一步陷阱"
-    },
-    "https://floooh.github.io/tiny8bit-preview/index.html": {
-      "date": "2026-07-13",
-      "title": "Tiny Emulators 发布基于浏览器的引脚级 8 位模拟器合集"
-    },
-    "https://substack.magazinenongrata.com/p/how-i-learned-to-read-again": {
-      "date": "2026-07-13",
-      "title": "我重新学会了阅读。"
-    },
-    "https://www.motivenotes.ai/p/against-usefulness": {
-      "date": "2026-07-13",
-      "title": "文章认为过度强调实用性会抑制技术创新"
-    },
-    "https://scotto.me/blog/2026-07-12-how-to-read-more-books/": {
-      "date": "2026-07-13",
-      "title": "使用有声书和习惯改变的阅读更多书籍的实用技巧"
-    },
-    "https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain": {
-      "date": "2026-07-13",
-      "title": "带状疱疹疫苗与降低痴呆风险相关的最新研究"
-    },
-    "https://hidden-phenomena.com/articles/modular": {
-      "date": "2026-07-13",
-      "title": "为什么要研究丢番图方程？"
-    },
-    "https://neocities.org/": {
-      "date": "2026-07-13",
-      "title": "Neocities 提供免费静态网站托管，唤起 GeoCities 怀旧"
-    },
-    "https://simonwillison.net/2026/Jul/12/bump/#atom-everything": {
-      "date": "2026-07-13",
-      "title": "Anthropic 将 Claude Fable 5 在付费计划上的可用性延长至 7 月 19 日"
-    },
-    "https://www.canopii.dev/State%20of%20MCP%20Security%202026.pdf": {
-      "date": "2026-07-13",
-      "title": "2026 年报告评估多通道协议系统的安全状况"
-    },
-    "https://nanduruganesh.github.io/flash-msa/": {
-      "date": "2026-07-13",
-      "title": "Flash-MSA：稀疏注意力内核用于百万标记 Transformer 训练"
-    },
     "https://werd.io/climate-gov-was-destroyed-open-data-saved-it/": {
       "date": "2026-07-14",
       "title": "Climate.gov 被下线，但其数据被开放项目保存。"
@@ -724,6 +636,118 @@
     "https://www.onepercentbrighter.com/p/natural-experiments-prove-feeding": {
       "date": "2026-07-20",
       "title": "自然实验表明浮游植物可去除二氧化碳"
+    },
+    "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/": {
+      "date": "2026-07-21",
+      "title": "黑客据称删除了罗马尼亚的全部土地登记数据库"
+    },
+    "https://unslop.run/blog/measuring-ai-writing-on-arxiv": {
+      "date": "2026-07-21",
+      "title": "通过测量 arXiv 上的 AI 撰写论文，发现整体比例升至 39%，计算机科学领域达 65%（2026 年）"
+    },
+    "https://spectrum.ieee.org/led-light-pollution": {
+      "date": "2026-07-21",
+      "title": "LEDs’ potential to save our night skies"
+    },
+    "https://www.emergingtrajectories.com/lh/frontier-lab-economics/": {
+      "date": "2026-07-21",
+      "title": "Kimi K3 与 Qwen 3.8 发布，伴随开放权重趋势及 Anthropic 争议"
+    },
+    "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/": {
+      "date": "2026-07-21",
+      "title": "中国开放权重 AI 战略胜过美国专有模型"
+    },
+    "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/": {
+      "date": "2026-07-21",
+      "title": "人类数学家正被 AI 反例击败"
+    },
+    "https://cursor.com/blog/agent-swarm-model-economics": {
+      "date": "2026-07-21",
+      "title": "Cursor 推出高吞吐量版本控制系统以支持大规模 AI 智能体群"
+    },
+    "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/": {
+      "date": "2026-07-21",
+      "title": "作者称通过 GPT-5.6 低成本发现 WordPress RCE，引发漏洞市场争论"
+    },
+    "https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models/#atom-everything": {
+      "date": "2026-07-21",
+      "title": "本·汤普森提议美国立法允许数据抓取并禁止限制模型蒸馏的条款"
+    },
+    "https://dl.acm.org/doi/10.1145/3800646.3800650": {
+      "date": "2026-07-21",
+      "title": "研究人员识别出软件交付低效率的根本原因。"
+    },
+    "https://github.com/astral-sh/uv/releases/tag/0.11.30": {
+      "date": "2026-07-21",
+      "title": "uv 0.11.30 添加 CPython 3.15 测试版支持、预览工作区功能及性能优化"
+    },
+    "https://jelly-ui.com/": {
+      "date": "2026-07-21",
+      "title": "Jelly UI 为原生 HTML 表单控件引入软体物理效果"
+    },
+    "https://blaizzy.github.io/nativ/": {
+      "date": "2026-07-21",
+      "title": "Nativ: Run frontier open models locally on your Mac"
+    },
+    "https://airport.apunen.com/": {
+      "date": "2026-07-21",
+      "title": "基于网页的机场空中交通管制模拟器在 Hacker News 上受到关注"
+    },
+    "https://nothings.org/gamedev/ssao/": {
+      "date": "2026-07-21",
+      "title": "Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion (2012)"
+    },
+    "https://var0.xyz/posts/perfection-is-not-over-engineering.html": {
+      "date": "2026-07-21",
+      "title": "完美不是过度设计：挑战软件中的‘足够好’心态"
+    },
+    "https://hypr.land/news/update55/": {
+      "date": "2026-07-21",
+      "title": "Hyprland 0.55 将配置切换为 Lua 脚本。"
+    },
+    "https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/": {
+      "date": "2026-07-21",
+      "title": "交互式 Three.js 演示可视化新宿站内部"
+    },
+    "https://www.newyorker.com/culture/the-weekend-essay/the-voice-of-google": {
+      "date": "2026-07-21",
+      "title": "《纽约客》文章审视谷歌文化变迁与异议消失"
+    },
+    "https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/#atom-everything": {
+      "date": "2026-07-21",
+      "title": "AI 编码代理让家居设备逆向工程变得便宜且易于维护"
+    },
+    "https://simonwillison.net/2026/Jul/20/sam-altman/#atom-everything": {
+      "date": "2026-07-21",
+      "title": "OpenAI 曾考虑发布可本地运行的 GPT-3 级模型以对抗竞争者"
+    },
+    "https://www.kimi.com/products/kimi-work": {
+      "date": "2026-07-21",
+      "title": "Kimi Work 推出低成本本地 AI 代理，替代 Claude/Codex"
+    },
+    "https://www.youtube.com/watch?v=NwhVJ7cv9B4": {
+      "date": "2026-07-21",
+      "title": "用飞秒激光在电子显微镜中对昆虫进行横截面切片(视频)"
+    },
+    "https://numerlab.org/2025/07/20/bashumerate-enumerator/": {
+      "date": "2026-07-21",
+      "title": "作者发布 Bash 枚举器工具以替代 xargs"
+    },
+    "https://vincentwoo.com/3d/grace_cathedral/": {
+      "date": "2026-07-21",
+      "title": "沉浸式高斯溅射格雷斯大教堂 3D 游览已发布。"
+    },
+    "https://www.scottrlarson.com/presentations/overcoming-surveillance-capitalism-with-awareness/": {
+      "date": "2026-07-21",
+      "title": "觉察的力量：克服监视资本主义"
+    },
+    "https://news.ycombinator.com/item?id=48981136": {
+      "date": "2026-07-21",
+      "title": "Bloomy 推出 AI 驱动的 K-12 精通学习平台"
+    },
+    "https://www.nycsubway.org/wiki/Subway_Signals%3A_A_Complete_Guide": {
+      "date": "2026-07-21",
+      "title": "纽约地铁信号系统：完整指南（2012）"
     }
   }
 }
