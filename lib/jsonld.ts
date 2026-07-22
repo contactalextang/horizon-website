@@ -108,12 +108,14 @@ export function blogPostingJsonLd(opts: {
   description: string
   date: string
   path: string
+  image?: string
 }) {
   return {
     '@context': 'https://schema.org',
     '@type': 'BlogPosting',
     headline: opts.title,
     description: opts.description,
+    ...(opts.image ? { image: opts.image.startsWith('http') ? opts.image : `${SITE_URL}${opts.image}` } : {}),
     datePublished: opts.date,
     dateModified: opts.date,
     inLanguage: opts.locale,

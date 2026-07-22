@@ -195,6 +195,7 @@ function readBuildlogFile(file: string, locale: 'en' | 'zh'): BuildlogEntry | nu
       summary: pickLocale(data.summary),
       bodyMarkdown: pickLocale(data.body),
       tags: data.tags || [],
+      cover: data.cover?.src ? { src: data.cover.src, alt: data.cover.alt || '' } : undefined,
     }
   } catch {
     return null

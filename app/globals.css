@@ -195,6 +195,11 @@ body {
 }
 
 @media (max-width: 720px) {
+  /* 窄屏下列表卡片的缩略图挤标题，直接隐藏 */
+  .buildlog-thumb {
+    display: none;
+  }
+
   .navbar-links,
   .navbar-date {
     display: none;
@@ -526,6 +531,44 @@ body {
 .markdown-article ul,
 .markdown-article ol {
   margin: 12px 0;
+}
+
+/* 全局 reset 清了 padding，这里把列表的缩进和标记还回来 */
+.markdown-article ul,
+.markdown-article ol {
+  padding-left: 1.5em;
+}
+
+.markdown-article ul { list-style: disc; }
+.markdown-article ol { list-style: decimal; }
+
+.markdown-article li {
+  margin: 6px 0;
+}
+
+.markdown-article li::marker {
+  color: var(--gold2);
+}
+
+.markdown-article img {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  margin: 26px auto;
+  border-radius: 6px;
+  border: 1px solid var(--line2);
+}
+
+/* 图注：`![alt](src)` 后紧跟的斜体行 */
+.markdown-article img + em,
+.markdown-article p > img + em {
+  display: block;
+  margin-top: -14px;
+  font-size: 12px;
+  font-style: normal;
+  text-align: center;
+  color: var(--text3);
 }
 
 .markdown-article blockquote {

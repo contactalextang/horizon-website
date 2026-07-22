@@ -9,9 +9,13 @@
     "zh": "几天而不是几个月，和 AI Agent 一起从设计到上线，给膳云做出每桌扫码自助点餐。"
   },
   "body": {
-    "en": "## What I shipped\n\nDiners scan a per-table QR, browse the menu without logging in, order, pay, and the order lands on the kitchen display and auto-prints a station ticket.\n\n## The hard parts\n\n- **Pay-first to stop walk-aways.** The first version trusted diners to pay; I closed that loophole so an order only enters the kitchen after payment.\n- **Session isolation per table.** A new diner at the same table should never see the previous party's orders. I added a per-table session boundary with a 24h fallback.\n\n## Working with AI\n\nI drove the whole thing with AI coding agents — planning each change, reviewing the diffs, and shipping daily. The leverage is real: one person can now build and operate a system that used to need a team.\n\n*Want something similar built for your business? I take on custom software.*"
-  ,
+    "en": "## What I shipped\n\nDiners scan a per-table QR, browse the menu without logging in, order, pay, and the order lands on the kitchen display and auto-prints a station ticket.\n\n## The hard parts\n\n- **Pay-first to stop walk-aways.** The first version trusted diners to pay; I closed that loophole so an order only enters the kitchen after payment.\n- **Session isolation per table.** A new diner at the same table should never see the previous party's orders. I added a per-table session boundary with a 24h fallback.\n\n## Working with AI\n\nI drove the whole thing with AI coding agents — planning each change, reviewing the diffs, and shipping daily. The leverage is real: one person can now build and operate a system that used to need a team.\n\n*Want something similar built for your business? I take on custom software.*",
     "zh": "## 做了什么\n\n顾客扫每桌专属二维码，免登录浏览菜单、下单、付款，订单直接进厨房显示屏并自动打印工位单。\n\n## 难点\n\n- **强制先付款，防止跑单。** 第一版靠顾客自觉付款，我堵上了这个漏洞——只有付款后订单才进厨房。\n- **按桌会话隔离。** 同一张桌子的新顾客不该看到上一桌的订单。我加了按桌的会话边界 + 24 小时兜底。\n\n## 和 AI 一起做\n\n整个过程都由我驱动 AI 编程 Agent 完成——规划每次改动、审阅 diff、每天上线。杠杆是真实的：一个人现在也能做出并运营过去需要一个团队的系统。\n\n*想给你的生意做类似的系统？我承接软件定制。*"
   },
-  "tags": ["MakanCloud", "building-in-public", "AI", "F&B"]
+  "tags": [
+    "MakanCloud",
+    "building-in-public",
+    "AI",
+    "F&B"
+  ]
 }

@@ -1,3 +1,8 @@
+export interface BuildlogCover {
+  src: string
+  alt: string
+}
+
 export interface BuildlogEntry {
   slug: string // = date, YYYY-MM-DD
   date: string
@@ -5,6 +10,7 @@ export interface BuildlogEntry {
   summary: string
   bodyMarkdown: string
   tags: string[]
+  cover?: BuildlogCover
 }
 
 // 存储格式：content/buildlog/<date>.json 或 <date>-<campaign>.json
@@ -16,4 +22,5 @@ export interface BuildlogFile {
   summary: { en: string; zh: string }
   body: { en: string; zh: string }
   tags: string[]
+  cover?: BuildlogCover
 }

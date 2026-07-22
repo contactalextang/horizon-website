@@ -50,12 +50,26 @@ export default async function BuildlogPage({ params }: Props) {
         <div style={{ display: 'flex', flexDirection: 'column', gap: '4px' }}>
           {entries.map(e => (
             <a key={e.slug} href={`/${locale}/buildlog/${e.slug}`} className="surface-hover" style={{
-              display: 'block', padding: '16px 18px', background: 'var(--surface-bg)', border: '1px solid var(--surface-border)',
-              borderRadius: 'var(--r2)', textDecoration: 'none', transition: 'all .2s',
+              display: 'flex', gap: '14px', alignItems: 'flex-start', padding: '16px 18px', background: 'var(--surface-bg)',
+              border: '1px solid var(--surface-border)', borderRadius: 'var(--r2)', textDecoration: 'none', transition: 'all .2s',
             }}>
-              <div style={{ fontFamily: mono, fontSize: '10px', color: 'var(--gold2)', marginBottom: '6px' }}>{e.date}</div>
-              <h2 style={{ fontFamily: serif, fontSize: '17px', fontWeight: 400, color: 'var(--text)', marginBottom: '6px', lineHeight: 1.3 }}>{e.title}</h2>
-              <p style={{ fontSize: '12px', color: 'var(--text2)', lineHeight: 1.6 }}>{e.summary}</p>
+              {e.cover && (
+                // eslint-disable-next-line @next/next/no-img-element
+                <img
+                  src={e.cover.src}
+                  alt=""
+                  width={160}
+                  height={90}
+                  loading="lazy"
+                  className="buildlog-thumb"
+                  style={{ flexShrink: 0, width: '112px', height: '63px', objectFit: 'cover', borderRadius: 'var(--r)', border: '1px solid var(--line2)' }}
+                />
+              )}
+              <div style={{ minWidth: 0 }}>
+                <div style={{ fontFamily: mono, fontSize: '10px', color: 'var(--gold2)', marginBottom: '6px' }}>{e.date}</div>
+                <h2 style={{ fontFamily: serif, fontSize: '17px', fontWeight: 400, color: 'var(--text)', marginBottom: '6px', lineHeight: 1.3 }}>{e.title}</h2>
+                <p style={{ fontSize: '12px', color: 'var(--text2)', lineHeight: 1.6 }}>{e.summary}</p>
+              </div>
             </a>
           ))}
         </div>

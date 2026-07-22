@@ -27,7 +27,13 @@ export async function generateMetadata({ params }: Props) {
     title: entry.title,
     description: entry.summary,
     alternates: { canonical: absUrl(locale, `/buildlog/${slug}`), languages: languageAlternates(`/buildlog/${slug}`) },
-    openGraph: { title: entry.title, description: entry.summary, type: 'article', url: absUrl(locale, `/buildlog/${slug}`) },
+    openGraph: {
+      title: entry.title,
+      description: entry.summary,
+      type: 'article',
+      url: absUrl(locale, `/buildlog/${slug}`),
+      ...(entry.cover ? { images: [entry.cover.src] } : {}),
+    },
   }
 }
 
@@ -41,7 +47,7 @@ export default async function BuildlogDetail({ params }: Props) {
   return (
     <article style={{ maxWidth: '720px', margin: '0 auto', padding: '0 24px 80px' }}>
       <JsonLd data={[
-        blogPostingJsonLd({ locale, title: entry.title, description: entry.summary, date: entry.date, path: `/buildlog/${slug}` }),
+        blogPostingJsonLd({ locale, title: entry.title, description: entry.summary, date: entry.date, path: `/buildlog/${slug}`, image: entry.cover?.src }),
         breadcrumbJsonLd(locale, [
           { name: locale === 'zh' ? '首页' : 'Home', path: '/' },
           { name: locale === 'zh' ? '开发日志' : 'Build log', path: '/buildlog' },
@@ -64,6 +70,18 @@ export default async function BuildlogDetail({ params }: Props) {
           </div>
         )}
       </div>
+
+      {entry.cover && (
+        // eslint-disable-next-line @next/next/no-img-element
+        <img
+          src={entry.cover.src}
+          alt={entry.cover.alt}
+          width={1600}
+          height={900}
+          loading="eager"
+          style={{ display: 'block', width: '100%', height: 'auto', margin: '0 0 28px', borderRadius: '6px', border: '1px solid var(--line2)' }}
+        />
+      )}
 
       <div className="markdown-article" dangerouslySetInnerHTML={{ __html: html }} />
 
