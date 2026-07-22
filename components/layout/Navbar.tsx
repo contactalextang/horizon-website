@@ -34,6 +34,7 @@ export default function Navbar({ locale }: Props) {
     { href: '/daily', label: t('daily') },
     ...(locale === 'zh' ? [{ href: '/investment', label: t('investment') }] : []),
     { href: '/projects', label: t('projects') },
+    { href: '/buildlog', label: t('buildlog') },
     { href: '/about', label: t('about') },
   ]
 
