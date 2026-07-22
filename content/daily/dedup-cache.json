@@ -1,94 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "https://prismml.com/news/bonsai-27b": {
-      "date": "2026-07-15",
-      "title": "Bonsai 27B：可在手机上运行的 270 亿参数语言模型"
-    },
-    "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/": {
-      "date": "2026-07-15",
-      "title": "文章警告 AI 辅助编码提升生产力但增加软件复杂性。"
-    },
-    "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left": {
-      "date": "2026-07-15",
-      "title": "Cursor 0day：当全面披露成为唯一的防护手段"
-    },
-    "https://www.artfish.ai/p/offloading-thinking-to-ai": {
-      "date": "2026-07-15",
-      "title": "关于 AI 离载人类思考的争论"
-    },
-    "https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/": {
-      "date": "2026-07-15",
-      "title": "在 Linux 上测量输入延迟：X11 vs. Wayland, VRR 和 DXVK"
-    },
-    "https://twitter.com/demishassabis/status/2076957440109625718": {
-      "date": "2026-07-15",
-      "title": "Demis Hassabis 提出安全发展通用人工智能的计划"
-    },
-    "https://adi.bio/reality": {
-      "date": "2026-07-15",
-      "title": "警告 AI 过度依赖：拥抱真实理解"
-    },
-    "https://simonwillison.net/2026/Jul/14/lobsters-sqlite/#atom-everything": {
-      "date": "2026-07-15",
-      "title": "Lobsters 从 MariaDB 迁移到 SQLite"
-    },
-    "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing": {
-      "date": "2026-07-15",
-      "title": "如何阻止 Claude 过度使用'load-bearing'等 LLM 口头禅"
-    },
-    "https://www.bobbytables.io/p/the-agentic-loop-three-loops-in-a": {
-      "date": "2026-07-15",
-      "title": "The Agentic Loop: Three loops in a trench coat"
-    },
-    "https://simonwillison.net/2026/Jul/14/armin-ronacher/#atom-everything": {
-      "date": "2026-07-15",
-      "title": "Armin Ronacher 论软件项目中的共享语言与摩擦。"
-    },
-    "https://www.derekthompson.org/p/a-philosophers-one-word-theory-to": {
-      "date": "2026-07-15",
-      "title": "阿格尼斯·卡拉德提出“单一语境”理论以解释数字身份融合"
-    },
-    "https://simonwillison.net/2026/Jul/14/uvx-github-actions-cache/#atom-everything": {
-      "date": "2026-07-15",
-      "title": "通过 UV_EXCLUDE_NEWER 在 GitHub Actions 中实现 uvx 的缓存友好使用"
-    },
-    "https://simonwillison.net/2026/Jul/13/doomql/#atom-everything": {
-      "date": "2026-07-15",
-      "title": "DOOMQL：基于 SQLite 的终端版 Doom 游戏"
-    },
-    "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/": {
-      "date": "2026-07-15",
-      "title": "Dependabot 版本更新新增默认包冷却功能"
-    },
-    "https://www.alexedwards.net/blog/how-i-use-htmx-with-go": {
-      "date": "2026-07-15",
-      "title": "作者演示在 Go Web 应用中集成 HTMX"
-    },
-    "https://agnost.ai/": {
-      "date": "2026-07-15",
-      "title": "Agnost AI 推出从聊天和语音代理中提取用户反馈的分析工具"
-    },
-    "https://www.verbaprima.com/": {
-      "date": "2026-07-15",
-      "title": "Show HN: 名著开篇句子。"
-    },
-    "https://www.cbc.ca/news/world/stubhub-ceo-class-action-scalping-9.7268987": {
-      "date": "2026-07-15",
-      "title": "StubHub 及 CEO 被控 500 万美元集体诉讼，涉嫌票务黄牛。"
-    },
-    "https://simonwillison.net/2026/Jul/14/datasette/#atom-everything": {
-      "date": "2026-07-15",
-      "title": "Datasette 1.0a37 发布，性能和文档得到改进"
-    },
-    "https://www.bis.org/publ/bisbull120.pdf": {
-      "date": "2026-07-15",
-      "title": "AI 繁荣融资：从现金流转向债务"
-    },
-    "https://gwern.net/guardian-angel": {
-      "date": "2026-07-15",
-      "title": "守护天使：个性化 LLM 提升生产力与安全"
-    },
     "https://thinkingmachines.ai/news/introducing-inkling/": {
       "date": "2026-07-16",
       "title": "Thinking Machines 发布开放权重多模态模型 Inkling，支持音频"
@@ -752,6 +664,154 @@
     "https://help.trmnl.com/en/articles/14130438-ai-agent": {
       "date": "2026-07-22",
       "title": "TRMNL 为电子墨水显示屏添加 AI 代理，支持自然语言命令"
+    },
+    "https://x.com/_akhaliq/status/2079948645491769755": {
+      "date": "2026-07-23",
+      "title": "Solar Open2 250B 在 Hugging Face 发布。"
+    },
+    "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56": {
+      "date": "2026-07-23",
+      "title": "陶哲轩使用 ChatGPT 探讨雅可比猜想反例"
+    },
+    "https://mitchellh.com/writing/everyone-should-know-simd": {
+      "date": "2026-07-23",
+      "title": "人人都应该了解 SIMD"
+    },
+    "https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/": {
+      "date": "2026-07-23",
+      "title": "在假面试作业中发现恶意 Git pre‑commit 钩子"
+    },
+    "https://hatchet.run/blog/postgres-survival-guide": {
+      "date": "2026-07-23",
+      "title": "面向初创公司的 PostgreSQL 生存指南发布"
+    },
+    "https://x.com/emollick/status/2079944833599156569": {
+      "date": "2026-07-23",
+      "title": "开放 AI 模型在国际数学奥林匹克中达到金牌水平"
+    },
+    "https://github.com/marcelroed/gigatoken/": {
+      "date": "2026-07-23",
+      "title": "GigaToken 通过 SIMD 和缓存实现语言模型分词速度提升约 1000 倍。"
+    },
+    "https://bento.page/slides/": {
+      "date": "2026-07-23",
+      "title": "Bento：单文件 HTML 幻灯片编辑器，支持离线编辑和实时协作"
+    },
+    "https://www.cole-k.com/2026/07/21/reddit/": {
+      "date": "2026-07-23",
+      "title": "Reddit 宣布纯 HTML 不安全，强制要求 JavaScript 以确保安全。"
+    },
+    "https://ishmael.textualize.io/blog/ghost-cut/": {
+      "date": "2026-07-23",
+      "title": "鬼剪：重新思考剪切与粘贴以改善撤销行为。"
+    },
+    "https://cruciblebench.ai/": {
+      "date": "2026-07-23",
+      "title": "低成本 MUD 基准揭露 LLM 评判可靠性问题"
+    },
+    "https://blog.melashri.net/micro/back-to-kagi/": {
+      "date": "2026-07-23",
+      "title": "作者回归 Kagi 搜索引擎，称赞其 Vim 键位绑定和 AI 自选功能"
+    },
+    "https://x.com/_akhaliq/status/2079945991470358945": {
+      "date": "2026-07-23",
+      "title": "ABot-World-0 在单台台式 GPU 上实现无限交互世界。"
+    },
+    "https://x.com/emollick/status/2080002340497568118": {
+      "date": "2026-07-23",
+      "title": "中美在开放权重 AI 模型及蒸馏技术上的紧张局势升级"
+    },
+    "https://x.com/emollick/status/2080003813402870149": {
+      "date": "2026-07-23",
+      "title": "伊桑·莫利克讨论 AI 作者权：人类提示词还是 GPT-5.6 Pro"
+    },
+    "https://x.com/emollick/status/2079943557989671114": {
+      "date": "2026-07-23",
+      "title": "伊桑·莫利克呼吁用户对 AI 子代理配置拥有更多控制权"
+    },
+    "https://beej.us/blog/data/ai-making/": {
+      "date": "2026-07-23",
+      "title": "博客文章探讨 LLM 对开发者自豪感和乐趣的影响"
+    },
+    "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/": {
+      "date": "2026-07-23",
+      "title": "AI 生成的菜单和标识常缺乏个性和信任感"
+    },
+    "https://dynomight.net/creatine/": {
+      "date": "2026-07-23",
+      "title": "肌酸是否能提升认知功能？"
+    },
+    "https://beej.us/blog/data/mystery-comment/": {
+      "date": "2026-07-23",
+      "title": "黑客新闻探讨古董电脑上未文档的 Graphic 键组合以输入 BASIC 标记"
+    },
+    "https://twitter.com/mkratsios47/status/2079933645888880708": {
+      "date": "2026-07-23",
+      "title": "“We have information that Moonshot distilled Fable for the development of K3”"
+    },
+    "https://x.com/emollick/status/2079697083250995565": {
+      "date": "2026-07-23",
+      "title": "伊桑·莫利克警告 AI 黑客攻击从测试环境转向真实世界"
+    },
+    "https://dylancastillo.co/posts/pelicanmaxxing.html": {
+      "date": "2026-07-23",
+      "title": "AI 实验室是否在 Pelicanmaxxing？"
+    },
+    "https://twitter.com/na_announce/status/2079952538040672302": {
+      "date": "2026-07-23",
+      "title": "资深科技记者约翰·C·德沃拉克去世"
+    },
+    "https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql/": {
+      "date": "2026-07-23",
+      "title": "任何文本到 SQL 基准都应考虑真实数据存储的挑战"
+    },
+    "https://webkit.org/blog/18162/release-notes-for-safari-technology-preview-248/": {
+      "date": "2026-07-23",
+      "title": "Safari Technology Preview 248 发布，包含 WebKit 改进"
+    },
+    "https://unlayer.com/": {
+      "date": "2026-07-23",
+      "title": "Unlayer 推出可嵌入的电子邮件和文档构建器，供应用使用"
+    },
+    "https://blog.jaysmito.dev/blog/02-perlins-noise-algorithm/": {
+      "date": "2026-07-23",
+      "title": "教程解释 Perlin 噪声用于程序生成。"
+    },
+    "https://www.timwehrle.de/blog/which-streaming-service-was-that-on-again/": {
+      "date": "2026-07-23",
+      "title": "博客分享个人技巧，帮助追踪流媒体服务的可用性。"
+    },
+    "https://x.com/_akhaliq/status/2079980795071000858": {
+      "date": "2026-07-23",
+      "title": "DataFlow-Harness：可编辑 LLM 数据管道的基础代理平台"
+    },
+    "https://x.com/emollick/status/2080010641905955328": {
+      "date": "2026-07-23",
+      "title": "伊桑·莫利克比较 LLMs 生成丘吉尔风格机智侮辱"
+    },
+    "https://x.com/emollick/status/2079995399150932318": {
+      "date": "2026-07-23",
+      "title": "伊桑·莫利克认为提示工程被过度重视"
+    },
+    "https://x.com/emollick/status/2079812585268842759": {
+      "date": "2026-07-23",
+      "title": "伊桑·莫利克用着色器基准测试 Gemini 3.6 Flash。"
+    },
+    "https://x.com/emollick/status/2079750007356272729": {
+      "date": "2026-07-23",
+      "title": "伊桑·莫利克指出 AI 模型以巧妙方式遵循指令"
+    },
+    "https://x.com/emollick/status/2079700930816028878": {
+      "date": "2026-07-23",
+      "title": "伊桑·莫利克将奖励黑客行为与经济激励联系起来"
+    },
+    "https://x.com/swyx/status/2079775327539339329": {
+      "date": "2026-07-23",
+      "title": "工程师被建议早期分离控制平面和数据平面"
+    },
+    "https://x.com/swyx/status/2079717845618000204": {
+      "date": "2026-07-23",
+      "title": "@swyx: recorded Codex + ChatGPT Work + 10M user milestone pod with @akshaynathan_ who leads Productivity en…"
     }
   }
 }
