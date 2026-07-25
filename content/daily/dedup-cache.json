@@ -1,118 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "https://www.kimi.com/blog/kimi-k3": {
-      "date": "2026-07-17",
-      "title": "Kimi K3 推出开放前沿智能。"
-    },
-    "https://www.spaceweather.gov/news/goes-19-safe-hold": {
-      "date": "2026-07-17",
-      "title": "GOES-19 气象卫星进入安全保持模式，暂停大西洋飓风监测"
-    },
-    "https://simonwillison.net/2026/Jul/16/inkling/#atom-everything": {
-      "date": "2026-07-17",
-      "title": "Thinking Machines Lab 发布 975B 参数开放权重多模态 MoE 模型 Inkling"
-    },
-    "https://simonwillison.net/2026/Jul/16/linus-torvalds/#atom-everything": {
-      "date": "2026-07-17",
-      "title": "林纳斯·托瓦兹称 AI 是有用工具，Linux 不反对 AI。"
-    },
-    "https://simonwillison.net/2026/Jul/15/grok-build/#atom-everything": {
-      "date": "2026-07-17",
-      "title": "xAI 在隐私争议后开源 Grok Build"
-    },
-    "https://lmstudio.ai/blog/introducing-lm-studio-bionic": {
-      "date": "2026-07-17",
-      "title": "LM Studio Bionic 发布：本地运行开源模型的 AI 代理"
-    },
-    "https://www.mixfont.com/experiments/decoy-font": {
-      "date": "2026-07-17",
-      "title": "欺骗字体展示对人类和 AI 视觉模型不同的文本"
-    },
-    "https://blog.lyc8503.net/en/post/llm-classifier/": {
-      "date": "2026-07-17",
-      "title": "使用经典机器学习检测 LLM 生成文本"
-    },
-    "https://community.oneplus.com/thread/2170715118587871237": {
-      "date": "2026-07-17",
-      "title": "OnePlus 停止在美国和欧洲的运营"
-    },
-    "https://rtfeldman.com/rust-to-zig": {
-      "date": "2026-07-17",
-      "title": "作者报告了从 Rust 到 Zig 重写编译器的进展。"
-    },
-    "https://sinja.io/blog/data-landscape-guide-for-developers": {
-      "date": "2026-07-17",
-      "title": "面向开发者的数据工具生态指南"
-    },
-    "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/": {
-      "date": "2026-07-17",
-      "title": "作者在承认批评者担忧的情况下仍为使用 LLM 辩护"
-    },
-    "https://www.bbc.com/future/article/20260715-how-period-trackers-share-womens-private-details": {
-      "date": "2026-07-17",
-      "title": "BBC 调查发现经期追踪应用将敏感数据共享给第三方"
-    },
-    "https://nicholas-afk.github.io/AttoChess/": {
-      "date": "2026-07-17",
-      "title": "AttoChess：16 位 x86 DOS 上仅 278 字节的象棋引擎"
-    },
-    "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/": {
-      "date": "2026-07-17",
-      "title": "微软 Comic Chat 现已开源。"
-    },
-    "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/": {
-      "date": "2026-07-17",
-      "title": "谷歌将 NotebookLM 重命名为 Gemini Notebook"
-    },
-    "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model": {
-      "date": "2026-07-17",
-      "title": "在低显存 Linux 桌面上训练踢鼓扩散模型"
-    },
-    "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6": {
-      "date": "2026-07-17",
-      "title": "Hacker News 对比 Claude Fable 5 与 GPT-5.6 生成的低质量 AI 音乐视频"
-    },
-    "https://ente.com/open/": {
-      "date": "2026-07-17",
-      "title": "Ente 公布收入和用户数据以促进透明度"
-    },
-    "https://simonwillison.net/2026/Jul/16/bad-codex-bug/#atom-everything": {
-      "date": "2026-07-17",
-      "title": "引用 Thibault Sottiaux"
-    },
-    "https://hellorecon.com/blog/cve-2026-25089": {
-      "date": "2026-07-17",
-      "title": "FortiSandbox 未授权命令注入漏洞 (CVE-2026-25089) 被加入 CISA KEV 目录"
-    },
-    "https://libretto.sh/debug-agents": {
-      "date": "2026-07-17",
-      "title": "Libretto PR 代理自动修复失败的 Playwright 脚本"
-    },
-    "https://news.ycombinator.com/item?id=48937020": {
-      "date": "2026-07-17",
-      "title": "Traceforce 发布 AI 应用安全监控平台及开源 MCP 渗透工具"
-    },
-    "https://simonwillison.net/2026/Jul/16/grok-mermaid/#atom-everything": {
-      "date": "2026-07-17",
-      "title": "Simon Willison 发布 grok-mermaid，使用 WebAssembly 将 Mermaid 图表转为 Unicode 盒绘图"
-    },
-    "https://arxiv.org/abs/2607.11938": {
-      "date": "2026-07-17",
-      "title": "数据科学的数学基础"
-    },
-    "https://timelinescan.com/": {
-      "date": "2026-07-17",
-      "title": "Timeline Scan 利用 AI 修复扫描照片的日期"
-    },
-    "https://www.science.org/doi/10.1126/science.aea9708": {
-      "date": "2026-07-17",
-      "title": "在宜居带的岩石系外行星大气中检测到逃逸的氦。"
-    },
-    "https://bamboo.kickstage.com/": {
-      "date": "2026-07-17",
-      "title": "Show HN：BambooGrid – 开源电力网格建模和潮流网页界面"
-    },
     "https://www.bbc.com/news/articles/cy4kdd1e0ejo": {
       "date": "2026-07-18",
       "title": "首次在宜居带发现类地系外行星 LHS 1140b 的大气"
@@ -908,6 +796,166 @@
     "https://x.com/emollick/status/2080178812667543560": {
       "date": "2026-07-24",
       "title": "伊桑·莫利克希望得到未解数学问题清单，以应对证明激增"
+    },
+    "https://www.anthropic.com/news/claude-opus-5": {
+      "date": "2026-07-25",
+      "title": "Anthropic 发布 Claude Opus 5 大语言模型，性能提升且无数据保留"
+    },
+    "https://hhh.hn/hanwha-github-token/": {
+      "date": "2026-07-25",
+      "title": "韩华摄像头通过登录页泄露 GitHub 管理员令牌。"
+    },
+    "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/": {
+      "date": "2026-07-25",
+      "title": "尽管编码实践进步，软件质量为何仍在下降？"
+    },
+    "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html": {
+      "date": "2026-07-25",
+      "title": "英伟达、微软、Meta 警告不要过度监管开放权重 AI 模型"
+    },
+    "https://ziggit.dev/t/buz-a-drop-in-replacement-for-bun-using-modern-zig-with-sub-1s-incremental-builds/16891": {
+      "date": "2026-07-25",
+      "title": "Buz：使用 Zig 的 Bun 分支实现亚秒增量构建"
+    },
+    "https://www.statnews.com/2026/07/24/science-new-golden-age-report-draws-mixed-reaction/": {
+      "date": "2026-07-25",
+      "title": "白宫提出将数十亿美元从生命科学转向 AI 科技公司资金"
+    },
+    "https://www.reddit.com/r/artificial/comments/1v5b04p/users_tried_to_object_to_their_chatgpt_logs_being/": {
+      "date": "2026-07-25",
+      "title": "法院裁定 ChatGPT 用户是自身对话的‘非当事人’"
+    },
+    "https://www.scientificamerican.com/article/china-kimi-k3-and-the-rise-of-open-weight-ai-models/": {
+      "date": "2026-07-25",
+      "title": "中国的开放权重 AI 策略正在改变竞争格局"
+    },
+    "https://blog.gaborkoos.com/posts/2026-07-24-Golang-Maps-How-Swiss-Tables-Replaced-the-Old-Bucket-Design/": {
+      "date": "2026-07-25",
+      "title": "Go 1.24 采用 Swiss Table 设计实现映射"
+    },
+    "https://www.dbos.dev/blog/postgres-listen-notify-scalability": {
+      "date": "2026-07-25",
+      "title": "PostgreSQL LISTEN/NOTIFY 达到每秒 60K 条通知。"
+    },
+    "https://artificialanalysis.ai/models": {
+      "date": "2026-07-25",
+      "title": "Claude Opus 5 在 Artificial Analysis 智能排行榜上排名第一"
+    },
+    "https://www.youtube.com/watch?v=zLZwpH5lCD4": {
+      "date": "2026-07-25",
+      "title": "视频警告不要在软件工程中采用黑药丸心态。"
+    },
+    "https://www.thehindu.com/news/national/government-orders-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns-jack-dorsey/article71262049.ece": {
+      "date": "2026-07-25",
+      "title": "政府命令 GitHub 删除蓝牙聊天应用 Bitchat。"
+    },
+    "https://www.unitree.com/As2-W/": {
+      "date": "2026-07-25",
+      "title": "Unitree 发布轮式腿式机器人 As2-W。"
+    },
+    "https://simonwillison.net/2026/Jul/25/boris-cherny/#atom-everything": {
+      "date": "2026-07-25",
+      "title": "Boris Cherny 称赞 Claude Opus 5 的提示注入抵抗能力。"
+    },
+    "https://www.reddit.com/r/MachineLearning/comments/1v5fxbe/i_built_a_compiler_that_turns_computation_graphs/": {
+      "date": "2026-07-25",
+      "title": "编译器将计算图转换为 Transformer 权重，无需训练"
+    },
+    "https://x.com/emollick/status/2080688546839491031": {
+      "date": "2026-07-25",
+      "title": "研究显示在控制 COVID-19 后，ChatGPT 对大学成绩无影响"
+    },
+    "https://x.com/emollick/status/2080677705045975055": {
+      "date": "2026-07-25",
+      "title": "伊桑·莫利克指出中美分裂加剧开放与封闭 AI 模型争论"
+    },
+    "https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18": {
+      "date": "2026-07-25",
+      "title": "Half-Life 2 在 HaikuOS 上实现原生运行并获得 Nvidia GPU 硬件加速"
+    },
+    "https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/": {
+      "date": "2026-07-25",
+      "title": "伊朗革命卫队称摧毁亚马逊 AWS 巴林数据中心"
+    },
+    "https://ui.gsxhq.dev/": {
+      "date": "2026-07-25",
+      "title": "Gsxui 提供 Shadcn 风格的 Go UI 组件，采用类 JSX 的 GSX 语法"
+    },
+    "https://www.andrewzigler.com/feed/the-case-for-muds-in-modern-times": {
+      "date": "2026-07-25",
+      "title": "文章认为 MUD 在现代仍具学习与社区价值"
+    },
+    "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker": {
+      "date": "2026-07-25",
+      "title": "卫报呼吁对 OpenAI AI 逃出网络说法持怀疑态度"
+    },
+    "https://www.nbcnews.com/tech/tech-news/senate-bill-require-ai-chatbots-disclose-rcna588970": {
+      "date": "2026-07-25",
+      "title": "两党参议员法案要求公司披露 AI 聊天机器人互动"
+    },
+    "https://x.com/emollick/status/2080829512275624173": {
+      "date": "2026-07-25",
+      "title": "伊桑·莫利克指出 Claude 可能已停止显示完整思考痕迹"
+    },
+    "https://x.com/emollick/status/2080731915196194981": {
+      "date": "2026-07-25",
+      "title": "伊桑·莫利克宣布 ARC-AGI-3 基准取得重大进展"
+    },
+    "https://x.com/emollick/status/2080676187752280532": {
+      "date": "2026-07-25",
+      "title": "伊桑·莫利克让 Codex 生成自指 AI 基准论文"
+    },
+    "https://x.com/emollick/status/2080709278441033746": {
+      "date": "2026-07-25",
+      "title": "伊桑·莫利克分享 Opus 5 初体验：短任务表现佳，长任务不足"
+    },
+    "https://x.com/emollick/status/2080535523043451168": {
+      "date": "2026-07-25",
+      "title": "伊桑·莫利克称 GPT-5.x Pro 系列仍是解决难题的最佳模型"
+    },
+    "https://x.com/emollick/status/2080496604830745065": {
+      "date": "2026-07-25",
+      "title": "Ethan Mollick 指出教新手使用如 Codex 之类的 AI 编码工具很困难"
+    },
+    "https://github.com/apresta/max-studio-tools": {
+      "date": "2026-07-25",
+      "title": "Max Studio Tools 发布适用于 Max/MSP 和 Ableton Live 的 C++ DSP 模块。"
+    },
+    "https://www.bruh.ltd/blog/programming-language-file-extensions-that-match-an-iso-3166-1-alpha-2-country-code/": {
+      "date": "2026-07-25",
+      "title": "Programming language file extensions that match ISO 3166-1 alpha-2 country codes"
+    },
+    "http://asa-db.kocoygroup.site/": {
+      "date": "2026-07-25",
+      "title": "用 SWI-Prolog 实现的数据库引擎"
+    },
+    "https://github.com/block/buzz": {
+      "date": "2026-07-25",
+      "title": "Block 的 Buzz Rust 蜂巢通信平台在 24 小时内获得 12 颗星"
+    },
+    "https://x.com/gdb/status/2080494474287780286": {
+      "date": "2026-07-25",
+      "title": "格雷格·布罗克曼宣布数学家雅各布·西默曼加入 OpenAI"
+    },
+    "https://x.com/emollick/status/2080713231937552394": {
+      "date": "2026-07-25",
+      "title": "Opus 5 全面超越 Opus 4.8 但保留 Fable 风格怪癖"
+    },
+    "https://x.com/emollick/status/2080710504461263276": {
+      "date": "2026-07-25",
+      "title": "创意 GLSL 着色器渲染无尽 neo‑gothic 淹没城市"
+    },
+    "https://x.com/emollick/status/2080515937803886872": {
+      "date": "2026-07-25",
+      "title": "伊桑·莫利克称 GPT-5.6 Pro 是最强聊天机器人模型"
+    },
+    "https://x.com/emollick/status/2080503626615714260": {
+      "date": "2026-07-25",
+      "title": "伊桑·莫利克指出 AI 模型难以解释自身推理"
+    },
+    "https://x.com/swyx/status/2080500752183960017": {
+      "date": "2026-07-25",
+      "title": "Swyx 使用自建的具代理功能的 GitHub 克隆版，内置 CI/CD 通过 Cloudflare Workers"
     }
   }
 }
