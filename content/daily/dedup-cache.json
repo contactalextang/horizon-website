@@ -1,105 +1,9 @@
 {
   "version": 1,
   "entries": {
-    "https://www.bbc.com/news/articles/cy4kdd1e0ejo": {
-      "date": "2026-07-18",
-      "title": "首次在宜居带发现类地系外行星 LHS 1140b 的大气"
-    },
-    "https://simonwillison.net/2026/Jul/16/kimi-k3/": {
-      "date": "2026-07-18",
-      "title": "Kimi K3, and what we can still learn from the pelican benchmark"
-    },
-    "https://stateofopensource.ai/": {
-      "date": "2026-07-18",
-      "title": "The state of open source AI"
-    },
-    "https://blog.zksecurity.xyz/posts/openvm-bugs/": {
-      "date": "2026-07-18",
-      "title": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM"
-    },
-    "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876": {
-      "date": "2026-07-18",
-      "title": "EEG 研究显示大脑能同时编码两个语音流"
-    },
-    "https://sofar.belfortlabs.cloud/": {
-      "date": "2026-07-18",
-      "title": "同态加密使 CIFAR-10 推理延迟约 200 毫秒"
-    },
-    "https://mceglowski.substack.com/p/more-bounce-to-the-ounce": {
-      "date": "2026-07-18",
-      "title": "More Bounce to the Ounce"
-    },
-    "https://scotto.me/blog/2026-07-17-which-lisp/": {
-      "date": "2026-07-18",
-      "title": "A Road to Lisp: Which Lisp"
-    },
-    "https://simonwillison.net/2026/Jul/16/firefox-in-webassembly/#atom-everything": {
-      "date": "2026-07-18",
-      "title": "Firefox 通过 WebAssembly 编译并在另一浏览器中运行"
-    },
-    "https://goliath32.com/blog/z80.html": {
-      "date": "2026-07-18",
-      "title": "Zilog Z80 迎来 50 周年"
-    },
-    "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/": {
-      "date": "2026-07-18",
-      "title": "SQLite 实用技巧：.expert 模式与备份策略"
-    },
-    "https://isene.org/2026/07/Frame.html": {
-      "date": "2026-07-18",
-      "title": "Frame 是由 LLM 编写的纯汇编 Linux X 服务器。"
-    },
-    "https://improvesomething.today/responses-to-problems/": {
-      "date": "2026-07-18",
-      "title": "人们应对问题的三种非解决方式"
-    },
-    "https://honeypotlive.cc/": {
-      "date": "2026-07-18",
-      "title": "Show HN：实时仪表板可视化 SSH 蜜罐机器人交互"
-    },
-    "https://repebble.com/blog/pebble-mega-update-july-2026": {
-      "date": "2026-07-18",
-      "title": "Pebble 宣布 2026 年 7 月大更新。"
-    },
-    "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html": {
-      "date": "2026-07-18",
-      "title": "FAA 恢复波音对 737 MAX 和 787 的自行鉴定适航权"
-    },
-    "https://app.everything.diena.co/": {
-      "date": "2026-07-18",
-      "title": "展示 HN 呈现一个 400 万维基百科事件的可缩放时间线。"
-    },
-    "https://news.ycombinator.com/item?id=48949551": {
-      "date": "2026-07-18",
-      "title": "作者感谢 Hacker News 15 年对 Recurse Center 的支持"
-    },
-    "https://workspaces.xyz/": {
-      "date": "2026-07-18",
-      "title": "Hacker News 展示 500+ 位创作者的工作空间及装备报告"
-    },
-    "https://simonwillison.net/2026/Jul/17/llm-cliche-highlighter/#atom-everything": {
-      "date": "2026-07-18",
-      "title": "Simon Willison 发布 LLM 陈词滥调高亮工具"
-    },
-    "https://simonwillison.net/2026/Jul/17/spot-birds-not-golf/#atom-everything": {
-      "date": "2026-07-18",
-      "title": "观鸟而非高尔夫"
-    },
-    "https://github.com/Fei-Away/Codex-Dream-Skin": {
-      "date": "2026-07-18",
-      "title": "Fei-Away 发布 Codex Dream Skin 主题，24 小时内获 30 颗星"
-    },
-    "https://github.com/stablyai/orca": {
-      "date": "2026-07-18",
-      "title": "Orca：基于 TypeScript 的并行编码代理开发环境"
-    },
     "https://github.com/nitrocloudofficial/nitrostack": {
       "date": "2026-07-19",
       "title": "NitroStack：用于 MCP 和 AI 原生应用的 TypeScript 全栈框架"
-    },
-    "https://github.com/emilkowalski/skills": {
-      "date": "2026-07-18",
-      "title": "GitHub 仓库“设计工程师技能”在 24 小时内获得 10 颗星。"
     },
     "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/": {
       "date": "2026-07-19",
@@ -854,8 +758,8 @@
       "title": "Unitree 发布轮式腿式机器人 As2-W。"
     },
     "https://simonwillison.net/2026/Jul/25/boris-cherny/#atom-everything": {
-      "date": "2026-07-25",
-      "title": "Boris Cherny 称赞 Claude Opus 5 的提示注入抵抗能力。"
+      "date": "2026-07-26",
+      "title": "Boris Cherny 表示 Claude Opus 5 最能抵御提示注入"
     },
     "https://www.reddit.com/r/MachineLearning/comments/1v5fxbe/i_built_a_compiler_that_turns_computation_graphs/": {
       "date": "2026-07-25",
@@ -894,8 +798,8 @@
       "title": "两党参议员法案要求公司披露 AI 聊天机器人互动"
     },
     "https://x.com/emollick/status/2080829512275624173": {
-      "date": "2026-07-25",
-      "title": "伊桑·莫利克指出 Claude 可能已停止显示完整思考痕迹"
+      "date": "2026-07-26",
+      "title": "伊桑·莫利克观察到 Claude 可能已停止显示摘要思考痕迹"
     },
     "https://x.com/emollick/status/2080731915196194981": {
       "date": "2026-07-25",
@@ -930,8 +834,8 @@
       "title": "用 SWI-Prolog 实现的数据库引擎"
     },
     "https://github.com/block/buzz": {
-      "date": "2026-07-25",
-      "title": "Block 的 Buzz Rust 蜂巢通信平台在 24 小时内获得 12 颗星"
+      "date": "2026-07-26",
+      "title": "基于 Rust 的蜂巢思维通信平台 block/buzz 获得早期关注"
     },
     "https://x.com/gdb/status/2080494474287780286": {
       "date": "2026-07-25",
@@ -956,6 +860,126 @@
     "https://x.com/swyx/status/2080500752183960017": {
       "date": "2026-07-25",
       "title": "Swyx 使用自建的具代理功能的 GitHub 克隆版，内置 CI/CD 通过 Cloudflare Workers"
+    },
+    "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/": {
+      "date": "2026-07-26",
+      "title": "谷歌可能很快限制设备端 ADB 访问以提升安全"
+    },
+    "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/": {
+      "date": "2026-07-26",
+      "title": "开放权重 AI 模型经历类似 Kubernetes 的转变以实现更广泛的可访问性"
+    },
+    "https://kirwinhampshire.substack.com/p/the-dark-night-of-mathematics": {
+      "date": "2026-07-26",
+      "title": "数学的黑暗之夜"
+    },
+    "https://www.theguardian.com/us-news/ng-interactive/2026/jul/25/flock-surveillance-cameras": {
+      "date": "2026-07-26",
+      "title": "vigilantes 破坏 Flock 监控摄像头 引发隐私争议"
+    },
+    "https://supakeen.com/weblog/the-fedora-45-sausage-factory/": {
+      "date": "2026-07-26",
+      "title": "Fedora 45 发布流程如香肠厂般详解"
+    },
+    "https://blog.adafruit.com/2026/03/05/tiles-security-is-so-bad-its-a-feature-for-stalkers/": {
+      "date": "2026-07-26",
+      "title": "Tile 蓝牙追踪器被发现存在可被用于跟踪的漏洞"
+    },
+    "https://simonwillison.net/2026/Jul/24/introducing-claude-opus-5/#atom-everything": {
+      "date": "2026-07-26",
+      "title": "Anthropic 发布 Claude Opus 5，领先人工智能排行榜且具成本效益"
+    },
+    "https://labs.iximiuz.com/tutorials/c-program-without-main-a1eea557": {
+      "date": "2026-07-26",
+      "title": "编写无 main() 函数的有效 C 程序"
+    },
+    "https://fly.io/blog/kurt-scott-money-sprites/": {
+      "date": "2026-07-26",
+      "title": "Fly.io 首席执行官 Kurt Mackey 宣布辞职"
+    },
+    "https://brolly.sh/forecast/RWFP2qW8": {
+      "date": "2026-07-26",
+      "title": "Show HN: Brolly, a plain-text weather forecast site"
+    },
+    "https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/": {
+      "date": "2026-07-26",
+      "title": "PyTorch Monarch 现已通过 ROCm 支持 AMD GPU"
+    },
+    "https://itsallaboutthebit.com/memory-safety-absolutists/": {
+      "date": "2026-07-26",
+      "title": "对内存安全绝对主义在软件开发中的批判"
+    },
+    "https://www.military.com/americans-political-ideologies-unite-privacy-against-flock-surveillance-cameras": {
+      "date": "2026-07-26",
+      "title": "美国人跨党派反对 Flock AI 监控摄像头。"
+    },
+    "https://www.reddit.com/r/artificial/comments/1v60pga/opus_5s_effort_dial_is_not_monotonic_above_high/": {
+      "date": "2026-07-26",
+      "title": "Opus 5 的努力调节在高设置以上表现出非单调的编码性能"
+    },
+    "https://jonathan-frere.com/posts/reactivity-algorithms/": {
+      "date": "2026-07-26",
+      "title": "探索 UI 框架中的推、拉和混合响应式算法"
+    },
+    "https://x.com/demishassabis/status/2081039623422177765": {
+      "date": "2026-07-26",
+      "title": "Demis Hassabis 呼吁构建强大安全的开放 AI 生态"
+    },
+    "https://x.com/demishassabis/status/2081075346208600103": {
+      "date": "2026-07-26",
+      "title": "Gemma 4 模型下载量突破 3 亿次，全系列累计超过 9 亿次"
+    },
+    "https://www.cltampa.com/news/a-77-year-old-republican-man-is-staging-a-solo-protest-against-st-petes-flock-cameras/": {
+      "date": "2026-07-26",
+      "title": "77 岁共和党人抗议佛罗里达州圣彼得堡的 Flock 车牌识别摄像头"
+    },
+    "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models": {
+      "date": "2026-07-26",
+      "title": "Anthropic 发布 Claude 5 模型的更新后下文工程指南"
+    },
+    "https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/": {
+      "date": "2026-07-26",
+      "title": "风能驱动的氨气示范项目在明尼苏达州莫里斯投入运营"
+    },
+    "https://radicle.network/nodes/rosa.radicle.network/rad%3Az2v9tRJz1oknFAqCSY5W5c76nVvm6": {
+      "date": "2026-07-26",
+      "title": "Bitchat 迁移至 Radicle，在 Fusion Festival 进行测试"
+    },
+    "https://spectrum.ieee.org/sodium-ion-battery-peak-energy": {
+      "date": "2026-07-26",
+      "title": "通用汽车支持钠离子电池用于美国电网储能"
+    },
+    "https://youtu.be/_JGMgpyCTsY": {
+      "date": "2026-07-26",
+      "title": "Sebastian Lague 从三角形渲染到地形和云彩构建自己的图形库"
+    },
+    "https://x.com/gdb/status/2080939030062178512": {
+      "date": "2026-07-26",
+      "title": "格雷格·布罗克曼宣布 ChatGPT 现在可处理需要登录的网站"
+    },
+    "https://x.com/emollick/status/2080876002444496942": {
+      "date": "2026-07-26",
+      "title": "研究者推出 AI 生成的基准 BBBBB，用于评估基准评估指标。"
+    },
+    "https://didtheyghostyou.com/": {
+      "date": "2026-07-26",
+      "title": "Did They Ghost You？网站追踪求职者被招聘方失联经历"
+    },
+    "https://news.ycombinator.com/item?id=49051130": {
+      "date": "2026-07-26",
+      "title": "Show HN：Writemark，一个无依赖的 Web 组件用于内联 Markdown 编辑"
+    },
+    "https://www.phoronix.com/news/Fedora-45-Atomic-Remote-Install": {
+      "date": "2026-07-26",
+      "title": "Fedora 45 Atomic 桌面获得基于 Web 的远程安装功能"
+    },
+    "https://webmars.nfiles.top/": {
+      "date": "2026-07-26",
+      "title": "网页版 Mars MIPS 模拟器新增内置 C 编译器。"
+    },
+    "https://x.com/emollick/status/2081121453353660571": {
+      "date": "2026-07-26",
+      "title": "伊桑·莫利克指出人类进步大部分时间缓慢，仅近两世纪加速"
     }
   }
 }
