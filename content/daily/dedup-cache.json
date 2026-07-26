@@ -1,86 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "https://github.com/nitrocloudofficial/nitrostack": {
-      "date": "2026-07-19",
-      "title": "NitroStack：用于 MCP 和 AI 原生应用的 TypeScript 全栈框架"
-    },
-    "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/": {
-      "date": "2026-07-19",
-      "title": "GPT-5.6 通过提示解决凸优化 30 年悬而未决的问题"
-    },
-    "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent": {
-      "date": "2026-07-19",
-      "title": "LG 显示器通过 Windows Update 静默安装软件，未经用户同意"
-    },
-    "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/": {
-      "date": "2026-07-19",
-      "title": "Kimi K3 蒸馏后成为对标前沿 AI 模型的竞争者"
-    },
-    "https://data.stackexchange.com/stackoverflow/query/1953768#graph": {
-      "date": "2026-07-19",
-      "title": "图表显示 Stack Overflow 活动随着 AI 工具兴起而下降"
-    },
-    "https://queue.acm.org/detail.cfm?id=3818307": {
-      "date": "2026-07-19",
-      "title": "Poul-Henning Kamp 讨论了 bikeshedding 与 MD5crypt。"
-    },
-    "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/": {
-      "date": "2026-07-19",
-      "title": "Fable 5 与 GPT-5.6 Sol 在 NP 难问题上比较 /goal 提示"
-    },
-    "https://maurycyz.com/projects/bad_jpeg/": {
-      "date": "2026-07-19",
-      "title": "逆序 JPEG 实现倒序加载。"
-    },
-    "https://q3edit.com/": {
-      "date": "2026-07-19",
-      "title": "Show HN：Q3Edit – 基于浏览器的 Quake 3 地图编辑器与播放器"
-    },
-    "https://negroniventurestudios.com/2026/07/18/the-computer-at-the-bottom-of-a-canal/": {
-      "date": "2026-07-19",
-      "title": "运河底部的计算机。"
-    },
-    "https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything": {
-      "date": "2026-07-19",
-      "title": "Anthropic 将 Claude Fable 5 永久加入高级套餐，限额减半"
-    },
-    "https://www.benlandautaylor.com/p/if-you-build-it-they-will-come": {
-      "date": "2026-07-19",
-      "title": "社区建设需要主动维护，而非自发形成"
-    },
-    "https://tangled.org/gleam.run/gleam": {
-      "date": "2026-07-19",
-      "title": "Gleam 语言现已在 Tangled 平台上架"
-    },
-    "https://ykdojo.github.io/claude-controls-mac/": {
-      "date": "2026-07-19",
-      "title": "指南：使用闲置 Mac 运行 Claude Code 进行自动化"
-    },
-    "https://deepmind.google/blog/our-approach-to-bioresilience/": {
-      "date": "2026-07-19",
-      "title": "DeepMind 和 Isomorphic Labs 阐释生物韧性方法"
-    },
-    "https://elixir-lang.org/": {
-      "date": "2026-07-19",
-      "title": "Elixir 官方网站全新改版，采用暗色模式并优化导航"
-    },
-    "https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything": {
-      "date": "2026-07-19",
-      "title": "西蒙·威利森发布交互式 SQLite 查询解释器工具"
-    },
-    "https://arxiv.org/abs/2607.14587": {
-      "date": "2026-07-19",
-      "title": "研究论文分析 Qubes OS 安全记录"
-    },
-    "https://haxxorwpm.0s.is/": {
-      "date": "2026-07-19",
-      "title": "面向开发者的打字速度测试工具上线，支持自定义布局"
-    },
-    "https://simonwillison.net/2026/Jul/18/quixote/#atom-everything": {
-      "date": "2026-07-19",
-      "title": "Quixote Python Web 框架在 21 年后收到提交"
-    },
     "https://twitter.com/Alibaba_Qwen/status/2078759124914098291": {
       "date": "2026-07-20",
       "title": "阿里巴巴宣布即将发布 2.4 万亿参数开放权重 LLM Qwen 3.8"
@@ -980,6 +900,130 @@
     "https://x.com/emollick/status/2081121453353660571": {
       "date": "2026-07-26",
       "title": "伊桑·莫利克指出人类进步大部分时间缓慢，仅近两世纪加速"
+    },
+    "https://killthecookiebanner.eu/": {
+      "date": "2026-07-27",
+      "title": "欧盟委员会提出基于浏览器的隐私偏好设置以结束 Cookie 横幅"
+    },
+    "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices": {
+      "date": "2026-07-27",
+      "title": "GrapheneOS 添加自动重启保护以防止锁定设备数据提取"
+    },
+    "https://simonwillison.net/2026/Jul/26/relay-market/#atom-everything": {
+      "date": "2026-07-27",
+      "title": "调查揭露中国代理市场折扣销售 LLM API 访问。"
+    },
+    "https://simonwillison.net/2026/Jul/25/ruff/#atom-everything": {
+      "date": "2026-07-27",
+      "title": "Ruff v0.16.0 将默认规则集从 59 条扩展到 413 条"
+    },
+    "https://i.redd.it/wiyelkfpsifh1.jpeg": {
+      "date": "2026-07-27",
+      "title": "I implemented the YOLO26n model inference from scratch using ARM64 Assembly Language (No framework) (P)"
+    },
+    "https://x.com/sama/status/2081396796174282900": {
+      "date": "2026-07-27",
+      "title": "萨姆·阿尔特曼展示 ChatGPT 规划旅行、构建站点、起草邮件"
+    },
+    "https://davidnicholaswilliams.com/its-not-empowering-to-hand-off-the-details/": {
+      "date": "2026-07-27",
+      "title": "It's not empowering to hand off the details"
+    },
+    "https://stephango.com/design-is-compromise": {
+      "date": "2026-07-27",
+      "title": "设计即妥协：探讨设计决策中的权衡"
+    },
+    "https://pkg.go.dev/golang.org/x/tools/go/analysis": {
+      "date": "2026-07-27",
+      "title": "Go 团队发布模块化静态分析框架用于自定义 linter"
+    },
+    "https://vectoral.com/blog/token-relay-market": {
+      "date": "2026-07-27",
+      "title": "地下中继市场助力云端令牌转售欺诈"
+    },
+    "https://x.com/emollick/status/2081261849543070181": {
+      "date": "2026-07-27",
+      "title": "Fable 发布 AI 生成的印象派城市建造游戏"
+    },
+    "https://beyondloom.com/decker/": {
+      "date": "2026-07-27",
+      "title": "Decker 以 1 位图形和简易脚本复兴 HyperCard"
+    },
+    "https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf": {
+      "date": "2026-07-27",
+      "title": "面向数据设计入门 PDF 发布，附社区讨论"
+    },
+    "https://github.com/gmrandazzo/CheapSecurity": {
+      "date": "2026-07-27",
+      "title": "展示 HN：CheapSecurity – 轻量级自托管 Linux SBC 监控系统"
+    },
+    "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and": {
+      "date": "2026-07-27",
+      "title": "AI 成为专注与执行力的超能力"
+    },
+    "https://grego.site/blog/thinkphone": {
+      "date": "2026-07-27",
+      "title": "ThinkPad T480 被改装为可用的移动电话，利用 WWAN 和 Linux"
+    },
+    "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/": {
+      "date": "2026-07-27",
+      "title": "盖特威克机场推出斯坦利机器人代客泊车服务。"
+    },
+    "https://spectrum.ieee.org/space-debris-atmosphere-burn-up": {
+      "date": "2026-07-27",
+      "title": "等离子隧道揭示死卫星如何坠落地球"
+    },
+    "https://astgrep.com/blog/tree-sitter-rust-rewrite": {
+      "date": "2026-07-27",
+      "title": "AST-grep 用 Rust 重写 Tree-sitter，实现 30% 的性能提升"
+    },
+    "https://www.bbc.com/news/videos/cx2dgyy5lg7o": {
+      "date": "2026-07-27",
+      "title": "男子因 ChatGPT 医疗建议导致健康恶化而提起诉讼。"
+    },
+    "https://deniskyashif.com/2026/07/25/modeling-facts-and-reactions-with-domain-events/": {
+      "date": "2026-07-27",
+      "title": "解释使用领域事件建模事实与反应的方法"
+    },
+    "https://x.com/gdb/status/2081285058485534856": {
+      "date": "2026-07-27",
+      "title": "格雷格·布罗克曼宣布 GPT-Live 提供全新阅读体验"
+    },
+    "https://x.com/emollick/status/2081185596488241507": {
+      "date": "2026-07-27",
+      "title": "伊桑·莫利克称公众对开放权重模型 AGI 风险看法与实验室不同"
+    },
+    "https://swag.htmx.org/en-cad/products/htmx-4-the-game": {
+      "date": "2026-07-27",
+      "title": "Htmx 4.0 发布为 Game Boy 专属的 novelty 库"
+    },
+    "https://sunflowersgame.com/": {
+      "date": "2026-07-27",
+      "title": "展示 HN：反向扫雷——以花卉替代地雷的经典益智游戏"
+    },
+    "https://gracefulliberty.com/articles/teaching-kids-forth/": {
+      "date": "2026-07-27",
+      "title": "教孩子学 Forth：向青少年介绍堆栈语言"
+    },
+    "https://github.com/AARomanov1985/Audio-Cassette-Simulation": {
+      "date": "2026-07-27",
+      "title": "使用 FFmpeg 模拟磁带音频特性，包含哇/flutter、嘶声和饱和"
+    },
+    "https://www.reddit.com/r/artificial/comments/1v6ytlg/i_ran_a_faceless_ai_persona_account_for_six_weeks/": {
+      "date": "2026-07-27",
+      "title": "六周实验测试无脸 AI 人格的被动收入可行性"
+    },
+    "https://www.reddit.com/r/artificial/comments/1v6ptgz/anthropics_opus_5_and_probably_more_recent_ai/": {
+      "date": "2026-07-27",
+      "title": "关于 Anthropic Opus 5 被指审查的主张引发开源 AI 讨论"
+    },
+    "https://x.com/emollick/status/2081475928086003869": {
+      "date": "2026-07-27",
+      "title": "伊桑·莫利克更新 AI 模型使用指南，加入 Opus 5 和 Codex 语音模式"
+    },
+    "https://x.com/emollick/status/2081192945063972882": {
+      "date": "2026-07-27",
+      "title": "伊桑·莫利克称 AI 风险怀疑者认为研究人员散布 FUD 以谋利"
     }
   }
 }
