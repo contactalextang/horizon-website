@@ -56,9 +56,22 @@ export default async function HomePage({ params }: Props) {
           Alex Tang
         </h1>
         <p style={{ fontSize: '15px', color: 'var(--text2)', lineHeight: 1.88, maxWidth: '560px', marginBottom: '28px' }}>
-          {L(
-            '独立开发者，专注用 AI 构建真实产品。新加坡餐饮 SaaS「膳云 MakanCloud」创始人。展开软件定制与 AI 工具建设。',
-            'Indie builder shipping real products with AI. Founder of MakanCloud (Singapore F&B SaaS). Open for custom software & AI tools.'
+          {locale === 'zh' ? (
+            <>
+              独立开发者，专注用 AI 构建真实产品。新加坡餐饮 SaaS「
+              <a href="https://makancloud.com" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--gold)', textDecoration: 'none' }}>
+                膳云 MakanCloud
+              </a>
+              」创始人。展开软件定制与 AI 工具建设。
+            </>
+          ) : (
+            <>
+              Indie builder shipping real products with AI. Founder of{' '}
+              <a href="https://makancloud.com" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--gold)', textDecoration: 'none' }}>
+                MakanCloud
+              </a>
+              {' '}(Singapore F&amp;B SaaS). Open for custom software &amp; AI tools.
+            </>
           )}
         </p>
         <div style={{ display: 'flex', gap: '8px', flexWrap: 'wrap' }}>

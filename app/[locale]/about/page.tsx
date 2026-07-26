@@ -71,9 +71,23 @@ export default async function AboutPage({ params }: Props) {
           {locale === 'zh' ? 'AI · 软件定制 · 投资交流' : 'Building with AI · custom software · investing'}
         </h1>
         <p style={{ fontSize: '14px', color: 'var(--text2)', lineHeight: 1.8, marginTop: '12px' }}>
-          {locale === 'zh'
-            ? '我是一名独立开发者，辞职后全职用 AI 把想法做成真产品。第一个商业项目是膳云 MakanCloud。这里记录我在做的事，也欢迎找我聊软件定制与合作。'
-            : "I'm an indie builder, now full-time shipping real products with AI. My first commercial product is MakanCloud. This site is where I work in public — reach out for custom software or to collaborate."}
+          {locale === 'zh' ? (
+            <>
+              我是一名独立开发者，辞职后全职用 AI 把想法做成真产品。第一个商业项目是
+              <a href="https://makancloud.com" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--gold)', textDecoration: 'none' }}>
+                膳云 MakanCloud
+              </a>
+              。这里记录我在做的事，也欢迎找我聊软件定制与合作。
+            </>
+          ) : (
+            <>
+              I&apos;m an indie builder, now full-time shipping real products with AI. My first commercial product is{' '}
+              <a href="https://makancloud.com" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--gold)', textDecoration: 'none' }}>
+                MakanCloud
+              </a>
+              . This site is where I work in public — reach out for custom software or to collaborate.
+            </>
+          )}
         </p>
       </div>
 
