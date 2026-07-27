@@ -1,86 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "https://twitter.com/Alibaba_Qwen/status/2078759124914098291": {
-      "date": "2026-07-20",
-      "title": "阿里巴巴宣布即将发布 2.4 万亿参数开放权重 LLM Qwen 3.8"
-    },
-    "https://news.ycombinator.com/item?id=48968606": {
-      "date": "2026-07-20",
-      "title": "展示 HN：我用 1600 美元的 ESP32 替换了 12 万美元的保龄球馆计分系统"
-    },
-    "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4": {
-      "date": "2026-07-20",
-      "title": "Minecraft Java Edition 现已采用 SDL3"
-    },
-    "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard": {
-      "date": "2026-07-20",
-      "title": "销售 2500 个 MIDI 录音机表明硬件开发并不难"
-    },
-    "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study": {
-      "date": "2026-07-20",
-      "title": "AI 建议使准确率降低三倍而信心翻倍，研究发现"
-    },
-    "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/#atom-everything": {
-      "date": "2026-07-20",
-      "title": "Claude Code 现采用 Rust 版 Bun，启动速度提升约 10%"
-    },
-    "https://github.com/openai/codex/pull/33972/files": {
-      "date": "2026-07-20",
-      "title": "OpenAI 将 Codex 模型上下文减少至 272k token。"
-    },
-    "https://twitter.com/kimi_moonshot/status/2078855608565207130": {
-      "date": "2026-07-20",
-      "title": "Moonshot AI 暂停 Kimi K3 新订阅。"
-    },
-    "https://www.phoronix.com/news/Last-MPEG-4-Patent-Expired": {
-      "date": "2026-07-20",
-      "title": "最后一个 MPEG-4 视觉专利到期，编解码器成为免版税"
-    },
-    "https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/": {
-      "date": "2026-07-20",
-      "title": "作者分享加入 IndieWeb 的经验与所学"
-    },
-    "https://sgt.hootr.club/blog/home-server-rebirth/": {
-      "date": "2026-07-20",
-      "title": "家庭服务器故障与重建：树莓派 SD 卡问题及社区方案"
-    },
-    "https://videocardz.com/newz/modder-runs-gta-iii-inside-gta-san-andreas-on-an-in-game-tv": {
-      "date": "2026-07-20",
-      "title": "模组制作者在 GTA:圣安地列斯的游戏内电视上运行 GTA III"
-    },
-    "https://www.bbc.com/news/articles/cvg8edqq5g5o": {
-      "date": "2026-07-20",
-      "title": "雷利花园英国香蕉在 15 年后重新萌发"
-    },
-    "https://retrogamecoders.com/c64-basic-dungeon-part8/": {
-      "date": "2026-07-20",
-      "title": "教程：使用 Commodore 64 BASIC 制作哥布林地牢爬行游戏"
-    },
-    "https://www.hmd.com/en_int/hmd-touch-4g": {
-      "date": "2026-07-20",
-      "title": "HMD 发布面向印度市场的预算版 Touch 4G 手机"
-    },
-    "https://simonwillison.net/2026/Jul/19/ai-mania/#atom-everything": {
-      "date": "2026-07-20",
-      "title": "AI 狂热削弱全球决策"
-    },
-    "https://www.eff.org/deeplinks/2026/07/we-want-texans-know-their-rights-qa-mayday-health-impact-surveillance-abortion": {
-      "date": "2026-07-20",
-      "title": "EFF 呼吁德州居民了解健康数据隐私权，应对堕胎相关法律变化"
-    },
-    "https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html": {
-      "date": "2026-07-20",
-      "title": "新款 IA-64 模拟器可在 Itanium 硬件上启动 Windows"
-    },
-    "https://justsomebody.dev/blog/mikrotik-home-router": {
-      "date": "2026-07-20",
-      "title": "HomeLab #1：使用 MikroTik 作为家庭路由器"
-    },
-    "https://www.onepercentbrighter.com/p/natural-experiments-prove-feeding": {
-      "date": "2026-07-20",
-      "title": "自然实验表明浮游植物可去除二氧化碳"
-    },
     "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/": {
       "date": "2026-07-21",
       "title": "黑客据称删除了罗马尼亚的全部土地登记数据库"
@@ -1024,6 +944,134 @@
     "https://x.com/emollick/status/2081192945063972882": {
       "date": "2026-07-27",
       "title": "伊桑·莫利克称 AI 风险怀疑者认为研究人员散布 FUD 以谋利"
+    },
+    "https://gregoryszorc.com/docs/python-build-standalone/main/": {
+      "date": "2026-07-28",
+      "title": "自包含且高度便携的 Python 分发版"
+    },
+    "https://www.techdirt.com/2026/07/27/judge-rejects-googles-attempt-to-dmca-its-way-out-of-being-scraped/": {
+      "date": "2026-07-28",
+      "title": "法院驳回谷歌基于 DMCA 阻止搜索结果抓取的诉讼。"
+    },
+    "https://eaton-works.com/2026/07/27/my-eicher-hack/": {
+      "date": "2026-07-28",
+      "title": "沃尔沃/依维柯 My Eicher 车队平台存在严重漏洞，可完全控制车辆"
+    },
+    "https://huggingface.co/moonshotai/Kimi-K3": {
+      "date": "2026-07-28",
+      "title": "Moonshot AI 发布 3 万亿参数 Kimi-K3 模型于 HuggingFace"
+    },
+    "https://www.reddit.com/r/artificial/comments/1v8aeto/the_worlds_best_mathematician_won_his_prize_this/": {
+      "date": "2026-07-28",
+      "title": "菲尔兹奖得主雅各布·齐默曼加入 OpenAI 安全团队，凸显顶尖数学人才向 AI 转移"
+    },
+    "https://nikolays.github.io/PGSimCity/": {
+      "date": "2026-07-28",
+      "title": "PGSimCity：交互式 SimCity 风格的 PostgreSQL 内部可视化"
+    },
+    "https://usefeyn.com/blog/feynobg/": {
+      "date": "2026-07-28",
+      "title": "Show HN：FeyNoBg – 自动背景移除模型及训练库"
+    },
+    "https://pagedout.institute/download/PagedOut_009.pdf": {
+      "date": "2026-07-28",
+      "title": "Paged Out #9 黑客志愿发布，包含底层编程文章"
+    },
+    "https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/": {
+      "date": "2026-07-28",
+      "title": "团队移除 React.js，采用 HTMX 实现 UI 交互（2023）"
+    },
+    "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/": {
+      "date": "2026-07-28",
+      "title": "微软发布 MAI-Cyber-1-Flash AI 模型，集成于 MDASH 用于威胁检测"
+    },
+    "https://github.com/libsm64/libsm64": {
+      "date": "2026-07-28",
+      "title": "Libsm64 将超级马里奥 64 打包为可在外部游戏引擎中使用的库"
+    },
+    "https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/": {
+      "date": "2026-07-28",
+      "title": "警察数据库查询中缺失下划线导致无辜男子被错误监禁 18 个月"
+    },
+    "https://x.com/AndrewYNg/status/2081787106062746002": {
+      "date": "2026-07-28",
+      "title": "安德鲁·恩格称赞英伟达开源模型 AI 安全信，驳斥封闭模型更安全论"
+    },
+    "https://x.com/emollick/status/2081801855860883634": {
+      "date": "2026-07-28",
+      "title": "伊桑·莫利克看顶级开放权重 AI 模型权重。"
+    },
+    "https://x.com/emollick/status/2081586847327588465": {
+      "date": "2026-07-28",
+      "title": "伊桑·莫利克称科幻未预见今日 AI 语言模型"
+    },
+    "https://www.rise-reforming.com/": {
+      "date": "2026-07-28",
+      "title": "Rise Reforming 推出模块化沼气转化化学品平台"
+    },
+    "https://code.videolan.org/videolan/vlc-unity": {
+      "date": "2026-07-28",
+      "title": "VLC for Unity 现在支持 Linux 并提供硬件解码"
+    },
+    "https://en.andros.dev/blog/d7ed8b07/modern-email-can-be-built-from-borrowed-parts/": {
+      "date": "2026-07-28",
+      "title": "现代电子邮件可由现有可复用组件组装"
+    },
+    "https://animationobsessive.substack.com/p/the-artist-who-colored-ghibli": {
+      "date": "2026-07-28",
+      "title": "探索吉卜力着色艺术家的遗产"
+    },
+    "https://pranitha.dev/posts/tokio-gives-progress-not-ordering/": {
+      "date": "2026-07-28",
+      "title": "Tokio 调度器保证进度但不保证任务顺序"
+    },
+    "https://x.com/emollick/status/2081562248246415752": {
+      "date": "2026-07-28",
+      "title": "Fable AI 根据 Ethan Mollick 的概念创建可玩的 Piranesi 风格城市建造游戏"
+    },
+    "https://x.com/emollick/status/2081603003866329496": {
+      "date": "2026-07-28",
+      "title": "伊桑·莫利克呼吁开发者使用 Codex 和 Claude Code 创建独特可玩演示"
+    },
+    "https://x.com/swyx/status/2081784874994942271": {
+      "date": "2026-07-28",
+      "title": "Latent Space 播客超越顶级节目，扩编招聘与赞助。"
+    },
+    "https://simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff/#atom-everything": {
+      "date": "2026-07-28",
+      "title": "关于哪些 AI 适合做事情的有见解的指南"
+    },
+    "https://www.theverge.com/games/967174/steam-game-malware-cryptostealer-arrest": {
+      "date": "2026-07-28",
+      "title": "比特币、谷歌 Cookie 和 Uber Eats 订单帮助定位 Steam 恶意软件制造者"
+    },
+    "https://xkcd.com/3277/": {
+      "date": "2026-07-28",
+      "title": "XKCD 第 3277 期漫画幽默解读 Forth 语言"
+    },
+    "https://tidefield.dev/bytecode-to-source-mapping/": {
+      "date": "2026-07-28",
+      "title": "字节码到源码映射的调试解释"
+    },
+    "https://arxiv.org/abs/math/0411418": {
+      "date": "2026-07-28",
+      "title": "2004 年 arXiv 论文探讨实数的哲学基础"
+    },
+    "https://x.com/sama/status/2081513071135346814": {
+      "date": "2026-07-28",
+      "title": "山姆·奥尔特曼呼吁新型计算机"
+    },
+    "https://x.com/emollick/status/2081535478512103716": {
+      "date": "2026-07-28",
+      "title": "伊森·莫利克将组织比作行星级超智能"
+    },
+    "https://x.com/emollick/status/2081587293878403448": {
+      "date": "2026-07-28",
+      "title": "伊森·莫利克指出科幻未能额莫利克指出科幻未能预测真实超智能技术"
+    },
+    "https://x.com/swyx/status/2081799957607305496": {
+      "date": "2026-07-28",
+      "title": "演讲四天突破 10 万次观看，无需炒作"
     }
   }
 }
