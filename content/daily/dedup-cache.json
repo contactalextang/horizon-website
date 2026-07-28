@@ -1,118 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/": {
-      "date": "2026-07-21",
-      "title": "黑客据称删除了罗马尼亚的全部土地登记数据库"
-    },
-    "https://unslop.run/blog/measuring-ai-writing-on-arxiv": {
-      "date": "2026-07-21",
-      "title": "通过测量 arXiv 上的 AI 撰写论文，发现整体比例升至 39%，计算机科学领域达 65%（2026 年）"
-    },
-    "https://spectrum.ieee.org/led-light-pollution": {
-      "date": "2026-07-21",
-      "title": "LEDs’ potential to save our night skies"
-    },
-    "https://www.emergingtrajectories.com/lh/frontier-lab-economics/": {
-      "date": "2026-07-21",
-      "title": "Kimi K3 与 Qwen 3.8 发布，伴随开放权重趋势及 Anthropic 争议"
-    },
-    "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/": {
-      "date": "2026-07-21",
-      "title": "中国开放权重 AI 战略胜过美国专有模型"
-    },
-    "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/": {
-      "date": "2026-07-21",
-      "title": "人类数学家正被 AI 反例击败"
-    },
-    "https://cursor.com/blog/agent-swarm-model-economics": {
-      "date": "2026-07-21",
-      "title": "Cursor 推出高吞吐量版本控制系统以支持大规模 AI 智能体群"
-    },
-    "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/": {
-      "date": "2026-07-21",
-      "title": "作者称通过 GPT-5.6 低成本发现 WordPress RCE，引发漏洞市场争论"
-    },
-    "https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models/#atom-everything": {
-      "date": "2026-07-21",
-      "title": "本·汤普森提议美国立法允许数据抓取并禁止限制模型蒸馏的条款"
-    },
-    "https://dl.acm.org/doi/10.1145/3800646.3800650": {
-      "date": "2026-07-21",
-      "title": "研究人员识别出软件交付低效率的根本原因。"
-    },
-    "https://github.com/astral-sh/uv/releases/tag/0.11.30": {
-      "date": "2026-07-21",
-      "title": "uv 0.11.30 添加 CPython 3.15 测试版支持、预览工作区功能及性能优化"
-    },
-    "https://jelly-ui.com/": {
-      "date": "2026-07-21",
-      "title": "Jelly UI 为原生 HTML 表单控件引入软体物理效果"
-    },
-    "https://blaizzy.github.io/nativ/": {
-      "date": "2026-07-21",
-      "title": "Nativ: Run frontier open models locally on your Mac"
-    },
-    "https://airport.apunen.com/": {
-      "date": "2026-07-21",
-      "title": "基于网页的机场空中交通管制模拟器在 Hacker News 上受到关注"
-    },
-    "https://nothings.org/gamedev/ssao/": {
-      "date": "2026-07-21",
-      "title": "Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion (2012)"
-    },
-    "https://var0.xyz/posts/perfection-is-not-over-engineering.html": {
-      "date": "2026-07-21",
-      "title": "完美不是过度设计：挑战软件中的‘足够好’心态"
-    },
-    "https://hypr.land/news/update55/": {
-      "date": "2026-07-21",
-      "title": "Hyprland 0.55 将配置切换为 Lua 脚本。"
-    },
-    "https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/": {
-      "date": "2026-07-21",
-      "title": "交互式 Three.js 演示可视化新宿站内部"
-    },
-    "https://www.newyorker.com/culture/the-weekend-essay/the-voice-of-google": {
-      "date": "2026-07-21",
-      "title": "《纽约客》文章审视谷歌文化变迁与异议消失"
-    },
-    "https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/#atom-everything": {
-      "date": "2026-07-21",
-      "title": "AI 编码代理让家居设备逆向工程变得便宜且易于维护"
-    },
-    "https://simonwillison.net/2026/Jul/20/sam-altman/#atom-everything": {
-      "date": "2026-07-21",
-      "title": "OpenAI 曾考虑发布可本地运行的 GPT-3 级模型以对抗竞争者"
-    },
-    "https://www.kimi.com/products/kimi-work": {
-      "date": "2026-07-21",
-      "title": "Kimi Work 推出低成本本地 AI 代理，替代 Claude/Codex"
-    },
-    "https://www.youtube.com/watch?v=NwhVJ7cv9B4": {
-      "date": "2026-07-21",
-      "title": "用飞秒激光在电子显微镜中对昆虫进行横截面切片(视频)"
-    },
-    "https://numerlab.org/2025/07/20/bashumerate-enumerator/": {
-      "date": "2026-07-21",
-      "title": "作者发布 Bash 枚举器工具以替代 xargs"
-    },
-    "https://vincentwoo.com/3d/grace_cathedral/": {
-      "date": "2026-07-21",
-      "title": "沉浸式高斯溅射格雷斯大教堂 3D 游览已发布。"
-    },
-    "https://www.scottrlarson.com/presentations/overcoming-surveillance-capitalism-with-awareness/": {
-      "date": "2026-07-21",
-      "title": "觉察的力量：克服监视资本主义"
-    },
-    "https://news.ycombinator.com/item?id=48981136": {
-      "date": "2026-07-21",
-      "title": "Bloomy 推出 AI 驱动的 K-12 精通学习平台"
-    },
-    "https://www.nycsubway.org/wiki/Subway_Signals%3A_A_Complete_Guide": {
-      "date": "2026-07-21",
-      "title": "纽约地铁信号系统：完整指南（2012）"
-    },
     "https://openai.com/index/hugging-face-model-evaluation-security-incident/": {
       "date": "2026-07-22",
       "title": "OpenAI 和 Hugging Face 披露由模型在评估期间引发的安全漏洞"
@@ -1072,6 +960,118 @@
     "https://x.com/swyx/status/2081799957607305496": {
       "date": "2026-07-28",
       "title": "演讲四天突破 10 万次观看，无需炒作"
+    },
+    "https://blog.modelcontextprotocol.io/posts/2026-07-28/": {
+      "date": "2026-07-29",
+      "title": "MCP 规范更新引入无状态传输以简化部署"
+    },
+    "https://simonwillison.net/2026/Jul/27/kimi-k3/#atom-everything": {
+      "date": "2026-07-29",
+      "title": "Moonshot 发布 2.8 万亿参数的 Kimi K3 模型，并修改了许可证。"
+    },
+    "https://sbcl.org/all-news.html?2.6.7": {
+      "date": "2026-07-29",
+      "title": "SBCL 2.6.7 发布，支持 ARM64 SIMD 和 AVX-512。"
+    },
+    "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html": {
+      "date": "2026-07-29",
+      "title": "Kimi K3 架构概述与笔记"
+    },
+    "https://mlugg.co.uk/posts/incremental-compilation-internals/": {
+      "date": "2026-07-29",
+      "title": "Zig 增量编译内部机制详解"
+    },
+    "https://www.anthropic.com/research/discovering-cryptographic-weaknesses": {
+      "date": "2026-07-29",
+      "title": "Anthropic 的 Claude AI 发现 HAWK 和 AES 的新型密码攻击"
+    },
+    "https://naveensrinivasan.com/posts/2026-07-22-how-do-i-profile-ebpf-code/": {
+      "date": "2026-07-29",
+      "title": "关于 eBPF 代码分析的指南及社区工具推荐"
+    },
+    "https://github.com/reflex-dev/xy": {
+      "date": "2026-07-29",
+      "title": "Show HN：XY – 快速、可组合、GPU 加速的交互式绘图库"
+    },
+    "https://arxiv.org/abs/2510.26692": {
+      "date": "2026-07-29",
+      "title": "Kimi Linear：表达性高效混合注意力架构（2025）"
+    },
+    "https://simonwillison.net/2026/Jul/28/akshat-bubna/#atom-everything": {
+      "date": "2026-07-29",
+      "title": "Modal CTO 确认恶意 AI 代理利用未授权端点执行代码"
+    },
+    "https://simonwillison.net/2026/Jul/28/anatomy-of-a-frontier-lab-agent-intrusion/#atom-everything": {
+      "date": "2026-07-29",
+      "title": "技术时间线详细描述了 2026 年 7 月前沿实验室 AI 代理入侵事件。"
+    },
+    "https://github.com/anthropics/cryptography-research-demo": {
+      "date": "2026-07-29",
+      "title": "Anthropic 发布 HAWK-256 的实用密钥恢复攻击"
+    },
+    "https://github.com/astral-sh/uv/releases/tag/0.12.0": {
+      "date": "2026-07-29",
+      "title": "Astral 发布 uv 0.12.0，提升正确性并默认声明构建系统"
+    },
+    "https://github.com/openai/codex-security": {
+      "date": "2026-07-29",
+      "title": "OpenAI just open-sourced Codex Security"
+    },
+    "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/": {
+      "date": "2026-07-29",
+      "title": "Substack 作者被呼吁维护个人网站以保持控制"
+    },
+    "https://arxiv.org/abs/1202.4212": {
+      "date": "2026-07-29",
+      "title": "2012 年 arXiv 论文提出音乐和声的数学框架"
+    },
+    "https://anthropeum.com/": {
+      "date": "2026-07-29",
+      "title": "Anthropeum 推出每日文物猜谜游戏以教授人类学"
+    },
+    "https://mac-classic.com/news/half-life-ported-to-mac-os-9/": {
+      "date": "2026-07-29",
+      "title": "Half-Life 成功移植至 Mac OS 9"
+    },
+    "https://www.apple.com/shop/iphone/iphone-upgrade-program": {
+      "date": "2026-07-29",
+      "title": "苹果用 Apple Upgrade 租赁服务取代 iPhone 升级计划"
+    },
+    "https://www.slow-journalism.com/": {
+      "date": "2026-07-29",
+      "title": "黑客新闻赞赏慢新闻作为快速新闻周期的解药"
+    },
+    "https://unawatch.com/": {
+      "date": "2026-07-29",
+      "title": "Una GPS 智能手表推出可维修、USB-C 充电、开发者友好的开放替代品"
+    },
+    "https://github.com/gavamedia/deltafin": {
+      "date": "2026-07-29",
+      "title": "在 M1 Max 上运行 Kimi K3"
+    },
+    "https://blog.gaborkoos.com/posts/2026-05-09-Your-Recursion-Is-Lying-to-You/": {
+      "date": "2026-07-29",
+      "title": "递归在欺骗你"
+    },
+    "https://www.w3.org/blog/2026/woff-1-0-a-milestone-on-w3cs-journey-of-fonts-on-the-web/": {
+      "date": "2026-07-29",
+      "title": "W3C 回顾 WOFF 1.0 作为网络字体里程碑"
+    },
+    "https://github.com/astral-sh/uv/releases/tag/0.11.33": {
+      "date": "2026-07-29",
+      "title": "uv 0.11.33 发布，带来更小的二进制文件和 Pyodide .tar.gz 支持。"
+    },
+    "https://www.interviewquery.com/p/tech-interview-offer-rates-lowest-12-years": {
+      "date": "2026-07-29",
+      "title": "技术岗位 offer 率从 51%降至 39%，创十年新低"
+    },
+    "https://www.pacingthefrontier.com/": {
+      "date": "2026-07-29",
+      "title": "文章探讨如何在 AI 安全和有效利他主义中优先推进工作"
+    },
+    "https://github.com/ghaziwali/Hulios": {
+      "date": "2026-07-29",
+      "title": "Hulios：基于 eBPF 的 Linux 透明 Tor 网关"
     }
   }
 }

@@ -2,6 +2,12 @@
   "_note": "由 scripts/sync-makancloud-whatsnew.mjs 从 膳云/CLAUDE.md changelog 自动维护；新版本会被追加（en 可能为空，待补译）。",
   "items": [
     {
+      "version": "扫码自助点餐",
+      "date": "2026-07-28",
+      "zh": "共享购物车 + 分账付款 + 已付款单按人可见",
+      "en": ""
+    },
+    {
       "version": "",
       "date": "2026-07-23",
       "zh": "营销站视觉重做",
@@ -66,12 +72,6 @@
       "date": "2026-06-11",
       "zh": "品牌更名 DineCloud → MakanCloud；上线多域名架构（平台域 + 租户子域 + 自定义域）。",
       "en": "Rebranded DineCloud → MakanCloud; shipped multi-domain architecture (platform + tenant subdomains + custom domains)."
-    },
-    {
-      "version": "Sprint 8",
-      "date": "2026-06-10",
-      "zh": "Stripe 订阅计费上线（4 套餐，Checkout 端到端测试通过）；平台/租户管理分离。",
-      "en": "Stripe subscription billing live (4 plans, Checkout e2e tested); platform/tenant admin separation."
     }
   ]
 }
