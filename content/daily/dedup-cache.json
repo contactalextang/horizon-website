@@ -1,190 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "https://mitchellh.com/writing/everyone-should-know-simd": {
-      "date": "2026-07-24",
-      "title": "人人都应了解 SIMD：易懂入门及库使用建议"
-    },
-    "https://www.mathunion.org/imu-awards/fields-medal/fields-medals-2026": {
-      "date": "2026-07-24",
-      "title": "2026 年菲尔兹奖得主宣布，表彰在调和分析与几何测度论的进展"
-    },
-    "https://www.science.org/content/article/exclusive-death-girl-chinese-gene-editing-trial-was-never-made-public": {
-      "date": "2026-07-24",
-      "title": "Couple pay >$800k for a gene-editing therapy for their daughter. She died."
-    },
-    "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992": {
-      "date": "2026-07-24",
-      "title": "初创公司创始人呼吁美国政府保持中国开放权重 AI 可访问"
-    },
-    "https://haqr.eu/tinyrenderer/": {
-      "date": "2026-07-24",
-      "title": "仅用 500 行纯 C++ 实现软件渲染的教程"
-    },
-    "https://pme.uchicago.edu/news-events/news/cleaner-route-purifying-rare-earth-elements": {
-      "date": "2026-07-24",
-      "title": "固态原子通道分离稀土离子。"
-    },
-    "https://learnopengl.com/": {
-      "date": "2026-07-24",
-      "title": "LearnOpenGL.com 提供免费的 Modern OpenGL 教程系列"
-    },
-    "https://github.com/palmier-io/palmier-pro": {
-      "date": "2026-07-24",
-      "title": "Palmier Pro：开源 macOS 视频编辑器，集成 AI 与本地 MCP 服务器"
-    },
-    "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16": {
-      "date": "2026-07-24",
-      "title": "DARPA 和美国空军试飞 AI 控制的 F-16 战机"
-    },
-    "https://simonwillison.net/2026/Jul/22/openai-cyberattack/#atom-everything": {
-      "date": "2026-07-24",
-      "title": "OpenAI 测试模型逃出沙箱，黑客入侵 Hugging Face 以作弊安全基准"
-    },
-    "https://simonwillison.net/2026/Jul/23/seth-larson/#atom-everything": {
-      "date": "2026-07-24",
-      "title": "PyPI 禁止上传超过 14 天旧版本的文件以防供应链攻击"
-    },
-    "https://x.com/AndrewYNg/status/2080333504446108104": {
-      "date": "2026-07-24",
-      "title": "Andrew Ng 宣布 OpenWorker，开源隐私保护型 AI 代理"
-    },
-    "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your": {
-      "date": "2026-07-24",
-      "title": "手写提升大脑活动和学习"
-    },
-    "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all": {
-      "date": "2026-07-24",
-      "title": "TheNumbers.com 因机器人流量和抓取问题而离线"
-    },
-    "https://lukekanies.com/writing/building-on-atproto/": {
-      "date": "2026-07-24",
-      "title": "在 ATProto 协议上构建应用的经验与教训"
-    },
-    "https://www.eso.org/public/news/eso2610/": {
-      "date": "2026-07-24",
-      "title": "天文学家报告首颗围绕棕矮星的系外卫星候选发现"
-    },
-    "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/": {
-      "date": "2026-07-24",
-      "title": "文章驳斥对开源 AI 的常见批评"
-    },
-    "https://eliemichel.github.io/LearnWebGPU/": {
-      "date": "2026-07-24",
-      "title": "Learn WebGPU for C++ 教程现已发布。"
-    },
-    "https://openjdk.org/jeps/540": {
-      "date": "2026-07-24",
-      "title": "JEP 540 推出 Simple JSON API 孵化器版本"
-    },
-    "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet": {
-      "date": "2026-07-24",
-      "title": "AI 公司被指通过表外融资隐藏巨额债务"
-    },
-    "https://en.andros.dev/blog/06bfd107/emacs-is-a-lispboard/": {
-      "date": "2026-07-24",
-      "title": "Emacs 是现代 Lispboard：可扩展编辑器如 Lisp 机器"
-    },
-    "https://github.com/onecli/onecli": {
-      "date": "2026-07-24",
-      "title": "展示 HN：OneCLI – AI 代理的开源凭证网关"
-    },
-    "https://simonwillison.net/2026/Jul/22/thomas-ptacek/#atom-everything": {
-      "date": "2026-07-24",
-      "title": "托马斯·普塔克警告：2025 年开放权重模型可能逃逸沙箱并入侵网络。"
-    },
-    "https://www.geekbench.com/blog/2026/07/geekbench-7/": {
-      "date": "2026-07-24",
-      "title": "Geekbench 7 发布，包含更新的 CPU 和 GPU 工作负载"
-    },
-    "https://www.reddit.com/r/MachineLearning/comments/1v4j1uk/prompt_injection_in_neurips_2026_d/": {
-      "date": "2026-07-24",
-      "title": "有人指控 NeurIPS 2026 在 PDF 中植入提示注入以捕捉 LLM 生成的评审"
-    },
-    "https://x.com/_akhaliq/status/2080289833663029295": {
-      "date": "2026-07-24",
-      "title": "DeepSeek-V4 在华为昇腾 SuperPOD 上的全参数后训练"
-    },
-    "https://x.com/simonw/status/2080315993101115485": {
-      "date": "2026-07-24",
-      "title": "ChatGPT 工作模式可在 Cloudflare Workers 上部署带 SQLite 的公开网站。"
-    },
-    "https://x.com/simonw/status/2080102848050933904": {
-      "date": "2026-07-24",
-      "title": "Simon Willison 称大模型如今可原生处理长任务，循环已过时"
-    },
-    "https://x.com/simonw/status/2080080034866610598": {
-      "date": "2026-07-24",
-      "title": "Simon Willison 呼吁 AI 怀疑者承认前沿模型能真实发现漏洞"
-    },
-    "https://x.com/emollick/status/2080064607138283742": {
-      "date": "2026-07-24",
-      "title": "AI 在 MBA 案例研究中表现出色，进步迅速。"
-    },
-    "https://x.com/swyx/status/2080387171723137440": {
-      "date": "2026-07-24",
-      "title": "Swyx 强调 PoolsideAI 在模型发布与评估中的开放性"
-    },
-    "https://simonwillison.net/2026/Jul/22/are-ai-labs-pelicanmaxxing/#atom-everything": {
-      "date": "2026-07-24",
-      "title": "Are AI labs pelicanmaxxing?"
-    },
-    "https://blog.google/innovation-and-ai/technology/safety-security/selfie-video-sign-in/": {
-      "date": "2026-07-24",
-      "title": "谷歌推出自拍视频登录以简化账户恢复。"
-    },
-    "https://www.reddit.com/r/artificial/comments/1v4aw17/i_used_to_be_proud_of_these_skills_now_ai_agents/": {
-      "date": "2026-07-24",
-      "title": "开发者称 AI 代理已超越传统编程技能"
-    },
-    "https://github.com/baidu/Unlimited-OCR": {
-      "date": "2026-07-24",
-      "title": "百度发布 Unlimited-OCR，采用一步长视野解析"
-    },
-    "https://github.com/diegosouzapw/OmniRoute": {
-      "date": "2026-07-24",
-      "title": "OmniRoute：TypeScript AI 网关统一 160+ LLM 提供商，带 token 压缩"
-    },
-    "https://x.com/demishassabis/status/2080332282028507234": {
-      "date": "2026-07-24",
-      "title": "德米斯·哈萨比斯祝贺英国新任 AI 部长"
-    },
-    "https://x.com/_akhaliq/status/2080288883531518092": {
-      "date": "2026-07-24",
-      "title": "开放权重语言模型引导材料科学机制表示"
-    },
-    "https://x.com/emollick/status/2080354942645117116": {
-      "date": "2026-07-24",
-      "title": "伊桑·莫利克发布面向非专家的 AI 工具指南"
-    },
-    "https://x.com/emollick/status/2080092920929988952": {
-      "date": "2026-07-24",
-      "title": "伊桑·莫利克在 X 上分享 AI 教育资源链接"
-    },
-    "https://news.ycombinator.com/item?id=49024620": {
-      "date": "2026-07-24",
-      "title": "Screenpipe 发布：YC 支持的屏幕录像工具，用于 AI 代理记忆"
-    },
-    "https://www.reddit.com/r/MachineLearning/comments/1v4c6ag/did_neurips_reviews_come_out_openreview_isnt/": {
-      "date": "2026-07-24",
-      "title": "NeurIPS 2024 评审延迟，OpenReview 出现加载问题"
-    },
-    "https://x.com/gdb/status/2080149982359831017": {
-      "date": "2026-07-24",
-      "title": "OpenAI 的 Greg Brockman 推荐 Codex 安全插件用于网络防御"
-    },
-    "https://x.com/_akhaliq/status/2080363934289191156": {
-      "date": "2026-07-24",
-      "title": "Apple-π 基准通过物理定律评估视频模型的思考能力"
-    },
-    "https://x.com/simonw/status/2080080861278715931": {
-      "date": "2026-07-24",
-      "title": "Simon Willison 转述 Thomas 认为 frontier model 可能不必需"
-    },
-    "https://x.com/emollick/status/2080178812667543560": {
-      "date": "2026-07-24",
-      "title": "伊桑·莫利克希望得到未解数学问题清单，以应对证明激增"
-    },
     "https://www.anthropic.com/news/claude-opus-5": {
       "date": "2026-07-25",
       "title": "Anthropic 发布 Claude Opus 5 大语言模型，性能提升且无数据保留"
@@ -1016,6 +832,102 @@
     "https://github.com/virgiliojr94/book-to-skill": {
       "date": "2026-07-31",
       "title": "Python 工具将技术 PDF 转换为 Claude Code 技能"
+    },
+    "https://john.fun/elevators": {
+      "date": "2026-08-01",
+      "title": "交互式电梯算法可视化引发计算机科学讨论"
+    },
+    "https://github.com/golang/go/issues/80590": {
+      "date": "2026-08-01",
+      "title": "Go 团队提议为 container 包添加泛型 Set 和 OrderedMap"
+    },
+    "https://artificialanalysis.ai/models/deepseek-v4-flash": {
+      "date": "2026-08-01",
+      "title": "DeepSeek V4 Flash 0731 发布：性能强劲、成本低廉，Pro 版即将到来"
+    },
+    "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/": {
+      "date": "2026-08-01",
+      "title": "指南展示如何通过 Thunderbolt 为 Mac Studio 添加 25 Gbps 以太网"
+    },
+    "https://semyonsinchenko.github.io/ssinchenko/post/datafusion-graphs-cc-2/": {
+      "date": "2026-08-01",
+      "title": "DataFusion 在 modeste RAM 上运行十亿规模图算法"
+    },
+    "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/": {
+      "date": "2026-08-01",
+      "title": "专家们争论 AI 是否真正推理还是仅仅模仿模式。"
+    },
+    "https://simonwillison.net/2026/Jul/31/oxide-and-friends/#atom-everything": {
+      "date": "2026-08-01",
+      "title": "西蒙·威利森在 Oxide and Friends 播客中讨论开放权重革命"
+    },
+    "https://simonwillison.net/2026/Jul/30/three-real-world-incidents/#atom-everything": {
+      "date": "2026-08-01",
+      "title": "Anthropic 披露三起 AI 评估中沙箱逃逸事件"
+    },
+    "https://tailscale.com/blog/hugging-face-intrusion": {
+      "date": "2026-08-01",
+      "title": "Tailscale 博客揭露 Hugging Face 因泄漏的认证密钥导致入侵"
+    },
+    "https://github.com/yc-software/qm": {
+      "date": "2026-08-01",
+      "title": "YC 支持的 QM 推出多智能体协作编程 harness"
+    },
+    "https://www.theexamination.org/articles/red-bull-funded-research-energy-drinks-alcohol": {
+      "date": "2026-08-01",
+      "title": "红牛资助的研究影响能量饮料政策，引发偏见担忧"
+    },
+    "https://manifest.build/blog/why-we-deprecated-our-llm-router/": {
+      "date": "2026-08-01",
+      "title": "团队在发现路由器无效后将其弃用"
+    },
+    "https://simonwillison.net/2026/Jul/30/luna-price-drop/#atom-everything": {
+      "date": "2026-08-01",
+      "title": "OpenAI 降低 GPT-5.6 Terra 和 Luna 价格 分别降幅 20% 和 80%"
+    },
+    "https://arxiv.org/abs/2607.28233": {
+      "date": "2026-08-01",
+      "title": "揭秘 DRAM 读取扰动：RowHammer 和 RowPress 现象"
+    },
+    "https://arxiv.org/abs/2607.28545": {
+      "date": "2026-08-01",
+      "title": "Orca-Bench 评估语言模型代理在故障响应中的能力。"
+    },
+    "https://servo.org/blog/2026/07/31/june-in-servo/": {
+      "date": "2026-08-01",
+      "title": "Servo 2026 年 6 月更新提升网页兼容性、媒体查询和 SharedWorker"
+    },
+    "https://signoregalilei.com/2026/07/26/the-most-official-water-costs-120000-a-gallon/": {
+      "date": "2026-08-01",
+      "title": "VSMOW 官方水标准每加仑售价 12 万美元"
+    },
+    "https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner": {
+      "date": "2026-08-01",
+      "title": "铁路轨道被改造成大型平板扫描仪"
+    },
+    "https://github.com/l00sed/termixer": {
+      "date": "2026-08-01",
+      "title": "Termixer：基于终端的 TUI DJ 混音器，使用 Rust 构建"
+    },
+    "https://github.com/astral-sh/uv/releases/tag/0.12.1": {
+      "date": "2026-08-01",
+      "title": "uv 0.12.1 发布，新增包特定预发布策略和本地 HTML 索引支持"
+    },
+    "https://lcamtuf.substack.com/p/severance": {
+      "date": "2026-08-01",
+      "title": "讽刺 Substack 文章批判企业裁员与遣赔荒唐性"
+    },
+    "https://simonwillison.net/2026/Jul/31/smevals/#atom-everything": {
+      "date": "2026-08-01",
+      "title": "smevals：轻量级 AI 模型、提示和 harness 评估套件"
+    },
+    "https://simonwillison.net/2026/Jul/30/llm-rc2/#atom-everything": {
+      "date": "2026-08-01",
+      "title": "llm 0.32rc2 发布：修复依赖并将默认模型改为 GPT-5.6 Luna"
+    },
+    "https://jwlabs.vercel.app/post/biting-the-bullet": {
+      "date": "2026-08-01",
+      "title": "预测性推测 KV 复制降低突发 LLM 推理延迟"
     }
   }
 }
