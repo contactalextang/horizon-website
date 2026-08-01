@@ -1,165 +1,17 @@
 {
   "version": 1,
   "entries": {
-    "https://www.anthropic.com/news/claude-opus-5": {
-      "date": "2026-07-25",
-      "title": "Anthropic 发布 Claude Opus 5 大语言模型，性能提升且无数据保留"
-    },
-    "https://hhh.hn/hanwha-github-token/": {
-      "date": "2026-07-25",
-      "title": "韩华摄像头通过登录页泄露 GitHub 管理员令牌。"
-    },
-    "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/": {
-      "date": "2026-07-25",
-      "title": "尽管编码实践进步，软件质量为何仍在下降？"
-    },
-    "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html": {
-      "date": "2026-07-25",
-      "title": "英伟达、微软、Meta 警告不要过度监管开放权重 AI 模型"
-    },
-    "https://ziggit.dev/t/buz-a-drop-in-replacement-for-bun-using-modern-zig-with-sub-1s-incremental-builds/16891": {
-      "date": "2026-07-25",
-      "title": "Buz：使用 Zig 的 Bun 分支实现亚秒增量构建"
-    },
-    "https://www.statnews.com/2026/07/24/science-new-golden-age-report-draws-mixed-reaction/": {
-      "date": "2026-07-25",
-      "title": "白宫提出将数十亿美元从生命科学转向 AI 科技公司资金"
-    },
-    "https://www.reddit.com/r/artificial/comments/1v5b04p/users_tried_to_object_to_their_chatgpt_logs_being/": {
-      "date": "2026-07-25",
-      "title": "法院裁定 ChatGPT 用户是自身对话的‘非当事人’"
-    },
-    "https://www.scientificamerican.com/article/china-kimi-k3-and-the-rise-of-open-weight-ai-models/": {
-      "date": "2026-07-25",
-      "title": "中国的开放权重 AI 策略正在改变竞争格局"
-    },
-    "https://blog.gaborkoos.com/posts/2026-07-24-Golang-Maps-How-Swiss-Tables-Replaced-the-Old-Bucket-Design/": {
-      "date": "2026-07-25",
-      "title": "Go 1.24 采用 Swiss Table 设计实现映射"
-    },
-    "https://www.dbos.dev/blog/postgres-listen-notify-scalability": {
-      "date": "2026-07-25",
-      "title": "PostgreSQL LISTEN/NOTIFY 达到每秒 60K 条通知。"
-    },
-    "https://artificialanalysis.ai/models": {
-      "date": "2026-07-25",
-      "title": "Claude Opus 5 在 Artificial Analysis 智能排行榜上排名第一"
-    },
-    "https://www.youtube.com/watch?v=zLZwpH5lCD4": {
-      "date": "2026-07-25",
-      "title": "视频警告不要在软件工程中采用黑药丸心态。"
-    },
-    "https://www.thehindu.com/news/national/government-orders-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns-jack-dorsey/article71262049.ece": {
-      "date": "2026-07-25",
-      "title": "政府命令 GitHub 删除蓝牙聊天应用 Bitchat。"
-    },
-    "https://www.unitree.com/As2-W/": {
-      "date": "2026-07-25",
-      "title": "Unitree 发布轮式腿式机器人 As2-W。"
-    },
     "https://simonwillison.net/2026/Jul/25/boris-cherny/#atom-everything": {
       "date": "2026-07-26",
       "title": "Boris Cherny 表示 Claude Opus 5 最能抵御提示注入"
-    },
-    "https://www.reddit.com/r/MachineLearning/comments/1v5fxbe/i_built_a_compiler_that_turns_computation_graphs/": {
-      "date": "2026-07-25",
-      "title": "编译器将计算图转换为 Transformer 权重，无需训练"
-    },
-    "https://x.com/emollick/status/2080688546839491031": {
-      "date": "2026-07-25",
-      "title": "研究显示在控制 COVID-19 后，ChatGPT 对大学成绩无影响"
-    },
-    "https://x.com/emollick/status/2080677705045975055": {
-      "date": "2026-07-25",
-      "title": "伊桑·莫利克指出中美分裂加剧开放与封闭 AI 模型争论"
-    },
-    "https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18": {
-      "date": "2026-07-25",
-      "title": "Half-Life 2 在 HaikuOS 上实现原生运行并获得 Nvidia GPU 硬件加速"
-    },
-    "https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/": {
-      "date": "2026-07-25",
-      "title": "伊朗革命卫队称摧毁亚马逊 AWS 巴林数据中心"
-    },
-    "https://ui.gsxhq.dev/": {
-      "date": "2026-07-25",
-      "title": "Gsxui 提供 Shadcn 风格的 Go UI 组件，采用类 JSX 的 GSX 语法"
-    },
-    "https://www.andrewzigler.com/feed/the-case-for-muds-in-modern-times": {
-      "date": "2026-07-25",
-      "title": "文章认为 MUD 在现代仍具学习与社区价值"
-    },
-    "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker": {
-      "date": "2026-07-25",
-      "title": "卫报呼吁对 OpenAI AI 逃出网络说法持怀疑态度"
-    },
-    "https://www.nbcnews.com/tech/tech-news/senate-bill-require-ai-chatbots-disclose-rcna588970": {
-      "date": "2026-07-25",
-      "title": "两党参议员法案要求公司披露 AI 聊天机器人互动"
     },
     "https://x.com/emollick/status/2080829512275624173": {
       "date": "2026-07-26",
       "title": "伊桑·莫利克观察到 Claude 可能已停止显示摘要思考痕迹"
     },
-    "https://x.com/emollick/status/2080731915196194981": {
-      "date": "2026-07-25",
-      "title": "伊桑·莫利克宣布 ARC-AGI-3 基准取得重大进展"
-    },
-    "https://x.com/emollick/status/2080676187752280532": {
-      "date": "2026-07-25",
-      "title": "伊桑·莫利克让 Codex 生成自指 AI 基准论文"
-    },
-    "https://x.com/emollick/status/2080709278441033746": {
-      "date": "2026-07-25",
-      "title": "伊桑·莫利克分享 Opus 5 初体验：短任务表现佳，长任务不足"
-    },
-    "https://x.com/emollick/status/2080535523043451168": {
-      "date": "2026-07-25",
-      "title": "伊桑·莫利克称 GPT-5.x Pro 系列仍是解决难题的最佳模型"
-    },
-    "https://x.com/emollick/status/2080496604830745065": {
-      "date": "2026-07-25",
-      "title": "Ethan Mollick 指出教新手使用如 Codex 之类的 AI 编码工具很困难"
-    },
-    "https://github.com/apresta/max-studio-tools": {
-      "date": "2026-07-25",
-      "title": "Max Studio Tools 发布适用于 Max/MSP 和 Ableton Live 的 C++ DSP 模块。"
-    },
-    "https://www.bruh.ltd/blog/programming-language-file-extensions-that-match-an-iso-3166-1-alpha-2-country-code/": {
-      "date": "2026-07-25",
-      "title": "Programming language file extensions that match ISO 3166-1 alpha-2 country codes"
-    },
-    "http://asa-db.kocoygroup.site/": {
-      "date": "2026-07-25",
-      "title": "用 SWI-Prolog 实现的数据库引擎"
-    },
     "https://github.com/block/buzz": {
       "date": "2026-07-26",
       "title": "基于 Rust 的蜂巢思维通信平台 block/buzz 获得早期关注"
-    },
-    "https://x.com/gdb/status/2080494474287780286": {
-      "date": "2026-07-25",
-      "title": "格雷格·布罗克曼宣布数学家雅各布·西默曼加入 OpenAI"
-    },
-    "https://x.com/emollick/status/2080713231937552394": {
-      "date": "2026-07-25",
-      "title": "Opus 5 全面超越 Opus 4.8 但保留 Fable 风格怪癖"
-    },
-    "https://x.com/emollick/status/2080710504461263276": {
-      "date": "2026-07-25",
-      "title": "创意 GLSL 着色器渲染无尽 neo‑gothic 淹没城市"
-    },
-    "https://x.com/emollick/status/2080515937803886872": {
-      "date": "2026-07-25",
-      "title": "伊桑·莫利克称 GPT-5.6 Pro 是最强聊天机器人模型"
-    },
-    "https://x.com/emollick/status/2080503626615714260": {
-      "date": "2026-07-25",
-      "title": "伊桑·莫利克指出 AI 模型难以解释自身推理"
-    },
-    "https://x.com/swyx/status/2080500752183960017": {
-      "date": "2026-07-25",
-      "title": "Swyx 使用自建的具代理功能的 GitHub 克隆版，内置 CI/CD 通过 Cloudflare Workers"
     },
     "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/": {
       "date": "2026-07-26",
@@ -928,6 +780,102 @@
     "https://jwlabs.vercel.app/post/biting-the-bullet": {
       "date": "2026-08-01",
       "title": "预测性推测 KV 复制降低突发 LLM 推理延迟"
+    },
+    "https://simonwillison.net/2026/Jul/31/stateless-mcp/#atom-everything": {
+      "date": "2026-08-02",
+      "title": "Stateless MCP 2.0 发布重燃兴趣并激发新工具"
+    },
+    "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/": {
+      "date": "2026-08-02",
+      "title": "Postmortem for Kernel Soundness Bug #14576"
+    },
+    "https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/": {
+      "date": "2026-08-02",
+      "title": "伪装的监视条约：加拿大签署联合国网络犯罪公约"
+    },
+    "https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/": {
+      "date": "2026-08-02",
+      "title": "硅谷创始人文化被批判导致倦怠和动机错位"
+    },
+    "https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/#atom-everything": {
+      "date": "2026-08-02",
+      "title": "DeepSeek 发布 V4-Flash-0731，304B 参数模型具强大 agentic 能力"
+    },
+    "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5": {
+      "date": "2026-08-02",
+      "title": "字节跳动发布 Seedance 2.5 视频生成模型"
+    },
+    "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds": {
+      "date": "2026-08-02",
+      "title": "谷歌关闭 Reader 加速了 RSS 的衰落"
+    },
+    "https://diataxis.fr/": {
+      "date": "2026-08-02",
+      "title": "Diátaxis"
+    },
+    "https://nostarch.com/art-64-bit-assembly-v2": {
+      "date": "2026-08-02",
+      "title": "《64 位汇编艺术》新版引发 HN 热议"
+    },
+    "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released": {
+      "date": "2026-08-02",
+      "title": "NetBSD 11.0 已发布，包含 MICROVM 内核和增强的 npf 防火墙。"
+    },
+    "https://github.com/BurntSushi/ripgrep/issues/3494": {
+      "date": "2026-08-02",
+      "title": "Ripgrep 在 musl 环境下极大文件搜索时偶发段错误"
+    },
+    "https://brandur.org/fragments/pgtestdb": {
+      "date": "2026-08-02",
+      "title": "Pgtestdb 的模板克隆方法加速 Postgres 测试数据库"
+    },
+    "https://censys.com/blog/cisa-alert-water-tower-plc-targeting/": {
+      "date": "2026-08-02",
+      "title": "CISA 警告水务行业 PLC 面临网络威胁"
+    },
+    "https://alexiglad.github.io/blog/2026/explorative_modeling/": {
+      "date": "2026-08-02",
+      "title": "探索性建模：训练 K 次猜测中的最佳者"
+    },
+    "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153": {
+      "date": "2026-08-02",
+      "title": "Cursor 意外移除使用页面和 CSV 导出中的费用信息"
+    },
+    "https://microsoft.github.io/flint-chart/": {
+      "date": "2026-08-02",
+      "title": "Flint 是微软面向 AI 时代的可视化语言。"
+    },
+    "https://simonwillison.net/2026/Aug/1/greg-brockman/#atom-everything": {
+      "date": "2026-08-02",
+      "title": "格雷格·布罗克曼指出员工厌恶同事 AI 代理的帮助请求"
+    },
+    "https://simonwillison.net/2026/Aug/1/ten-advances-in-mathematics/#atom-everything": {
+      "date": "2026-08-02",
+      "title": "OpenAI 声称其 Astra 模型以每题低于 2000 美元解决十道难题"
+    },
+    "https://simonwillison.net/2026/Jul/31/llm-mcp-client/#atom-everything": {
+      "date": "2026-08-02",
+      "title": "西蒙·威利森发布 llm-mcp-client 0.1a0，一个早期 Alpha 的 Python MCP 客户端"
+    },
+    "https://radionavlab.ae.utexas.edu/wp-content/uploads/starlink_structure.pdf": {
+      "date": "2026-08-02",
+      "title": "UT 奥斯汀研究者详解星链 Ku 波段下行链路信号结构"
+    },
+    "https://trufflesecurity.com/blog/scanning-7-6-petabytes-of-ai-training-data-for-secrets": {
+      "date": "2026-08-02",
+      "title": "研究人员在 7.6PB Hugging Face 训练数据中发现暴露的密钥"
+    },
+    "https://kaisel.dev/": {
+      "date": "2026-08-02",
+      "title": "Kaisel 发布基于 Dart 3 的 Flutter 原生路由，路由即值"
+    },
+    "https://simonwillison.net/2026/Aug/1/datasette-apps/#atom-everything": {
+      "date": "2026-08-02",
+      "title": "Datasette‑apps 0.2a0 新增了 app_debug() 和 app_list() 工具。"
+    },
+    "https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html": {
+      "date": "2026-08-02",
+      "title": "在计算器上运行 Linux：DIY 黑客"
     }
   }
 }
