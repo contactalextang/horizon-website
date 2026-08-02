@@ -1,138 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "https://simonwillison.net/2026/Jul/25/boris-cherny/#atom-everything": {
-      "date": "2026-07-26",
-      "title": "Boris Cherny 表示 Claude Opus 5 最能抵御提示注入"
-    },
-    "https://x.com/emollick/status/2080829512275624173": {
-      "date": "2026-07-26",
-      "title": "伊桑·莫利克观察到 Claude 可能已停止显示摘要思考痕迹"
-    },
-    "https://github.com/block/buzz": {
-      "date": "2026-07-26",
-      "title": "基于 Rust 的蜂巢思维通信平台 block/buzz 获得早期关注"
-    },
-    "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/": {
-      "date": "2026-07-26",
-      "title": "谷歌可能很快限制设备端 ADB 访问以提升安全"
-    },
-    "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/": {
-      "date": "2026-07-26",
-      "title": "开放权重 AI 模型经历类似 Kubernetes 的转变以实现更广泛的可访问性"
-    },
-    "https://kirwinhampshire.substack.com/p/the-dark-night-of-mathematics": {
-      "date": "2026-07-26",
-      "title": "数学的黑暗之夜"
-    },
-    "https://www.theguardian.com/us-news/ng-interactive/2026/jul/25/flock-surveillance-cameras": {
-      "date": "2026-07-26",
-      "title": "vigilantes 破坏 Flock 监控摄像头 引发隐私争议"
-    },
-    "https://supakeen.com/weblog/the-fedora-45-sausage-factory/": {
-      "date": "2026-07-26",
-      "title": "Fedora 45 发布流程如香肠厂般详解"
-    },
-    "https://blog.adafruit.com/2026/03/05/tiles-security-is-so-bad-its-a-feature-for-stalkers/": {
-      "date": "2026-07-26",
-      "title": "Tile 蓝牙追踪器被发现存在可被用于跟踪的漏洞"
-    },
-    "https://simonwillison.net/2026/Jul/24/introducing-claude-opus-5/#atom-everything": {
-      "date": "2026-07-26",
-      "title": "Anthropic 发布 Claude Opus 5，领先人工智能排行榜且具成本效益"
-    },
-    "https://labs.iximiuz.com/tutorials/c-program-without-main-a1eea557": {
-      "date": "2026-07-26",
-      "title": "编写无 main() 函数的有效 C 程序"
-    },
-    "https://fly.io/blog/kurt-scott-money-sprites/": {
-      "date": "2026-07-26",
-      "title": "Fly.io 首席执行官 Kurt Mackey 宣布辞职"
-    },
-    "https://brolly.sh/forecast/RWFP2qW8": {
-      "date": "2026-07-26",
-      "title": "Show HN: Brolly, a plain-text weather forecast site"
-    },
-    "https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/": {
-      "date": "2026-07-26",
-      "title": "PyTorch Monarch 现已通过 ROCm 支持 AMD GPU"
-    },
-    "https://itsallaboutthebit.com/memory-safety-absolutists/": {
-      "date": "2026-07-26",
-      "title": "对内存安全绝对主义在软件开发中的批判"
-    },
-    "https://www.military.com/americans-political-ideologies-unite-privacy-against-flock-surveillance-cameras": {
-      "date": "2026-07-26",
-      "title": "美国人跨党派反对 Flock AI 监控摄像头。"
-    },
-    "https://www.reddit.com/r/artificial/comments/1v60pga/opus_5s_effort_dial_is_not_monotonic_above_high/": {
-      "date": "2026-07-26",
-      "title": "Opus 5 的努力调节在高设置以上表现出非单调的编码性能"
-    },
-    "https://jonathan-frere.com/posts/reactivity-algorithms/": {
-      "date": "2026-07-26",
-      "title": "探索 UI 框架中的推、拉和混合响应式算法"
-    },
-    "https://x.com/demishassabis/status/2081039623422177765": {
-      "date": "2026-07-26",
-      "title": "Demis Hassabis 呼吁构建强大安全的开放 AI 生态"
-    },
-    "https://x.com/demishassabis/status/2081075346208600103": {
-      "date": "2026-07-26",
-      "title": "Gemma 4 模型下载量突破 3 亿次，全系列累计超过 9 亿次"
-    },
-    "https://www.cltampa.com/news/a-77-year-old-republican-man-is-staging-a-solo-protest-against-st-petes-flock-cameras/": {
-      "date": "2026-07-26",
-      "title": "77 岁共和党人抗议佛罗里达州圣彼得堡的 Flock 车牌识别摄像头"
-    },
-    "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models": {
-      "date": "2026-07-26",
-      "title": "Anthropic 发布 Claude 5 模型的更新后下文工程指南"
-    },
-    "https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/": {
-      "date": "2026-07-26",
-      "title": "风能驱动的氨气示范项目在明尼苏达州莫里斯投入运营"
-    },
-    "https://radicle.network/nodes/rosa.radicle.network/rad%3Az2v9tRJz1oknFAqCSY5W5c76nVvm6": {
-      "date": "2026-07-26",
-      "title": "Bitchat 迁移至 Radicle，在 Fusion Festival 进行测试"
-    },
-    "https://spectrum.ieee.org/sodium-ion-battery-peak-energy": {
-      "date": "2026-07-26",
-      "title": "通用汽车支持钠离子电池用于美国电网储能"
-    },
-    "https://youtu.be/_JGMgpyCTsY": {
-      "date": "2026-07-26",
-      "title": "Sebastian Lague 从三角形渲染到地形和云彩构建自己的图形库"
-    },
-    "https://x.com/gdb/status/2080939030062178512": {
-      "date": "2026-07-26",
-      "title": "格雷格·布罗克曼宣布 ChatGPT 现在可处理需要登录的网站"
-    },
-    "https://x.com/emollick/status/2080876002444496942": {
-      "date": "2026-07-26",
-      "title": "研究者推出 AI 生成的基准 BBBBB，用于评估基准评估指标。"
-    },
-    "https://didtheyghostyou.com/": {
-      "date": "2026-07-26",
-      "title": "Did They Ghost You？网站追踪求职者被招聘方失联经历"
-    },
-    "https://news.ycombinator.com/item?id=49051130": {
-      "date": "2026-07-26",
-      "title": "Show HN：Writemark，一个无依赖的 Web 组件用于内联 Markdown 编辑"
-    },
-    "https://www.phoronix.com/news/Fedora-45-Atomic-Remote-Install": {
-      "date": "2026-07-26",
-      "title": "Fedora 45 Atomic 桌面获得基于 Web 的远程安装功能"
-    },
-    "https://webmars.nfiles.top/": {
-      "date": "2026-07-26",
-      "title": "网页版 Mars MIPS 模拟器新增内置 C 编译器。"
-    },
-    "https://x.com/emollick/status/2081121453353660571": {
-      "date": "2026-07-26",
-      "title": "伊桑·莫利克指出人类进步大部分时间缓慢，仅近两世纪加速"
-    },
     "https://killthecookiebanner.eu/": {
       "date": "2026-07-27",
       "title": "欧盟委员会提出基于浏览器的隐私偏好设置以结束 Cookie 横幅"
@@ -876,6 +744,82 @@
     "https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html": {
       "date": "2026-08-02",
       "title": "在计算器上运行 Linux：DIY 黑客"
+    },
+    "https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/": {
+      "date": "2026-08-03",
+      "title": "欧盟提出硬件绑定证明用于在线年龄验证"
+    },
+    "https://pudding.cool/2026/07/essential-words/": {
+      "date": "2026-08-03",
+      "title": "Pudding 可视化展示 1953 至 2023 年基本英语词汇的变化"
+    },
+    "https://getbor.dev/blog/2026-08-02-bor-v080-release/": {
+      "date": "2026-08-03",
+      "title": "Bor v0.8 发布：开源 Linux 桌面策略管理器"
+    },
+    "https://twitter.com/karpathy/status/2083749667410727319": {
+      "date": "2026-08-03",
+      "title": "安德烈·卡帕西的“自行车上的鹈鹕”推文引发 AI 基准辩论"
+    },
+    "https://github.com/wie-project/kakehashi": {
+      "date": "2026-08-03",
+      "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM"
+    },
+    "https://github.com/graham33/nixos-dgx-spark": {
+      "date": "2026-08-03",
+      "title": "NixOS 在 NVIDIA DGX Spark 和 Asus Ascent GX10 上的支持发布"
+    },
+    "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open": {
+      "date": "2026-08-03",
+      "title": "RISC OS Open 庆祝成立 20 周年，社区成员分享经历。"
+    },
+    "https://fstar-lang.org/": {
+      "date": "2026-08-03",
+      "title": "F* 是一种用于验证软件的证明导向编程语言"
+    },
+    "https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2": {
+      "date": "2026-08-03",
+      "title": "eBay 安全主管因骚扰活动被判刑，导致 5600 万美元和解"
+    },
+    "https://meshdiff.com/": {
+      "date": "2026-08-03",
+      "title": "Meshdiff：基于浏览器的客户端 STL 文件比较工具"
+    },
+    "https://fuselang.org/": {
+      "date": "2026-08-03",
+      "title": "Fuse：新型静态类型函数式语言，带 GRIN 后端"
+    },
+    "https://frogs.vaguespac.es/": {
+      "date": "2026-08-03",
+      "title": "趣味 AI 基准测试：让模型绘制哈布斯堡下巴的青蛙 SVG"
+    },
+    "https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/": {
+      "date": "2026-08-03",
+      "title": "TP-Link TL-841N 路由器的 root 获取、固件分析及持久凭证提取"
+    },
+    "https://simonwillison.net/2026/Aug/2/open-letters/#atom-everything": {
+      "date": "2026-08-03",
+      "title": "微软牵头公开信呼吁美国支持开放权重 AI 模型"
+    },
+    "https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/": {
+      "date": "2026-08-03",
+      "title": "SSH 蜜罐网络揭示凭证收集攻击见解"
+    },
+    "https://github.com/firecrawl/pdf-inspector": {
+      "date": "2026-08-03",
+      "title": "Firecrawl 发布快速 Rust PDF 检查器，用于区分扫描与文本 PDF"
+    },
+    "https://blog.semenzin.com/let-the-machines-in/": {
+      "date": "2026-08-03",
+      "title": "让自主机器承担更多决策角色"
+    },
+    "https://healeycodes.com/adding-defer-to-the-typescript-compiler": {
+      "date": "2026-08-03",
+      "title": "实验性地在 TypeScript 编译器中加入 Go 的 defer 语句。"
+    },
+    "https://www.rubenerd.au/the-myth-of-snow-leopard/": {
+      "date": "2026-08-03",
+      "title": "审视 macOS Snow Leopard 的神话与遗产"
     }
   }
 }
