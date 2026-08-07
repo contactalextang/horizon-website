@@ -1,86 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/": {
-      "date": "2026-07-31",
-      "title": "警告：廉价电视流媒体棒存在安全风险"
-    },
-    "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/": {
-      "date": "2026-07-31",
-      "title": "GitHub 在公开预览中推出堆叠拉取请求"
-    },
-    "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/": {
-      "date": "2026-07-31",
-      "title": "DeepMind 发布了 Gemini Robotics 2。"
-    },
-    "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/": {
-      "date": "2026-07-31",
-      "title": "通过 GPT‑5.6 推进价格性能前沿"
-    },
-    "https://www.ctgt.ai/research/distillation-censorship-transfer": {
-      "date": "2026-07-31",
-      "title": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it"
-    },
-    "https://www.dbos.dev/blog/making-postgres-queues-scale": {
-      "date": "2026-07-31",
-      "title": "扩展 PostgreSQL 作业队列并缓解 MVCC 膨胀的策略"
-    },
-    "https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html": {
-      "date": "2026-07-31",
-      "title": "AI 辅助代码重构的经济效益揭示"
-    },
-    "https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html": {
-      "date": "2026-07-31",
-      "title": "谷歌将通过 Play Age Signals API 在全球范围内扩展 Android 年龄验证，直至年底"
-    },
-    "https://lwn.net/Articles/1086041/": {
-      "date": "2026-07-31",
-      "title": "GCC 指导委员会宣布 AI 生成贡献政策"
-    },
-    "https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a": {
-      "date": "2026-07-31",
-      "title": "固态电池为何吸引大量研究兴趣"
-    },
-    "https://www.bottlenecklabs.com/blog/autonomously-run-businesses": {
-      "date": "2026-07-31",
-      "title": "GPT-5.6 Sol 运营模拟企业，撒谎垃圾邮件致损失 447 美元"
-    },
-    "https://prized.dev/": {
-      "date": "2026-07-31",
-      "title": "Prized 推出 YC S26 低代码平台，让非工程师构建安全的内部工具"
-    },
-    "https://dynomight.net/plants/": {
-      "date": "2026-07-31",
-      "title": "植物降低 CO₂效果受呼吸与海洋氧气限制"
-    },
-    "https://chriscoyier.net/2026/07/30/codepen-2-0/": {
-      "date": "2026-07-31",
-      "title": "CodePen 2.0 发布重新设计的 UI 并支持直接部署"
-    },
-    "https://hackerpublicradio.org/": {
-      "date": "2026-07-31",
-      "title": "黑客公共广播是社区播客。"
-    },
-    "https://www.projectpluto.com/25010d.htm": {
-      "date": "2026-07-31",
-      "title": "猎鹰 9 号上级预计将于 2026 年 8 月 5 日撞击月球"
-    },
-    "https://www.cam.ac.uk/research/news/study-reveals-why-dna-damage-from-smoking-and-uv-rays-may-cause-cancer-in-some-people-but-not-others": {
-      "date": "2026-07-31",
-      "title": "研究发现 DNA 修复差异关联吸烟和紫外线致癌风险"
-    },
-    "https://phulin.me/blog/poker/": {
-      "date": "2026-07-31",
-      "title": "使用自定义 WebGPU 内核求解扑克"
-    },
-    "https://simonwillison.net/2026/Jul/30/bruce-schneier/#atom-everything": {
-      "date": "2026-07-31",
-      "title": "布鲁斯·施奈尔：写作任务是心智训练，而非工作产出"
-    },
-    "https://github.com/virgiliojr94/book-to-skill": {
-      "date": "2026-07-31",
-      "title": "Python 工具将技术 PDF 转换为 Claude Code 技能"
-    },
     "https://john.fun/elevators": {
       "date": "2026-08-01",
       "title": "交互式电梯算法可视化引发计算机科学讨论"
@@ -740,6 +660,94 @@
     "https://simonwillison.net/2026/Aug/6/simon-willison-on-technical-blogging/#atom-everything": {
       "date": "2026-08-07",
       "title": "Simon Willison 在访谈中分享技术博客写作建议"
+    },
+    "https://www.sdss.org/black-hole-mapper-release-20/": {
+      "date": "2026-08-08",
+      "title": "全天图揭示超过 50 万个超大质量黑洞"
+    },
+    "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/": {
+      "date": "2026-08-08",
+      "title": "通过批处理、算子融合和 SIMD，Postgres 在分析场景下提速 300 倍"
+    },
+    "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta": {
+      "date": "2026-08-08",
+      "title": "新墨西哥州法院命令 Meta 支付 5.67 亿美元，因其平台损害儿童心理健康"
+    },
+    "https://arcprize.org/results/deepseek-v4-flash-0731": {
+      "date": "2026-08-08",
+      "title": "DeepSeek V4 Flash 0731 发布，作为高速且成本效益高的语言模型"
+    },
+    "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/": {
+      "date": "2026-08-08",
+      "title": "科技工作者面临日益增长的幻灭感和倦怠"
+    },
+    "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code": {
+      "date": "2026-08-08",
+      "title": "甲骨文禁止向 OpenJDK 提交 AI 生成的代码"
+    },
+    "https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out": {
+      "date": "2026-08-08",
+      "title": "2027 年内存容量因 AI 驱动的 HBM 需求而售罄"
+    },
+    "https://blog.cloudflare.com/kitesurf/": {
+      "date": "2026-08-08",
+      "title": "Cloudflare 发布 Kitesurf，一种运行在 V8 隔离区中的 agent-first 浏览器"
+    },
+    "https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/": {
+      "date": "2026-08-08",
+      "title": "作者应对爬虫攻击：150 万页面网站 99%流量来自机器人"
+    },
+    "https://github.com/Wyzer-Lang/wyzer": {
+      "date": "2026-08-08",
+      "title": "Wyzer 语言引入编舞式编程以防止分布式死锁"
+    },
+    "https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070": {
+      "date": "2026-08-08",
+      "title": "前 NSA 首脑警告：水系统控制器不应连接互联网"
+    },
+    "https://github.com/astral-sh/uv/releases/tag/0.12.3": {
+      "date": "2026-08-08",
+      "title": "uv 0.12.3 发布，支持 CPython 3.13.15 并带来性能改进"
+    },
+    "https://github.com/xoreaxeaxeax/asm-hall-of-shame": {
+      "date": "2026-08-08",
+      "title": "GitHub 仓库按执行慢速对 x86 指令进行排名，用于教育和娱乐"
+    },
+    "https://ancientlibrary.net/": {
+      "date": "2026-08-08",
+      "title": "古代图书馆推出交互式工具，用于解析希腊语和拉丁语文本"
+    },
+    "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/": {
+      "date": "2026-08-08",
+      "title": "OpenAI 回应 AI 智能体通信事件，推出新安全措施"
+    },
+    "https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours": {
+      "date": "2026-08-08",
+      "title": "应用商店因虚假塔罗功能声称拒绝 Dark Hours 应用"
+    },
+    "https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice": {
+      "date": "2026-08-08",
+      "title": "研究提出地球上的生命在热液喷口处独立起源了两次"
+    },
+    "https://textlog.cc/about": {
+      "date": "2026-08-08",
+      "title": "Textlog：一个无 JavaScript、开源的微博客平台"
+    },
+    "https://www.databricks.com/blog/managing-ai-coding-costs-scale": {
+      "date": "2026-08-08",
+      "title": "Databricks 报告称 AI 编码支出降低了 70%"
+    },
+    "https://simonwillison.net/2026/Aug/7/moonlight-mayhem/#atom-everything": {
+      "date": "2026-08-08",
+      "title": "Codex 搭配 GPT-5.6 Sol Ultra 在生成浣熊劫案游戏方面优于 Claude Fable 5"
+    },
+    "https://simonwillison.net/2026/Aug/7/pdfs-are-terrible/#atom-everything": {
+      "date": "2026-08-08",
+      "title": "公司们争先恐后地遏制非工程师工作流导致的 AI 令牌浪费"
+    },
+    "https://quuxplusone.github.io/blog/2026/08/04/mobius-crossword/": {
+      "date": "2026-08-08",
+      "title": "探索莫比乌斯条纹填字游戏的创意设计"
     }
   }
 }
