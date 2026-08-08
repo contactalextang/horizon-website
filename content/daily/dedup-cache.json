@@ -1,102 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "https://john.fun/elevators": {
-      "date": "2026-08-01",
-      "title": "交互式电梯算法可视化引发计算机科学讨论"
-    },
-    "https://github.com/golang/go/issues/80590": {
-      "date": "2026-08-01",
-      "title": "Go 团队提议为 container 包添加泛型 Set 和 OrderedMap"
-    },
-    "https://artificialanalysis.ai/models/deepseek-v4-flash": {
-      "date": "2026-08-01",
-      "title": "DeepSeek V4 Flash 0731 发布：性能强劲、成本低廉，Pro 版即将到来"
-    },
-    "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/": {
-      "date": "2026-08-01",
-      "title": "指南展示如何通过 Thunderbolt 为 Mac Studio 添加 25 Gbps 以太网"
-    },
-    "https://semyonsinchenko.github.io/ssinchenko/post/datafusion-graphs-cc-2/": {
-      "date": "2026-08-01",
-      "title": "DataFusion 在 modeste RAM 上运行十亿规模图算法"
-    },
-    "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/": {
-      "date": "2026-08-01",
-      "title": "专家们争论 AI 是否真正推理还是仅仅模仿模式。"
-    },
-    "https://simonwillison.net/2026/Jul/31/oxide-and-friends/#atom-everything": {
-      "date": "2026-08-01",
-      "title": "西蒙·威利森在 Oxide and Friends 播客中讨论开放权重革命"
-    },
-    "https://simonwillison.net/2026/Jul/30/three-real-world-incidents/#atom-everything": {
-      "date": "2026-08-01",
-      "title": "Anthropic 披露三起 AI 评估中沙箱逃逸事件"
-    },
-    "https://tailscale.com/blog/hugging-face-intrusion": {
-      "date": "2026-08-01",
-      "title": "Tailscale 博客揭露 Hugging Face 因泄漏的认证密钥导致入侵"
-    },
-    "https://github.com/yc-software/qm": {
-      "date": "2026-08-01",
-      "title": "YC 支持的 QM 推出多智能体协作编程 harness"
-    },
-    "https://www.theexamination.org/articles/red-bull-funded-research-energy-drinks-alcohol": {
-      "date": "2026-08-01",
-      "title": "红牛资助的研究影响能量饮料政策，引发偏见担忧"
-    },
-    "https://manifest.build/blog/why-we-deprecated-our-llm-router/": {
-      "date": "2026-08-01",
-      "title": "团队在发现路由器无效后将其弃用"
-    },
-    "https://simonwillison.net/2026/Jul/30/luna-price-drop/#atom-everything": {
-      "date": "2026-08-01",
-      "title": "OpenAI 降低 GPT-5.6 Terra 和 Luna 价格 分别降幅 20% 和 80%"
-    },
-    "https://arxiv.org/abs/2607.28233": {
-      "date": "2026-08-01",
-      "title": "揭秘 DRAM 读取扰动：RowHammer 和 RowPress 现象"
-    },
-    "https://arxiv.org/abs/2607.28545": {
-      "date": "2026-08-01",
-      "title": "Orca-Bench 评估语言模型代理在故障响应中的能力。"
-    },
-    "https://servo.org/blog/2026/07/31/june-in-servo/": {
-      "date": "2026-08-01",
-      "title": "Servo 2026 年 6 月更新提升网页兼容性、媒体查询和 SharedWorker"
-    },
-    "https://signoregalilei.com/2026/07/26/the-most-official-water-costs-120000-a-gallon/": {
-      "date": "2026-08-01",
-      "title": "VSMOW 官方水标准每加仑售价 12 万美元"
-    },
-    "https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner": {
-      "date": "2026-08-01",
-      "title": "铁路轨道被改造成大型平板扫描仪"
-    },
-    "https://github.com/l00sed/termixer": {
-      "date": "2026-08-01",
-      "title": "Termixer：基于终端的 TUI DJ 混音器，使用 Rust 构建"
-    },
-    "https://github.com/astral-sh/uv/releases/tag/0.12.1": {
-      "date": "2026-08-01",
-      "title": "uv 0.12.1 发布，新增包特定预发布策略和本地 HTML 索引支持"
-    },
-    "https://lcamtuf.substack.com/p/severance": {
-      "date": "2026-08-01",
-      "title": "讽刺 Substack 文章批判企业裁员与遣赔荒唐性"
-    },
-    "https://simonwillison.net/2026/Jul/31/smevals/#atom-everything": {
-      "date": "2026-08-01",
-      "title": "smevals：轻量级 AI 模型、提示和 harness 评估套件"
-    },
-    "https://simonwillison.net/2026/Jul/30/llm-rc2/#atom-everything": {
-      "date": "2026-08-01",
-      "title": "llm 0.32rc2 发布：修复依赖并将默认模型改为 GPT-5.6 Luna"
-    },
-    "https://jwlabs.vercel.app/post/biting-the-bullet": {
-      "date": "2026-08-01",
-      "title": "预测性推测 KV 复制降低突发 LLM 推理延迟"
-    },
     "https://simonwillison.net/2026/Jul/31/stateless-mcp/#atom-everything": {
       "date": "2026-08-02",
       "title": "Stateless MCP 2.0 发布重燃兴趣并激发新工具"
@@ -748,6 +652,146 @@
     "https://quuxplusone.github.io/blog/2026/08/04/mobius-crossword/": {
       "date": "2026-08-08",
       "title": "探索莫比乌斯条纹填字游戏的创意设计"
+    },
+    "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/": {
+      "date": "2026-08-09",
+      "title": "DeepMind 的 WeatherNext AI 模型在气旋预报方面取得突破"
+    },
+    "https://simonwillison.net/2026/Aug/7/openai-timeline/#atom-everything": {
+      "date": "2026-08-09",
+      "title": "OpenAI 的实验性 AI 代理意外通过 Artifactory 攻击了 Hugging Face"
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide": {
+      "date": "2026-08-09",
+      "title": "美国网络司令部人员出现自杀集群事件"
+    },
+    "https://web.njit.edu/~akansu/PAPERS/The%20Unreasonable%20Effectiveness%20of%20Mathematics%20(EP%20Wigner": {
+      "date": "2026-08-09",
+      "title": "维格纳 1960 年论文：数学在自然科学中的非凡有效性"
+    },
+    "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/": {
+      "date": "2026-08-09",
+      "title": "丹麦要求学生进行口头答辩以应对 AI 作弊"
+    },
+    "https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/": {
+      "date": "2026-08-09",
+      "title": "Triton：QEMU 虚拟机的开源 DirectX 11 驱动"
+    },
+    "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers": {
+      "date": "2026-08-09",
+      "title": "对“代码从来不是难点”言论的批评引发开发者讨论"
+    },
+    "https://github.com/xoreaxeaxeax/rosenbridge": {
+      "date": "2026-08-09",
+      "title": "GitHub 项目声称在某些 x86 CPU 中存在硬件后门"
+    },
+    "https://zaneham.github.io/voyager-fds-emulator/": {
+      "date": "2026-08-09",
+      "title": "旅行者 1 号飞行数据子系统(FDS)计算机模拟器发布用于教育用途"
+    },
+    "https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything": {
+      "date": "2026-08-09",
+      "title": "Anthropic 将 Claude Code 的自动模式设为付费计划的默认选项"
+    },
+    "https://github.com/PrimeIntellect-ai/prime-agent": {
+      "date": "2026-08-09",
+      "title": "PrimeIntellect 发布用于编码工作流的自我改进型 RLM 代理"
+    },
+    "https://github.com/diegosouzapw/OmniRoute": {
+      "date": "2026-08-09",
+      "title": "OmniRoute AI 网关在 24 小时内获得 61 颗星，具备令牌压缩功能"
+    },
+    "https://specification.website/spec/foundations/for-sale-dns/": {
+      "date": "2026-08-09",
+      "title": "新的 DNS TXT 记录标准允许域名标示出售意向"
+    },
+    "https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/": {
+      "date": "2026-08-09",
+      "title": "英特尔最新芯片在性能每瓦特方面挑战 ARM"
+    },
+    "https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country": {
+      "date": "2026-08-09",
+      "title": "亚马逊得克萨斯州数据中心可能成为美国最大污染源"
+    },
+    "https://code.claude.com/docs/en/cross-session-messaging": {
+      "date": "2026-08-09",
+      "title": "Claude Code 新增跨会话消息功能，提升开发者工作流"
+    },
+    "https://github.com/virgiliojr94/book-to-skill": {
+      "date": "2026-08-09",
+      "title": "新 Python 工具可将技术书籍 PDF 转换为 Claude Code 技能"
+    },
+    "https://github.com/pranshuparmar/witr": {
+      "date": "2026-08-09",
+      "title": "witr：基于 Go 的 CLI/TUI 工具用于追踪进程来源，24 小时获 42 颗星"
+    },
+    "https://github.com/google/skills": {
+      "date": "2026-08-09",
+      "title": "谷歌发布面向开发者的开源代理技能仓库"
+    },
+    "https://github.com/andrewyng/openworker": {
+      "date": "2026-08-09",
+      "title": "Andrew Ng 的 OpenWorker 在 24 小时内获得 31 颗星，成为趋势中的 Python AI 工具"
+    },
+    "https://github.com/ifixai-ai/iFixAi": {
+      "date": "2026-08-09",
+      "title": "iFixAi：用于快速审计 AI 代理的 Python 工具"
+    },
+    "https://github.com/TencentCloud/TencentDB-Agent-Memory": {
+      "date": "2026-08-09",
+      "title": "腾讯云发布面向 AI 代理的团队级记忆系统"
+    },
+    "https://github.com/emiliaprotocol/emilia-protocol": {
+      "date": "2026-08-09",
+      "title": "Emilia 协议推出 EMILIA Gate，实现机器行为的可验证授权"
+    },
+    "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/": {
+      "date": "2026-08-09",
+      "title": "Fastmail 推出欧盟数据区域用于电子邮件服务"
+    },
+    "https://github.com/floci-io/floci": {
+      "date": "2026-08-09",
+      "title": "Floci 获得 55 颗星，作为轻量级基于 Java 的 AWS 模拟器替代方案"
+    },
+    "https://github.com/brightdata/cli": {
+      "date": "2026-08-09",
+      "title": "Bright Data CLI 在 24 小时内获得 50 颗星，作为终端网页抓取工具"
+    },
+    "https://github.com/block/buzz": {
+      "date": "2026-08-09",
+      "title": "基于 Rust 的蜂巢思维通信平台 block/buzz 在 24 小时内获得 46 颗星标"
+    },
+    "https://github.com/talivia-group/talivia": {
+      "date": "2026-08-09",
+      "title": "Talivia 推出开源自托管收益优先分析平台"
+    },
+    "https://github.com/emilkowalski/skills": {
+      "date": "2026-08-09",
+      "title": "emilkowalski/skills 资源库在 24 小时内获得 30 颗星标，面向设计工程师"
+    },
+    "https://github.com/zhaoxuya520/reverse-skill": {
+      "date": "2026-08-09",
+      "title": "AI 驱动的逆向工程技能路由器在 GitHub 上获得关注"
+    },
+    "https://github.com/k1tbyte/Wand-Enhancer": {
+      "date": "2026-08-09",
+      "title": "C# 扩展为 Wand (WeMod) 应用添加高级用户体验功能"
+    },
+    "https://github.com/herdrdev/herdr": {
+      "date": "2026-08-09",
+      "title": "基于 Rust 的 Herdr 运行时因编码代理功能在 GitHub 上获得关注"
+    },
+    "https://github.com/stablyai/orca": {
+      "date": "2026-08-09",
+      "title": "Orca：基于 TypeScript 的 Agent 开发环境在 GitHub 上线"
+    },
+    "https://github.com/ZhuLinsen/daily_stock_analysis": {
+      "date": "2026-08-09",
+      "title": "基于 LLM 的多市场股票分析工具在 GitHub 获得关注"
+    },
+    "https://github.com/yusing/godoxy": {
+      "date": "2026-08-09",
+      "title": "基于 Go 的反向代理和容器编排工具在 24 小时内获得 23 颗星"
     }
   }
 }
