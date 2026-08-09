@@ -1,102 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "https://simonwillison.net/2026/Jul/31/stateless-mcp/#atom-everything": {
-      "date": "2026-08-02",
-      "title": "Stateless MCP 2.0 发布重燃兴趣并激发新工具"
-    },
-    "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/": {
-      "date": "2026-08-02",
-      "title": "Postmortem for Kernel Soundness Bug #14576"
-    },
-    "https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/": {
-      "date": "2026-08-02",
-      "title": "伪装的监视条约：加拿大签署联合国网络犯罪公约"
-    },
-    "https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/": {
-      "date": "2026-08-02",
-      "title": "硅谷创始人文化被批判导致倦怠和动机错位"
-    },
-    "https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/#atom-everything": {
-      "date": "2026-08-02",
-      "title": "DeepSeek 发布 V4-Flash-0731，304B 参数模型具强大 agentic 能力"
-    },
-    "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5": {
-      "date": "2026-08-02",
-      "title": "字节跳动发布 Seedance 2.5 视频生成模型"
-    },
-    "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds": {
-      "date": "2026-08-02",
-      "title": "谷歌关闭 Reader 加速了 RSS 的衰落"
-    },
-    "https://diataxis.fr/": {
-      "date": "2026-08-02",
-      "title": "Diátaxis"
-    },
-    "https://nostarch.com/art-64-bit-assembly-v2": {
-      "date": "2026-08-02",
-      "title": "《64 位汇编艺术》新版引发 HN 热议"
-    },
-    "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released": {
-      "date": "2026-08-02",
-      "title": "NetBSD 11.0 已发布，包含 MICROVM 内核和增强的 npf 防火墙。"
-    },
-    "https://github.com/BurntSushi/ripgrep/issues/3494": {
-      "date": "2026-08-02",
-      "title": "Ripgrep 在 musl 环境下极大文件搜索时偶发段错误"
-    },
-    "https://brandur.org/fragments/pgtestdb": {
-      "date": "2026-08-02",
-      "title": "Pgtestdb 的模板克隆方法加速 Postgres 测试数据库"
-    },
-    "https://censys.com/blog/cisa-alert-water-tower-plc-targeting/": {
-      "date": "2026-08-02",
-      "title": "CISA 警告水务行业 PLC 面临网络威胁"
-    },
-    "https://alexiglad.github.io/blog/2026/explorative_modeling/": {
-      "date": "2026-08-02",
-      "title": "探索性建模：训练 K 次猜测中的最佳者"
-    },
-    "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153": {
-      "date": "2026-08-02",
-      "title": "Cursor 意外移除使用页面和 CSV 导出中的费用信息"
-    },
-    "https://microsoft.github.io/flint-chart/": {
-      "date": "2026-08-02",
-      "title": "Flint 是微软面向 AI 时代的可视化语言。"
-    },
-    "https://simonwillison.net/2026/Aug/1/greg-brockman/#atom-everything": {
-      "date": "2026-08-02",
-      "title": "格雷格·布罗克曼指出员工厌恶同事 AI 代理的帮助请求"
-    },
-    "https://simonwillison.net/2026/Aug/1/ten-advances-in-mathematics/#atom-everything": {
-      "date": "2026-08-02",
-      "title": "OpenAI 声称其 Astra 模型以每题低于 2000 美元解决十道难题"
-    },
-    "https://simonwillison.net/2026/Jul/31/llm-mcp-client/#atom-everything": {
-      "date": "2026-08-02",
-      "title": "西蒙·威利森发布 llm-mcp-client 0.1a0，一个早期 Alpha 的 Python MCP 客户端"
-    },
-    "https://radionavlab.ae.utexas.edu/wp-content/uploads/starlink_structure.pdf": {
-      "date": "2026-08-02",
-      "title": "UT 奥斯汀研究者详解星链 Ku 波段下行链路信号结构"
-    },
-    "https://trufflesecurity.com/blog/scanning-7-6-petabytes-of-ai-training-data-for-secrets": {
-      "date": "2026-08-02",
-      "title": "研究人员在 7.6PB Hugging Face 训练数据中发现暴露的密钥"
-    },
-    "https://kaisel.dev/": {
-      "date": "2026-08-02",
-      "title": "Kaisel 发布基于 Dart 3 的 Flutter 原生路由，路由即值"
-    },
-    "https://simonwillison.net/2026/Aug/1/datasette-apps/#atom-everything": {
-      "date": "2026-08-02",
-      "title": "Datasette‑apps 0.2a0 新增了 app_debug() 和 app_list() 工具。"
-    },
-    "https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html": {
-      "date": "2026-08-02",
-      "title": "在计算器上运行 Linux：DIY 黑客"
-    },
     "https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/": {
       "date": "2026-08-03",
       "title": "欧盟提出硬件绑定证明用于在线年龄验证"
@@ -694,8 +598,8 @@
       "title": "Anthropic 将 Claude Code 的自动模式设为付费计划的默认选项"
     },
     "https://github.com/PrimeIntellect-ai/prime-agent": {
-      "date": "2026-08-09",
-      "title": "PrimeIntellect 发布用于编码工作流的自我改进型 RLM 代理"
+      "date": "2026-08-10",
+      "title": "PrimeAgent：基于 TypeScript 的自改进强化学习编码代理"
     },
     "https://github.com/diegosouzapw/OmniRoute": {
       "date": "2026-08-09",
@@ -792,6 +696,70 @@
     "https://github.com/yusing/godoxy": {
       "date": "2026-08-09",
       "title": "基于 Go 的反向代理和容器编排工具在 24 小时内获得 23 颗星"
+    },
+    "https://www.w3.org/Provider/Style/URI": {
+      "date": "2026-08-10",
+      "title": "W3C 1998 年 '酷 URI 不会改变' 原则仍具现实意义"
+    },
+    "https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/": {
+      "date": "2026-08-10",
+      "title": "AI 可穿戴设备实现全方位监控并引发隐私担忧"
+    },
+    "https://github.com/rochus-keller/OberonSystem/tree/op2-rv32": {
+      "date": "2026-08-10",
+      "title": "Project Oberon 系统移植到 RISC-V 架构"
+    },
+    "https://www.theregister.com/security/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/5284499": {
+      "date": "2026-08-10",
+      "title": "勒索软件团伙瞄准 40 岁左右的 IT 经理以加快赎金支付"
+    },
+    "https://phrack.org/issues/72/19#article": {
+      "date": "2026-08-10",
+      "title": "Phrack 发表《黑客文艺复兴》文章，探讨黑客文化复兴"
+    },
+    "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/": {
+      "date": "2026-08-10",
+      "title": "作者分享使用 LLM 学习复杂主题的个人策略"
+    },
+    "https://news.ycombinator.com/item?id=49233423": {
+      "date": "2026-08-10",
+      "title": "HN 社区在 2026 年 8 月的 Ask HN 线程中分享个人项目"
+    },
+    "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html": {
+      "date": "2026-08-10",
+      "title": "开发者承认在苹果拒绝其占星应用后抄袭开源天文应用"
+    },
+    "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650": {
+      "date": "2026-08-10",
+      "title": "出租车和救护车司机阿尔茨海默病发病率较低"
+    },
+    "https://openchamber.dev/": {
+      "date": "2026-08-10",
+      "title": "OpenChamber 推出基于 OpenCode 的代理式开发环境"
+    },
+    "https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html": {
+      "date": "2026-08-10",
+      "title": "指南展示如何通过 SSH 访问唤醒四年旧的 reMarkable 2"
+    },
+    "https://gukov.dev/math/2026/08/02/new-magic-hexagons.html": {
+      "date": "2026-08-10",
+      "title": "通过势场探索所有阶数的魔幻六边形"
+    },
+    "https://www.science.org/doi/10.1126/science.adv5441": {
+      "date": "2026-08-10",
+      "title": "研究显示退役燃油车具有显著气候效益"
+    },
+    "https://github.com/yegors/deGDID": {
+      "date": "2026-08-10",
+      "title": "deGDID 工具删除微软 GDID 追踪标识并阻止其重新生成"
+    },
+    "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition": {
+      "date": "2026-08-10",
+      "title": "《经济学人》将公地悲剧应用于 AI 数据耗竭"
+    },
+    "https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html": {
+      "date": "2026-08-10",
+      "title": "Windows 11 内置天气应用占用超过 1 GB 内存"
     }
   }
 }
