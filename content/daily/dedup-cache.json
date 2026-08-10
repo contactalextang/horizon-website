@@ -1,82 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/": {
-      "date": "2026-08-03",
-      "title": "欧盟提出硬件绑定证明用于在线年龄验证"
-    },
-    "https://pudding.cool/2026/07/essential-words/": {
-      "date": "2026-08-03",
-      "title": "Pudding 可视化展示 1953 至 2023 年基本英语词汇的变化"
-    },
-    "https://getbor.dev/blog/2026-08-02-bor-v080-release/": {
-      "date": "2026-08-03",
-      "title": "Bor v0.8 发布：开源 Linux 桌面策略管理器"
-    },
-    "https://twitter.com/karpathy/status/2083749667410727319": {
-      "date": "2026-08-03",
-      "title": "安德烈·卡帕西的“自行车上的鹈鹕”推文引发 AI 基准辩论"
-    },
-    "https://github.com/wie-project/kakehashi": {
-      "date": "2026-08-03",
-      "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM"
-    },
-    "https://github.com/graham33/nixos-dgx-spark": {
-      "date": "2026-08-03",
-      "title": "NixOS 在 NVIDIA DGX Spark 和 Asus Ascent GX10 上的支持发布"
-    },
-    "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open": {
-      "date": "2026-08-03",
-      "title": "RISC OS Open 庆祝成立 20 周年，社区成员分享经历。"
-    },
-    "https://fstar-lang.org/": {
-      "date": "2026-08-03",
-      "title": "F* 是一种用于验证软件的证明导向编程语言"
-    },
-    "https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2": {
-      "date": "2026-08-03",
-      "title": "eBay 安全主管因骚扰活动被判刑，导致 5600 万美元和解"
-    },
-    "https://meshdiff.com/": {
-      "date": "2026-08-03",
-      "title": "Meshdiff：基于浏览器的客户端 STL 文件比较工具"
-    },
-    "https://fuselang.org/": {
-      "date": "2026-08-03",
-      "title": "Fuse：新型静态类型函数式语言，带 GRIN 后端"
-    },
-    "https://frogs.vaguespac.es/": {
-      "date": "2026-08-03",
-      "title": "趣味 AI 基准测试：让模型绘制哈布斯堡下巴的青蛙 SVG"
-    },
-    "https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/": {
-      "date": "2026-08-03",
-      "title": "TP-Link TL-841N 路由器的 root 获取、固件分析及持久凭证提取"
-    },
-    "https://simonwillison.net/2026/Aug/2/open-letters/#atom-everything": {
-      "date": "2026-08-03",
-      "title": "微软牵头公开信呼吁美国支持开放权重 AI 模型"
-    },
-    "https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/": {
-      "date": "2026-08-03",
-      "title": "SSH 蜜罐网络揭示凭证收集攻击见解"
-    },
-    "https://github.com/firecrawl/pdf-inspector": {
-      "date": "2026-08-03",
-      "title": "Firecrawl 发布快速 Rust PDF 检查器，用于区分扫描与文本 PDF"
-    },
-    "https://blog.semenzin.com/let-the-machines-in/": {
-      "date": "2026-08-03",
-      "title": "让自主机器承担更多决策角色"
-    },
-    "https://healeycodes.com/adding-defer-to-the-typescript-compiler": {
-      "date": "2026-08-03",
-      "title": "实验性地在 TypeScript 编译器中加入 Go 的 defer 语句。"
-    },
-    "https://www.rubenerd.au/the-myth-of-snow-leopard/": {
-      "date": "2026-08-03",
-      "title": "审视 macOS Snow Leopard 的神话与遗产"
-    },
     "https://openai.com/index/ten-advances-in-mathematics/": {
       "date": "2026-08-04",
       "title": "十项数学与理论计算机科学最新进展"
@@ -760,6 +684,94 @@
     "https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html": {
       "date": "2026-08-10",
       "title": "Windows 11 内置天气应用占用超过 1 GB 内存"
+    },
+    "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model": {
+      "date": "2026-08-11",
+      "title": "Meta 发布 Muse Glimmer 30B 模型，用于本地代理工作流"
+    },
+    "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878": {
+      "date": "2026-08-11",
+      "title": "扎克伯格批评封闭式 AI 竞争对手，重申 Meta 对开源的承诺"
+    },
+    "https://www.vectorware.com/blog/simd-on-gpu/": {
+      "date": "2026-08-11",
+      "title": "Rust SIMD 抽象应用于 GPU 编程"
+    },
+    "https://cactuscompute.com/needle": {
+      "date": "2026-08-11",
+      "title": "Needle2：适用于边缘设备的 14MB 代理型 LLM，具备工具使用能力"
+    },
+    "https://www.stoaexchange.com/": {
+      "date": "2026-08-11",
+      "title": "Stoa Markets 推出 YC 支持的 GPU 和 AI 服务器市场"
+    },
+    "https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii": {
+      "date": "2026-08-11",
+      "title": "利用极长中断指令利用系统管理模式"
+    },
+    "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb": {
+      "date": "2026-08-11",
+      "title": "文章认为过度拟人化的 LLM 输出适得其反"
+    },
+    "https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/": {
+      "date": "2026-08-11",
+      "title": "亚马逊在气候承诺背后投资大型燃气电厂"
+    },
+    "https://ethw.org/Milestones:Parametron,_1954": {
+      "date": "2026-08-11",
+      "title": "参数子：1950 年代日本使用磁逻辑而非电子管或晶体管的计算机"
+    },
+    "https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs": {
+      "date": "2026-08-11",
+      "title": "分析揭示 LLM 知识截止时间如何反映预训练时间线"
+    },
+    "https://bobdahacker.com/blog/tldv-hack": {
+      "date": "2026-08-11",
+      "title": "Tl;dv 因共享设置错误配置导致超过 18 万次会议暴露"
+    },
+    "https://www.docker.com/products/docker-sandboxes/": {
+      "date": "2026-08-11",
+      "title": "Docker 推出基于微 VM 的安全 AI 代理执行沙箱"
+    },
+    "https://arxiv.org/abs/2607.29380": {
+      "date": "2026-08-11",
+      "title": "AI 过度使用威胁人类技能成长和导师机会"
+    },
+    "https://simonwillison.net/2026/Aug/10/openclaw/#atom-everything": {
+      "date": "2026-08-11",
+      "title": "AI 助手利用健身房 API 漏洞取消他人预约"
+    },
+    "https://linuxstans.com/illinois-hb5511-operating-system-age-verification/": {
+      "date": "2026-08-11",
+      "title": "伊利诺伊州通过法律要求操作系统实施年龄验证，引发开源社区争论"
+    },
+    "https://squeak.org/release_notes/6.1/": {
+      "date": "2026-08-11",
+      "title": "Squeak 6.1 作为开源 Smalltalk 环境的次要更新发布"
+    },
+    "https://openai.com/index/responsible-ai-infrastructure-texas/": {
+      "date": "2026-08-11",
+      "title": "OpenAI 致信德州州长，阐述负责任 AI 基础设施原则"
+    },
+    "https://lwn.net/Articles/1034703/": {
+      "date": "2026-08-11",
+      "title": "C 语言中的尾调用优化在 2025 年变得可靠"
+    },
+    "https://www.massaschadeconsument.nl/collectieve-acties/playstation/": {
+      "date": "2026-08-11",
+      "title": "荷兰消费者团体因 PlayStation 数字游戏代码限制起诉索尼"
+    },
+    "https://www.beautifulpublicdata.com/boat-names/": {
+      "date": "2026-08-11",
+      "title": "对 5 万艘船名的分析揭示命名趋势和模式"
+    },
+    "https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/#atom-everything": {
+      "date": "2026-08-11",
+      "title": "GitHub Models 服务已退役，统一 LLM API 访问终止"
+    },
+    "https://jackschaedler.github.io/handwriting-recognition/": {
+      "date": "2026-08-11",
+      "title": "2016 年博客文章回顾手写识别技术"
     }
   }
 }
