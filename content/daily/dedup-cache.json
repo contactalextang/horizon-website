@@ -1,102 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "https://openai.com/index/ten-advances-in-mathematics/": {
-      "date": "2026-08-04",
-      "title": "十项数学与理论计算机科学最新进展"
-    },
-    "https://blog.exe.dev/devtools-must-be-open-source": {
-      "date": "2026-08-04",
-      "title": "开发者工具必须开源"
-    },
-    "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui": {
-      "date": "2026-08-04",
-      "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video"
-    },
-    "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse": {
-      "date": "2026-08-04",
-      "title": "Andy Pavlo 加入 ClickHouse 成立 ClickHouse Labs 研究实验室。"
-    },
-    "https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md": {
-      "date": "2026-08-04",
-      "title": "Rust 项目目标：不可移动类型和保证析构函数"
-    },
-    "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/": {
-      "date": "2026-08-04",
-      "title": "关于最近 SQLite CVEs 是真实漏洞还是 LLM 生成的争论"
-    },
-    "https://www.seangoedecke.com/llms-reward-expertise/": {
-      "date": "2026-08-04",
-      "title": "大语言模型奖励深度专业知识而非表面提示"
-    },
-    "https://github.com/lyogavin/airllm": {
-      "date": "2026-08-04",
-      "title": "AirLLM 使单张 4GB GPU 能够运行 70B 参数语言模型。"
-    },
-    "https://status.digdir.no/incidents/d7hvqmf2yr3l": {
-      "date": "2026-08-04",
-      "title": "DDoS 攻击导致挪威政府 ID-Porten 登录网关中断"
-    },
-    "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase": {
-      "date": "2026-08-04",
-      "title": "庆祝 Kermit45 周年及时隔 15 年发布全新 C-Kermit"
-    },
-    "https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real": {
-      "date": "2026-08-04",
-      "title": "邓宁-克鲁格效应可能只是数据工件（2020）"
-    },
-    "https://github.com/janestreet/bonsai": {
-      "date": "2026-08-04",
-      "title": "Jane Street 发布 Bonsai，一种用于全栈开发的 OCaml UI 库"
-    },
-    "https://github.com/MikeLuu99/searxng-rust": {
-      "date": "2026-08-04",
-      "title": "SearXNG 的 Rust 重新实现发布"
-    },
-    "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/": {
-      "date": "2026-08-04",
-      "title": "手动重新输入 LLM 生成的代码可减少认知债务"
-    },
-    "https://simonwillison.net/2026/Aug/3/devtools-must-be-open-source-exedev/#atom-everything": {
-      "date": "2026-08-04",
-      "title": "Simon Willison 认为 LLMs 让开源开发工具更易于修改。"
-    },
-    "https://blog.cloudflare.com/billable-usage-api/": {
-      "date": "2026-08-04",
-      "title": "Cloudflare 推出可编程计费使用 API 以实现成本可见性"
-    },
-    "https://hoplite.sh/": {
-      "date": "2026-08-04",
-      "title": "Hoplite（YC S26）发布：轻松部署云端编码代理"
-    },
-    "https://armature.tech/": {
-      "date": "2026-08-04",
-      "title": "Armature 推出 MCP 代理会话分析 SDK 与评估工具"
-    },
-    "https://pandoc.org/twenty-years-of-pandoc.html": {
-      "date": "2026-08-04",
-      "title": "Pandoc 二十周年"
-    },
-    "https://dmarcguard.io/blog/spf-record-syntax/": {
-      "date": "2026-08-04",
-      "title": "SPF 记录语法教程：机制、限定符、修饰符和宏"
-    },
-    "https://hamvocke.com/blog/task-runners/": {
-      "date": "2026-08-04",
-      "title": "使用任务运行器处理常见编码任务。"
-    },
-    "https://simonwillison.net/2026/Aug/3/david-crawshaw/#atom-everything": {
-      "date": "2026-08-04",
-      "title": "David Crawshaw 建议使用夜间 cron 作业自动更新分支"
-    },
-    "https://github.com/SwagSoftware/KisakCOD": {
-      "date": "2026-08-04",
-      "title": "KisakCOD：使命召唤 4 多人模式的开源重新实现"
-    },
-    "https://bumbershootsoft.wordpress.com/2026/08/01/zx-spectrum-system-tour-sound/": {
-      "date": "2026-08-04",
-      "title": "ZX Spectrum 系统之旅：声音"
-    },
     "https://mistral.ai/news/shieldstral/": {
       "date": "2026-08-05",
       "title": "Mistral 发布 Shieldstral：3B 开放权重多模态内容审核模型"
@@ -772,6 +676,102 @@
     "https://jackschaedler.github.io/handwriting-recognition/": {
       "date": "2026-08-11",
       "title": "2016 年博客文章回顾手写识别技术"
+    },
+    "https://ngrok.com/blog/compression-is-prediction": {
+      "date": "2026-08-12",
+      "title": "压缩与预测在本质上是等价的"
+    },
+    "https://stolen-thoughts.com/": {
+      "date": "2026-08-12",
+      "title": "研究人员从专有 LLM API 中提取推理痕迹"
+    },
+    "https://www.btp.police.uk/news/btp/news/england/btp-expands-live-facial-recognition-lfr-trial-into-london-underground-stations/": {
+      "date": "2026-08-12",
+      "title": "英国交通警察将实时人脸识别试点扩展至伦敦地铁站"
+    },
+    "https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/#atom-everything": {
+      "date": "2026-08-12",
+      "title": "Meta 发布 Muse Glimmer 30B 开放权重模型，专注于代理任务"
+    },
+    "https://arxiv.org/abs/2601.01828": {
+      "date": "2026-08-12",
+      "title": "论文探讨大型语言模型中的涌现内省觉察"
+    },
+    "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/": {
+      "date": "2026-08-12",
+      "title": "NVIDIA 发布 Nemotron 3.5 Lightning 和 NeMo Switchyard 以实现高效 AI"
+    },
+    "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0": {
+      "date": "2026-08-12",
+      "title": "OpenAI 伦理主管 Chloe Bakalar 在任不足一年后离职"
+    },
+    "https://stratechery.com/2026/nvidias-risky-business/": {
+      "date": "2026-08-12",
+      "title": "Nvidia 面临软件摩擦和 AI 需求被高估的风险"
+    },
+    "https://www.openssh.org/releasenotes.html#10.5": {
+      "date": "2026-08-12",
+      "title": "OpenSSH 10.5 发布，新增 ssh -Z 模式并加快发布周期"
+    },
+    "https://github.com/antirez/h3.c": {
+      "date": "2026-08-12",
+      "title": "H3-metal 实现 MiniMax-H3 视频扩散模型在苹果硅上的原生运行"
+    },
+    "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm": {
+      "date": "2026-08-12",
+      "title": "通过 MITM 代理分析 GitHub Copilot 流量揭示模型路由和上下文注入"
+    },
+    "https://economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment": {
+      "date": "2026-08-12",
+      "title": "新兴脑靶向疗法可能产生类似奥西匹克的变革性影响"
+    },
+    "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here": {
+      "date": "2026-08-12",
+      "title": "Mojo 1.0 发布，作为类似 Python 的高性能 AI/ML 编程语言"
+    },
+    "https://blog.jordan.matelsky.com/Penplotter-holography/": {
+      "date": "2026-08-12",
+      "title": "使用笔式绘图仪和磨蚀全息术创建全息效果"
+    },
+    "https://www.bbc.com/news/articles/c75gk620r22o": {
+      "date": "2026-08-12",
+      "title": "英格兰通过扩大筛查有望成为首批消除丙肝的国家之一"
+    },
+    "https://x.ai/bot": {
+      "date": "2026-08-12",
+      "title": "xAI 推出 Grok Bot 实现自主网页交互"
+    },
+    "https://github.com/TheRealYT/git-knife": {
+      "date": "2026-08-12",
+      "title": "Git-knife：类似电子表格的 Git 提交元数据编辑工具"
+    },
+    "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md": {
+      "date": "2026-08-12",
+      "title": "修复 macOS 虚拟机中的 GPU 内核选择问题，显著提升 Apple Silicon 上 llama.cpp 的推理速度"
+    },
+    "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/": {
+      "date": "2026-08-12",
+      "title": "腾讯混元发布 WorldClaw，实现 AI 代理驱动的大规模 3D 开放世界生成"
+    },
+    "https://ironicsans.ghost.io/how-we-used-to-get-jobs/": {
+      "date": "2026-08-12",
+      "title": "回顾互联网前通过报纸分类广告找工作的方式"
+    },
+    "https://writemd.app/": {
+      "date": "2026-08-12",
+      "title": "Write.md 发布为 macOS 免费开源可主题化 Markdown 编辑器"
+    },
+    "https://www.suzanne3d.com/": {
+      "date": "2026-08-12",
+      "title": "Suzanne：用于设计和制造实物产品的 AI 工具"
+    },
+    "https://master.dev/blog/typographic-css-tricks/": {
+      "date": "2026-08-12",
+      "title": "提升文本设计的必备 CSS 属性指南"
+    },
+    "https://www.paradigm.xyz/writing/rsi-simulator": {
+      "date": "2026-08-12",
+      "title": "Paradigm 推出交互式 RSI 模拟器，用于技术分析学习"
     }
   }
 }
