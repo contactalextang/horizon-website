@@ -1,102 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "https://mistral.ai/news/shieldstral/": {
-      "date": "2026-08-05",
-      "title": "Mistral 发布 Shieldstral：3B 开放权重多模态内容审核模型"
-    },
-    "https://waymo.com/blog/shorts/dallas-open-to-all/": {
-      "date": "2026-08-05",
-      "title": "Waymo 在达拉斯推出公开自动驾驶叫车服务"
-    },
-    "https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/": {
-      "date": "2026-08-05",
-      "title": "类似 FedEx 的可信通信如何通过混淆域名助长钓鱼攻击"
-    },
-    "https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml": {
-      "date": "2026-08-05",
-      "title": "Oxide Computer 获得 4.45 亿美元 D 轮融资"
-    },
-    "https://github.com/ryanzhou/deepseek-v4-flash-mi300x": {
-      "date": "2026-08-05",
-      "title": "DeepSeek V4 Flash 在单张 AMD MI300X GPU 上运行"
-    },
-    "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack": {
-      "date": "2026-08-05",
-      "title": "Keyv 及相关 npm 包在持续的 Shai-Hulud 供应链攻击中被入侵"
-    },
-    "https://arxiv.org/abs/2602.16763": {
-      "date": "2026-08-05",
-      "title": "AI 基准饱和：基准饱和现象的系统研究。"
-    },
-    "https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/": {
-      "date": "2026-08-05",
-      "title": "Xbox Live 服务中断导致光盘游戏无法启动"
-    },
-    "https://lilianweng.github.io/posts/2026-07-04-harness/": {
-      "date": "2026-08-05",
-      "title": "利用工程实现 AI 代理自我提升"
-    },
-    "https://simonwillison.net/2026/Aug/4/minimax-h3-mlx/#atom-everything": {
-      "date": "2026-08-05",
-      "title": "MiniMax-H3 多模态模型通过 MLX 移植在 Apple Silicon 上运行"
-    },
-    "https://toneyalexander.github.io/inclusive-color-space/": {
-      "date": "2026-08-05",
-      "title": "Show HN: Simple algorithm and color space to generate diverse skin tones"
-    },
-    "https://www.warp.dev/blog/introducing-the-warp-agent-cli-coding-agent": {
-      "date": "2026-08-05",
-      "title": "Warp 发布 Agent CLI，带来终端 AI 编码助手"
-    },
-    "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1": {
-      "date": "2026-08-05",
-      "title": "Hacker News 分享雷·布拉德伯里 1950 年短篇小说《柳岸轻声雨》"
-    },
-    "https://edotenv.com/": {
-      "date": "2026-08-05",
-      "title": "启动 HN：EdotEnv（YC S26）——量化交易强化学习环境用于教 LLMs 研究"
-    },
-    "https://www.vlt.io/blog/1-0": {
-      "date": "2026-08-05",
-      "title": "Vlt 1.0 发布，附带托管包注册表功能"
-    },
-    "https://hop.earth/?server=lkhr7&route=fQ5nuu9R": {
-      "date": "2026-08-05",
-      "title": "Hop.earth 是一个基于 OpenStreetMap 的开源赛车游戏。"
-    },
-    "https://pudding.cool/2026/06/mow/": {
-      "date": "2026-08-05",
-      "title": "为什么有些人修剪草坪更好"
-    },
-    "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/": {
-      "date": "2026-08-05",
-      "title": "苹果称更多前员工可能将机密数据带往 OpenAI"
-    },
-    "https://www.bfi.org/about-fuller/everything-i-know/": {
-      "date": "2026-08-05",
-      "title": "黑客新闻分享巴克敏斯特·富勒 1975 年《我所知道的一切》演讲"
-    },
-    "https://simonwillison.net/2026/Aug/4/steve-yegge/#atom-everything": {
-      "date": "2026-08-05",
-      "title": "引用 Steve Yegge"
-    },
-    "https://simonwillison.net/2026/Aug/3/dont-be-a-meat-proxy/#atom-everything": {
-      "date": "2026-08-05",
-      "title": "不要成为肉代理。"
-    },
-    "https://adriansieber.com/announcing-perspec-1-0/": {
-      "date": "2026-08-05",
-      "title": "Perspec 1.0 稳定版作为开源透视感知可视化库发布"
-    },
-    "https://www.thisandthat.chat/blog/most-tech-revolutions-made-work-worse-for-employees/": {
-      "date": "2026-08-05",
-      "title": "文章称大多数技术革命恶化了工作；评论者用历史例子反驳"
-    },
-    "https://cdn.prod.website-files.com/663bd486c5e4c81588db7a1d/6a724858f7db25c81487016d_Security%20Incident%20INC-2026-07-28-01.pdf": {
-      "date": "2026-08-05",
-      "title": "英国 AI 安全研究所发布事件报告 INC-2026-07-28-01"
-    },
     "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/": {
       "date": "2026-08-06",
       "title": "Meta 广告投放了含 AI 生成的儿童性虐待图像"
@@ -772,6 +676,114 @@
     "https://www.paradigm.xyz/writing/rsi-simulator": {
       "date": "2026-08-12",
       "title": "Paradigm 推出交互式 RSI 模拟器，用于技术分析学习"
+    },
+    "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/": {
+      "date": "2026-08-13",
+      "title": "研究人员通过重放攻击从专有 LLM API 窃取推理轨迹"
+    },
+    "https://tailscale.com/blog/sqlite-wal-reset-bug": {
+      "date": "2026-08-13",
+      "title": "Tailscale 追踪数据库损坏至 SQLite 16 年前的 WAL 重置错误"
+    },
+    "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B": {
+      "date": "2026-08-13",
+      "title": "Qwen3.8-2.4T-A95B 发布：2.4 万亿参数 MoE 模型，性能媲美 Opus 4.5"
+    },
+    "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html": {
+      "date": "2026-08-13",
+      "title": "AI 工具正在取代中级软件工程师"
+    },
+    "https://woxi.ad-si.com/": {
+      "date": "2026-08-13",
+      "title": "Woxi：用 Rust 编写的开源 Wolfram Language 解释器"
+    },
+    "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/": {
+      "date": "2026-08-13",
+      "title": "LLMs 在数学采样和搜索方面表现出色，而非纯粹演绎"
+    },
+    "https://openrouter.ai/deepseek/deepseek-v4-pro-0813": {
+      "date": "2026-08-13",
+      "title": "DeepSeek V4 Pro 0813 在 OpenRouter 上发布，具有竞争力的定价"
+    },
+    "https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/": {
+      "date": "2026-08-13",
+      "title": "通过 WebSockets 传输 HTML 实现近乎零 JavaScript 的实时 SPA"
+    },
+    "https://discoveredmaterials.com/research/": {
+      "date": "2026-08-13",
+      "title": "Discovered Materials 推出 AI 代理用于半导体材料发现"
+    },
+    "https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/": {
+      "date": "2026-08-13",
+      "title": "车牌读取器搜索应要求持有搜查令"
+    },
+    "https://climate.metoffice.cloud/glaciers.html": {
+      "date": "2026-08-13",
+      "title": "英国气象局推出冰川仪表板，展示加速冰川质量损失"
+    },
+    "https://simonwillison.net/2026/Aug/12/florian-herrengt/": {
+      "date": "2026-08-13",
+      "title": "AI 依赖削弱工程师对复杂系统的理解"
+    },
+    "https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-language-text/": {
+      "date": "2026-08-13",
+      "title": "自然语言文本无无损转换"
+    },
+    "https://antithesis.com/blog/2026/wal-reset-bug/": {
+      "date": "2026-08-13",
+      "title": "WAL 重置机制中的错误导致数据不一致"
+    },
+    "https://zed.dev/blog/introducing-delta": {
+      "date": "2026-08-13",
+      "title": "Zed 编辑器推出 Delta 功能，实现实时 AI 辅助协作编程"
+    },
+    "https://jonty.github.io/2026_eclipse_webcams/": {
+      "date": "2026-08-13",
+      "title": "个人网页项目为 2026 年日食提供实时网络摄像头画面"
+    },
+    "https://knownagents.com/insights": {
+      "date": "2026-08-13",
+      "title": "攻击者伪装 AI 机器人 User-Agent 进行大规模漏洞扫描"
+    },
+    "https://x.ai/news/grok-4-6": {
+      "date": "2026-08-13",
+      "title": "xAI 发布 Grok 4.6，引发系统提示词争议"
+    },
+    "https://guillaumetech.github.io/posts/jpg-scaling-chrome/": {
+      "date": "2026-08-13",
+      "title": "Chrome 的缩放算法导致微小 JPEG 渲染异常"
+    },
+    "https://digitalescapetools.com/2026/08/ublock-origin-stops-chasing-facebook-ads.html": {
+      "date": "2026-08-13",
+      "title": "uBlock Origin 放弃阻止 Facebook 广告，因平台反广告拦截措施日益有效"
+    },
+    "https://lovable.dev/blog/series-c": {
+      "date": "2026-08-13",
+      "title": "Lovable 获得 4 亿美元 C 轮融资，以推进其 AI 驱动的应用开发平台"
+    },
+    "https://shademap.app/": {
+      "date": "2026-08-13",
+      "title": "Shade Map：交互式工具可视化地形影响的阳光与阴影模式"
+    },
+    "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html": {
+      "date": "2026-08-13",
+      "title": "AmigaDOS 开发者 Tim King 去世"
+    },
+    "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/": {
+      "date": "2026-08-13",
+      "title": "谷歌宣布 Pixel Watch 5 具备 AI 驱动的健康趋势功能"
+    },
+    "https://timer.jotaen.net/": {
+      "date": "2026-08-13",
+      "title": "可编程静态网页计时器应用用于健身，将训练方案编码在 URL 中"
+    },
+    "https://github.com/spinabot/brigade": {
+      "date": "2026-08-13",
+      "title": "基于 TypeScript 的个人智能工具 Brigade 在 24 小时内获得 21 颗星"
+    },
+    "https://github.com/cathrynlavery/diagram-design": {
+      "date": "2026-08-13",
+      "title": "新 GitHub 仓库提供 13 个自包含的 HTML+SVG 图表模板，供 Claude Code 使用"
     }
   }
 }
