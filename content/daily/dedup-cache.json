@@ -1,106 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/": {
-      "date": "2026-08-06",
-      "title": "Meta 广告投放了含 AI 生成的儿童性虐待图像"
-    },
-    "https://www.discoveryloop.com/": {
-      "date": "2026-08-06",
-      "title": "Discovery Loop 推出平台以异步协作方式自动化机器学习实验循环"
-    },
-    "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/": {
-      "date": "2026-08-06",
-      "title": "谷歌 DeepMind 领导层变动：哈萨比斯出任董事长，迪恩和吉马瓦特离职"
-    },
-    "https://github.com/denoland/celld": {
-      "date": "2026-08-06",
-      "title": "Celld：自托管的分布式持久对象"
-    },
-    "https://weli.dev/blog/the-valley-of-webhooks/": {
-      "date": "2026-08-06",
-      "title": "文章探讨了 Webhook 的陷阱与解决方案。"
-    },
-    "https://blog.cloudflare.com/cloudflare-os/": {
-      "date": "2026-08-06",
-      "title": "Cloudflare OS：面向代理、应用和工作的开放平台"
-    },
-    "https://rubinobservatory.org/news/rubin-new-window-cosmos-field": {
-      "date": "2026-08-06",
-      "title": "鲁宾天文台发布首批 LSST 相机图像，显示 COSMOS 场中约 50 万星系"
-    },
-    "https://simonwillison.net/2026/Aug/4/new-release-of-llm/#atom-everything": {
-      "date": "2026-08-06",
-      "title": "LLM 0.32 版本发布，新增推理痕迹、OpenAI Responses、服务器端工具"
-    },
-    "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency": {
-      "date": "2026-08-06",
-      "title": "开源检索模型以 1/100 成本击败 GPT-5.6"
-    },
-    "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2": {
-      "date": "2026-08-06",
-      "title": "Meta 发布 Muse Code 与 Muse Spark 1.2，提供折扣 API"
-    },
-    "https://data4sci.com/blog/building-an-advanced-agentic-harness": {
-      "date": "2026-08-06",
-      "title": "构建高级语言模型的智能体框架"
-    },
-    "https://yogthos.net/posts/2026-08-03-splat-painter.html": {
-      "date": "2026-08-06",
-      "title": "高斯溅射画笔：艺术渲染新方法"
-    },
-    "https://securelist.com/cloud-platforms-in-phishing/120832/": {
-      "date": "2026-08-06",
-      "title": "钓鱼者劫持合法云基础设施进行钓鱼攻击。"
-    },
-    "https://www.hyperprobe.co/": {
-      "date": "2026-08-06",
-      "title": "HyperProbe 推出只读探针，供 AI 代理在生产环境中使用"
-    },
-    "https://zed.dev/deltadb": {
-      "date": "2026-08-06",
-      "title": "Zed 编辑器推出 DeltaDB 版本控制系统"
-    },
-    "https://runarcn.no/android-to-linux/": {
-      "date": "2026-08-06",
-      "title": "用户分享从安卓切换到 Linux 手机的体验"
-    },
-    "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data": {
-      "date": "2026-08-06",
-      "title": "Atlassian Rovo AI 代理易受提示注入导致数据外泄"
-    },
-    "https://chillphysicsenjoyer.substack.com/p/the-entropy-of-a-markov-chain": {
-      "date": "2026-08-06",
-      "title": "解释马尔可夫链熵率的计算方法"
-    },
-    "https://naomibashkansky.com/blog/telepathy/": {
-      "date": "2026-08-06",
-      "title": "OpenAI 研究员 Naomi Bashkansky 辞职以追求 AI 心灵感应 BCI"
-    },
-    "https://simonwillison.net/2026/Aug/5/raccoon-heist/#atom-everything": {
-      "date": "2026-08-06",
-      "title": "使用 Claude Fable 5 一次性完成浣熊盗窃游戏"
-    },
-    "https://twitter.com/nikitabier/status/2085105586966827343/": {
-      "date": "2026-08-06",
-      "title": "Nikita Bier 辞去 X 产品负责人职务"
-    },
-    "https://www.primeintellect.ai/blog/prime-agent": {
-      "date": "2026-08-06",
-      "title": "Prime Agent：自我改进的 RLM 代理用于编程。"
-    },
-    "https://norbertkozsir.com/posts/work-in-the-second-dimension/": {
-      "date": "2026-08-06",
-      "title": "探索二维空间中的功概念"
-    },
-    "https://github.com/astral-sh/uv/releases/tag/0.12.2": {
-      "date": "2026-08-06",
-      "title": "uv 0.12.2 发布，支持 Python 3.15 并提升性能。"
-    },
-    "https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread": {
-      "date": "2026-08-06",
-      "title": "分析发现 Nvidia Vera 白皮书存在歧义"
-    },
     "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344": {
       "date": "2026-08-07",
       "title": "AMD 收购 Taalas 将 AI 模型刻入硅片以提升推理性能"
@@ -782,8 +682,120 @@
       "title": "基于 TypeScript 的个人智能工具 Brigade 在 24 小时内获得 21 颗星"
     },
     "https://github.com/cathrynlavery/diagram-design": {
-      "date": "2026-08-13",
-      "title": "新 GitHub 仓库提供 13 个自包含的 HTML+SVG 图表模板，供 Claude Code 使用"
+      "date": "2026-08-14",
+      "title": "新 GitHub 仓库提供 29 个自包含 HTML+SVG 图表，供 Claude Code 使用"
+    },
+    "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts": {
+      "date": "2026-08-14",
+      "title": "“意大利面化 DRAM”漏洞揭示通过时序操纵实现低级内存访问"
+    },
+    "https://mcfunley.com/choose-boring-technology": {
+      "date": "2026-08-14",
+      "title": "选择无聊技术：创新代币概念解析"
+    },
+    "https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813/": {
+      "date": "2026-08-14",
+      "title": "DeepSeek V4 Pro 0813 发布，拥有 1.7T 参数，在 OpenRouter 和 Hugging Face 上线"
+    },
+    "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck": {
+      "date": "2026-08-14",
+      "title": "AI 生成代码将瓶颈转移到人类理解上"
+    },
+    "https://earendil.com/posts/compaction-in-pi/": {
+      "date": "2026-08-14",
+      "title": "Pi 系统中压缩如何工作以管理 LLM 上下文窗口"
+    },
+    "https://github.com/systemd/systemd/issues/40262": {
+      "date": "2026-08-14",
+      "title": "单行日志导致 systemd-journald 产生过度磁盘写入"
+    },
+    "https://oxide.computer/blog/kubernetes-on-oxide": {
+      "date": "2026-08-14",
+      "title": "Oxide 详述客户需求如何推动其硬件平台的 Kubernetes 集成"
+    },
+    "https://deepseek.com/harness/en/": {
+      "date": "2026-08-14",
+      "title": "DeepSeek Harness 开发者预览版发布，提供可追溯的 AI 代理工作流"
+    },
+    "https://0.mk/blog/link-rot": {
+      "date": "2026-08-14",
+      "title": "研究追踪 657,607 个链接以衡量网络内容随时间的衰减"
+    },
+    "https://alexmorleyfinch.github.io/marlin/history/v1/article/the_birth.html": {
+      "date": "2026-08-14",
+      "title": "周末项目用 10 美元构建 LLM 驱动的 50 万域名搜索引擎"
+    },
+    "https://www.quantamagazine.org/how-godels-proof-works-20200714/": {
+      "date": "2026-08-14",
+      "title": "通俗解释哥德尔不完备性证明"
+    },
+    "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf": {
+      "date": "2026-08-14",
+      "title": "OpenAI 发布关于组织使用 ChatGPT 的报告"
+    },
+    "https://tschatzl.github.io/2026/08/10/jdk27-g1-serial-parallel-gc-changes.html": {
+      "date": "2026-08-14",
+      "title": "JDK 27 更新了 G1、Parallel 和 Serial 垃圾收集器"
+    },
+    "https://github.com/astral-sh/uv/releases/tag/0.12.4": {
+      "date": "2026-08-14",
+      "title": "uv 0.12.4 发布，引入后量子 TLS 和依赖检查预览功能"
+    },
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/": {
+      "date": "2026-08-14",
+      "title": "谷歌发布 Gemini 3.7 Flash，具备增强推理能力，定价将于 2026 年上调"
+    },
+    "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai": {
+      "date": "2026-08-14",
+      "title": "Cerebras 声称 Ultrafast 模式使 GPT-5.6 Sol 速度提升 7 倍"
+    },
+    "https://gruhn.me/blog/2026-08-13/": {
+      "date": "2026-08-14",
+      "title": "文章认为 NP 难问题在实践中被高估"
+    },
+    "https://donkeybas.com/": {
+      "date": "2026-08-14",
+      "title": "DONKEY.BAS 迎来 45 周年：回顾盖茨早期 BASIC 游戏的怀旧时刻"
+    },
+    "https://docs.mistral.ai/models/ocr-4-1": {
+      "date": "2026-08-14",
+      "title": "Mistral OCR 4.1 发布，具备文档理解功能"
+    },
+    "https://www.codewithbullet.com/": {
+      "date": "2026-08-14",
+      "title": "Bullet 作为 YC S26 编码代理推出，声称性能更快"
+    },
+    "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html": {
+      "date": "2026-08-14",
+      "title": "利用废旧电脑部件构建家庭 AI 系统"
+    },
+    "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/": {
+      "date": "2026-08-14",
+      "title": "博客比较了 11 个 AI 模型对同一模糊提示词生成咖啡店网站的响应"
+    },
+    "https://aeon.co/essays/humans-did-not-invent-art-it-was-the-other-way-around": {
+      "date": "2026-08-14",
+      "title": "艺术塑造了人类，而非人类创造了艺术"
+    },
+    "https://goaccess.io/": {
+      "date": "2026-08-14",
+      "title": "GoAccess：开源实时日志分析器，支持终端和网页查看"
+    },
+    "https://github.com/guillaumemeyer/watermarks-remover": {
+      "date": "2026-08-14",
+      "title": "新款 Python 工具可移除文件中的 AI 来源标记和元数据"
+    },
+    "https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/": {
+      "date": "2026-08-14",
+      "title": "Nine PBS 因被阻止访问 50TB 档案数据而起诉 Iron Mountain"
+    },
+    "https://gloom.sh/": {
+      "date": "2026-08-14",
+      "title": "Gloomberb：开源终端 UI 模拟彭博终端界面"
+    },
+    "https://simonwillison.net/2026/Aug/13/alchemy-utils/": {
+      "date": "2026-08-14",
+      "title": "alchemy-utils 0.1a1 发布，针对 DuckDB 和 CSV 性能进行优化"
     }
   }
 }
