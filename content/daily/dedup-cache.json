@@ -1,106 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344": {
-      "date": "2026-08-07",
-      "title": "AMD 收购 Taalas 将 AI 模型刻入硅片以提升推理性能"
-    },
-    "https://simonwillison.net/2026/Aug/6/datasette/#atom-everything": {
-      "date": "2026-08-07",
-      "title": "Datasette 1.0a38 修补了混合访问数据库中的 SQL 注入漏洞"
-    },
-    "https://simonwillison.net/2026/Aug/5/incident-report/#atom-everything": {
-      "date": "2026-08-07",
-      "title": "英国 AI 安全研究所报告称 AI 代理在网络测试中进行未授权行为"
-    },
-    "https://github.com/V4bel/Zapscape": {
-      "date": "2026-08-07",
-      "title": "Zapscape 利用揭露 KVM/x86 关键客机到宿主逃逸漏洞（CVE-2026-64561）"
-    },
-    "https://www.mayerowitz.io/blog/mario-meets-pareto": {
-      "date": "2026-08-07",
-      "title": "将帕累托前沿应用于日常决策和软件设计"
-    },
-    "https://herdr.dev/blog/herdr-is-joining-y-combinator/": {
-      "date": "2026-08-07",
-      "title": "Herdr 加入 Y Combinator，运行时保持开源"
-    },
-    "https://provenmetal.com/": {
-      "date": "2026-08-07",
-      "title": "ProvenMetal 推出美国快速国内 PCB 组装服务"
-    },
-    "https://notashelf.dev/posts/taste-is-all-thats-left": {
-      "date": "2026-08-07",
-      "title": "在 AI 辅助编程时代，品味仍是软件开发的决定性因素"
-    },
-    "https://artificialanalysis.ai/?intelligence=agentic-index": {
-      "date": "2026-08-07",
-      "title": "Qwen3.8 Max 荣登 Agentic Index 首位，显示强大的 agentic 能力"
-    },
-    "https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/#atom-everything": {
-      "date": "2026-08-07",
-      "title": "Meta 的 Muse Spark AI 模型在测试期间意外入侵另一家公司系统"
-    },
-    "https://blog.janestreet.com/can-you-reverse-engineer-an-asic/": {
-      "date": "2026-08-07",
-      "title": "评估反向工程 ASIC 的可行性"
-    },
-    "https://slayersclub.bethesda.net/en-US/news/quake-30th-anniversary-update": {
-      "date": "2026-08-07",
-      "title": "《雷神之锤》迎来免费 30 周年纪念更新，包含新章节"
-    },
-    "https://www.githubstatus.com/incidents/qcvjkzcs7j74": {
-      "date": "2026-08-07",
-      "title": "GitHub Actions 和 Pages 出现可用性下降"
-    },
-    "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/": {
-      "date": "2026-08-07",
-      "title": "OpenAI 改进 GPT-5.6 Sol 并扩展免费用户对 GPT-5.6 Luna 的访问，包括推理切换开关"
-    },
-    "https://mastodon.gamedev.place/@rygorous/117047697255584965": {
-      "date": "2026-08-07",
-      "title": "手机防盗检测系统将跑步误判为可疑行为"
-    },
-    "https://scalex.dev/blog/ai-agent-permissions-stats/": {
-      "date": "2026-08-07",
-      "title": "在 AI 代理权限游戏中，人类漏掉了三分之一的威胁"
-    },
-    "https://github.com/CopilotKit/channels-sdk": {
-      "date": "2026-08-07",
-      "title": "Channels SDK 使 AI 代理能够在 Slack 和 Microsoft Teams 上运行"
-    },
-    "https://simonwillison.net/2026/Aug/5/muse-code-and-muse-spark-12/#atom-everything": {
-      "date": "2026-08-07",
-      "title": "Meta 发布 Muse Spark 1.2 和 Muse Code 以增强 AI 编码能力"
-    },
-    "https://simonwillison.net/2026/Aug/5/third-party-cyber-evaluations/#atom-everything": {
-      "date": "2026-08-07",
-      "title": "OpenAI 模型在第三方网络测试中意外获得公共互联网访问权限"
-    },
-    "https://github.com/mattdeeds/pokeemerald-rp2350": {
-      "date": "2026-08-07",
-      "title": "宝可梦绿宝石移植至树莓派 Pico 2 原生运行"
-    },
-    "https://www.aleksagordic.com/blog/vllm": {
-      "date": "2026-08-07",
-      "title": "vLLM 高吞吐 LLM 推理架构的技术深度解析"
-    },
-    "https://www.sciencedaily.com/releases/2026/08/260803080917.htm": {
-      "date": "2026-08-07",
-      "title": "生物工程咀嚼胶靶向致癌口腔微生物"
-    },
-    "https://www.pbs.org/newshour/world/civilians-that-were-under-siege-by-a-mexican-cartel-fight-back-with-ak-47s-and-grenades": {
-      "date": "2026-08-07",
-      "title": "墨西哥平民组织武装自卫团体以对抗卡特尔围困"
-    },
-    "https://www.nbcnews.com/business/media/federal-communications-commission-scraps-limit-broadcast-tv-ownership-rcna587641": {
-      "date": "2026-08-07",
-      "title": "联邦通信委员会取消全国广播电视所有权上限"
-    },
-    "https://simonwillison.net/2026/Aug/6/simon-willison-on-technical-blogging/#atom-everything": {
-      "date": "2026-08-07",
-      "title": "Simon Willison 在访谈中分享技术博客写作建议"
-    },
     "https://www.sdss.org/black-hole-mapper-release-20/": {
       "date": "2026-08-08",
       "title": "全天图揭示超过 50 万个超大质量黑洞"
@@ -682,8 +582,8 @@
       "title": "基于 TypeScript 的个人智能工具 Brigade 在 24 小时内获得 21 颗星"
     },
     "https://github.com/cathrynlavery/diagram-design": {
-      "date": "2026-08-14",
-      "title": "新 GitHub 仓库提供 29 个自包含 HTML+SVG 图表，供 Claude Code 使用"
+      "date": "2026-08-15",
+      "title": "新 GitHub 仓库 diagram-design 提供 29 个自包含 HTML+SVG 图表，供 Claude Code 使用"
     },
     "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts": {
       "date": "2026-08-14",
@@ -782,8 +682,8 @@
       "title": "GoAccess：开源实时日志分析器，支持终端和网页查看"
     },
     "https://github.com/guillaumemeyer/watermarks-remover": {
-      "date": "2026-08-14",
-      "title": "新款 Python 工具可移除文件中的 AI 来源标记和元数据"
+      "date": "2026-08-15",
+      "title": "GitHub 仓库在 24 小时内获得 15 颗星的 AI 水印去除工具"
     },
     "https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/": {
       "date": "2026-08-14",
@@ -796,6 +696,90 @@
     "https://simonwillison.net/2026/Aug/13/alchemy-utils/": {
       "date": "2026-08-14",
       "title": "alchemy-utils 0.1a1 发布，针对 DuckDB 和 CSV 性能进行优化"
+    },
+    "https://huggingface.co/Qwen/Qwen3.8-27B-FP8": {
+      "date": "2026-08-15",
+      "title": "Qwen 发布 27B FP8 模型 在 DeepSWE 基准测试中 超越 Opus"
+    },
+    "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/": {
+      "date": "2026-08-15",
+      "title": "文章警告：加密超越执法黑客手段将导致‘Going Dark’"
+    },
+    "https://mun-logadan.github.io/why-does-opus-5-feel-worse/": {
+      "date": "2026-08-15",
+      "title": "Opus 5 在能力提升的同时使用感变差"
+    },
+    "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html": {
+      "date": "2026-08-15",
+      "title": "Firefox 仍是唯一仍支持 uBlock Origin 的主要浏览器"
+    },
+    "https://z.ai/blog/glm-5.3": {
+      "date": "2026-08-15",
+      "title": "GLM-5.3 发布具备 emergent cyber capabilities 的自主安全研究模型"
+    },
+    "https://xn--gckvb8fzb.com/the-temu-fication-of-software-digital-goods-services/": {
+      "date": "2026-08-15",
+      "title": "软件采用 TEMU 的低成本高量模式"
+    },
+    "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/": {
+      "date": "2026-08-15",
+      "title": "谷歌推进同态加密以实现可用的私有 AI"
+    },
+    "https://rustdesk.com/blog/unattended-remote-access-wayland/": {
+      "date": "2026-08-15",
+      "title": "RustDesk 在 Wayland 上实现真正的无人值守远程访问。"
+    },
+    "https://www.mixedbread.com/blog/toast-1": {
+      "date": "2026-08-15",
+      "title": "Mixedbread 发布 Toast 1，一个用于增强搜索的专用大语言模型。"
+    },
+    "https://lxe.github.io/everywebsite/": {
+      "date": "2026-08-15",
+      "title": "讽刺网站《Every Fucking Website》揭露现代网页烦恼。"
+    },
+    "https://luacad.ad-si.com/": {
+      "date": "2026-08-15",
+      "title": "Show HN：LuaCAD —— 用 Lua 脚本编写的参数化 CAD"
+    },
+    "https://github.com/lajosdeme/mole": {
+      "date": "2026-08-15",
+      "title": "Mole 提供开源终端深度研究代理，具预算控制与本地隐私。"
+    },
+    "https://arxiv.org/abs/2608.12700": {
+      "date": "2026-08-15",
+      "title": "LLM 生成 GPU 内核的合同级验证器"
+    },
+    "https://github.com/astral-sh/uv/releases/tag/0.12.5": {
+      "date": "2026-08-15",
+      "title": "uv 0.12.5 发布，支持 CPython 3.10–3.12 并引入预览功能"
+    },
+    "https://www.byhand.ai/": {
+      "date": "2026-08-15",
+      "title": "AI by Hand：模型可解释性研究出版物"
+    },
+    "https://heyjonny.dev/posts/rss-to-eink-newspaper/": {
+      "date": "2026-08-15",
+      "title": "DIY 电子墨水报纸：从 RSS 订阅制作以减少手机屏幕时间"
+    },
+    "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions": {
+      "date": "2026-08-15",
+      "title": "指南分享策略以最大化 Claude Code 会话价值"
+    },
+    "https://simonwillison.net/2026/Aug/14/dont-classify-hallucinate/": {
+      "date": "2026-08-15",
+      "title": "使用 LLM 幻觉生成标签并通过向量嵌入匹配"
+    },
+    "https://arxiv.org/abs/2608.11158": {
+      "date": "2026-08-15",
+      "title": "格罗滕迪克常数的新上下界被确定"
+    },
+    "https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html": {
+      "date": "2026-08-15",
+      "title": "Soup Raiders 开发者解释自建游戏引擎的好处"
+    },
+    "https://simonwillison.net/2026/Aug/13/sqlite-utils-2/": {
+      "date": "2026-08-15",
+      "title": "sqlite-utils 4.2.1 修复 typing-extensions 崩溃。"
     }
   }
 }
