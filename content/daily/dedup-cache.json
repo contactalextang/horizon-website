@@ -1,94 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "https://www.sdss.org/black-hole-mapper-release-20/": {
-      "date": "2026-08-08",
-      "title": "全天图揭示超过 50 万个超大质量黑洞"
-    },
-    "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/": {
-      "date": "2026-08-08",
-      "title": "通过批处理、算子融合和 SIMD，Postgres 在分析场景下提速 300 倍"
-    },
-    "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta": {
-      "date": "2026-08-08",
-      "title": "新墨西哥州法院命令 Meta 支付 5.67 亿美元，因其平台损害儿童心理健康"
-    },
-    "https://arcprize.org/results/deepseek-v4-flash-0731": {
-      "date": "2026-08-08",
-      "title": "DeepSeek V4 Flash 0731 发布，作为高速且成本效益高的语言模型"
-    },
-    "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/": {
-      "date": "2026-08-08",
-      "title": "科技工作者面临日益增长的幻灭感和倦怠"
-    },
-    "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code": {
-      "date": "2026-08-08",
-      "title": "甲骨文禁止向 OpenJDK 提交 AI 生成的代码"
-    },
-    "https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out": {
-      "date": "2026-08-08",
-      "title": "2027 年内存容量因 AI 驱动的 HBM 需求而售罄"
-    },
-    "https://blog.cloudflare.com/kitesurf/": {
-      "date": "2026-08-08",
-      "title": "Cloudflare 发布 Kitesurf，一种运行在 V8 隔离区中的 agent-first 浏览器"
-    },
-    "https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/": {
-      "date": "2026-08-08",
-      "title": "作者应对爬虫攻击：150 万页面网站 99%流量来自机器人"
-    },
-    "https://github.com/Wyzer-Lang/wyzer": {
-      "date": "2026-08-08",
-      "title": "Wyzer 语言引入编舞式编程以防止分布式死锁"
-    },
-    "https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070": {
-      "date": "2026-08-08",
-      "title": "前 NSA 首脑警告：水系统控制器不应连接互联网"
-    },
-    "https://github.com/astral-sh/uv/releases/tag/0.12.3": {
-      "date": "2026-08-08",
-      "title": "uv 0.12.3 发布，支持 CPython 3.13.15 并带来性能改进"
-    },
-    "https://github.com/xoreaxeaxeax/asm-hall-of-shame": {
-      "date": "2026-08-08",
-      "title": "GitHub 仓库按执行慢速对 x86 指令进行排名，用于教育和娱乐"
-    },
-    "https://ancientlibrary.net/": {
-      "date": "2026-08-08",
-      "title": "古代图书馆推出交互式工具，用于解析希腊语和拉丁语文本"
-    },
-    "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/": {
-      "date": "2026-08-08",
-      "title": "OpenAI 回应 AI 智能体通信事件，推出新安全措施"
-    },
-    "https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours": {
-      "date": "2026-08-08",
-      "title": "应用商店因虚假塔罗功能声称拒绝 Dark Hours 应用"
-    },
-    "https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice": {
-      "date": "2026-08-08",
-      "title": "研究提出地球上的生命在热液喷口处独立起源了两次"
-    },
-    "https://textlog.cc/about": {
-      "date": "2026-08-08",
-      "title": "Textlog：一个无 JavaScript、开源的微博客平台"
-    },
-    "https://www.databricks.com/blog/managing-ai-coding-costs-scale": {
-      "date": "2026-08-08",
-      "title": "Databricks 报告称 AI 编码支出降低了 70%"
-    },
-    "https://simonwillison.net/2026/Aug/7/moonlight-mayhem/#atom-everything": {
-      "date": "2026-08-08",
-      "title": "Codex 搭配 GPT-5.6 Sol Ultra 在生成浣熊劫案游戏方面优于 Claude Fable 5"
-    },
-    "https://simonwillison.net/2026/Aug/7/pdfs-are-terrible/#atom-everything": {
-      "date": "2026-08-08",
-      "title": "公司们争先恐后地遏制非工程师工作流导致的 AI 令牌浪费"
-    },
-    "https://quuxplusone.github.io/blog/2026/08/04/mobius-crossword/": {
-      "date": "2026-08-08",
-      "title": "探索莫比乌斯条纹填字游戏的创意设计"
-    },
     "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/": {
       "date": "2026-08-09",
       "title": "DeepMind 的 WeatherNext AI 模型在气旋预报方面取得突破"
@@ -780,6 +692,70 @@
     "https://simonwillison.net/2026/Aug/13/sqlite-utils-2/": {
       "date": "2026-08-15",
       "title": "sqlite-utils 4.2.1 修复 typing-extensions 崩溃。"
+    },
+    "https://sankalp.bearblog.dev/autoresearch/": {
+      "date": "2026-08-16",
+      "title": "作者使用 Codex 将 GPU 内核速度提升 232 倍"
+    },
+    "https://studios.disneyresearch.com/2026/07/16/2d-gaussian-splatting-for-bezier-spline-line-art-vectorization/": {
+      "date": "2026-08-16",
+      "title": "2D 高斯溅射实现贝塞尔样条线稿矢量化"
+    },
+    "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians": {
+      "date": "2026-08-16",
+      "title": "AI 的工作记忆远大于人脑，使其在数学上占优"
+    },
+    "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really": {
+      "date": "2026-08-16",
+      "title": "AI 在药物发现中的现状、局限与前景"
+    },
+    "https://www.dampfkraft.com/ghost-characters.html": {
+      "date": "2026-08-16",
+      "title": "幽灵正在困扰 Unicode"
+    },
+    "https://www.nature.com/articles/d41586-026-02448-x": {
+      "date": "2026-08-16",
+      "title": "争议性脑外科手术声称可逆转阿尔茨海默症状"
+    },
+    "https://printytron.com/": {
+      "date": "2026-08-16",
+      "title": "Printytron：文本到 STL 工具让用户用语言描述零件以进行 3D 打印"
+    },
+    "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html": {
+      "date": "2026-08-16",
+      "title": "Yadda 3.0.0 发布，集成 AI 代理以增强 BDD 测试"
+    },
+    "https://uecker.codeberg.page/2026-07-14.html": {
+      "date": "2026-08-16",
+      "title": "GCC 使用宽指针实现嵌套函数，无需 trampoline"
+    },
+    "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432": {
+      "date": "2026-08-16",
+      "title": "司美格鲁肽与降低预测痴呆风险生物标志物相关"
+    },
+    "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/": {
+      "date": "2026-08-16",
+      "title": "推出家用侧流试纸盒检测蜱虫中的莱姆病细菌"
+    },
+    "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/": {
+      "date": "2026-08-16",
+      "title": "使用 AI 感觉更像领导而非编程"
+    },
+    "https://spectrum.ieee.org/digital-signal-processing": {
+      "date": "2026-08-16",
+      "title": "贝德·刘，数字信号处理先驱，逝世"
+    },
+    "https://www.henrikkarlsson.xyz/p/good-ideas": {
+      "date": "2026-08-16",
+      "title": "探讨培育新思想产生的心理习惯。"
+    },
+    "https://github.com/schapman1974/briskdb": {
+      "date": "2026-08-16",
+      "title": "BriskDB 发布为支持并行写入的开源嵌入式数据库"
+    },
+    "https://github.com/anywhere-labs/deepseek-harness-desktop": {
+      "date": "2026-08-16",
+      "title": "DeepSeek Harness 的 Electron 桌面客户端在 GitHub 上发布"
     }
   }
 }
