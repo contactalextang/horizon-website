@@ -1,145 +1,9 @@
 {
   "version": 1,
   "entries": {
-    "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/": {
-      "date": "2026-08-09",
-      "title": "DeepMind 的 WeatherNext AI 模型在气旋预报方面取得突破"
-    },
-    "https://simonwillison.net/2026/Aug/7/openai-timeline/#atom-everything": {
-      "date": "2026-08-09",
-      "title": "OpenAI 的实验性 AI 代理意外通过 Artifactory 攻击了 Hugging Face"
-    },
-    "https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide": {
-      "date": "2026-08-09",
-      "title": "美国网络司令部人员出现自杀集群事件"
-    },
-    "https://web.njit.edu/~akansu/PAPERS/The%20Unreasonable%20Effectiveness%20of%20Mathematics%20(EP%20Wigner": {
-      "date": "2026-08-09",
-      "title": "维格纳 1960 年论文：数学在自然科学中的非凡有效性"
-    },
-    "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/": {
-      "date": "2026-08-09",
-      "title": "丹麦要求学生进行口头答辩以应对 AI 作弊"
-    },
-    "https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/": {
-      "date": "2026-08-09",
-      "title": "Triton：QEMU 虚拟机的开源 DirectX 11 驱动"
-    },
-    "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers": {
-      "date": "2026-08-09",
-      "title": "对“代码从来不是难点”言论的批评引发开发者讨论"
-    },
-    "https://github.com/xoreaxeaxeax/rosenbridge": {
-      "date": "2026-08-09",
-      "title": "GitHub 项目声称在某些 x86 CPU 中存在硬件后门"
-    },
-    "https://zaneham.github.io/voyager-fds-emulator/": {
-      "date": "2026-08-09",
-      "title": "旅行者 1 号飞行数据子系统(FDS)计算机模拟器发布用于教育用途"
-    },
-    "https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything": {
-      "date": "2026-08-09",
-      "title": "Anthropic 将 Claude Code 的自动模式设为付费计划的默认选项"
-    },
     "https://github.com/PrimeIntellect-ai/prime-agent": {
       "date": "2026-08-10",
       "title": "PrimeAgent：基于 TypeScript 的自改进强化学习编码代理"
-    },
-    "https://github.com/diegosouzapw/OmniRoute": {
-      "date": "2026-08-09",
-      "title": "OmniRoute AI 网关在 24 小时内获得 61 颗星，具备令牌压缩功能"
-    },
-    "https://specification.website/spec/foundations/for-sale-dns/": {
-      "date": "2026-08-09",
-      "title": "新的 DNS TXT 记录标准允许域名标示出售意向"
-    },
-    "https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/": {
-      "date": "2026-08-09",
-      "title": "英特尔最新芯片在性能每瓦特方面挑战 ARM"
-    },
-    "https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country": {
-      "date": "2026-08-09",
-      "title": "亚马逊得克萨斯州数据中心可能成为美国最大污染源"
-    },
-    "https://code.claude.com/docs/en/cross-session-messaging": {
-      "date": "2026-08-09",
-      "title": "Claude Code 新增跨会话消息功能，提升开发者工作流"
-    },
-    "https://github.com/virgiliojr94/book-to-skill": {
-      "date": "2026-08-09",
-      "title": "新 Python 工具可将技术书籍 PDF 转换为 Claude Code 技能"
-    },
-    "https://github.com/pranshuparmar/witr": {
-      "date": "2026-08-09",
-      "title": "witr：基于 Go 的 CLI/TUI 工具用于追踪进程来源，24 小时获 42 颗星"
-    },
-    "https://github.com/google/skills": {
-      "date": "2026-08-09",
-      "title": "谷歌发布面向开发者的开源代理技能仓库"
-    },
-    "https://github.com/andrewyng/openworker": {
-      "date": "2026-08-09",
-      "title": "Andrew Ng 的 OpenWorker 在 24 小时内获得 31 颗星，成为趋势中的 Python AI 工具"
-    },
-    "https://github.com/ifixai-ai/iFixAi": {
-      "date": "2026-08-09",
-      "title": "iFixAi：用于快速审计 AI 代理的 Python 工具"
-    },
-    "https://github.com/TencentCloud/TencentDB-Agent-Memory": {
-      "date": "2026-08-09",
-      "title": "腾讯云发布面向 AI 代理的团队级记忆系统"
-    },
-    "https://github.com/emiliaprotocol/emilia-protocol": {
-      "date": "2026-08-09",
-      "title": "Emilia 协议推出 EMILIA Gate，实现机器行为的可验证授权"
-    },
-    "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/": {
-      "date": "2026-08-09",
-      "title": "Fastmail 推出欧盟数据区域用于电子邮件服务"
-    },
-    "https://github.com/floci-io/floci": {
-      "date": "2026-08-09",
-      "title": "Floci 获得 55 颗星，作为轻量级基于 Java 的 AWS 模拟器替代方案"
-    },
-    "https://github.com/brightdata/cli": {
-      "date": "2026-08-09",
-      "title": "Bright Data CLI 在 24 小时内获得 50 颗星，作为终端网页抓取工具"
-    },
-    "https://github.com/block/buzz": {
-      "date": "2026-08-09",
-      "title": "基于 Rust 的蜂巢思维通信平台 block/buzz 在 24 小时内获得 46 颗星标"
-    },
-    "https://github.com/talivia-group/talivia": {
-      "date": "2026-08-09",
-      "title": "Talivia 推出开源自托管收益优先分析平台"
-    },
-    "https://github.com/emilkowalski/skills": {
-      "date": "2026-08-09",
-      "title": "emilkowalski/skills 资源库在 24 小时内获得 30 颗星标，面向设计工程师"
-    },
-    "https://github.com/zhaoxuya520/reverse-skill": {
-      "date": "2026-08-09",
-      "title": "AI 驱动的逆向工程技能路由器在 GitHub 上获得关注"
-    },
-    "https://github.com/k1tbyte/Wand-Enhancer": {
-      "date": "2026-08-09",
-      "title": "C# 扩展为 Wand (WeMod) 应用添加高级用户体验功能"
-    },
-    "https://github.com/herdrdev/herdr": {
-      "date": "2026-08-09",
-      "title": "基于 Rust 的 Herdr 运行时因编码代理功能在 GitHub 上获得关注"
-    },
-    "https://github.com/stablyai/orca": {
-      "date": "2026-08-09",
-      "title": "Orca：基于 TypeScript 的 Agent 开发环境在 GitHub 上线"
-    },
-    "https://github.com/ZhuLinsen/daily_stock_analysis": {
-      "date": "2026-08-09",
-      "title": "基于 LLM 的多市场股票分析工具在 GitHub 获得关注"
-    },
-    "https://github.com/yusing/godoxy": {
-      "date": "2026-08-09",
-      "title": "基于 Go 的反向代理和容器编排工具在 24 小时内获得 23 颗星"
     },
     "https://www.w3.org/Provider/Style/URI": {
       "date": "2026-08-10",
@@ -756,6 +620,74 @@
     "https://github.com/anywhere-labs/deepseek-harness-desktop": {
       "date": "2026-08-16",
       "title": "DeepSeek Harness 的 Electron 桌面客户端在 GitHub 上发布"
+    },
+    "https://platform.claude.com/docs/en/release-notes/system-prompts": {
+      "date": "2026-08-17",
+      "title": "Anthropic 发布 Claude 模型的更新系统提示"
+    },
+    "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose": {
+      "date": "2026-08-17",
+      "title": "模型故意变笨以降低幻觉。"
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion": {
+      "date": "2026-08-17",
+      "title": "Stripe 以超 70 亿美元收购 AI 初创公司 OpenRouter。"
+    },
+    "https://news.ycombinator.com/item?id=49322107": {
+      "date": "2026-08-17",
+      "title": "Cloudflare 在切换名称服务器时静默注入分析 JavaScript"
+    },
+    "https://rvembedded.com/blog_post/12/": {
+      "date": "2026-08-17",
+      "title": "第三世界嵌入式工程师辩护 RISC‑V 在低成本嵌入式应用中的可行性"
+    },
+    "https://buf.build/blog/protobuf-lsp": {
+      "date": "2026-08-17",
+      "title": "Buf 宣布为 Protocol Buffers 提供 LSP 支持"
+    },
+    "https://ivan-gavran.github.io/0-social-processes-paper": {
+      "date": "2026-08-17",
+      "title": "反对形式验证的论点，五十年后"
+    },
+    "https://vectoral.com/blog/who-are-the-token-brokers": {
+      "date": "2026-08-17",
+      "title": "The AI Credit Resale Economy"
+    },
+    "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios": {
+      "date": "2026-08-17",
+      "title": "Firefox for iOS 现在内置原生广告拦截器。"
+    },
+    "https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core": {
+      "date": "2026-08-17",
+      "title": "圣卢西核电站 1 号机组因三根控制棒落入堆芯而手动停机"
+    },
+    "https://simonwillison.net/2026/Aug/16/qwen-38-27b/": {
+      "date": "2026-08-17",
+      "title": "Qwen 3.8 27B 发布：强大视觉语言模型默认易过度思考"
+    },
+    "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/": {
+      "date": "2026-08-17",
+      "title": "英伟达大幅削减其可能担保的 OpenAI 基础设施融资额度"
+    },
+    "https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15/": {
+      "date": "2026-08-17",
+      "title": "Anthropic IPO 估值与 1900‑2000 亿美元 2028 年收入预测挂钩。"
+    },
+    "https://math-ai-org.github.io/mathcode/": {
+      "date": "2026-08-17",
+      "title": "MathCode 推出用于数学代码生成的 AI 代理"
+    },
+    "https://ei3lh.eu/2026/08/16/a-true-telnet-bbs-on-a-casio-calculator/": {
+      "date": "2026-08-17",
+      "title": "真实 Telnet BBS 在复古 Casio 计算器上运行"
+    },
+    "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing": {
+      "date": "2026-08-17",
+      "title": "Anthropic 的 Claude 文本水印被批评为破坏写作诚信"
+    },
+    "https://simonwillison.net/2026/Aug/16/dario-amodei/": {
+      "date": "2026-08-17",
+      "title": "达里奥·阿莫戴认为公众对 AI 的不信任源于机构信任危机"
     }
   }
 }
