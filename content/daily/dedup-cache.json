@@ -1,74 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "https://github.com/PrimeIntellect-ai/prime-agent": {
-      "date": "2026-08-10",
-      "title": "PrimeAgent：基于 TypeScript 的自改进强化学习编码代理"
-    },
-    "https://www.w3.org/Provider/Style/URI": {
-      "date": "2026-08-10",
-      "title": "W3C 1998 年 '酷 URI 不会改变' 原则仍具现实意义"
-    },
-    "https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/": {
-      "date": "2026-08-10",
-      "title": "AI 可穿戴设备实现全方位监控并引发隐私担忧"
-    },
-    "https://github.com/rochus-keller/OberonSystem/tree/op2-rv32": {
-      "date": "2026-08-10",
-      "title": "Project Oberon 系统移植到 RISC-V 架构"
-    },
-    "https://www.theregister.com/security/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/5284499": {
-      "date": "2026-08-10",
-      "title": "勒索软件团伙瞄准 40 岁左右的 IT 经理以加快赎金支付"
-    },
-    "https://phrack.org/issues/72/19#article": {
-      "date": "2026-08-10",
-      "title": "Phrack 发表《黑客文艺复兴》文章，探讨黑客文化复兴"
-    },
-    "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/": {
-      "date": "2026-08-10",
-      "title": "作者分享使用 LLM 学习复杂主题的个人策略"
-    },
-    "https://news.ycombinator.com/item?id=49233423": {
-      "date": "2026-08-10",
-      "title": "HN 社区在 2026 年 8 月的 Ask HN 线程中分享个人项目"
-    },
-    "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html": {
-      "date": "2026-08-10",
-      "title": "开发者承认在苹果拒绝其占星应用后抄袭开源天文应用"
-    },
-    "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650": {
-      "date": "2026-08-10",
-      "title": "出租车和救护车司机阿尔茨海默病发病率较低"
-    },
-    "https://openchamber.dev/": {
-      "date": "2026-08-10",
-      "title": "OpenChamber 推出基于 OpenCode 的代理式开发环境"
-    },
-    "https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html": {
-      "date": "2026-08-10",
-      "title": "指南展示如何通过 SSH 访问唤醒四年旧的 reMarkable 2"
-    },
-    "https://gukov.dev/math/2026/08/02/new-magic-hexagons.html": {
-      "date": "2026-08-10",
-      "title": "通过势场探索所有阶数的魔幻六边形"
-    },
-    "https://www.science.org/doi/10.1126/science.adv5441": {
-      "date": "2026-08-10",
-      "title": "研究显示退役燃油车具有显著气候效益"
-    },
-    "https://github.com/yegors/deGDID": {
-      "date": "2026-08-10",
-      "title": "deGDID 工具删除微软 GDID 追踪标识并阻止其重新生成"
-    },
-    "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition": {
-      "date": "2026-08-10",
-      "title": "《经济学人》将公地悲剧应用于 AI 数据耗竭"
-    },
-    "https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html": {
-      "date": "2026-08-10",
-      "title": "Windows 11 内置天气应用占用超过 1 GB 内存"
-    },
     "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model": {
       "date": "2026-08-11",
       "title": "Meta 发布 Muse Glimmer 30B 模型，用于本地代理工作流"
@@ -688,6 +620,102 @@
     "https://simonwillison.net/2026/Aug/16/dario-amodei/": {
       "date": "2026-08-17",
       "title": "达里奥·阿莫戴认为公众对 AI 的不信任源于机构信任危机"
+    },
+    "https://duckdb.org/2026/08/17/duckdb-20-highlights": {
+      "date": "2026-08-18",
+      "title": "DuckDB v2.0 预览：新功能与改进概览"
+    },
+    "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug": {
+      "date": "2026-08-18",
+      "title": "AI 生成的 GitHub Copilot 代码在 Snowflake Jira CI/CD 中引入模板注入漏洞"
+    },
+    "https://www.githubstatus.com/incidents/zkxwbgr0cnmx": {
+      "date": "2026-08-18",
+      "title": "GitHub 出现大规模服务中断导致全球访问受阻"
+    },
+    "https://www.rickmanelius.com/p/aidr-ai-didnt-read": {
+      "date": "2026-08-18",
+      "title": "AI 生成内容引发关于可读性和真实性的争论"
+    },
+    "https://artificialanalysis.ai/models/qwen3-8-27b": {
+      "date": "2026-08-18",
+      "title": "Qwen3.8 27B 在 Artificial Analysis 上得分 52，胜过 Opus 4.6"
+    },
+    "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/": {
+      "date": "2026-08-18",
+      "title": "我们用 AirTag 追踪稀有书籍货运，最终到达亚马逊 AI 训练设施"
+    },
+    "https://arxiv.org/abs/2608.13759": {
+      "date": "2026-08-18",
+      "title": "Rust GPU 卸载框架：可移植、安全且快速"
+    },
+    "https://sunclock.net/": {
+      "date": "2026-08-18",
+      "title": "Sun Clock：交互式太阳位置和黄金时段可视化工具"
+    },
+    "https://www.librarian.net/notoai/": {
+      "date": "2026-08-18",
+      "title": "如何禁用或避免侵入式 AI 功能。"
+    },
+    "https://speko.ai/": {
+      "date": "2026-08-18",
+      "title": "Speko 发布类 OpenRouter 的语音 AI 模型选择平台"
+    },
+    "https://news.ycombinator.com/item?id=49331033": {
+      "date": "2026-08-18",
+      "title": "Ask HN：评估 GitHub 替代方案，因可靠性问题"
+    },
+    "https://www.bbc.com/news/articles/c8xnwqe00v1o": {
+      "date": "2026-08-18",
+      "title": "印度计划对商户收取 UPI 交易费用。"
+    },
+    "https://signoregalilei.com/2026/08/02/how-to-put-170-atoms-in-an-atom/": {
+      "date": "2026-08-18",
+      "title": "激发 BEC 中的锶原子到里德伯态使其轨道覆盖约 170 个原子"
+    },
+    "https://current.org/2026/08/judge-sets-framework-for-nine-pbs-to-retrieve-archival-data/": {
+      "date": "2026-08-18",
+      "title": "法官为 Nine PBS 制定框架以恢复档案数据。"
+    },
+    "https://blog.roboflow.com/openai-gpt-5-6/": {
+      "date": "2026-08-18",
+      "title": "OpenAI 声称 GPT-5.6 Sol 是其最佳视觉模型"
+    },
+    "https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/": {
+      "date": "2026-08-18",
+      "title": "作者分享从 Gmail 迁移到 Fastmail 的经验及自定义域名技巧"
+    },
+    "https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world": {
+      "date": "2026-08-18",
+      "title": "《纽约客》报道巴塔哥尼亚孤独牧场工人——普埃斯特罗斯"
+    },
+    "https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades/": {
+      "date": "2026-08-18",
+      "title": "Simon Willison 升级 markdown‑SVG 渲染器，新增 MP4 导出"
+    },
+    "https://fabiensanglard.net/quake_shareware_cd/index.html": {
+      "date": "2026-08-18",
+      "title": "Quake Shareware, a CD-ROM just a little too full"
+    },
+    "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera": {
+      "date": "2026-08-18",
+      "title": "Fairphone 6 主摄像头现在可在 PostmarketOS 上工作"
+    },
+    "https://devblogs.microsoft.com/oldnewthing/20260817-40/?p=112617": {
+      "date": "2026-08-18",
+      "title": "解释 alloca 如何从栈分配内存"
+    },
+    "https://blog.plover.com/brain/Jaynes.html": {
+      "date": "2026-08-18",
+      "title": "2008 年博客文章探讨朱利安·杰恩斯的双室心智理论"
+    },
+    "https://blog.roboflow.com/roboflow-playground/": {
+      "date": "2026-08-18",
+      "title": "Roboflow Playground 推出交互式工具，可比较 30+ 种视觉模型"
+    },
+    "https://secretspec.dev/blog/we-are-forking-dotenvy-into-dotenv-ng/": {
+      "date": "2026-08-18",
+      "title": "作者 fork dotenvy 库以创建 dotenv-ng"
     }
   }
 }
