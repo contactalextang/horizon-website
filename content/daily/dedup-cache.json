@@ -1,94 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model": {
-      "date": "2026-08-11",
-      "title": "Meta 发布 Muse Glimmer 30B 模型，用于本地代理工作流"
-    },
-    "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878": {
-      "date": "2026-08-11",
-      "title": "扎克伯格批评封闭式 AI 竞争对手，重申 Meta 对开源的承诺"
-    },
-    "https://www.vectorware.com/blog/simd-on-gpu/": {
-      "date": "2026-08-11",
-      "title": "Rust SIMD 抽象应用于 GPU 编程"
-    },
-    "https://cactuscompute.com/needle": {
-      "date": "2026-08-11",
-      "title": "Needle2：适用于边缘设备的 14MB 代理型 LLM，具备工具使用能力"
-    },
-    "https://www.stoaexchange.com/": {
-      "date": "2026-08-11",
-      "title": "Stoa Markets 推出 YC 支持的 GPU 和 AI 服务器市场"
-    },
-    "https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii": {
-      "date": "2026-08-11",
-      "title": "利用极长中断指令利用系统管理模式"
-    },
-    "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb": {
-      "date": "2026-08-11",
-      "title": "文章认为过度拟人化的 LLM 输出适得其反"
-    },
-    "https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/": {
-      "date": "2026-08-11",
-      "title": "亚马逊在气候承诺背后投资大型燃气电厂"
-    },
-    "https://ethw.org/Milestones:Parametron,_1954": {
-      "date": "2026-08-11",
-      "title": "参数子：1950 年代日本使用磁逻辑而非电子管或晶体管的计算机"
-    },
-    "https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs": {
-      "date": "2026-08-11",
-      "title": "分析揭示 LLM 知识截止时间如何反映预训练时间线"
-    },
-    "https://bobdahacker.com/blog/tldv-hack": {
-      "date": "2026-08-11",
-      "title": "Tl;dv 因共享设置错误配置导致超过 18 万次会议暴露"
-    },
-    "https://www.docker.com/products/docker-sandboxes/": {
-      "date": "2026-08-11",
-      "title": "Docker 推出基于微 VM 的安全 AI 代理执行沙箱"
-    },
-    "https://arxiv.org/abs/2607.29380": {
-      "date": "2026-08-11",
-      "title": "AI 过度使用威胁人类技能成长和导师机会"
-    },
-    "https://simonwillison.net/2026/Aug/10/openclaw/#atom-everything": {
-      "date": "2026-08-11",
-      "title": "AI 助手利用健身房 API 漏洞取消他人预约"
-    },
-    "https://linuxstans.com/illinois-hb5511-operating-system-age-verification/": {
-      "date": "2026-08-11",
-      "title": "伊利诺伊州通过法律要求操作系统实施年龄验证，引发开源社区争论"
-    },
-    "https://squeak.org/release_notes/6.1/": {
-      "date": "2026-08-11",
-      "title": "Squeak 6.1 作为开源 Smalltalk 环境的次要更新发布"
-    },
-    "https://openai.com/index/responsible-ai-infrastructure-texas/": {
-      "date": "2026-08-11",
-      "title": "OpenAI 致信德州州长，阐述负责任 AI 基础设施原则"
-    },
-    "https://lwn.net/Articles/1034703/": {
-      "date": "2026-08-11",
-      "title": "C 语言中的尾调用优化在 2025 年变得可靠"
-    },
-    "https://www.massaschadeconsument.nl/collectieve-acties/playstation/": {
-      "date": "2026-08-11",
-      "title": "荷兰消费者团体因 PlayStation 数字游戏代码限制起诉索尼"
-    },
-    "https://www.beautifulpublicdata.com/boat-names/": {
-      "date": "2026-08-11",
-      "title": "对 5 万艘船名的分析揭示命名趋势和模式"
-    },
-    "https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/#atom-everything": {
-      "date": "2026-08-11",
-      "title": "GitHub Models 服务已退役，统一 LLM API 访问终止"
-    },
-    "https://jackschaedler.github.io/handwriting-recognition/": {
-      "date": "2026-08-11",
-      "title": "2016 年博客文章回顾手写识别技术"
-    },
     "https://ngrok.com/blog/compression-is-prediction": {
       "date": "2026-08-12",
       "title": "压缩与预测在本质上是等价的"
@@ -550,7 +462,7 @@
       "title": "BriskDB 发布为支持并行写入的开源嵌入式数据库"
     },
     "https://github.com/anywhere-labs/deepseek-harness-desktop": {
-      "date": "2026-08-16",
+      "date": "2026-08-19",
       "title": "DeepSeek Harness 的 Electron 桌面客户端在 GitHub 上发布"
     },
     "https://platform.claude.com/docs/en/release-notes/system-prompts": {
@@ -716,6 +628,86 @@
     "https://secretspec.dev/blog/we-are-forking-dotenvy-into-dotenv-ng/": {
       "date": "2026-08-18",
       "title": "作者 fork dotenvy 库以创建 dotenv-ng"
+    },
+    "https://seths.blog/2026/08/the-amazon-tax/": {
+      "date": "2026-08-19",
+      "title": "亚马逊税：搜索广告的隐藏成本"
+    },
+    "https://philo.gay/linecam/": {
+      "date": "2026-08-19",
+      "title": "使用移动火车作为线性 slit‑scan 扫描仪"
+    },
+    "https://pixelcluster.dev/VRAM-Overcommit/": {
+      "date": "2026-08-19",
+      "title": "Linux 7.3 在显存耗尽时提升性能。"
+    },
+    "https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/": {
+      "date": "2026-08-19",
+      "title": "Mojo 编程语言以 Apache 2.0 许可证开源发布"
+    },
+    "https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/": {
+      "date": "2026-08-19",
+      "title": "Qwen 3.8 27B 在 Artificial Analysis 智能指数上得到 52 分。"
+    },
+    "https://github.com/RyanCodrai/turbovec": {
+      "date": "2026-08-19",
+      "title": "Turbovec：Google TurboQuant 的 Rust 向量搜索实现"
+    },
+    "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/": {
+      "date": "2026-08-19",
+      "title": "Fixing a bricked Framework laptop"
+    },
+    "https://openai.com/index/pacing-model-development-cyber-capabilities/": {
+      "date": "2026-08-19",
+      "title": "Pacing model development in an era of cyber-critical capabilities"
+    },
+    "https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/": {
+      "date": "2026-08-19",
+      "title": "武装男子的隐喻探讨胁迫如何侵蚀公民社会的信任"
+    },
+    "https://opensource.posit.co/resources/cheatsheets/polars/": {
+      "date": "2026-08-19",
+      "title": "Polars Python 速查表（基于 O'Reilly 书籍）"
+    },
+    "https://grist.org/transportation/californias-new-tire-efficiency-rules-could-save-drivers-1b-a-year/": {
+      "date": "2026-08-19",
+      "title": "加州新轮胎效率规则每年可为车主节省约 10 亿美元"
+    },
+    "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/": {
+      "date": "2026-08-19",
+      "title": "讽刺文章警告聘请管理顾问的潜在弊端"
+    },
+    "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html": {
+      "date": "2026-08-19",
+      "title": "宜家揭示全球产品命名流程"
+    },
+    "https://github.com/therepanic/openleetcode": {
+      "date": "2026-08-19",
+      "title": "Openleetcode：基于仓库存储测试用例的本地 LeetCode CLI 运行器"
+    },
+    "https://github.com/DenisSergeevitch/desktop-fly": {
+      "date": "2026-08-19",
+      "title": "交互式 3D 果蝇大脑应用将 FlyWire 连接组带到 macOS 桌面"
+    },
+    "https://machine0.io/": {
+      "date": "2026-08-19",
+      "title": "Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI"
+    },
+    "https://cdn.kuber.studio/chat/hp-laser-1008a-driver": {
+      "date": "2026-08-19",
+      "title": "Claude Code Teaching macOS to Natively Print to the HP Laser 1008a"
+    },
+    "https://www.onethousandmeans.com/p/norway-should-buy-openai": {
+      "date": "2026-08-19",
+      "title": "挪威应收购 OpenAI"
+    },
+    "https://lawsofsoftwareengineering.com/laws/dilbert-principle/": {
+      "date": "2026-08-19",
+      "title": "公司将无能员工提升为管理层以限制损害"
+    },
+    "https://github.com/biw/keychain-store": {
+      "date": "2026-08-19",
+      "title": "Electron 库添加 macOS 数据保护密钥链支持"
     }
   }
 }
