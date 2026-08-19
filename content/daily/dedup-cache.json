@@ -1,102 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "https://ngrok.com/blog/compression-is-prediction": {
-      "date": "2026-08-12",
-      "title": "压缩与预测在本质上是等价的"
-    },
-    "https://stolen-thoughts.com/": {
-      "date": "2026-08-12",
-      "title": "研究人员从专有 LLM API 中提取推理痕迹"
-    },
-    "https://www.btp.police.uk/news/btp/news/england/btp-expands-live-facial-recognition-lfr-trial-into-london-underground-stations/": {
-      "date": "2026-08-12",
-      "title": "英国交通警察将实时人脸识别试点扩展至伦敦地铁站"
-    },
-    "https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/#atom-everything": {
-      "date": "2026-08-12",
-      "title": "Meta 发布 Muse Glimmer 30B 开放权重模型，专注于代理任务"
-    },
-    "https://arxiv.org/abs/2601.01828": {
-      "date": "2026-08-12",
-      "title": "论文探讨大型语言模型中的涌现内省觉察"
-    },
-    "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/": {
-      "date": "2026-08-12",
-      "title": "NVIDIA 发布 Nemotron 3.5 Lightning 和 NeMo Switchyard 以实现高效 AI"
-    },
-    "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0": {
-      "date": "2026-08-12",
-      "title": "OpenAI 伦理主管 Chloe Bakalar 在任不足一年后离职"
-    },
-    "https://stratechery.com/2026/nvidias-risky-business/": {
-      "date": "2026-08-12",
-      "title": "Nvidia 面临软件摩擦和 AI 需求被高估的风险"
-    },
-    "https://www.openssh.org/releasenotes.html#10.5": {
-      "date": "2026-08-12",
-      "title": "OpenSSH 10.5 发布，新增 ssh -Z 模式并加快发布周期"
-    },
-    "https://github.com/antirez/h3.c": {
-      "date": "2026-08-12",
-      "title": "H3-metal 实现 MiniMax-H3 视频扩散模型在苹果硅上的原生运行"
-    },
-    "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm": {
-      "date": "2026-08-12",
-      "title": "通过 MITM 代理分析 GitHub Copilot 流量揭示模型路由和上下文注入"
-    },
-    "https://economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment": {
-      "date": "2026-08-12",
-      "title": "新兴脑靶向疗法可能产生类似奥西匹克的变革性影响"
-    },
-    "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here": {
-      "date": "2026-08-12",
-      "title": "Mojo 1.0 发布，作为类似 Python 的高性能 AI/ML 编程语言"
-    },
-    "https://blog.jordan.matelsky.com/Penplotter-holography/": {
-      "date": "2026-08-12",
-      "title": "使用笔式绘图仪和磨蚀全息术创建全息效果"
-    },
-    "https://www.bbc.com/news/articles/c75gk620r22o": {
-      "date": "2026-08-12",
-      "title": "英格兰通过扩大筛查有望成为首批消除丙肝的国家之一"
-    },
-    "https://x.ai/bot": {
-      "date": "2026-08-12",
-      "title": "xAI 推出 Grok Bot 实现自主网页交互"
-    },
-    "https://github.com/TheRealYT/git-knife": {
-      "date": "2026-08-12",
-      "title": "Git-knife：类似电子表格的 Git 提交元数据编辑工具"
-    },
-    "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md": {
-      "date": "2026-08-12",
-      "title": "修复 macOS 虚拟机中的 GPU 内核选择问题，显著提升 Apple Silicon 上 llama.cpp 的推理速度"
-    },
-    "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/": {
-      "date": "2026-08-12",
-      "title": "腾讯混元发布 WorldClaw，实现 AI 代理驱动的大规模 3D 开放世界生成"
-    },
-    "https://ironicsans.ghost.io/how-we-used-to-get-jobs/": {
-      "date": "2026-08-12",
-      "title": "回顾互联网前通过报纸分类广告找工作的方式"
-    },
-    "https://writemd.app/": {
-      "date": "2026-08-12",
-      "title": "Write.md 发布为 macOS 免费开源可主题化 Markdown 编辑器"
-    },
-    "https://www.suzanne3d.com/": {
-      "date": "2026-08-12",
-      "title": "Suzanne：用于设计和制造实物产品的 AI 工具"
-    },
-    "https://master.dev/blog/typographic-css-tricks/": {
-      "date": "2026-08-12",
-      "title": "提升文本设计的必备 CSS 属性指南"
-    },
-    "https://www.paradigm.xyz/writing/rsi-simulator": {
-      "date": "2026-08-12",
-      "title": "Paradigm 推出交互式 RSI 模拟器，用于技术分析学习"
-    },
     "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/": {
       "date": "2026-08-13",
       "title": "研究人员通过重放攻击从专有 LLM API 窃取推理轨迹"
@@ -202,8 +106,8 @@
       "title": "基于 TypeScript 的个人智能工具 Brigade 在 24 小时内获得 21 颗星"
     },
     "https://github.com/cathrynlavery/diagram-design": {
-      "date": "2026-08-15",
-      "title": "新 GitHub 仓库 diagram-design 提供 29 个自包含 HTML+SVG 图表，供 Claude Code 使用"
+      "date": "2026-08-20",
+      "title": "GitHub 仓库提供 29 种自包含 HTML+SVG 图表，供 Claude Code 使用。"
     },
     "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts": {
       "date": "2026-08-14",
@@ -708,6 +612,86 @@
     "https://github.com/biw/keychain-store": {
       "date": "2026-08-19",
       "title": "Electron 库添加 macOS 数据保护密钥链支持"
+    },
+    "https://twitter.com/NoubarAfeyan/status/2090050162441752787": {
+      "date": "2026-08-20",
+      "title": "Moderna 和 Merck 宣布 mRNA 新抗原黑色素瘤疫苗 Phase 3 积极结果"
+    },
+    "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/": {
+      "date": "2026-08-20",
+      "title": "OpenRouter is joining Stripe"
+    },
+    "https://go.dev/blog/go1.27": {
+      "date": "2026-08-20",
+      "title": "Go 1.27 发布：支持泛型方法、uscale 浮点解析、后量子密码学及标准 uuid 包"
+    },
+    "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs": {
+      "date": "2026-08-20",
+      "title": "Unsloth Dynamic 3.0 GGUFs"
+    },
+    "https://grapheneos.social/@GrapheneOS/117057099753905023": {
+      "date": "2026-08-20",
+      "title": "Google 用 Google Drive 替换 Git 标签获取某些 Android 源代码"
+    },
+    "https://yassa9.github.io/osint/gralhix-004/": {
+      "date": "2026-08-20",
+      "title": "使用几何和 CUDA 编程定位随机岛屿"
+    },
+    "https://arxiv.org/abs/2608.16753": {
+      "date": "2026-08-20",
+      "title": "人工智能时代的数学：陶哲轩谈 AI 辅助证明"
+    },
+    "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/": {
+      "date": "2026-08-20",
+      "title": "LLM 使个人可构建可扩展软件，绕过企业复杂性"
+    },
+    "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/": {
+      "date": "2026-08-20",
+      "title": "玩笑域名购买意外引发气象气球数据地缘紧张"
+    },
+    "https://ornith.ai/ornith_1_5.html": {
+      "date": "2026-08-20",
+      "title": "Ornith-1.5 推出自改进语言模型系列（9B、27B、397B）"
+    },
+    "https://www.raphaelbauer.com/posts/postgresql-everything/": {
+      "date": "2026-08-20",
+      "title": "PostgreSQL 无所不能"
+    },
+    "https://www.colorado.edu/today/2026/08/12/remote-workers-report-highest-well-being-study-7700-employees": {
+      "date": "2026-08-20",
+      "title": "远程医疗员工幸福感最高。"
+    },
+    "https://ngrok.com/blog/probes": {
+      "date": "2026-08-20",
+      "title": "本文解释了 Kubernetes 探针的工作原理。"
+    },
+    "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/": {
+      "date": "2026-08-20",
+      "title": "硬件黑客解锁停用的 Cricut Maker 以供再利用"
+    },
+    "https://inco.ai/blog/dflash2/": {
+      "date": "2026-08-20",
+      "title": "DFlash 2 引入并行草稿以加速 LLM 推测解码"
+    },
+    "https://lists.x.org/archives/xorg/2026-August/062280.html": {
+      "date": "2026-08-20",
+      "title": "Xwayland 26.1.0 rc1 发布增量更新"
+    },
+    "https://github.com/onecli/onecli": {
+      "date": "2026-08-20",
+      "title": "OneCLI（YC S26）推出团队用的开源沙盒 AI 代理平台。"
+    },
+    "https://theremin.bizibah.com/": {
+      "date": "2026-08-20",
+      "title": "浏览器 theremin 通过网摄手势让用户演奏音乐"
+    },
+    "https://os8088.com/spotlight/": {
+      "date": "2026-08-20",
+      "title": "IBM XT 模拟器新增网页浏览器、CP/M 2.2 和 MS Word 1.1a"
+    },
+    "https://daverupert.com/2026/08/microlighter/": {
+      "date": "2026-08-20",
+      "title": "Dave Rupert 介绍 MicroLighter，一个轻量级语法高亮工具"
     }
   }
 }
