@@ -1,113 +1,9 @@
 {
   "version": 1,
   "entries": {
-    "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/": {
-      "date": "2026-08-13",
-      "title": "研究人员通过重放攻击从专有 LLM API 窃取推理轨迹"
-    },
-    "https://tailscale.com/blog/sqlite-wal-reset-bug": {
-      "date": "2026-08-13",
-      "title": "Tailscale 追踪数据库损坏至 SQLite 16 年前的 WAL 重置错误"
-    },
-    "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B": {
-      "date": "2026-08-13",
-      "title": "Qwen3.8-2.4T-A95B 发布：2.4 万亿参数 MoE 模型，性能媲美 Opus 4.5"
-    },
-    "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html": {
-      "date": "2026-08-13",
-      "title": "AI 工具正在取代中级软件工程师"
-    },
-    "https://woxi.ad-si.com/": {
-      "date": "2026-08-13",
-      "title": "Woxi：用 Rust 编写的开源 Wolfram Language 解释器"
-    },
-    "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/": {
-      "date": "2026-08-13",
-      "title": "LLMs 在数学采样和搜索方面表现出色，而非纯粹演绎"
-    },
-    "https://openrouter.ai/deepseek/deepseek-v4-pro-0813": {
-      "date": "2026-08-13",
-      "title": "DeepSeek V4 Pro 0813 在 OpenRouter 上发布，具有竞争力的定价"
-    },
-    "https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/": {
-      "date": "2026-08-13",
-      "title": "通过 WebSockets 传输 HTML 实现近乎零 JavaScript 的实时 SPA"
-    },
-    "https://discoveredmaterials.com/research/": {
-      "date": "2026-08-13",
-      "title": "Discovered Materials 推出 AI 代理用于半导体材料发现"
-    },
-    "https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/": {
-      "date": "2026-08-13",
-      "title": "车牌读取器搜索应要求持有搜查令"
-    },
-    "https://climate.metoffice.cloud/glaciers.html": {
-      "date": "2026-08-13",
-      "title": "英国气象局推出冰川仪表板，展示加速冰川质量损失"
-    },
-    "https://simonwillison.net/2026/Aug/12/florian-herrengt/": {
-      "date": "2026-08-13",
-      "title": "AI 依赖削弱工程师对复杂系统的理解"
-    },
-    "https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-language-text/": {
-      "date": "2026-08-13",
-      "title": "自然语言文本无无损转换"
-    },
-    "https://antithesis.com/blog/2026/wal-reset-bug/": {
-      "date": "2026-08-13",
-      "title": "WAL 重置机制中的错误导致数据不一致"
-    },
-    "https://zed.dev/blog/introducing-delta": {
-      "date": "2026-08-13",
-      "title": "Zed 编辑器推出 Delta 功能，实现实时 AI 辅助协作编程"
-    },
-    "https://jonty.github.io/2026_eclipse_webcams/": {
-      "date": "2026-08-13",
-      "title": "个人网页项目为 2026 年日食提供实时网络摄像头画面"
-    },
-    "https://knownagents.com/insights": {
-      "date": "2026-08-13",
-      "title": "攻击者伪装 AI 机器人 User-Agent 进行大规模漏洞扫描"
-    },
-    "https://x.ai/news/grok-4-6": {
-      "date": "2026-08-13",
-      "title": "xAI 发布 Grok 4.6，引发系统提示词争议"
-    },
-    "https://guillaumetech.github.io/posts/jpg-scaling-chrome/": {
-      "date": "2026-08-13",
-      "title": "Chrome 的缩放算法导致微小 JPEG 渲染异常"
-    },
-    "https://digitalescapetools.com/2026/08/ublock-origin-stops-chasing-facebook-ads.html": {
-      "date": "2026-08-13",
-      "title": "uBlock Origin 放弃阻止 Facebook 广告，因平台反广告拦截措施日益有效"
-    },
-    "https://lovable.dev/blog/series-c": {
-      "date": "2026-08-13",
-      "title": "Lovable 获得 4 亿美元 C 轮融资，以推进其 AI 驱动的应用开发平台"
-    },
-    "https://shademap.app/": {
-      "date": "2026-08-13",
-      "title": "Shade Map：交互式工具可视化地形影响的阳光与阴影模式"
-    },
-    "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html": {
-      "date": "2026-08-13",
-      "title": "AmigaDOS 开发者 Tim King 去世"
-    },
-    "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/": {
-      "date": "2026-08-13",
-      "title": "谷歌宣布 Pixel Watch 5 具备 AI 驱动的健康趋势功能"
-    },
-    "https://timer.jotaen.net/": {
-      "date": "2026-08-13",
-      "title": "可编程静态网页计时器应用用于健身，将训练方案编码在 URL 中"
-    },
-    "https://github.com/spinabot/brigade": {
-      "date": "2026-08-13",
-      "title": "基于 TypeScript 的个人智能工具 Brigade 在 24 小时内获得 21 颗星"
-    },
     "https://github.com/cathrynlavery/diagram-design": {
-      "date": "2026-08-20",
-      "title": "GitHub 仓库提供 29 种自包含 HTML+SVG 图表，供 Claude Code 使用。"
+      "date": "2026-08-21",
+      "title": "GitHub 仓库 diagram-design 提供 29 种自包含 SVG 图表，供 Claude Code 使用"
     },
     "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts": {
       "date": "2026-08-14",
@@ -366,8 +262,8 @@
       "title": "BriskDB 发布为支持并行写入的开源嵌入式数据库"
     },
     "https://github.com/anywhere-labs/deepseek-harness-desktop": {
-      "date": "2026-08-19",
-      "title": "DeepSeek Harness 的 Electron 桌面客户端在 GitHub 上发布"
+      "date": "2026-08-21",
+      "title": "DeepSeek Harness Electron 桌面客户端 24 小时获 11 颗星。"
     },
     "https://platform.claude.com/docs/en/release-notes/system-prompts": {
       "date": "2026-08-17",
@@ -692,6 +588,110 @@
     "https://daverupert.com/2026/08/microlighter/": {
       "date": "2026-08-20",
       "title": "Dave Rupert 介绍 MicroLighter，一个轻量级语法高亮工具"
+    },
+    "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/": {
+      "date": "2026-08-21",
+      "title": "GitHub 披露 8 月 17 日因重试循环和流量放大导致的宕机"
+    },
+    "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/": {
+      "date": "2026-08-21",
+      "title": "阿伦·斯沃茨因抓取被起诉，而 Meta 却自由抓取 AI 数据。"
+    },
+    "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html": {
+      "date": "2026-08-21",
+      "title": "AliExpress 使用静音 WebAudio 指纹识别破坏蓝牙多点连接"
+    },
+    "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/": {
+      "date": "2026-08-21",
+      "title": "恶意 Rust crate arrayref 执行构建时有效载荷，已从 crates.io 删除。"
+    },
+    "https://simedw.com/2026/08/20/midi-autocomplete/": {
+      "date": "2026-08-21",
+      "title": "开发者发布免费 iPhone 应用，内置 125M 参数 Transformer 实现实时 MIDI 钢琴自动补全"
+    },
+    "https://arxiv.org/abs/2608.00146": {
+      "date": "2026-08-21",
+      "title": "DiffusionGemma 将 Gemma MOE 检查点重用为扩散去噪器"
+    },
+    "https://www.danielvaughn.dev/posts/huzzah/": {
+      "date": "2026-08-21",
+      "title": "Show HN：Huzzah 推出 AI 驱动的伪代码编辑器。"
+    },
+    "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink": {
+      "date": "2026-08-21",
+      "title": "CIA 资助让 NeXT 在 1980 年代得以存活"
+    },
+    "https://www.igalia.com/2026/08/19/Linux-72-Released.html": {
+      "date": "2026-08-21",
+      "title": "Linux 7.2 内核发布，改进 HDMI 2.1 支持"
+    },
+    "https://github.com/zachahn/vomit": {
+      "date": "2026-08-21",
+      "title": "Vomit：使用独立 LLM 清理 Claude 5 的令牌输出"
+    },
+    "https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview": {
+      "date": "2026-08-21",
+      "title": "求职面试流程可能被利用来入侵你的系统。"
+    },
+    "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html": {
+      "date": "2026-08-21",
+      "title": "在 27 美元智能手表上用 Claude 进行黑客攻击演示。"
+    },
+    "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks/": {
+      "date": "2026-08-21",
+      "title": "每个模型都会作弊：提示级缓解措施在进攻性网络任务中失效"
+    },
+    "https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/": {
+      "date": "2026-08-21",
+      "title": "评估 smolmachines/smolvm 作为不受信任的 Python 和 JavaScript 沙盒"
+    },
+    "https://bactra.org/notebooks/cybersyn.html": {
+      "date": "2026-08-21",
+      "title": "对 1970 年代智利赛博辛项目及其对 AI 治理启示的分析。"
+    },
+    "https://consumerrights.wiki/w/Main_Page": {
+      "date": "2026-08-21",
+      "title": "路易斯·罗思曼发起的消费者权利维基"
+    },
+    "https://jsomers.net/i-should-have-loved-biology/": {
+      "date": "2026-08-21",
+      "title": "关于后悔未选择生物学的反思性文章"
+    },
+    "https://www.experimental-history.com/p/why-arent-smart-people-happier": {
+      "date": "2026-08-21",
+      "title": "为什么聪明的人不一定更幸福。"
+    },
+    "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/": {
+      "date": "2026-08-21",
+      "title": "反 AI 字体被认为无效且有害"
+    },
+    "https://simonwillison.net/2026/Aug/19/jeremy-morrell/": {
+      "date": "2026-08-21",
+      "title": "杰里米·莫雷尔认为 LLM 和沙盒技术为用户可扩展软件带来新机遇"
+    },
+    "https://github.com/AprilNEA/OpenLogi": {
+      "date": "2026-08-21",
+      "title": "OpenLogi：基于 Rust 的本地优先 Logitech 鼠标配置工具在 24 小时内获得 10 颗星"
+    },
+    "https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/": {
+      "date": "2026-08-21",
+      "title": "研究发现抖音/Instagram 短视频降低认知控制网络活动"
+    },
+    "https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/": {
+      "date": "2026-08-21",
+      "title": "Simon Willison 认为在使用 AI 编码代理时，代码行数可以衡量生产力"
+    },
+    "https://www.massdriver.cloud/blogs/the-citizen-developer": {
+      "date": "2026-08-21",
+      "title": "低代码工具赋能公民开发者构建软件"
+    },
+    "https://tidalcycles.org/": {
+      "date": "2026-08-21",
+      "title": "Tidal Cycles：基于 Haskell 的现场编码算法音乐语言"
+    },
+    "https://strn.cat/posts/spacetime/": {
+      "date": "2026-08-21",
+      "title": "SpacetimeDB：时空导向数据库的简短技术评测"
     }
   }
 }
