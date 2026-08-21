@@ -5,117 +5,9 @@
       "date": "2026-08-21",
       "title": "GitHub 仓库 diagram-design 提供 29 种自包含 SVG 图表，供 Claude Code 使用"
     },
-    "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts": {
-      "date": "2026-08-14",
-      "title": "“意大利面化 DRAM”漏洞揭示通过时序操纵实现低级内存访问"
-    },
-    "https://mcfunley.com/choose-boring-technology": {
-      "date": "2026-08-14",
-      "title": "选择无聊技术：创新代币概念解析"
-    },
-    "https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813/": {
-      "date": "2026-08-14",
-      "title": "DeepSeek V4 Pro 0813 发布，拥有 1.7T 参数，在 OpenRouter 和 Hugging Face 上线"
-    },
-    "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck": {
-      "date": "2026-08-14",
-      "title": "AI 生成代码将瓶颈转移到人类理解上"
-    },
-    "https://earendil.com/posts/compaction-in-pi/": {
-      "date": "2026-08-14",
-      "title": "Pi 系统中压缩如何工作以管理 LLM 上下文窗口"
-    },
-    "https://github.com/systemd/systemd/issues/40262": {
-      "date": "2026-08-14",
-      "title": "单行日志导致 systemd-journald 产生过度磁盘写入"
-    },
-    "https://oxide.computer/blog/kubernetes-on-oxide": {
-      "date": "2026-08-14",
-      "title": "Oxide 详述客户需求如何推动其硬件平台的 Kubernetes 集成"
-    },
-    "https://deepseek.com/harness/en/": {
-      "date": "2026-08-14",
-      "title": "DeepSeek Harness 开发者预览版发布，提供可追溯的 AI 代理工作流"
-    },
-    "https://0.mk/blog/link-rot": {
-      "date": "2026-08-14",
-      "title": "研究追踪 657,607 个链接以衡量网络内容随时间的衰减"
-    },
-    "https://alexmorleyfinch.github.io/marlin/history/v1/article/the_birth.html": {
-      "date": "2026-08-14",
-      "title": "周末项目用 10 美元构建 LLM 驱动的 50 万域名搜索引擎"
-    },
-    "https://www.quantamagazine.org/how-godels-proof-works-20200714/": {
-      "date": "2026-08-14",
-      "title": "通俗解释哥德尔不完备性证明"
-    },
-    "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf": {
-      "date": "2026-08-14",
-      "title": "OpenAI 发布关于组织使用 ChatGPT 的报告"
-    },
-    "https://tschatzl.github.io/2026/08/10/jdk27-g1-serial-parallel-gc-changes.html": {
-      "date": "2026-08-14",
-      "title": "JDK 27 更新了 G1、Parallel 和 Serial 垃圾收集器"
-    },
-    "https://github.com/astral-sh/uv/releases/tag/0.12.4": {
-      "date": "2026-08-14",
-      "title": "uv 0.12.4 发布，引入后量子 TLS 和依赖检查预览功能"
-    },
-    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/": {
-      "date": "2026-08-14",
-      "title": "谷歌发布 Gemini 3.7 Flash，具备增强推理能力，定价将于 2026 年上调"
-    },
-    "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai": {
-      "date": "2026-08-14",
-      "title": "Cerebras 声称 Ultrafast 模式使 GPT-5.6 Sol 速度提升 7 倍"
-    },
-    "https://gruhn.me/blog/2026-08-13/": {
-      "date": "2026-08-14",
-      "title": "文章认为 NP 难问题在实践中被高估"
-    },
-    "https://donkeybas.com/": {
-      "date": "2026-08-14",
-      "title": "DONKEY.BAS 迎来 45 周年：回顾盖茨早期 BASIC 游戏的怀旧时刻"
-    },
-    "https://docs.mistral.ai/models/ocr-4-1": {
-      "date": "2026-08-14",
-      "title": "Mistral OCR 4.1 发布，具备文档理解功能"
-    },
-    "https://www.codewithbullet.com/": {
-      "date": "2026-08-14",
-      "title": "Bullet 作为 YC S26 编码代理推出，声称性能更快"
-    },
-    "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html": {
-      "date": "2026-08-14",
-      "title": "利用废旧电脑部件构建家庭 AI 系统"
-    },
-    "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/": {
-      "date": "2026-08-14",
-      "title": "博客比较了 11 个 AI 模型对同一模糊提示词生成咖啡店网站的响应"
-    },
-    "https://aeon.co/essays/humans-did-not-invent-art-it-was-the-other-way-around": {
-      "date": "2026-08-14",
-      "title": "艺术塑造了人类，而非人类创造了艺术"
-    },
-    "https://goaccess.io/": {
-      "date": "2026-08-14",
-      "title": "GoAccess：开源实时日志分析器，支持终端和网页查看"
-    },
     "https://github.com/guillaumemeyer/watermarks-remover": {
       "date": "2026-08-15",
       "title": "GitHub 仓库在 24 小时内获得 15 颗星的 AI 水印去除工具"
-    },
-    "https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/": {
-      "date": "2026-08-14",
-      "title": "Nine PBS 因被阻止访问 50TB 档案数据而起诉 Iron Mountain"
-    },
-    "https://gloom.sh/": {
-      "date": "2026-08-14",
-      "title": "Gloomberb：开源终端 UI 模拟彭博终端界面"
-    },
-    "https://simonwillison.net/2026/Aug/13/alchemy-utils/": {
-      "date": "2026-08-14",
-      "title": "alchemy-utils 0.1a1 发布，针对 DuckDB 和 CSV 性能进行优化"
     },
     "https://huggingface.co/Qwen/Qwen3.8-27B-FP8": {
       "date": "2026-08-15",
@@ -692,6 +584,110 @@
     "https://strn.cat/posts/spacetime/": {
       "date": "2026-08-21",
       "title": "SpacetimeDB：时空导向数据库的简短技术评测"
+    },
+    "https://www.felonybench.com/": {
+      "date": "2026-08-22",
+      "title": "Felony Bench 追踪 AI 代理法律违规。"
+    },
+    "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html": {
+      "date": "2026-08-22",
+      "title": "美国公民因在边境删除手机数据面临重罪指控"
+    },
+    "https://lina.sh/blog/hijacking-e164-arpa": {
+      "date": "2026-08-22",
+      "title": "作者意外通过 e164.arpa 记录了数十万军方通话。"
+    },
+    "https://api-docs.deepseek.com/guides/vision/": {
+      "date": "2026-08-22",
+      "title": "DeepSeek 发布实验性 V4 Flash 视觉模型，详细说明图像标记化"
+    },
+    "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory": {
+      "date": "2026-08-22",
+      "title": "GPU 读取内存时发生了什么"
+    },
+    "https://cymerys.com/w/im-becoming-ai-blind": {
+      "date": "2026-08-22",
+      "title": "我正在对 AI 失明"
+    },
+    "https://bandarlabs.github.io/Cobalt/": {
+      "date": "2026-08-22",
+      "title": "Cobalt 使 Kobo 电子书阅读器能够运行 Linux 应用"
+    },
+    "https://kagi.com/changelog#11296": {
+      "date": "2026-08-22",
+      "title": "Kagi 新增过滤付费墙链接的设置"
+    },
+    "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/": {
+      "date": "2026-08-22",
+      "title": "我们如何让文本转语音模型在 50 毫秒内响应"
+    },
+    "https://github.com/adnanakil/nobuzz/blob/main/README.md": {
+      "date": "2026-08-22",
+      "title": "Claudette：减少 Claude BuzzFeed 式冗长输出的提示工程指南"
+    },
+    "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/": {
+      "date": "2026-08-22",
+      "title": "DIY 自托管沙盒式智能体软件工厂描述"
+    },
+    "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/": {
+      "date": "2026-08-22",
+      "title": "快速印象：一周使用 Codex 多于 Claude"
+    },
+    "https://annas-archive.gl/blog/physical-destruction.html": {
+      "date": "2026-08-22",
+      "title": "AI 公司毁坏实体书籍以扫描用于训练数据"
+    },
+    "https://theconsensus.dev/p/2026/08/16/transactions-in-cassandra.html": {
+      "date": "2026-08-22",
+      "title": "Cassandra 6 添加 ACID 事务支持"
+    },
+    "https://precastreinforced.co.uk/2026/08/16/new-worlds/": {
+      "date": "2026-08-22",
+      "title": "当代社会呼应巴拉德与吉布森的反乌托邦愿景"
+    },
+    "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/": {
+      "date": "2026-08-22",
+      "title": "科学家发布有史以来最大的宇宙二维地图"
+    },
+    "https://pointinthecloud.com/2026-08-19-144600.html": {
+      "date": "2026-08-22",
+      "title": "在 0.60 英镑的 RP2350 微控制器板上运行 Photoshop"
+    },
+    "https://simonwillison.net/2026/Aug/21/stop-making-tuis/": {
+      "date": "2026-08-22",
+      "title": "停止制作 TUIs"
+    },
+    "https://simonwillison.net/2026/Aug/21/matt-webb/": {
+      "date": "2026-08-22",
+      "title": "马特·韦布使用 ChatGPT 作为导师学习四元数以用于 AR 应用"
+    },
+    "https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/": {
+      "date": "2026-08-22",
+      "title": "ChatGPT 搜索开始大规模使用 site:operator"
+    },
+    "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders": {
+      "date": "2026-08-22",
+      "title": "Anthropic 发布 Claude Mythos 5 网络安全 AI 模型"
+    },
+    "https://simonwillison.net/2026/Aug/21/llm/": {
+      "date": "2026-08-22",
+      "title": "LLM 0.32.1 通过锁定 OpenAI 依赖 <3 修复了回归。"
+    },
+    "https://simonwillison.net/2026/Aug/21/llm-openrouter/": {
+      "date": "2026-08-22",
+      "title": "llm-openrouter 0.7 发布，兼容 LLM 0.32 并新增三种工具"
+    },
+    "https://tumbleforth.hardcoded.net/": {
+      "date": "2026-08-22",
+      "title": "Tumble Forth 业余操作系统从汇编到带 C 编译器"
+    },
+    "https://github.com/alibaba/anolisa/blob/main/docs/user-guide/en/agent-observability/agentsight.md": {
+      "date": "2026-08-22",
+      "title": "AgentSight：无需代码更改的 AI 代理 eBPF 可观测性"
+    },
+    "https://invertingvision.com/2026/08/10/kodaks-pre-invented-lunar-orbiter-camera-or-the-fate-of-samos-readout/": {
+      "date": "2026-08-22",
+      "title": "柯达 alleged 预发明 月球轨道器摄像机 与 SAMOS 读出系统的命运"
     }
   }
 }
