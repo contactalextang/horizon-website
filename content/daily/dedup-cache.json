@@ -2,96 +2,8 @@
   "version": 1,
   "entries": {
     "https://github.com/cathrynlavery/diagram-design": {
-      "date": "2026-08-21",
-      "title": "GitHub 仓库 diagram-design 提供 29 种自包含 SVG 图表，供 Claude Code 使用"
-    },
-    "https://github.com/guillaumemeyer/watermarks-remover": {
-      "date": "2026-08-15",
-      "title": "GitHub 仓库在 24 小时内获得 15 颗星的 AI 水印去除工具"
-    },
-    "https://huggingface.co/Qwen/Qwen3.8-27B-FP8": {
-      "date": "2026-08-15",
-      "title": "Qwen 发布 27B FP8 模型 在 DeepSWE 基准测试中 超越 Opus"
-    },
-    "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/": {
-      "date": "2026-08-15",
-      "title": "文章警告：加密超越执法黑客手段将导致‘Going Dark’"
-    },
-    "https://mun-logadan.github.io/why-does-opus-5-feel-worse/": {
-      "date": "2026-08-15",
-      "title": "Opus 5 在能力提升的同时使用感变差"
-    },
-    "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html": {
-      "date": "2026-08-15",
-      "title": "Firefox 仍是唯一仍支持 uBlock Origin 的主要浏览器"
-    },
-    "https://z.ai/blog/glm-5.3": {
-      "date": "2026-08-15",
-      "title": "GLM-5.3 发布具备 emergent cyber capabilities 的自主安全研究模型"
-    },
-    "https://xn--gckvb8fzb.com/the-temu-fication-of-software-digital-goods-services/": {
-      "date": "2026-08-15",
-      "title": "软件采用 TEMU 的低成本高量模式"
-    },
-    "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/": {
-      "date": "2026-08-15",
-      "title": "谷歌推进同态加密以实现可用的私有 AI"
-    },
-    "https://rustdesk.com/blog/unattended-remote-access-wayland/": {
-      "date": "2026-08-15",
-      "title": "RustDesk 在 Wayland 上实现真正的无人值守远程访问。"
-    },
-    "https://www.mixedbread.com/blog/toast-1": {
-      "date": "2026-08-15",
-      "title": "Mixedbread 发布 Toast 1，一个用于增强搜索的专用大语言模型。"
-    },
-    "https://lxe.github.io/everywebsite/": {
-      "date": "2026-08-15",
-      "title": "讽刺网站《Every Fucking Website》揭露现代网页烦恼。"
-    },
-    "https://luacad.ad-si.com/": {
-      "date": "2026-08-15",
-      "title": "Show HN：LuaCAD —— 用 Lua 脚本编写的参数化 CAD"
-    },
-    "https://github.com/lajosdeme/mole": {
-      "date": "2026-08-15",
-      "title": "Mole 提供开源终端深度研究代理，具预算控制与本地隐私。"
-    },
-    "https://arxiv.org/abs/2608.12700": {
-      "date": "2026-08-15",
-      "title": "LLM 生成 GPU 内核的合同级验证器"
-    },
-    "https://github.com/astral-sh/uv/releases/tag/0.12.5": {
-      "date": "2026-08-15",
-      "title": "uv 0.12.5 发布，支持 CPython 3.10–3.12 并引入预览功能"
-    },
-    "https://www.byhand.ai/": {
-      "date": "2026-08-15",
-      "title": "AI by Hand：模型可解释性研究出版物"
-    },
-    "https://heyjonny.dev/posts/rss-to-eink-newspaper/": {
-      "date": "2026-08-15",
-      "title": "DIY 电子墨水报纸：从 RSS 订阅制作以减少手机屏幕时间"
-    },
-    "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions": {
-      "date": "2026-08-15",
-      "title": "指南分享策略以最大化 Claude Code 会话价值"
-    },
-    "https://simonwillison.net/2026/Aug/14/dont-classify-hallucinate/": {
-      "date": "2026-08-15",
-      "title": "使用 LLM 幻觉生成标签并通过向量嵌入匹配"
-    },
-    "https://arxiv.org/abs/2608.11158": {
-      "date": "2026-08-15",
-      "title": "格罗滕迪克常数的新上下界被确定"
-    },
-    "https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html": {
-      "date": "2026-08-15",
-      "title": "Soup Raiders 开发者解释自建游戏引擎的好处"
-    },
-    "https://simonwillison.net/2026/Aug/13/sqlite-utils-2/": {
-      "date": "2026-08-15",
-      "title": "sqlite-utils 4.2.1 修复 typing-extensions 崩溃。"
+      "date": "2026-08-23",
+      "title": "GitHub 仓库提供 29 个自包含 HTML+SVG 图表供 Claude Code 使用"
     },
     "https://sankalp.bearblog.dev/autoresearch/": {
       "date": "2026-08-16",
@@ -154,8 +66,8 @@
       "title": "BriskDB 发布为支持并行写入的开源嵌入式数据库"
     },
     "https://github.com/anywhere-labs/deepseek-harness-desktop": {
-      "date": "2026-08-21",
-      "title": "DeepSeek Harness Electron 桌面客户端 24 小时获 11 颗星。"
+      "date": "2026-08-23",
+      "title": "DeepSeek Harness 的 Electron 桌面客户端在 GitHub 发布"
     },
     "https://platform.claude.com/docs/en/release-notes/system-prompts": {
       "date": "2026-08-17",
@@ -562,8 +474,8 @@
       "title": "杰里米·莫雷尔认为 LLM 和沙盒技术为用户可扩展软件带来新机遇"
     },
     "https://github.com/AprilNEA/OpenLogi": {
-      "date": "2026-08-21",
-      "title": "OpenLogi：基于 Rust 的本地优先 Logitech 鼠标配置工具在 24 小时内获得 10 颗星"
+      "date": "2026-08-23",
+      "title": "OpenLogi：基于 Rust 的本地优先 Logitech 鼠标配置工具在 24 小时内获得 12 颗星"
     },
     "https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/": {
       "date": "2026-08-21",
@@ -688,6 +600,58 @@
     "https://invertingvision.com/2026/08/10/kodaks-pre-invented-lunar-orbiter-camera-or-the-fate-of-samos-readout/": {
       "date": "2026-08-22",
       "title": "柯达 alleged 预发明 月球轨道器摄像机 与 SAMOS 读出系统的命运"
+    },
+    "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917": {
+      "date": "2026-08-23",
+      "title": "为什么本地 LLM 看起来比实际更笨"
+    },
+    "https://munderdiffl.in/": {
+      "date": "2026-08-23",
+      "title": "Munder Difflin 推出本地多智能体 harness，实现零 Token LLM 模拟"
+    },
+    "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/": {
+      "date": "2026-08-23",
+      "title": "模型上下文协议路线图宣布 HTTP 工作负载转变、授权更新及移除采样功能"
+    },
+    "https://lapcatsoftware.com/articles/2026/8/7.html": {
+      "date": "2026-08-23",
+      "title": "hdiutil is deprecated in macOS 27 Golden Gate"
+    },
+    "https://twitter.com/argofowl/status/2091150597374537729": {
+      "date": "2026-08-23",
+      "title": "Anthropic 似乎正在 Claude Code 上进行降低努力级别的 A/B 测试"
+    },
+    "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/": {
+      "date": "2026-08-23",
+      "title": "Racket 语言友好入门"
+    },
+    "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi": {
+      "date": "2026-08-23",
+      "title": "Z80 微处理器在爱好者和小众应用中仍然活跃"
+    },
+    "https://simonwillison.net/2026/Aug/22/linus-torvalds/": {
+      "date": "2026-08-23",
+      "title": "Linus Torvalds 描述了 AI 辅助的内核调试会话。"
+    },
+    "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/": {
+      "date": "2026-08-23",
+      "title": "有效使用编码代理需要清晰指令与验证"
+    },
+    "https://github.com/guillaumemeyer/watermarks-remover": {
+      "date": "2026-08-23",
+      "title": "GitHub 仓库因 AI 水印去除工具获 14 星"
+    },
+    "https://simonwillison.net/2026/Aug/22/llm/": {
+      "date": "2026-08-23",
+      "title": "llm 0.33 发布：升级至 OpenAI Python 3.x、httpx2 并新增 --key 参数"
+    },
+    "https://github.com/Wei-Shaw/sub2api": {
+      "date": "2026-08-23",
+      "title": "Wei-Shaw/sub2api：基于 Go 的开源中转服务，统一 Claude、OpenAI、Gemini、Grok 接口"
+    },
+    "https://github.com/pathwaycom/arc-task-gen": {
+      "date": "2026-08-23",
+      "title": "新 Python 工具生成与公开评估集分布匹配的 ARC-AGI-1 类任务"
     }
   }
 }
