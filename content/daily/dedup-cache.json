@@ -5,66 +5,6 @@
       "date": "2026-08-23",
       "title": "GitHub 仓库提供 29 个自包含 HTML+SVG 图表供 Claude Code 使用"
     },
-    "https://sankalp.bearblog.dev/autoresearch/": {
-      "date": "2026-08-16",
-      "title": "作者使用 Codex 将 GPU 内核速度提升 232 倍"
-    },
-    "https://studios.disneyresearch.com/2026/07/16/2d-gaussian-splatting-for-bezier-spline-line-art-vectorization/": {
-      "date": "2026-08-16",
-      "title": "2D 高斯溅射实现贝塞尔样条线稿矢量化"
-    },
-    "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians": {
-      "date": "2026-08-16",
-      "title": "AI 的工作记忆远大于人脑，使其在数学上占优"
-    },
-    "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really": {
-      "date": "2026-08-16",
-      "title": "AI 在药物发现中的现状、局限与前景"
-    },
-    "https://www.dampfkraft.com/ghost-characters.html": {
-      "date": "2026-08-16",
-      "title": "幽灵正在困扰 Unicode"
-    },
-    "https://www.nature.com/articles/d41586-026-02448-x": {
-      "date": "2026-08-16",
-      "title": "争议性脑外科手术声称可逆转阿尔茨海默症状"
-    },
-    "https://printytron.com/": {
-      "date": "2026-08-16",
-      "title": "Printytron：文本到 STL 工具让用户用语言描述零件以进行 3D 打印"
-    },
-    "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html": {
-      "date": "2026-08-16",
-      "title": "Yadda 3.0.0 发布，集成 AI 代理以增强 BDD 测试"
-    },
-    "https://uecker.codeberg.page/2026-07-14.html": {
-      "date": "2026-08-16",
-      "title": "GCC 使用宽指针实现嵌套函数，无需 trampoline"
-    },
-    "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432": {
-      "date": "2026-08-16",
-      "title": "司美格鲁肽与降低预测痴呆风险生物标志物相关"
-    },
-    "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/": {
-      "date": "2026-08-16",
-      "title": "推出家用侧流试纸盒检测蜱虫中的莱姆病细菌"
-    },
-    "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/": {
-      "date": "2026-08-16",
-      "title": "使用 AI 感觉更像领导而非编程"
-    },
-    "https://spectrum.ieee.org/digital-signal-processing": {
-      "date": "2026-08-16",
-      "title": "贝德·刘，数字信号处理先驱，逝世"
-    },
-    "https://www.henrikkarlsson.xyz/p/good-ideas": {
-      "date": "2026-08-16",
-      "title": "探讨培育新思想产生的心理习惯。"
-    },
-    "https://github.com/schapman1974/briskdb": {
-      "date": "2026-08-16",
-      "title": "BriskDB 发布为支持并行写入的开源嵌入式数据库"
-    },
     "https://github.com/anywhere-labs/deepseek-harness-desktop": {
       "date": "2026-08-23",
       "title": "DeepSeek Harness 的 Electron 桌面客户端在 GitHub 发布"
@@ -652,6 +592,114 @@
     "https://github.com/pathwaycom/arc-task-gen": {
       "date": "2026-08-23",
       "title": "新 Python 工具生成与公开评估集分布匹配的 ARC-AGI-1 类任务"
+    },
+    "https://how.complexsystems.fail/": {
+      "date": "2026-08-24",
+      "title": "HN 重新带来有影响力的 1998 年复杂系统失败论文"
+    },
+    "https://ericpardee.github.io/fire-hd-ownership/": {
+      "date": "2026-08-24",
+      "title": "作者用四个 AI 模型一天 root Fire HD 平板"
+    },
+    "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/": {
+      "date": "2026-08-24",
+      "title": "斯洛伐克在交通测速摄像头中发现俄罗斯后门。"
+    },
+    "https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/": {
+      "date": "2026-08-24",
+      "title": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed"
+    },
+    "https://martypc.net/": {
+      "date": "2026-08-24",
+      "title": "MartyPC is a cross-platform emulator of early PCs written in Rust"
+    },
+    "https://malisper.me/jit-compiling-code-in-5-us/": {
+      "date": "2026-08-24",
+      "title": "实现 5 微秒 JIT 编译延迟"
+    },
+    "https://fabiensanglard.net/agent.md/index.html": {
+      "date": "2026-08-24",
+      "title": "分享 AGENTS.md 指南以提升 LLM 辅助编码质量"
+    },
+    "https://earendil.com/posts/what-is-a-harness/": {
+      "date": "2026-08-24",
+      "title": "解释 LLM 代理中的‘哈ーネ斯’概念"
+    },
+    "https://securelist.com/android-head-unit-malware/121106/": {
+      "date": "2026-08-24",
+      "title": "恶意软件通过 OTA 更新感染安卓车载头单元固件"
+    },
+    "https://insufferable.dev/posts/vibe-tax/": {
+      "date": "2026-08-24",
+      "title": "AI 编码代理的“振动税”：隐藏的生产力成本"
+    },
+    "https://slate.com/technology/2026/08/microsoft-software-nonprofit-data-delete.html": {
+      "date": "2026-08-24",
+      "title": "超过 17 万家非营利组织因微软软件变更遭全数据丢失"
+    },
+    "https://studyfinds.com/coconut-oil-jet-fuel-matches-kerosenes-efficiency-in-engine-tests/": {
+      "date": "2026-08-24",
+      "title": "椰子油喷气燃料匹配煤油效率"
+    },
+    "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/": {
+      "date": "2026-08-24",
+      "title": "Qwen 3.8 27B 在 30 分钟内完成逆向工程任务"
+    },
+    "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/": {
+      "date": "2026-08-24",
+      "title": "Armin Ronacher 探讨快速代码与可维护性的权衡"
+    },
+    "https://lalitm.com/post/find-problems-staff-engineer/": {
+      "date": "2026-08-24",
+      "title": "员工工程师使用策略来识别有价值的问题。"
+    },
+    "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/": {
+      "date": "2026-08-24",
+      "title": "Google Workspace 前端验证误将合法域名当作邮件提供商"
+    },
+    "https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/": {
+      "date": "2026-08-24",
+      "title": "现场教学与可汗学院视频：关于翻转课堂效果的辩论"
+    },
+    "https://debloat.dev/": {
+      "date": "2026-08-24",
+      "title": "debloat.dev 推出轻量级开源软件替代品列表"
+    },
+    "https://timharford.com/2026/08/explain-it-to-me-like-im-ten/": {
+      "date": "2026-08-24",
+      "title": "用简单语言解释复杂概念需要付出努力并提升理解"
+    },
+    "https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html": {
+      "date": "2026-08-24",
+      "title": "Fable AI 模型展示收益递减，免费午餐时代结束"
+    },
+    "https://henry.codes/writing/i-dream-of-quieter-computing/": {
+      "date": "2026-08-24",
+      "title": "作者倡导通过更高刷新率和周到设计实现更安静的计算"
+    },
+    "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/": {
+      "date": "2026-08-24",
+      "title": "Anthropic 顶级 AI 模型用户增长乏力，廉价替代品崛起"
+    },
+    "https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/": {
+      "date": "2026-08-24",
+      "title": "文章主张用 ch 单位替换像素单位。"
+    },
+    "http://www.os2museum.com/wp/the-end-of-an-athlon/": {
+      "date": "2026-08-24",
+      "title": "Athlon 的终结"
+    },
+    "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes": {
+      "date": "2026-08-24",
+      "title": "Hacker News 帖子分享关于邪教、骗局和计谋的非虚构书籍清单"
+    },
+    "https://simonwillison.net/2026/Aug/23/drew-breunig/": {
+      "date": "2026-08-24",
+      "title": "Drew Breunig 表示 Fable 高成本促使团队转向更便宜的编码 harness 替代方案"
+    },
+    "https://skylens.yantraai.app/": {
+      "date": "2026-08-24",
+      "title": "实时 3D 卫星追踪器结合五角大楼解密 UFO 数据"
     }
   }
 }
