@@ -9,74 +9,6 @@
       "date": "2026-08-23",
       "title": "DeepSeek Harness 的 Electron 桌面客户端在 GitHub 发布"
     },
-    "https://platform.claude.com/docs/en/release-notes/system-prompts": {
-      "date": "2026-08-17",
-      "title": "Anthropic 发布 Claude 模型的更新系统提示"
-    },
-    "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose": {
-      "date": "2026-08-17",
-      "title": "模型故意变笨以降低幻觉。"
-    },
-    "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion": {
-      "date": "2026-08-17",
-      "title": "Stripe 以超 70 亿美元收购 AI 初创公司 OpenRouter。"
-    },
-    "https://news.ycombinator.com/item?id=49322107": {
-      "date": "2026-08-17",
-      "title": "Cloudflare 在切换名称服务器时静默注入分析 JavaScript"
-    },
-    "https://rvembedded.com/blog_post/12/": {
-      "date": "2026-08-17",
-      "title": "第三世界嵌入式工程师辩护 RISC‑V 在低成本嵌入式应用中的可行性"
-    },
-    "https://buf.build/blog/protobuf-lsp": {
-      "date": "2026-08-17",
-      "title": "Buf 宣布为 Protocol Buffers 提供 LSP 支持"
-    },
-    "https://ivan-gavran.github.io/0-social-processes-paper": {
-      "date": "2026-08-17",
-      "title": "反对形式验证的论点，五十年后"
-    },
-    "https://vectoral.com/blog/who-are-the-token-brokers": {
-      "date": "2026-08-17",
-      "title": "The AI Credit Resale Economy"
-    },
-    "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios": {
-      "date": "2026-08-17",
-      "title": "Firefox for iOS 现在内置原生广告拦截器。"
-    },
-    "https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core": {
-      "date": "2026-08-17",
-      "title": "圣卢西核电站 1 号机组因三根控制棒落入堆芯而手动停机"
-    },
-    "https://simonwillison.net/2026/Aug/16/qwen-38-27b/": {
-      "date": "2026-08-17",
-      "title": "Qwen 3.8 27B 发布：强大视觉语言模型默认易过度思考"
-    },
-    "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/": {
-      "date": "2026-08-17",
-      "title": "英伟达大幅削减其可能担保的 OpenAI 基础设施融资额度"
-    },
-    "https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15/": {
-      "date": "2026-08-17",
-      "title": "Anthropic IPO 估值与 1900‑2000 亿美元 2028 年收入预测挂钩。"
-    },
-    "https://math-ai-org.github.io/mathcode/": {
-      "date": "2026-08-17",
-      "title": "MathCode 推出用于数学代码生成的 AI 代理"
-    },
-    "https://ei3lh.eu/2026/08/16/a-true-telnet-bbs-on-a-casio-calculator/": {
-      "date": "2026-08-17",
-      "title": "真实 Telnet BBS 在复古 Casio 计算器上运行"
-    },
-    "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing": {
-      "date": "2026-08-17",
-      "title": "Anthropic 的 Claude 文本水印被批评为破坏写作诚信"
-    },
-    "https://simonwillison.net/2026/Aug/16/dario-amodei/": {
-      "date": "2026-08-17",
-      "title": "达里奥·阿莫戴认为公众对 AI 的不信任源于机构信任危机"
-    },
     "https://duckdb.org/2026/08/17/duckdb-20-highlights": {
       "date": "2026-08-18",
       "title": "DuckDB v2.0 预览：新功能与改进概览"
@@ -700,6 +632,110 @@
     "https://skylens.yantraai.app/": {
       "date": "2026-08-24",
       "title": "实时 3D 卫星追踪器结合五角大楼解密 UFO 数据"
+    },
+    "https://twitter.com/lemire/status/2091894299289874926": {
+      "date": "2026-08-25",
+      "title": "小米 XRing O3 CPU 单核性能匹配苹果，多核性能更强"
+    },
+    "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/": {
+      "date": "2026-08-25",
+      "title": "微软画笔和照片应用秘密嵌入不可见的 GUID 水印"
+    },
+    "https://sf.thijs.gg/": {
+      "date": "2026-08-25",
+      "title": "交互式网页游戏让玩家探索旧金山的视频游戏版"
+    },
+    "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs": {
+      "date": "2026-08-25",
+      "title": "欧洲如何扼杀制造者和微型企业家"
+    },
+    "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines": {
+      "date": "2026-08-25",
+      "title": "LLM 可能利用推理引擎漏洞逃出沙箱并控制宿主机"
+    },
+    "https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc": {
+      "date": "2026-08-25",
+      "title": "NVIDIA 探索在 Hot Chips 2026 上将 CUDA 支持扩展到 RISC-V"
+    },
+    "https://proofcraft.systems/news-2026/#2026-08-21": {
+      "date": "2026-08-25",
+      "title": "seL4 在 ARM AArch64 上的机器检查安全证明完成"
+    },
+    "https://larsfaye.com/articles/ai-coding-will-prevent-expertise": {
+      "date": "2026-08-25",
+      "title": "AI 编码工具可能削弱深度编程专业知识"
+    },
+    "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database": {
+      "date": "2026-08-25",
+      "title": "可执行文件可视为 SQLite 数据库"
+    },
+    "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/": {
+      "date": "2026-08-25",
+      "title": "FDA 批准基于 p-tau217 生物标志物的血液检测用于阿尔茨海默病"
+    },
+    "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/": {
+      "date": "2026-08-25",
+      "title": "Shipyard 结束 IPFS 集中维护，转向个人维护者资助"
+    },
+    "https://gultsch.de/posts/25-years-of-digital-independence/": {
+      "date": "2026-08-25",
+      "title": "回顾 Jabber/XMPP 25 年及其去中心化遗产"
+    },
+    "https://picomq.com/": {
+      "date": "2026-08-25",
+      "title": "PicoMQ：基于 Rust 的通过 HTTP 使用 S3 对象存储的持久流"
+    },
+    "https://glassbox.codecanary.org/": {
+      "date": "2026-08-25",
+      "title": "Show HN：GlassBox——浏览器泄露了什么，以及你有多易被识别"
+    },
+    "https://github.com/getkern/kern": {
+      "date": "2026-08-25",
+      "title": "Kern：1.5 MB Rust 容器运行时，无守护进程，启动约 3.5 ms"
+    },
+    "https://www.bbc.com/news/articles/c62m4gpnp78o": {
+      "date": "2026-08-25",
+      "title": "海洋表面温度创历史新高，NOAA 报告"
+    },
+    "https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/": {
+      "date": "2026-08-25",
+      "title": "探索愤怒、焦虑与个人能动性"
+    },
+    "https://developers.openai.com/api/docs/pricing": {
+      "date": "2026-08-25",
+      "title": "OpenAI 降低 GPT-5.6-sol 定价至 2026 年 11 月"
+    },
+    "https://ssx360.github.io/rack-02/?src=hn": {
+      "date": "2026-08-25",
+      "title": "展示 HN：单 HTML 文件的技术音乐机器，可验证渲染"
+    },
+    "https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/": {
+      "date": "2026-08-25",
+      "title": "在 SQLite 数据库文件中嵌入 ELF 可执行文件"
+    },
+    "https://yegge.ai/essays/fences-not-sandboxes/": {
+      "date": "2026-08-25",
+      "title": "Steve Yegge 主张使用‘围栏’而非沙盒进行安全防护"
+    },
+    "https://github.com/microsoft/agent-lightning/releases/tag/v1.0.1": {
+      "date": "2026-08-25",
+      "title": "微软发布 Agent Lightning v1.0，开源 AI 代理框架"
+    },
+    "https://daily.jstor.org/where-did-all-the-public-bathrooms-go/": {
+      "date": "2026-08-25",
+      "title": "公共厕所减少引发城市政策争论"
+    },
+    "https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/": {
+      "date": "2026-08-25",
+      "title": "新突变可能通过增强蛋白质合成解释章鱼智能"
+    },
+    "https://simonwillison.net/2026/Aug/24/llm-anthropic/": {
+      "date": "2026-08-25",
+      "title": "llm-anthropic 插件已更新至版本 0.27。"
+    },
+    "https://textlog.cc/post/2059": {
+      "date": "2026-08-25",
+      "title": "Textlog 移除社交计数器和时间戳。"
     }
   }
 }
