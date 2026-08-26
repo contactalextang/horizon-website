@@ -9,86 +9,6 @@
       "date": "2026-08-23",
       "title": "DeepSeek Harness 的 Electron 桌面客户端在 GitHub 发布"
     },
-    "https://seths.blog/2026/08/the-amazon-tax/": {
-      "date": "2026-08-19",
-      "title": "亚马逊税：搜索广告的隐藏成本"
-    },
-    "https://philo.gay/linecam/": {
-      "date": "2026-08-19",
-      "title": "使用移动火车作为线性 slit‑scan 扫描仪"
-    },
-    "https://pixelcluster.dev/VRAM-Overcommit/": {
-      "date": "2026-08-19",
-      "title": "Linux 7.3 在显存耗尽时提升性能。"
-    },
-    "https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/": {
-      "date": "2026-08-19",
-      "title": "Mojo 编程语言以 Apache 2.0 许可证开源发布"
-    },
-    "https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/": {
-      "date": "2026-08-19",
-      "title": "Qwen 3.8 27B 在 Artificial Analysis 智能指数上得到 52 分。"
-    },
-    "https://github.com/RyanCodrai/turbovec": {
-      "date": "2026-08-19",
-      "title": "Turbovec：Google TurboQuant 的 Rust 向量搜索实现"
-    },
-    "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/": {
-      "date": "2026-08-19",
-      "title": "Fixing a bricked Framework laptop"
-    },
-    "https://openai.com/index/pacing-model-development-cyber-capabilities/": {
-      "date": "2026-08-19",
-      "title": "Pacing model development in an era of cyber-critical capabilities"
-    },
-    "https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/": {
-      "date": "2026-08-19",
-      "title": "武装男子的隐喻探讨胁迫如何侵蚀公民社会的信任"
-    },
-    "https://opensource.posit.co/resources/cheatsheets/polars/": {
-      "date": "2026-08-19",
-      "title": "Polars Python 速查表（基于 O'Reilly 书籍）"
-    },
-    "https://grist.org/transportation/californias-new-tire-efficiency-rules-could-save-drivers-1b-a-year/": {
-      "date": "2026-08-19",
-      "title": "加州新轮胎效率规则每年可为车主节省约 10 亿美元"
-    },
-    "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/": {
-      "date": "2026-08-19",
-      "title": "讽刺文章警告聘请管理顾问的潜在弊端"
-    },
-    "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html": {
-      "date": "2026-08-19",
-      "title": "宜家揭示全球产品命名流程"
-    },
-    "https://github.com/therepanic/openleetcode": {
-      "date": "2026-08-19",
-      "title": "Openleetcode：基于仓库存储测试用例的本地 LeetCode CLI 运行器"
-    },
-    "https://github.com/DenisSergeevitch/desktop-fly": {
-      "date": "2026-08-19",
-      "title": "交互式 3D 果蝇大脑应用将 FlyWire 连接组带到 macOS 桌面"
-    },
-    "https://machine0.io/": {
-      "date": "2026-08-19",
-      "title": "Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI"
-    },
-    "https://cdn.kuber.studio/chat/hp-laser-1008a-driver": {
-      "date": "2026-08-19",
-      "title": "Claude Code Teaching macOS to Natively Print to the HP Laser 1008a"
-    },
-    "https://www.onethousandmeans.com/p/norway-should-buy-openai": {
-      "date": "2026-08-19",
-      "title": "挪威应收购 OpenAI"
-    },
-    "https://lawsofsoftwareengineering.com/laws/dilbert-principle/": {
-      "date": "2026-08-19",
-      "title": "公司将无能员工提升为管理层以限制损害"
-    },
-    "https://github.com/biw/keychain-store": {
-      "date": "2026-08-19",
-      "title": "Electron 库添加 macOS 数据保护密钥链支持"
-    },
     "https://twitter.com/NoubarAfeyan/status/2090050162441752787": {
       "date": "2026-08-20",
       "title": "Moderna 和 Merck 宣布 mRNA 新抗原黑色素瘤疫苗 Phase 3 积极结果"
@@ -740,6 +660,110 @@
     "https://sebsite.pw/w/20260801-pythonconstants.html": {
       "date": "2026-08-26",
       "title": "Python 预声明常量表现出意外行为"
+    },
+    "https://newsroom.ibm.com/2026-08-24-ibm-unveils-next-generation-dual-architecture-processor-for-ibm-z-and-linuxone": {
+      "date": "2026-08-27",
+      "title": "IBM 发布面向 Z 和 LinuxONE 的双架构处理器"
+    },
+    "https://github.com/tailscale/tailcat": {
+      "date": "2026-08-27",
+      "title": "Tailcat —— 类似 netcat 的 Tailscale 数据平面工具"
+    },
+    "https://z.ai/blog/glm-5.3-flash": {
+      "date": "2026-08-27",
+      "title": "智谱 AI 发布 GLM-5.3-Flash，更小更廉价的适用于国产硬件的 LLM"
+    },
+    "https://www.actinideinc.com/press/actinide-becomes-first-startup-to-ever-enrich-natural-uranium-to-produce-haleu": {
+      "date": "2026-08-27",
+      "title": "Actinide 成为首家生产高浓度低浓铀（HALEU）的初创公司"
+    },
+    "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws": {
+      "date": "2026-08-27",
+      "title": "AWS 收购 DuckLabs，DuckDB 商业支持方"
+    },
+    "https://lwn.net/SubscriberLink/1089390/46116614cc74b814/": {
+      "date": "2026-08-27",
+      "title": "Bambu Lab 3D 打印机被指持续违反 AGPL 许可证"
+    },
+    "https://openai.com/index/hugging-face-incident-and-the-road-ahead/": {
+      "date": "2026-08-27",
+      "title": "Hugging Face 模型评估事件凸显自主 AI 风险"
+    },
+    "https://hotosm.org/en/news/comaps-the-offline-app-that-guided-rescuers-without-a-signal-in-the-venezuela-response/": {
+      "date": "2026-08-27",
+      "title": "CoMaps：离线应用在委内瑞拉无信号时引导救援人员"
+    },
+    "https://qwen.ai/blog?id=qwen3.8-flash-next": {
+      "date": "2026-08-27",
+      "title": "Qwen3.8-Flash-Next 大语言模型发布，包含 1250 亿参数主模型和 ngram 副车"
+    },
+    "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think": {
+      "date": "2026-08-27",
+      "title": "检索增强生成其实比你想象的更简单"
+    },
+    "https://www.githubstatus.com/incidents/hcbtzksccj2f": {
+      "date": "2026-08-27",
+      "title": "GitHub 服务中断 伴随 Azure 迁移进行中"
+    },
+    "https://www.fda.gov/news-events/press-announcements/fda-approves-first-class-targeted-therapy-metastatic-pancreatic-cancer": {
+      "date": "2026-08-27",
+      "title": "FDA 批准首款 RAS 抑制剂达拉克西布用于转移性胰腺癌"
+    },
+    "https://www.ssp.sh/brain/using-obsidian-with-ai/": {
+      "date": "2026-08-27",
+      "title": "难以完成 AI 建议的想法：在 Obsidian 中的挑战。"
+    },
+    "https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/": {
+      "date": "2026-08-27",
+      "title": "EVE Online：开始迁移到 Python 3"
+    },
+    "https://isgithubcooked.com/": {
+      "date": "2026-08-27",
+      "title": "GitHub 中断追踪器：GitHub 已经“熟”了？"
+    },
+    "https://acceptmarkdown.com/": {
+      "date": "2026-08-27",
+      "title": "通过 HTTP Accept 头向 AI 代理提供 Markdown"
+    },
+    "https://twitterwebviewer.com/": {
+      "date": "2026-08-27",
+      "title": "Twitter 查看器 让用户无需账号即可浏览推特。"
+    },
+    "https://farmaction.us/taylorfarmsreport/": {
+      "date": "2026-08-27",
+      "title": "泰勒农场的主导地位构成全国食品安全风险"
+    },
+    "https://gist.github.com/MartinEesmaa/2f4b261cb90a47e9c41ba115a011a4aa": {
+      "date": "2026-08-27",
+      "title": "社区维护的 YouTube 格式 ID 参考列表供 youtube-dl/yt-dlp 使用。"
+    },
+    "https://praveshkoirala.com/2026/08/26/you-could-have-invented-pagerank/": {
+      "date": "2026-08-27",
+      "title": "PageRank 解释：易懂的步骤演练"
+    },
+    "https://thetariffcost.com/": {
+      "date": "2026-08-27",
+      "title": "美国对加拿大商品关税对美国家庭成本的分析"
+    },
+    "https://simonwillison.net/2026/Aug/26/paul-dix/": {
+      "date": "2026-08-27",
+      "title": "Paul Dix 强调 AI 能生成并精炼 100 万行代码"
+    },
+    "https://icml.cc/virtual/2026/invited-talk/67274": {
+      "date": "2026-08-27",
+      "title": "ICML 2026 演讲探讨人工智能时代人类的工作"
+    },
+    "https://e360.yale.edu/digest/scotland-woodlands-antidepressants": {
+      "date": "2026-08-27",
+      "title": "城市林地可及性与抗抑郁药使用降低相关"
+    },
+    "https://arxiv.org/abs/2608.23228": {
+      "date": "2026-08-27",
+      "title": "mold：一个并行链接器，用于加速构建"
+    },
+    "https://www.magicpatterns.com/theme-park": {
+      "date": "2026-08-27",
+      "title": "Show HN: AI 代理根据设计系统生成过山车大亨风格主题公园"
     }
   }
 }
