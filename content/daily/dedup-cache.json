@@ -9,109 +9,9 @@
       "date": "2026-08-23",
       "title": "DeepSeek Harness 的 Electron 桌面客户端在 GitHub 发布"
     },
-    "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/": {
-      "date": "2026-08-21",
-      "title": "GitHub 披露 8 月 17 日因重试循环和流量放大导致的宕机"
-    },
-    "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/": {
-      "date": "2026-08-21",
-      "title": "阿伦·斯沃茨因抓取被起诉，而 Meta 却自由抓取 AI 数据。"
-    },
-    "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html": {
-      "date": "2026-08-21",
-      "title": "AliExpress 使用静音 WebAudio 指纹识别破坏蓝牙多点连接"
-    },
-    "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/": {
-      "date": "2026-08-21",
-      "title": "恶意 Rust crate arrayref 执行构建时有效载荷，已从 crates.io 删除。"
-    },
-    "https://simedw.com/2026/08/20/midi-autocomplete/": {
-      "date": "2026-08-21",
-      "title": "开发者发布免费 iPhone 应用，内置 125M 参数 Transformer 实现实时 MIDI 钢琴自动补全"
-    },
-    "https://arxiv.org/abs/2608.00146": {
-      "date": "2026-08-21",
-      "title": "DiffusionGemma 将 Gemma MOE 检查点重用为扩散去噪器"
-    },
-    "https://www.danielvaughn.dev/posts/huzzah/": {
-      "date": "2026-08-21",
-      "title": "Show HN：Huzzah 推出 AI 驱动的伪代码编辑器。"
-    },
-    "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink": {
-      "date": "2026-08-21",
-      "title": "CIA 资助让 NeXT 在 1980 年代得以存活"
-    },
-    "https://www.igalia.com/2026/08/19/Linux-72-Released.html": {
-      "date": "2026-08-21",
-      "title": "Linux 7.2 内核发布，改进 HDMI 2.1 支持"
-    },
-    "https://github.com/zachahn/vomit": {
-      "date": "2026-08-21",
-      "title": "Vomit：使用独立 LLM 清理 Claude 5 的令牌输出"
-    },
-    "https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview": {
-      "date": "2026-08-21",
-      "title": "求职面试流程可能被利用来入侵你的系统。"
-    },
-    "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html": {
-      "date": "2026-08-21",
-      "title": "在 27 美元智能手表上用 Claude 进行黑客攻击演示。"
-    },
-    "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks/": {
-      "date": "2026-08-21",
-      "title": "每个模型都会作弊：提示级缓解措施在进攻性网络任务中失效"
-    },
-    "https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/": {
-      "date": "2026-08-21",
-      "title": "评估 smolmachines/smolvm 作为不受信任的 Python 和 JavaScript 沙盒"
-    },
-    "https://bactra.org/notebooks/cybersyn.html": {
-      "date": "2026-08-21",
-      "title": "对 1970 年代智利赛博辛项目及其对 AI 治理启示的分析。"
-    },
-    "https://consumerrights.wiki/w/Main_Page": {
-      "date": "2026-08-21",
-      "title": "路易斯·罗思曼发起的消费者权利维基"
-    },
-    "https://jsomers.net/i-should-have-loved-biology/": {
-      "date": "2026-08-21",
-      "title": "关于后悔未选择生物学的反思性文章"
-    },
-    "https://www.experimental-history.com/p/why-arent-smart-people-happier": {
-      "date": "2026-08-21",
-      "title": "为什么聪明的人不一定更幸福。"
-    },
-    "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/": {
-      "date": "2026-08-21",
-      "title": "反 AI 字体被认为无效且有害"
-    },
-    "https://simonwillison.net/2026/Aug/19/jeremy-morrell/": {
-      "date": "2026-08-21",
-      "title": "杰里米·莫雷尔认为 LLM 和沙盒技术为用户可扩展软件带来新机遇"
-    },
     "https://github.com/AprilNEA/OpenLogi": {
       "date": "2026-08-23",
       "title": "OpenLogi：基于 Rust 的本地优先 Logitech 鼠标配置工具在 24 小时内获得 12 颗星"
-    },
-    "https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/": {
-      "date": "2026-08-21",
-      "title": "研究发现抖音/Instagram 短视频降低认知控制网络活动"
-    },
-    "https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/": {
-      "date": "2026-08-21",
-      "title": "Simon Willison 认为在使用 AI 编码代理时，代码行数可以衡量生产力"
-    },
-    "https://www.massdriver.cloud/blogs/the-citizen-developer": {
-      "date": "2026-08-21",
-      "title": "低代码工具赋能公民开发者构建软件"
-    },
-    "https://tidalcycles.org/": {
-      "date": "2026-08-21",
-      "title": "Tidal Cycles：基于 Haskell 的现场编码算法音乐语言"
-    },
-    "https://strn.cat/posts/spacetime/": {
-      "date": "2026-08-21",
-      "title": "SpacetimeDB：时空导向数据库的简短技术评测"
     },
     "https://www.felonybench.com/": {
       "date": "2026-08-22",
@@ -798,12 +698,12 @@
       "title": "传闻：Nvidia 将以 129 亿美元收购 Hugging Face"
     },
     "https://github.com/freestylefly/awesome-gpt-image-2": {
-      "date": "2026-08-28",
-      "title": "GitHub 仓库 awesome-gpt-image-2 获 15 星，提供 470+ GPT-Image2 提示词"
+      "date": "2026-08-29",
+      "title": "GitHub 仓库发布 470+ 个逆向工程的 GPT-Image2 提示词。"
     },
     "https://github.com/bilawalsidhu/gods-eye-view": {
-      "date": "2026-08-28",
-      "title": "基于浏览器的间谍卫星模拟器在 3D 地球仪上显示真实数据"
+      "date": "2026-08-29",
+      "title": "基于浏览器的间谍卫星模拟器展示实时开源空间情报"
     },
     "https://morphing.cloud/afterglow/": {
       "date": "2026-08-28",
@@ -814,8 +714,148 @@
       "title": "尼泊尔山洪的机制被解释"
     },
     "https://github.com/tt-a1i/archify": {
-      "date": "2026-08-28",
-      "title": "Archify HTML 代理技能在 24 小时内获得 29 颗星"
+      "date": "2026-08-29",
+      "title": "GitHub 仓库 tt-a1i/archify 在 24 小时内获得 33 颗星"
+    },
+    "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html": {
+      "date": "2026-08-29",
+      "title": "主张 GUI 应完全通过键盘操作以提升可访问性和效率"
+    },
+    "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released": {
+      "date": "2026-08-29",
+      "title": "HTMX 4.0 发布，附带 Alpine.js 兼容性扩展"
+    },
+    "https://12factor.net/": {
+      "date": "2026-08-29",
+      "title": "十二因子应用（2025）更新以适应云原生实践"
+    },
+    "https://huggingface.co/zai-org/GLM-5.3": {
+      "date": "2026-08-29",
+      "title": "GLM-5.3 以开放权重形式发布的大型语言模型"
+    },
+    "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html": {
+      "date": "2026-08-29",
+      "title": "美国法院裁定特朗普政府对 Anthropic 的黑 listing 非法。"
+    },
+    "https://www.nature.com/articles/d41586-026-02506-4": {
+      "date": "2026-08-29",
+      "title": "小型反堆使核能更接近实现其承诺。"
+    },
+    "https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/": {
+      "date": "2026-08-29",
+      "title": "破解 Claude Code Opus 5 自动模式"
+    },
+    "https://www.reddit.com/gallery/1w10tax": {
+      "date": "2026-08-29",
+      "title": "在 RP2350 微控制器上运行的微型 Latent Flow Transformer 生成 128x128 人脸图像"
+    },
+    "https://x.com/AndrewYNg/status/2093388974194872781": {
+      "date": "2026-08-29",
+      "title": "Andrew Ng 发布 AI 工程技能图谱，探讨 Agentic Coding 基础变化"
+    },
+    "https://anil.recoil.org/notes/rumour-is-the-exploit": {
+      "date": "2026-08-29",
+      "title": "仅凭漏洞传闻即可触发利用。"
+    },
+    "https://www.inventati.org/": {
+      "date": "2026-08-29",
+      "title": "美国制裁意大利活动主义托管集体 Autistici/Inventati，将其列为全球恐怖实体"
+    },
+    "https://www.orbify.eu/demo/": {
+      "date": "2026-08-29",
+      "title": "Inception-style curved map for turn-by-turn directions"
+    },
+    "https://arxiv.org/abs/2608.23691": {
+      "date": "2026-08-29",
+      "title": "通过假期休息的多智能体 AI 进行自主数学发现"
+    },
+    "https://geekyschmidt.com/post/2026-08-25-verschlimmbesserung/": {
+      "date": "2026-08-29",
+      "title": "德语术语 Verschlimmbesserung 揭示有缺陷的软件更新"
+    },
+    "https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/": {
+      "date": "2026-08-29",
+      "title": "如何防止智能电视通过 HDMI/DisplayPort 被利用"
+    },
+    "https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html": {
+      "date": "2026-08-29",
+      "title": "使用散度定理快速计算多面体体积"
+    },
+    "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/": {
+      "date": "2026-08-29",
+      "title": "Luanti 因虚假 AI 生成的 DMCA 通知被 Google Play 下架"
+    },
+    "https://2026.stateofthemap.org/": {
+      "date": "2026-08-29",
+      "title": "State of the Map 2026 会议宣布将在巴黎举行，时间为 2026 年 8 月 28 日至 30 日。"
+    },
+    "https://github.com/openai/openai-python/blob/main/httpx2.md": {
+      "date": "2026-08-29",
+      "title": "OpenAI 将 Python SDK 从 httpx 迁移到 httpx2 以避免破坏性更改"
+    },
+    "https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/": {
+      "date": "2026-08-29",
+      "title": "OCaml 漏洞谣言仅需数分钟即引发利用探测。"
+    },
+    "https://x.com/_akhaliq/status/2093154284095295685": {
+      "date": "2026-08-29",
+      "title": "VGI-Bench：视频生成模型视觉智能基准"
+    },
+    "https://en.refund4freedom.org/": {
+      "date": "2026-08-29",
+      "title": "指南帮助用户申请预装 Windows 许可证的退款"
+    },
+    "https://usesesame.app/": {
+      "date": "2026-08-29",
+      "title": "Sesame：新开源本地优先密码管理器寻求反馈"
+    },
+    "https://log.ozgur.works/bye-bye-github.html": {
+      "date": "2026-08-29",
+      "title": "开发者解释离开 GitHub 转向其他代码托管平台的决定。"
+    },
+    "https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/": {
+      "date": "2026-08-29",
+      "title": "EasyEffects 提升 Linux 笔记本扬声器音质"
+    },
+    "https://www.reuters.com/legal/litigation/ai-generated-music-barred-australian-charts-after-madonna-cover-controversy-2026-08-26/": {
+      "date": "2026-08-29",
+      "title": "澳大利亚禁止完全由 AI 生成的歌曲进入官方榜单"
+    },
+    "https://www.theatlantic.com/ideas/archive/2025/09/job-market-hell/684133/": {
+      "date": "2026-08-29",
+      "title": "求职者和 HR 都在用 AI，但没人被录用"
+    },
+    "https://x.com/emollick/status/2093399712208494741": {
+      "date": "2026-08-29",
+      "title": "埃森·莫利克呼吁为 GLM-5.3 发布模型卡并进行红队测试。"
+    },
+    "https://x.com/emollick/status/2093362761925284279": {
+      "date": "2026-08-29",
+      "title": "Ethan Mollick 表示 AI 视频、图像、音乐模型如今可作为实用创作工具"
+    },
+    "https://www.smithsonianmag.com/science-nature/africa-wild-dogs-most-hated-carnivores-continent-heres-why-conservationists-saving-them-anyway-180989287/": {
+      "date": "2026-08-29",
+      "title": "保护主义者启动恢复非洲野犬种群的行动"
+    },
+    "https://handbook.sutro.sh/": {
+      "date": "2026-08-29",
+      "title": "分析型 AI 手册上线作为在线指南"
+    },
+    "https://github.com/openJiuwen-ai/jiuwenswarm": {
+      "date": "2026-08-29",
+      "title": "JiuwenSwarm AI 智能体将大语言模型融入日常通讯应用"
+    },
+    "https://github.com/stablyai/orca": {
+      "date": "2026-08-29",
+      "title": "Orca 发布基于 TypeScript 的并行代理开发环境"
+    },
+    "https://x.com/gdb/status/2093389388109717989": {
+      "date": "2026-08-29",
+      "title": "格雷格·布罗克曼称杰文斯悖论具有反直觉且鼓舞人心"
+    },
+    "https://x.com/simonw/status/2093277255438860358": {
+      "date": "2026-08-29",
+      "title": "Simon Willison 的 LLM 陈词滥调高亮工具现在可检测 38 种模式。"
     }
   }
 }
