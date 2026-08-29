@@ -13,110 +13,6 @@
       "date": "2026-08-23",
       "title": "OpenLogi：基于 Rust 的本地优先 Logitech 鼠标配置工具在 24 小时内获得 12 颗星"
     },
-    "https://www.felonybench.com/": {
-      "date": "2026-08-22",
-      "title": "Felony Bench 追踪 AI 代理法律违规。"
-    },
-    "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html": {
-      "date": "2026-08-22",
-      "title": "美国公民因在边境删除手机数据面临重罪指控"
-    },
-    "https://lina.sh/blog/hijacking-e164-arpa": {
-      "date": "2026-08-22",
-      "title": "作者意外通过 e164.arpa 记录了数十万军方通话。"
-    },
-    "https://api-docs.deepseek.com/guides/vision/": {
-      "date": "2026-08-22",
-      "title": "DeepSeek 发布实验性 V4 Flash 视觉模型，详细说明图像标记化"
-    },
-    "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory": {
-      "date": "2026-08-22",
-      "title": "GPU 读取内存时发生了什么"
-    },
-    "https://cymerys.com/w/im-becoming-ai-blind": {
-      "date": "2026-08-22",
-      "title": "我正在对 AI 失明"
-    },
-    "https://bandarlabs.github.io/Cobalt/": {
-      "date": "2026-08-22",
-      "title": "Cobalt 使 Kobo 电子书阅读器能够运行 Linux 应用"
-    },
-    "https://kagi.com/changelog#11296": {
-      "date": "2026-08-22",
-      "title": "Kagi 新增过滤付费墙链接的设置"
-    },
-    "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/": {
-      "date": "2026-08-22",
-      "title": "我们如何让文本转语音模型在 50 毫秒内响应"
-    },
-    "https://github.com/adnanakil/nobuzz/blob/main/README.md": {
-      "date": "2026-08-22",
-      "title": "Claudette：减少 Claude BuzzFeed 式冗长输出的提示工程指南"
-    },
-    "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/": {
-      "date": "2026-08-22",
-      "title": "DIY 自托管沙盒式智能体软件工厂描述"
-    },
-    "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/": {
-      "date": "2026-08-22",
-      "title": "快速印象：一周使用 Codex 多于 Claude"
-    },
-    "https://annas-archive.gl/blog/physical-destruction.html": {
-      "date": "2026-08-22",
-      "title": "AI 公司毁坏实体书籍以扫描用于训练数据"
-    },
-    "https://theconsensus.dev/p/2026/08/16/transactions-in-cassandra.html": {
-      "date": "2026-08-22",
-      "title": "Cassandra 6 添加 ACID 事务支持"
-    },
-    "https://precastreinforced.co.uk/2026/08/16/new-worlds/": {
-      "date": "2026-08-22",
-      "title": "当代社会呼应巴拉德与吉布森的反乌托邦愿景"
-    },
-    "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/": {
-      "date": "2026-08-22",
-      "title": "科学家发布有史以来最大的宇宙二维地图"
-    },
-    "https://pointinthecloud.com/2026-08-19-144600.html": {
-      "date": "2026-08-22",
-      "title": "在 0.60 英镑的 RP2350 微控制器板上运行 Photoshop"
-    },
-    "https://simonwillison.net/2026/Aug/21/stop-making-tuis/": {
-      "date": "2026-08-22",
-      "title": "停止制作 TUIs"
-    },
-    "https://simonwillison.net/2026/Aug/21/matt-webb/": {
-      "date": "2026-08-22",
-      "title": "马特·韦布使用 ChatGPT 作为导师学习四元数以用于 AR 应用"
-    },
-    "https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/": {
-      "date": "2026-08-22",
-      "title": "ChatGPT 搜索开始大规模使用 site:operator"
-    },
-    "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders": {
-      "date": "2026-08-22",
-      "title": "Anthropic 发布 Claude Mythos 5 网络安全 AI 模型"
-    },
-    "https://simonwillison.net/2026/Aug/21/llm/": {
-      "date": "2026-08-22",
-      "title": "LLM 0.32.1 通过锁定 OpenAI 依赖 <3 修复了回归。"
-    },
-    "https://simonwillison.net/2026/Aug/21/llm-openrouter/": {
-      "date": "2026-08-22",
-      "title": "llm-openrouter 0.7 发布，兼容 LLM 0.32 并新增三种工具"
-    },
-    "https://tumbleforth.hardcoded.net/": {
-      "date": "2026-08-22",
-      "title": "Tumble Forth 业余操作系统从汇编到带 C 编译器"
-    },
-    "https://github.com/alibaba/anolisa/blob/main/docs/user-guide/en/agent-observability/agentsight.md": {
-      "date": "2026-08-22",
-      "title": "AgentSight：无需代码更改的 AI 代理 eBPF 可观测性"
-    },
-    "https://invertingvision.com/2026/08/10/kodaks-pre-invented-lunar-orbiter-camera-or-the-fate-of-samos-readout/": {
-      "date": "2026-08-22",
-      "title": "柯达 alleged 预发明 月球轨道器摄像机 与 SAMOS 读出系统的命运"
-    },
     "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917": {
       "date": "2026-08-23",
       "title": "为什么本地 LLM 看起来比实际更笨"
@@ -702,8 +598,8 @@
       "title": "GitHub 仓库发布 470+ 个逆向工程的 GPT-Image2 提示词。"
     },
     "https://github.com/bilawalsidhu/gods-eye-view": {
-      "date": "2026-08-29",
-      "title": "基于浏览器的间谍卫星模拟器展示实时开源空间情报"
+      "date": "2026-08-30",
+      "title": "基于浏览器的间谍卫星模拟器在真实感 3D 地球仪上可视化实时数据"
     },
     "https://morphing.cloud/afterglow/": {
       "date": "2026-08-28",
@@ -714,8 +610,8 @@
       "title": "尼泊尔山洪的机制被解释"
     },
     "https://github.com/tt-a1i/archify": {
-      "date": "2026-08-29",
-      "title": "GitHub 仓库 tt-a1i/archify 在 24 小时内获得 33 颗星"
+      "date": "2026-08-30",
+      "title": "Archify 是一个开源的 HTML 工具，用于创建动画且可验证的图表。"
     },
     "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html": {
       "date": "2026-08-29",
@@ -856,6 +752,122 @@
     "https://x.com/simonw/status/2093277255438860358": {
       "date": "2026-08-29",
       "title": "Simon Willison 的 LLM 陈词滥调高亮工具现在可检测 38 种模式。"
+    },
+    "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/": {
+      "date": "2026-08-30",
+      "title": "腾讯开源 Hy4 预览模型，具备自改进循环"
+    },
+    "https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits": {
+      "date": "2026-08-30",
+      "title": "DHS 使用 obscure 1509 summons 监视记者和非营利组织"
+    },
+    "https://github.com/Lakr233/vphone-cli": {
+      "date": "2026-08-30",
+      "title": "使用 Apple Virtualization.framework 启动虚拟 iPhone"
+    },
+    "https://i.redd.it/jsuomguordmh1.jpeg": {
+      "date": "2026-08-30",
+      "title": "谷歌 SKILL.state 方法将长会话 Agent token 消耗降低 94%"
+    },
+    "https://github.com/vllm-project/vllm/releases/tag/v0.28.0": {
+      "date": "2026-08-30",
+      "title": "vLLM 发布 v0.28.0 版本，带来性能提升和错误修复"
+    },
+    "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity": {
+      "date": "2026-08-30",
+      "title": "良好文化胜过 AI 成为最大生产力驱动力"
+    },
+    "https://uecker.codeberg.page/2026-08-29.html": {
+      "date": "2026-08-30",
+      "title": "在不使用可执行栈的情况下间接调用 GCC 嵌套函数"
+    },
+    "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing": {
+      "date": "2026-08-30",
+      "title": "三星在 Hot Chips 2026 上发布 Processing-in-Memory 技术"
+    },
+    "https://bsky.app/profile/grapheneos.org/post/3mua32q4ds22e": {
+      "date": "2026-08-30",
+      "title": "GrapheneOS 警告 Pixel 11 系列将不支持 ARM 内存标签扩展"
+    },
+    "https://www.reddit.com/r/MachineLearning/comments/1w1wt1s/you_can_beat_sota_time_series_anomaly_detection/": {
+      "date": "2026-08-30",
+      "title": "百年老算法 SPC 胜过现代 TSAD SOTA"
+    },
+    "https://www.reddit.com/r/MachineLearning/comments/1w16jwj/wtf_is_a_world_model_d/": {
+      "date": "2026-08-30",
+      "title": "Reddit 讨论澄清 AI 世界模型的定义与范围"
+    },
+    "https://x.com/colinhacks/status/2093725420462182512": {
+      "date": "2026-08-30",
+      "title": "Zod v4.5 添加 Schema 编译，实现 3-9 倍更快验证。"
+    },
+    "https://x.com/emollick/status/2093530834124800046": {
+      "date": "2026-08-30",
+      "title": "谷歌 AI 概览可能像编码代理对 StackExchange 所做的那样减少维基百科使用"
+    },
+    "https://ekunazanu.foo/lab/quantifying-colour/": {
+      "date": "2026-08-30",
+      "title": "文章可视化并量化人类锥细胞响应重叠。"
+    },
+    "https://github.com/stemdeckapp/stemdeck": {
+      "date": "2026-08-30",
+      "title": "StemDeck：免费开源本地 AI 音轨分离工具"
+    },
+    "https://www.strangeloopcanon.com/p/what-we-want-is-a-hunter-gatherer": {
+      "date": "2026-08-30",
+      "title": "文章主张未来科技增强的采集狩猎生活"
+    },
+    "https://dl.acm.org/doi/10.1145/3830438.3830958": {
+      "date": "2026-08-30",
+      "title": "Rust 中的 typestate 和 newtype 模式实现编译时状态机"
+    },
+    "https://prela-lang.org/tutorial/": {
+      "date": "2026-08-30",
+      "title": "仅用 11 行代码实现的更佳 SQL"
+    },
+    "https://www.reddit.com/r/MachineLearning/comments/1w19tav/how_important_is_having_an_internship_to_get_a/": {
+      "date": "2026-08-30",
+      "title": "国际 ML 博士生因 CPT 实习暂停担心就业前景"
+    },
+    "https://github.com/K-Dense-AI/scientific-agent-skills": {
+      "date": "2026-08-30",
+      "title": "K-Dense-AI 发布 scientific-agent-skills 库，包含 161 个 AI 代理技能"
+    },
+    "https://x.com/emollick/status/2093823173619769806": {
+      "date": "2026-08-30",
+      "title": "伊桑·莫利克警告：为用户内容使用弱 AI 模型可能很快被视为不敬"
+    },
+    "https://x.com/emollick/status/2093747487433478296": {
+      "date": "2026-08-30",
+      "title": "伊桑·莫利克指出自主 AI 科学家的潜力与不足。"
+    },
+    "https://tucker.wales/writing/bias-towards-action/": {
+      "date": "2026-08-30",
+      "title": "建议新员工先观察后行动"
+    },
+    "https://frequal.com/aptera/ProductionDealAug2026.html": {
+      "date": "2026-08-30",
+      "title": "宣布了 4400 万美元的太阳能电动汽车生产协议。"
+    },
+    "https://coldtake.dev/blog/domain-driven-agents": {
+      "date": "2026-08-30",
+      "title": "将领域驱动设计应用于 AI 代理"
+    },
+    "https://blog.elis.cc/articles/a-safe-mysql-upgrade-that-wasnt-so-safe/": {
+      "date": "2026-08-30",
+      "title": "一次被认为安全的 MySQL 升级却引发了意外问题"
+    },
+    "https://packagemain.tech/p/golang-database-proxy": {
+      "date": "2026-08-30",
+      "title": "用 Go 编写简单数据库代理作为学习练习"
+    },
+    "https://gruhn.me/blog/2026-08-29/": {
+      "date": "2026-08-30",
+      "title": "通过 TypeScript 类比解释 Lean 定理证明器"
+    },
+    "https://x.com/emollick/status/2093819069552021740": {
+      "date": "2026-08-30",
+      "title": "硬科幻作家普遍厌恶大语言模型"
     }
   }
 }
