@@ -1,70 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "https://github.com/cathrynlavery/diagram-design": {
-      "date": "2026-08-23",
-      "title": "GitHub 仓库提供 29 个自包含 HTML+SVG 图表供 Claude Code 使用"
-    },
-    "https://github.com/anywhere-labs/deepseek-harness-desktop": {
-      "date": "2026-08-23",
-      "title": "DeepSeek Harness 的 Electron 桌面客户端在 GitHub 发布"
-    },
-    "https://github.com/AprilNEA/OpenLogi": {
-      "date": "2026-08-23",
-      "title": "OpenLogi：基于 Rust 的本地优先 Logitech 鼠标配置工具在 24 小时内获得 12 颗星"
-    },
-    "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917": {
-      "date": "2026-08-23",
-      "title": "为什么本地 LLM 看起来比实际更笨"
-    },
-    "https://munderdiffl.in/": {
-      "date": "2026-08-23",
-      "title": "Munder Difflin 推出本地多智能体 harness，实现零 Token LLM 模拟"
-    },
-    "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/": {
-      "date": "2026-08-23",
-      "title": "模型上下文协议路线图宣布 HTTP 工作负载转变、授权更新及移除采样功能"
-    },
-    "https://lapcatsoftware.com/articles/2026/8/7.html": {
-      "date": "2026-08-23",
-      "title": "hdiutil is deprecated in macOS 27 Golden Gate"
-    },
-    "https://twitter.com/argofowl/status/2091150597374537729": {
-      "date": "2026-08-23",
-      "title": "Anthropic 似乎正在 Claude Code 上进行降低努力级别的 A/B 测试"
-    },
-    "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/": {
-      "date": "2026-08-23",
-      "title": "Racket 语言友好入门"
-    },
-    "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi": {
-      "date": "2026-08-23",
-      "title": "Z80 微处理器在爱好者和小众应用中仍然活跃"
-    },
-    "https://simonwillison.net/2026/Aug/22/linus-torvalds/": {
-      "date": "2026-08-23",
-      "title": "Linus Torvalds 描述了 AI 辅助的内核调试会话。"
-    },
-    "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/": {
-      "date": "2026-08-23",
-      "title": "有效使用编码代理需要清晰指令与验证"
-    },
-    "https://github.com/guillaumemeyer/watermarks-remover": {
-      "date": "2026-08-23",
-      "title": "GitHub 仓库因 AI 水印去除工具获 14 星"
-    },
-    "https://simonwillison.net/2026/Aug/22/llm/": {
-      "date": "2026-08-23",
-      "title": "llm 0.33 发布：升级至 OpenAI Python 3.x、httpx2 并新增 --key 参数"
-    },
-    "https://github.com/Wei-Shaw/sub2api": {
-      "date": "2026-08-23",
-      "title": "Wei-Shaw/sub2api：基于 Go 的开源中转服务，统一 Claude、OpenAI、Gemini、Grok 接口"
-    },
-    "https://github.com/pathwaycom/arc-task-gen": {
-      "date": "2026-08-23",
-      "title": "新 Python 工具生成与公开评估集分布匹配的 ARC-AGI-1 类任务"
-    },
     "https://how.complexsystems.fail/": {
       "date": "2026-08-24",
       "title": "HN 重新带来有影响力的 1998 年复杂系统失败论文"
@@ -598,8 +534,8 @@
       "title": "GitHub 仓库发布 470+ 个逆向工程的 GPT-Image2 提示词。"
     },
     "https://github.com/bilawalsidhu/gods-eye-view": {
-      "date": "2026-08-30",
-      "title": "基于浏览器的间谍卫星模拟器在真实感 3D 地球仪上可视化实时数据"
+      "date": "2026-08-31",
+      "title": "基于浏览器的间谍卫星模拟器在真实开源空间数据上可视化 3D 地球仪"
     },
     "https://morphing.cloud/afterglow/": {
       "date": "2026-08-28",
@@ -610,8 +546,8 @@
       "title": "尼泊尔山洪的机制被解释"
     },
     "https://github.com/tt-a1i/archify": {
-      "date": "2026-08-30",
-      "title": "Archify 是一个开源的 HTML 工具，用于创建动画且可验证的图表。"
+      "date": "2026-08-31",
+      "title": "Archify：自包含 HTML 图表工具在 24 小时内获 41 颗星"
     },
     "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html": {
       "date": "2026-08-29",
@@ -830,7 +766,7 @@
       "title": "国际 ML 博士生因 CPT 实习暂停担心就业前景"
     },
     "https://github.com/K-Dense-AI/scientific-agent-skills": {
-      "date": "2026-08-30",
+      "date": "2026-08-31",
       "title": "K-Dense-AI 发布 scientific-agent-skills 库，包含 161 个 AI 代理技能"
     },
     "https://x.com/emollick/status/2093823173619769806": {
@@ -868,6 +804,102 @@
     "https://x.com/emollick/status/2093819069552021740": {
       "date": "2026-08-30",
       "title": "硬科幻作家普遍厌恶大语言模型"
+    },
+    "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack/": {
+      "date": "2026-08-31",
+      "title": "METR 和 Redwood 发布 HuggingFace 安全事件事后分析"
+    },
+    "https://www.qubes-os.org/news/2026/08/29/qsb-118/": {
+      "date": "2026-08-31",
+      "title": "QubesOS 复制到 VM 漏洞导致 Dom0 任意代码执行"
+    },
+    "https://0xcc.io/posts/omarchy-root-creds/": {
+      "date": "2026-08-31",
+      "title": "Omarchy Linux 特权提升漏洞允许任意用户进程获取 root"
+    },
+    "https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement": {
+      "date": "2026-08-31",
+      "title": "欧盟委员会在 ProtectEU 战略中重新推动加密后门。"
+    },
+    "https://blog.lyc8503.net/en/post/dn42-2-dnet/": {
+      "date": "2026-08-31",
+      "title": "作者为 DN42 实验网络构建自定义网络栈"
+    },
+    "https://simonwillison.net/2026/Aug/29/hy4/": {
+      "date": "2026-08-31",
+      "title": "腾讯发布 Hy4 Preview，770B 参数开放权重 LLM，上下文窗口达 1M Tokens"
+    },
+    "https://www.axios.com/2026/08/29/anthropic-sony-warner-music-copyright": {
+      "date": "2026-08-31",
+      "title": "索尼和华纳指控 Anthropic 使用盗版作品训练 Claude"
+    },
+    "https://komoroske.com/slime-mold/": {
+      "date": "2026-08-31",
+      "title": "协同头风：组织如何像黏菌一样"
+    },
+    "https://arxiv.org/abs/1804.07389": {
+      "date": "2026-08-31",
+      "title": "研究人员确认地球水陆最长直线路径"
+    },
+    "https://smoores.dev/post/automating_immersive_reading/": {
+      "date": "2026-08-31",
+      "title": "自动化沉浸式阅读带词级高亮"
+    },
+    "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6": {
+      "date": "2026-08-31",
+      "title": "Haiku R1/beta6 发布，带来新功能及启动回归"
+    },
+    "https://github.com/KodeMunkie/sm750hdmifb": {
+      "date": "2026-08-31",
+      "title": "硅影 SM750 开源 HDMI 驱动实现超宽分辨率支持"
+    },
+    "https://greenlightning.eu/diy/hacking-ikea-furniture/": {
+      "date": "2026-08-31",
+      "title": "黑客改造宜家家具"
+    },
+    "https://ziglang.org/devlog/2026/#2026-08-27": {
+      "date": "2026-08-31",
+      "title": "Zig 为 ArrayList 添加指针稳定性锁以防止悬空指针"
+    },
+    "https://www.itamarnovick.com/intro-to-startup-anti-pattern-series/": {
+      "date": "2026-08-31",
+      "title": "本文介绍了一系列关于创业反模式的文章。"
+    },
+    "https://www.reddit.com/r/artificial/comments/1w2dfs3/gave_a_bunch_of_agents_a_task_to_make_1_online/": {
+      "date": "2026-08-31",
+      "title": "AI 代理尝试通过简单商店赚取 1 美元"
+    },
+    "https://werwolv.net/posts/file_format_reverse_engineering/": {
+      "date": "2026-08-31",
+      "title": "使用 ImHex 逆向工程未知文件格式"
+    },
+    "https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/": {
+      "date": "2026-08-31",
+      "title": "欧洲极端夏季干旱加剧荒漠化风险。"
+    },
+    "https://sander.ai/2026/08/24/continuous-dlms.html": {
+      "date": "2026-08-31",
+      "title": "连续扩散语言模型提出以改进文本生成"
+    },
+    "https://www.righto.com/2026/08/spacelab-core-memory.html": {
+      "date": "2026-08-31",
+      "title": "太空中的核心存储器：1980 年 Spacelab 计算机的核心存储模块"
+    },
+    "https://www.muppetlabs.com/~breadbox/software/windows.html": {
+      "date": "2026-08-31",
+      "title": "适用于 Windows 3.1 及以后版本的 Conway 生命游戏实现"
+    },
+    "https://www.reddit.com/r/MachineLearning/comments/1w2r1f3/neurips_accepted_papers_leaked_d/": {
+      "date": "2026-08-31",
+      "title": "疑似 NeurIPS 2026 论文接受名单在 GitHub 泄露"
+    },
+    "https://www.youtube.com/watch?v=U6sobPCsdaY": {
+      "date": "2026-08-31",
+      "title": "从零用 PyTorch 实现 Kimi K3 模型"
+    },
+    "https://github.com/sapientinc/PRAXIST": {
+      "date": "2026-08-31",
+      "title": "sapientinc 发布 PRAXIST，一个用于自主研究代理的开源 Python 框架"
     }
   }
 }
