@@ -1,114 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "https://how.complexsystems.fail/": {
-      "date": "2026-08-24",
-      "title": "HN 重新带来有影响力的 1998 年复杂系统失败论文"
-    },
-    "https://ericpardee.github.io/fire-hd-ownership/": {
-      "date": "2026-08-24",
-      "title": "作者用四个 AI 模型一天 root Fire HD 平板"
-    },
-    "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/": {
-      "date": "2026-08-24",
-      "title": "斯洛伐克在交通测速摄像头中发现俄罗斯后门。"
-    },
-    "https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/": {
-      "date": "2026-08-24",
-      "title": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed"
-    },
-    "https://martypc.net/": {
-      "date": "2026-08-24",
-      "title": "MartyPC is a cross-platform emulator of early PCs written in Rust"
-    },
-    "https://malisper.me/jit-compiling-code-in-5-us/": {
-      "date": "2026-08-24",
-      "title": "实现 5 微秒 JIT 编译延迟"
-    },
-    "https://fabiensanglard.net/agent.md/index.html": {
-      "date": "2026-08-24",
-      "title": "分享 AGENTS.md 指南以提升 LLM 辅助编码质量"
-    },
-    "https://earendil.com/posts/what-is-a-harness/": {
-      "date": "2026-08-24",
-      "title": "解释 LLM 代理中的‘哈ーネ斯’概念"
-    },
-    "https://securelist.com/android-head-unit-malware/121106/": {
-      "date": "2026-08-24",
-      "title": "恶意软件通过 OTA 更新感染安卓车载头单元固件"
-    },
-    "https://insufferable.dev/posts/vibe-tax/": {
-      "date": "2026-08-24",
-      "title": "AI 编码代理的“振动税”：隐藏的生产力成本"
-    },
-    "https://slate.com/technology/2026/08/microsoft-software-nonprofit-data-delete.html": {
-      "date": "2026-08-24",
-      "title": "超过 17 万家非营利组织因微软软件变更遭全数据丢失"
-    },
-    "https://studyfinds.com/coconut-oil-jet-fuel-matches-kerosenes-efficiency-in-engine-tests/": {
-      "date": "2026-08-24",
-      "title": "椰子油喷气燃料匹配煤油效率"
-    },
-    "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/": {
-      "date": "2026-08-24",
-      "title": "Qwen 3.8 27B 在 30 分钟内完成逆向工程任务"
-    },
-    "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/": {
-      "date": "2026-08-24",
-      "title": "Armin Ronacher 探讨快速代码与可维护性的权衡"
-    },
-    "https://lalitm.com/post/find-problems-staff-engineer/": {
-      "date": "2026-08-24",
-      "title": "员工工程师使用策略来识别有价值的问题。"
-    },
-    "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/": {
-      "date": "2026-08-24",
-      "title": "Google Workspace 前端验证误将合法域名当作邮件提供商"
-    },
-    "https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/": {
-      "date": "2026-08-24",
-      "title": "现场教学与可汗学院视频：关于翻转课堂效果的辩论"
-    },
-    "https://debloat.dev/": {
-      "date": "2026-08-24",
-      "title": "debloat.dev 推出轻量级开源软件替代品列表"
-    },
-    "https://timharford.com/2026/08/explain-it-to-me-like-im-ten/": {
-      "date": "2026-08-24",
-      "title": "用简单语言解释复杂概念需要付出努力并提升理解"
-    },
-    "https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html": {
-      "date": "2026-08-24",
-      "title": "Fable AI 模型展示收益递减，免费午餐时代结束"
-    },
-    "https://henry.codes/writing/i-dream-of-quieter-computing/": {
-      "date": "2026-08-24",
-      "title": "作者倡导通过更高刷新率和周到设计实现更安静的计算"
-    },
-    "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/": {
-      "date": "2026-08-24",
-      "title": "Anthropic 顶级 AI 模型用户增长乏力，廉价替代品崛起"
-    },
-    "https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/": {
-      "date": "2026-08-24",
-      "title": "文章主张用 ch 单位替换像素单位。"
-    },
-    "http://www.os2museum.com/wp/the-end-of-an-athlon/": {
-      "date": "2026-08-24",
-      "title": "Athlon 的终结"
-    },
-    "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes": {
-      "date": "2026-08-24",
-      "title": "Hacker News 帖子分享关于邪教、骗局和计谋的非虚构书籍清单"
-    },
-    "https://simonwillison.net/2026/Aug/23/drew-breunig/": {
-      "date": "2026-08-24",
-      "title": "Drew Breunig 表示 Fable 高成本促使团队转向更便宜的编码 harness 替代方案"
-    },
-    "https://skylens.yantraai.app/": {
-      "date": "2026-08-24",
-      "title": "实时 3D 卫星追踪器结合五角大楼解密 UFO 数据"
-    },
     "https://twitter.com/lemire/status/2091894299289874926": {
       "date": "2026-08-25",
       "title": "小米 XRing O3 CPU 单核性能匹配苹果，多核性能更强"
@@ -546,8 +438,8 @@
       "title": "尼泊尔山洪的机制被解释"
     },
     "https://github.com/tt-a1i/archify": {
-      "date": "2026-08-31",
-      "title": "Archify：自包含 HTML 图表工具在 24 小时内获 41 颗星"
+      "date": "2026-09-01",
+      "title": "Archify：自包含 HTML 工具用于制作动态图表，24 小时内获 29 星"
     },
     "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html": {
       "date": "2026-08-29",
@@ -766,8 +658,8 @@
       "title": "国际 ML 博士生因 CPT 实习暂停担心就业前景"
     },
     "https://github.com/K-Dense-AI/scientific-agent-skills": {
-      "date": "2026-08-31",
-      "title": "K-Dense-AI 发布 scientific-agent-skills 库，包含 161 个 AI 代理技能"
+      "date": "2026-09-01",
+      "title": "开源库为 AI 代理提供 160+项科学技能"
     },
     "https://x.com/emollick/status/2093823173619769806": {
       "date": "2026-08-30",
@@ -900,6 +792,126 @@
     "https://github.com/sapientinc/PRAXIST": {
       "date": "2026-08-31",
       "title": "sapientinc 发布 PRAXIST，一个用于自主研究代理的开源 Python 框架"
+    },
+    "https://www.quantamagazine.org/stunning-percolation-proof-solves-decades-old-puzzle-about-phase-transitions-20260831/": {
+      "date": "2026-09-01",
+      "title": "惊艳的渗透证明解决了数十年未解的相变谜题"
+    },
+    "https://webiterate.dev/google-removed-extensions-ublock-origin-108/": {
+      "date": "2026-09-01",
+      "title": "谷歌从 Chrome 网上应用店移除 Manifest V2 扩展，包括 uBlock Origin。"
+    },
+    "https://dreamstation.systems/personal/ntppost.html": {
+      "date": "2026-09-01",
+      "title": "NAT 成为互联网中心化的早期驱动因素"
+    },
+    "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/": {
+      "date": "2026-09-01",
+      "title": "越狱绕过 Claude Code Opus 5 自动模式安全防护"
+    },
+    "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names": {
+      "date": "2026-09-01",
+      "title": "实现 2.4 亿域名的亚毫秒自动补全"
+    },
+    "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/": {
+      "date": "2026-09-01",
+      "title": "用 BirdNET-Go 改装摄像头实现鸟类自动识别。"
+    },
+    "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/": {
+      "date": "2026-09-01",
+      "title": "苹果 Mac Mini 和 Mac Studio 意外迎来 AI 需求激增"
+    },
+    "https://codex-tool-reference.simonw.chatgpt.site/": {
+      "date": "2026-09-01",
+      "title": "ChatGPT Work 技能参考指南发布，含 Playwright 浏览器控制"
+    },
+    "https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/": {
+      "date": "2026-09-01",
+      "title": "OpenShot 4.0 发布，带有界面刷新和 AI 对象遮罩"
+    },
+    "https://github.com/Hebbian-Robotics/hflow": {
+      "date": "2026-09-01",
+      "title": "Hebbian Robotics 发布 HFlow SDK 用于可扩展机器人数据管道"
+    },
+    "https://www.reddit.com/r/MachineLearning/comments/1w3bwci/cold_emailing_profs_about_phd_positions_read_this/": {
+      "date": "2026-09-01",
+      "title": "教授分享有效冷邮件技巧以争取博士职位"
+    },
+    "https://www.reddit.com/r/MachineLearning/comments/1w2wqbm/claude_code_for_research_papers_r/": {
+      "date": "2026-09-01",
+      "title": "博士生发现 AI 编码工具提升效率却削弱代码直觉"
+    },
+    "https://i.redd.it/nfgfbocb3omh1.jpeg": {
+      "date": "2026-09-01",
+      "title": "导演测试泄露的 NVIDIA DLSS 5 在《王国之魂：救赎 2》中"
+    },
+    "https://www.reddit.com/r/artificial/comments/1w3ex16/sony_and_warner_just_sued_anthropic_for_the_exact/": {
+      "date": "2026-09-01",
+      "title": "索尼和华纳起诉安思克使用与之前 15 亿美元和解相同的盗版歌词数据"
+    },
+    "https://www.reddit.com/r/artificial/comments/1w2yy6u/now_that_any_service_can_be_built_with_ai_nobody/": {
+      "date": "2026-09-01",
+      "title": "AI 辅助编程降低门槛但可能削弱构建新服务的动机"
+    },
+    "https://daniel.haxx.se/blog/2026/06/24/a-cve-dispute/": {
+      "date": "2026-09-01",
+      "title": "curl 团队就 CVE 分配争议发表声明，警告 CVE 通胀。"
+    },
+    "https://github.com/astral-sh/uv/releases/tag/0.12.8": {
+      "date": "2026-09-01",
+      "title": "uv 0.12.8 版本发布，新增无效工具目录警告、内容寻址缓存预览功能及性能提升"
+    },
+    "https://playaphone.com/": {
+      "date": "2026-09-01",
+      "title": "Playa Phone：燃烧人互动电话亭促进即兴交流"
+    },
+    "https://www.youtube.com/watch?v=3YtygAx_C6A": {
+      "date": "2026-09-01",
+      "title": "可步行的 ASCII 赛博朋克城市，仅用单个 HTML 文件实现"
+    },
+    "https://ravynos.com/": {
+      "date": "2026-09-01",
+      "title": "ravynOS 预 alpha 开源操作系统结合 Darwin 和 FreeBSD 以实现 macOS 兼容性"
+    },
+    "https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary": {
+      "date": "2026-09-01",
+      "title": "军用 commissary 冷冻柜被疑遭黑客攻击引发讨论"
+    },
+    "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html": {
+      "date": "2026-09-01",
+      "title": "写作可能是抵御 AI 替代的最安全职业之一"
+    },
+    "https://usealmanac.com/": {
+      "date": "2026-09-01",
+      "title": "Almanac 推出 AI 代理 Hermes，能够了解你的公司"
+    },
+    "https://www.reddit.com/r/artificial/comments/1w38vbj/i_have_been_moonlighting_on_on_ai_training_gigs/": {
+      "date": "2026-09-01",
+      "title": "Reddit 用户兼职 AI 训练岗，思考未来工作"
+    },
+    "https://tech.yahoo.com/computing/articles/35-years-later-torvalds-hobby-130000907.html": {
+      "date": "2026-09-01",
+      "title": "Linux 内核迎来林纳斯·托瓦兹爱好项目 35 周年。"
+    },
+    "https://heffree.dev/blog/no-more-sprocs.html": {
+      "date": "2026-09-01",
+      "title": "作者呼吁开发者在应用中停止使用存储过程"
+    },
+    "https://uphack.io/blog/post/the-hugging-face-incident-is-not-an-ai-story/": {
+      "date": "2026-09-01",
+      "title": "安全工程视角下的 Hugging Face 安全事件并非纯粹的 AI 问题。"
+    },
+    "https://github.com/THU-MAIC/OpenMAIC": {
+      "date": "2026-09-01",
+      "title": "OpenMAIC：基于 TypeScript 的一键多智能体互动课堂获 31 颗星"
+    },
+    "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/": {
+      "date": "2026-09-01",
+      "title": "Simon Willison 解释 ChatGPT Work 分为云端和本地两个版本"
+    },
+    "https://www.sixpatterns.com/blog/how-we-configured-opentelemetry-logs-in-rails": {
+      "date": "2026-09-01",
+      "title": "在 Ruby on Rails 应用中配置 OpenTelemetry 日志"
     }
   }
 }
