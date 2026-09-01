@@ -3,6 +3,12 @@
   "items": [
     {
       "version": "",
+      "date": "2026-09-01",
+      "zh": "演示环境三项界面修复",
+      "en": ""
+    },
+    {
+      "version": "",
       "date": "2026-08-28",
       "zh": "线太爷「选某些产品下单报 500」修复",
       "en": ""
@@ -66,12 +72,6 @@
       "date": "2026-06-18",
       "zh": "自助点单历史订单按桌会话隔离，新顾客看到干净的订单列表。",
       "en": "Self-order history is now isolated per table session, so a new diner sees a clean order list."
-    },
-    {
-      "version": "v8.3.7",
-      "date": "2026-06-14",
-      "zh": "扫码自助点单改为强制先付款，堵住信任漏洞；桌图实时刷新。",
-      "en": "QR self-ordering now requires payment upfront, closing a trust loophole; real-time table-map refresh."
     }
   ]
 }
