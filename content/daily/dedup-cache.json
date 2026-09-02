@@ -1,106 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar": {
-      "date": "2026-08-26",
-      "title": "FDA 批准首款可穿戴设备连续监测酮体和血糖"
-    },
-    "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/": {
-      "date": "2026-08-26",
-      "title": "苹果发布 M6 和 M5 Ultra 芯片用于 Mac"
-    },
-    "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia": {
-      "date": "2026-08-26",
-      "title": "OpenAI 声称其 Jalapeño 芯片在 AI 推理测试中胜过 Nvidia Blackwell"
-    },
-    "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/": {
-      "date": "2026-08-26",
-      "title": "苹果发布搭载 M5 Max 和 M5 Ultra 的新款 Mac Studio"
-    },
-    "https://github.com/zedeus/nitter/issues/1442": {
-      "date": "2026-08-26",
-      "title": "Nitter 收到停止和禁令，其实例面临关闭"
-    },
-    "https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1": {
-      "date": "2026-08-26",
-      "title": "Firefox 157 将在所有平台默认支持 JPEG XL"
-    },
-    "https://www.spacex.com/sites/starbase-la": {
-      "date": "2026-08-26",
-      "title": "SpaceX 宣布在路易斯安那州建设 Starbase LA 发射设施"
-    },
-    "https://github.com/ThinkOffApp/CarWatch": {
-      "date": "2026-08-26",
-      "title": "树莓派运行 35B Qwen 模型实现离线车载 AI 助手"
-    },
-    "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/": {
-      "date": "2026-08-26",
-      "title": "苹果发布搭载 M6 和 M5 Pro 芯片的全新 Mac mini"
-    },
-    "https://github.com/jeffhajewski/latticedb": {
-      "date": "2026-08-26",
-      "title": "LatticeDB：受 SQLite 启发的嵌入式图数据库"
-    },
-    "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/": {
-      "date": "2026-08-26",
-      "title": "工具提示需要延迟，随后需要跳过延迟"
-    },
-    "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html": {
-      "date": "2026-08-26",
-      "title": "Android 相机实现未能支持 C2PA 来源标准"
-    },
-    "https://www.ctgt.ai/research/behaviorally-fingerprinting-ox-alphas-provenance": {
-      "date": "2026-08-26",
-      "title": "研究者提出行为指纹法以追踪 Ox Alpha 模型输出"
-    },
-    "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/": {
-      "date": "2026-08-26",
-      "title": "指南展示如何在 4 美元/月的 DigitalOcean droplet 上运行 OpenBSD"
-    },
-    "https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown": {
-      "date": "2026-08-26",
-      "title": "详细的 DIY 后院办公室建造及 2 万美元成本分解"
-    },
-    "https://rorz.io/writing/my-friend-aaron": {
-      "date": "2026-08-26",
-      "title": "关于朋友追逐快速致富计划的反思短篇故事"
-    },
-    "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability": {
-      "date": "2026-08-26",
-      "title": "Python 的 str.lower() 在不区分大小写的比较中可能引发安全问题"
-    },
-    "https://www.judegomila.com/posts/riemann-lambda-0.1787854": {
-      "date": "2026-08-26",
-      "title": "德布鲁因–纽曼常数Λ的新上界约为 0.1787854"
-    },
-    "https://github.com/astral-sh/uv/releases/tag/0.12.6": {
-      "date": "2026-08-26",
-      "title": "uv 0.12.6 发布，更新 CPython 依赖，改进缓存报告，添加工作区元数据和工件哈希过滤预览功能"
-    },
-    "https://arxiv.org/abs/2608.21590": {
-      "date": "2026-08-26",
-      "title": "黑洞奇点被描述为曲面而非点"
-    },
-    "https://e360.yale.edu/digest/bomb-fishing-coral-reefs": {
-      "date": "2026-08-26",
-      "title": "炸鱼摧毁印尼珊瑚礁，尽管有严格法律。"
-    },
-    "https://news.ycombinator.com/item?id=49440786": {
-      "date": "2026-08-26",
-      "title": "XCancel 服务因 X Corp 发送停止和禁止信而暂停"
-    },
-    "https://dontwordle.com/": {
-      "date": "2026-08-26",
-      "title": "《别玩 Wordle》：逆向猜词游戏引发策略与 Cookie 同意讨论"
-    },
-    "https://rvier.fr/posts/why-i-wrote-my-own-monitoring-tool-EN": {
-      "date": "2026-08-26",
-      "title": "开发者使用 Go、YAML 和 SQLite 构建了一个轻量级监控工具。"
-    },
-    "https://sebsite.pw/w/20260801-pythonconstants.html": {
-      "date": "2026-08-26",
-      "title": "Python 预声明常量表现出意外行为"
-    },
     "https://newsroom.ibm.com/2026-08-24-ibm-unveils-next-generation-dual-architecture-processor-for-ibm-z-and-linuxone": {
       "date": "2026-08-27",
       "title": "IBM 发布面向 Z 和 LinuxONE 的双架构处理器"
@@ -928,6 +828,114 @@
     "https://www.reddit.com/r/artificial/comments/1w4n7yq/one_unexpected_way_ai_has_genuinely_changed_my/": {
       "date": "2026-09-02",
       "title": "用户发现 AI 在日常家庭维修中很有帮助。"
+    },
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/": {
+      "date": "2026-09-03",
+      "title": "谷歌 DeepMind 发布 Gemini 3.8 Flash 和 Gemini 3.8 Flash Cyber 模型"
+    },
+    "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html": {
+      "date": "2026-09-03",
+      "title": "谷歌避免了其广告技术业务的拆分"
+    },
+    "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/": {
+      "date": "2026-09-03",
+      "title": "三个网站生成 21.5 万篇 AI 撰写的“最佳软件”页面被 Perplexity 引用"
+    },
+    "https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7": {
+      "date": "2026-09-03",
+      "title": "Qantas Airbus A380 engine failure in 2010 (2023)"
+    },
+    "https://i.redd.it/xqddlfbq84nh1.jpeg": {
+      "date": "2026-09-03",
+      "title": "Reddit 用户警告可疑的电脑付费 offer 可能是朝鲜 IT 远程工人骗局"
+    },
+    "https://developer.meta.com/ai/models/muse-spark/": {
+      "date": "2026-09-03",
+      "title": "Muse Spark 1.3"
+    },
+    "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training": {
+      "date": "2026-09-03",
+      "title": "Mistral AI 说明用户可选择退出其数据用于模型训练的选项"
+    },
+    "https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/": {
+      "date": "2026-09-03",
+      "title": "作者表达想像 NPC 般生活的愿望，引发 Hacker News 讨论"
+    },
+    "https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/": {
+      "date": "2026-09-03",
+      "title": "衰老大脑倾向于混合记忆而非简单遗忘"
+    },
+    "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html": {
+      "date": "2026-09-03",
+      "title": "曼达尼禁止在纽约市学校使用人工智能。"
+    },
+    "https://stripeacross.com/posts/poisson-disk-sampling/": {
+      "date": "2026-09-03",
+      "title": "泊松盘采样算法的可视化解释与实现技巧"
+    },
+    "https://www.nexusmods.com/news/15597": {
+      "date": "2026-09-03",
+      "title": "SteamDB 被 Nexus Mods 收购，引发社区担忧"
+    },
+    "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/": {
+      "date": "2026-09-03",
+      "title": "Anthropic 发布 Claude 系统提示词，加入防歌词复制守则。"
+    },
+    "https://www.reddit.com/r/MachineLearning/comments/1w5h9se/i_scraped_594_billion_tiktok_videos_and_323/": {
+      "date": "2026-09-03",
+      "title": "研究者在 Hugging Face 发布 59.4 亿 TikTok 视频数据集并提供教程。"
+    },
+    "https://www.crunchydata.com/blog/postgres-calculations-and-the-ambiguity-of-null": {
+      "date": "2026-09-03",
+      "title": "PostgreSQL 计算中的 NULL 歧义"
+    },
+    "https://adamtornhill.substack.com/p/beyond-lambdas-raising-the-abstraction": {
+      "date": "2026-09-03",
+      "title": "超越 Lambda：提升函数式代码的抽象层次"
+    },
+    "https://github.com/PhiloLabs/fable51-worlds": {
+      "date": "2026-09-03",
+      "title": "Fable 5.1 展示 AI 生成的 3D 游戏世界"
+    },
+    "https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle": {
+      "date": "2026-09-03",
+      "title": "世界最大暗物质探测器记录单个未解释粒子事件"
+    },
+    "https://simonwillison.net/2026/Sep/2/rick-brewster/": {
+      "date": "2026-09-03",
+      "title": "Paint.NET 为 WINE 创建 AI 生成的 Direct2D 重写"
+    },
+    "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/": {
+      "date": "2026-09-03",
+      "title": "Anthropic 发布 Claude Fable 5.1，科学基准提升并测试鹈鹕生成"
+    },
+    "https://i.redd.it/e7dh7e37e2nh1.jpeg": {
+      "date": "2026-09-03",
+      "title": "作者指出 AI 进步将肺炎检测工作从数月缩短至数分钟。"
+    },
+    "https://turtlespace.blog/p/exit-the-cave": {
+      "date": "2026-09-03",
+      "title": "个人随笔探讨通过独处洞穴体验寻找动机"
+    },
+    "https://dfarq.homeip.net/commodore-64-released-september-1-1982/": {
+      "date": "2026-09-03",
+      "title": "康懋达 64 于 1982 年 9 月 1 日发布"
+    },
+    "https://research.meta.ai/blog/introducing-muse-spark-1-3": {
+      "date": "2026-09-03",
+      "title": "Meta AI 宣布 Muse Spark 1.3 多模态推理更新"
+    },
+    "https://github.com/mlc-ai/web-llm": {
+      "date": "2026-09-03",
+      "title": "WebLLM：高性能浏览器内 LLM 推理引擎"
+    },
+    "https://simonwillison.net/2026/Sep/2/llm-gemini/": {
+      "date": "2026-09-03",
+      "title": "llm-gemini 0.34 添加 Gemini 3.8 Flash 支持，含思考级别及异步修复"
+    },
+    "https://www.reddit.com/r/MachineLearning/comments/1w4z75i/i_regret_reviewing_for_aaai_d/": {
+      "date": "2026-09-03",
+      "title": "研究者后悔志愿审稿 AAAI 论文"
     }
   }
 }
