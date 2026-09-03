@@ -3,6 +3,12 @@
   "items": [
     {
       "version": "",
+      "date": "2026-09-03",
+      "zh": "GlitchTip 错误监控上线",
+      "en": ""
+    },
+    {
+      "version": "",
       "date": "2026-09-01",
       "zh": "演示环境三项界面修复",
       "en": ""
@@ -66,12 +72,6 @@
       "date": "2026-06-22",
       "zh": "第三方冷库寄存（Partner）功能：中央厨房冷库可按 Partner 维度出租寄存。",
       "en": "Third-party cold-storage (Partner): central-kitchen cold storage can be rented out and isolated per partner."
-    },
-    {
-      "version": "v8.5.1",
-      "date": "2026-06-18",
-      "zh": "自助点单历史订单按桌会话隔离，新顾客看到干净的订单列表。",
-      "en": "Self-order history is now isolated per table session, so a new diner sees a clean order list."
     }
   ]
 }

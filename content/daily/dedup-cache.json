@@ -1,110 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "https://newsroom.ibm.com/2026-08-24-ibm-unveils-next-generation-dual-architecture-processor-for-ibm-z-and-linuxone": {
-      "date": "2026-08-27",
-      "title": "IBM 发布面向 Z 和 LinuxONE 的双架构处理器"
-    },
-    "https://github.com/tailscale/tailcat": {
-      "date": "2026-08-27",
-      "title": "Tailcat —— 类似 netcat 的 Tailscale 数据平面工具"
-    },
-    "https://z.ai/blog/glm-5.3-flash": {
-      "date": "2026-08-27",
-      "title": "智谱 AI 发布 GLM-5.3-Flash，更小更廉价的适用于国产硬件的 LLM"
-    },
-    "https://www.actinideinc.com/press/actinide-becomes-first-startup-to-ever-enrich-natural-uranium-to-produce-haleu": {
-      "date": "2026-08-27",
-      "title": "Actinide 成为首家生产高浓度低浓铀（HALEU）的初创公司"
-    },
-    "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws": {
-      "date": "2026-08-27",
-      "title": "AWS 收购 DuckLabs，DuckDB 商业支持方"
-    },
-    "https://lwn.net/SubscriberLink/1089390/46116614cc74b814/": {
-      "date": "2026-08-27",
-      "title": "Bambu Lab 3D 打印机被指持续违反 AGPL 许可证"
-    },
-    "https://openai.com/index/hugging-face-incident-and-the-road-ahead/": {
-      "date": "2026-08-27",
-      "title": "Hugging Face 模型评估事件凸显自主 AI 风险"
-    },
-    "https://hotosm.org/en/news/comaps-the-offline-app-that-guided-rescuers-without-a-signal-in-the-venezuela-response/": {
-      "date": "2026-08-27",
-      "title": "CoMaps：离线应用在委内瑞拉无信号时引导救援人员"
-    },
-    "https://qwen.ai/blog?id=qwen3.8-flash-next": {
-      "date": "2026-08-27",
-      "title": "Qwen3.8-Flash-Next 大语言模型发布，包含 1250 亿参数主模型和 ngram 副车"
-    },
-    "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think": {
-      "date": "2026-08-27",
-      "title": "检索增强生成其实比你想象的更简单"
-    },
-    "https://www.githubstatus.com/incidents/hcbtzksccj2f": {
-      "date": "2026-08-27",
-      "title": "GitHub 服务中断 伴随 Azure 迁移进行中"
-    },
-    "https://www.fda.gov/news-events/press-announcements/fda-approves-first-class-targeted-therapy-metastatic-pancreatic-cancer": {
-      "date": "2026-08-27",
-      "title": "FDA 批准首款 RAS 抑制剂达拉克西布用于转移性胰腺癌"
-    },
-    "https://www.ssp.sh/brain/using-obsidian-with-ai/": {
-      "date": "2026-08-27",
-      "title": "难以完成 AI 建议的想法：在 Obsidian 中的挑战。"
-    },
-    "https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/": {
-      "date": "2026-08-27",
-      "title": "EVE Online：开始迁移到 Python 3"
-    },
-    "https://isgithubcooked.com/": {
-      "date": "2026-08-27",
-      "title": "GitHub 中断追踪器：GitHub 已经“熟”了？"
-    },
-    "https://acceptmarkdown.com/": {
-      "date": "2026-08-27",
-      "title": "通过 HTTP Accept 头向 AI 代理提供 Markdown"
-    },
-    "https://twitterwebviewer.com/": {
-      "date": "2026-08-27",
-      "title": "Twitter 查看器 让用户无需账号即可浏览推特。"
-    },
-    "https://farmaction.us/taylorfarmsreport/": {
-      "date": "2026-08-27",
-      "title": "泰勒农场的主导地位构成全国食品安全风险"
-    },
-    "https://gist.github.com/MartinEesmaa/2f4b261cb90a47e9c41ba115a011a4aa": {
-      "date": "2026-08-27",
-      "title": "社区维护的 YouTube 格式 ID 参考列表供 youtube-dl/yt-dlp 使用。"
-    },
-    "https://praveshkoirala.com/2026/08/26/you-could-have-invented-pagerank/": {
-      "date": "2026-08-27",
-      "title": "PageRank 解释：易懂的步骤演练"
-    },
-    "https://thetariffcost.com/": {
-      "date": "2026-08-27",
-      "title": "美国对加拿大商品关税对美国家庭成本的分析"
-    },
-    "https://simonwillison.net/2026/Aug/26/paul-dix/": {
-      "date": "2026-08-27",
-      "title": "Paul Dix 强调 AI 能生成并精炼 100 万行代码"
-    },
-    "https://icml.cc/virtual/2026/invited-talk/67274": {
-      "date": "2026-08-27",
-      "title": "ICML 2026 演讲探讨人工智能时代人类的工作"
-    },
-    "https://e360.yale.edu/digest/scotland-woodlands-antidepressants": {
-      "date": "2026-08-27",
-      "title": "城市林地可及性与抗抑郁药使用降低相关"
-    },
-    "https://arxiv.org/abs/2608.23228": {
-      "date": "2026-08-27",
-      "title": "mold：一个并行链接器，用于加速构建"
-    },
-    "https://www.magicpatterns.com/theme-park": {
-      "date": "2026-08-27",
-      "title": "Show HN: AI 代理根据设计系统生成过山车大亨风格主题公园"
-    },
     "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8": {
       "date": "2026-08-28",
       "title": "Nvidia 同意以 130 亿美元收购 Hugging Face"
@@ -936,6 +832,90 @@
     "https://www.reddit.com/r/MachineLearning/comments/1w4z75i/i_regret_reviewing_for_aaai_d/": {
       "date": "2026-09-03",
       "title": "研究者后悔志愿审稿 AAAI 论文"
+    },
+    "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html": {
+      "date": "2026-09-04",
+      "title": "英伟达同意以 129 亿美元收购 Hugging Face"
+    },
+    "https://openai.com/index/gpt-6-astra/": {
+      "date": "2026-09-04",
+      "title": "OpenAI 传闻中的 GPT-6 Astra 在 ARC-AGI-3 基准上得分接近满分"
+    },
+    "https://inference-docs.cerebras.ai/models/overview": {
+      "date": "2026-09-04",
+      "title": "Qwen 3.8 27B 模型在 Cerebras 上以 1500 tokens/s 发布"
+    },
+    "https://neil.fraser.name/news/2026/09/03/": {
+      "date": "2026-09-04",
+      "title": "Verisign 提议终止 .name 顶级域名"
+    },
+    "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/": {
+      "date": "2026-09-04",
+      "title": "使用 LLM 读取 68000 汇编将 1993 年 Amiga 游戏移植到 Godot"
+    },
+    "https://www.sciencealert.com/gps-glitched-across-the-us-by-as-much-as-33-feet-scientists-have-never-seen-this-before": {
+      "date": "2026-09-04",
+      "title": "美国全境 GPS 因大气扰动出现最高 33 英尺定位误差"
+    },
+    "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0": {
+      "date": "2026-09-04",
+      "title": "Audacity 4.0 发布：Qt6 界面、性能提升及 Linux 音频争议"
+    },
+    "https://news.ycombinator.com/item?id=49551096": {
+      "date": "2026-09-04",
+      "title": "Ask HN：ChatGPT、Claude 和 Grok 近乎同时宕机引发基础设施讨论"
+    },
+    "https://twitter.com/GergelyOrosz/status/2095453567955968398": {
+      "date": "2026-09-04",
+      "title": "谷歌更新 Antigravity AI 服务条款，警告第三方使用可能导致整个谷歌账号被封"
+    },
+    "https://pola.rs/posts/announcing-polars-2/": {
+      "date": "2026-09-04",
+      "title": "Polars 2.0 预发布宣布重大版本更新"
+    },
+    "https://arcprize.org/blog/astra": {
+      "date": "2026-09-04",
+      "title": "OpenAI 的 GPT-6 Astra 在 ARC-AGI-3 基准测试中表现强劲"
+    },
+    "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007": {
+      "date": "2026-09-04",
+      "title": "围棋大神申真谞以两子让先击败 KataGo AI"
+    },
+    "https://easylang.online/blog/branchless": {
+      "date": "2026-09-04",
+      "title": "分支避免编程：减少分支误预测以提升性能"
+    },
+    "https://ifm.ai/blog/k2/": {
+      "date": "2026-09-04",
+      "title": "IFM AI 发布 K2 Horizon，包含六款开放权重语言模型"
+    },
+    "https://anyhumanever.com/": {
+      "date": "2026-09-04",
+      "title": "互动网站根据历史数据随机生成人类生命故事"
+    },
+    "https://www.lesswrong.com/posts/PLisnSFir8y5AHkmP/how-concerned-should-we-be-about-astra-s-recurrent": {
+      "date": "2026-09-04",
+      "title": "评估对 Astra 循环架构的担忧。"
+    },
+    "https://www.sciencealert.com/astronomers-spot-an-uncannily-geometric-10-sided-structure-in-saturns-atmosphere": {
+      "date": "2026-09-04",
+      "title": "天文学家在土星南极大气中发现十边形波"
+    },
+    "https://simonwillison.net/2026/Sep/3/gpt6-astra/": {
+      "date": "2026-09-04",
+      "title": "OpenAI 发布 GPT‑6 Astra，定价同 Claude Fable 5，ARC‑AGI 3 得分 99.9%"
+    },
+    "https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california": {
+      "date": "2026-09-04",
+      "title": "人工海狸坝提升银鲑幼鱼存活率"
+    },
+    "https://armature.tech/blog/which-tools-coding-agents-install": {
+      "date": "2026-09-04",
+      "title": "基于 1.7 万次运行的研究揭示 Claude、Codex 和 Cursor 的工具偏好"
+    },
+    "https://alexandrehtrb.github.io/posts/2026/09/maybe-you-dont-need-graphql/": {
+      "date": "2026-09-04",
+      "title": "也许你不需要 GraphQL：讨论其必要性"
     }
   }
 }
