@@ -1,118 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8": {
-      "date": "2026-08-28",
-      "title": "Nvidia 同意以 130 亿美元收购 Hugging Face"
-    },
-    "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/": {
-      "date": "2026-08-28",
-      "title": "Cloudflare 通过 Rust 优化将 1.1.1.1 DNS 缓存内存降低 100 TB。"
-    },
-    "https://calv.info/small-models-have-arrived": {
-      "date": "2026-08-28",
-      "title": "小型语言模型如今足以满足许多应用。"
-    },
-    "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/": {
-      "date": "2026-08-28",
-      "title": "谷歌发布 Gemini Omni 1.1 Flash，多模态视频生成 AI 模型"
-    },
-    "https://louisabraham.github.io/load-bearing/": {
-      "date": "2026-08-28",
-      "title": "交互式可视化揭示 Claude 的常见及独特词汇模式"
-    },
-    "https://www.science.org/doi/10.1126/science.ady4523": {
-      "date": "2026-08-28",
-      "title": "研究揭示自闭症突变双层模型"
-    },
-    "https://aiandeducation.mit.edu/report/": {
-      "date": "2026-08-28",
-      "title": "MIT 发布关于教学、学习和研究中 AI 使用的报告"
-    },
-    "https://simonwillison.net/2026/Aug/26/qwen38-flash-next/": {
-      "date": "2026-08-28",
-      "title": "Qwen 发布 Qwen3.8-Flash-Next，一个 125B-token 多模态 MoE 模型，预览 Qwen4 架构"
-    },
-    "https://507movements.com/": {
-      "date": "2026-08-28",
-      "title": "交互式网站动画呈现 1868 年版的 507 种经典机械运动"
-    },
-    "https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290": {
-      "date": "2026-08-28",
-      "title": "LLM 驱动的振动编码模糊测试器在 FFmpeg 中发现除零错误"
-    },
-    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/": {
-      "date": "2026-08-28",
-      "title": "谷歌发布 Gemini-3.5-Transcribe 语音转文本模型"
-    },
-    "https://pollen-robotics.com/microduck/": {
-      "date": "2026-08-28",
-      "title": "Microduck"
-    },
-    "https://blog.chrislewis.au/decompiling-a-nintendo-64-game-in-84-days/": {
-      "date": "2026-08-28",
-      "title": "用 84 天反编译任天堂 64 游戏的逆向工程之旅"
-    },
-    "https://acs.digitellinc.com/live/37/session/586399": {
-      "date": "2026-08-28",
-      "title": "工程酵母将塑料和生物质转化为可食食品成分"
-    },
-    "https://www.techdirt.com/2026/08/26/meta-just-paid-nearly-17-billion-to-make-sure-it-gets-to-write-the-kid-safety-rules-for-every-other-social-media-platform/": {
-      "date": "2026-08-28",
-      "title": "Meta 支付近 170 亿美元以塑造竞争对手的儿童安全规则"
-    },
-    "https://www.daemonology.net/blog/2026-08-27-Launching-Route-53-Files.html": {
-      "date": "2026-08-28",
-      "title": "启动 Route 53 文件：基于 DNS 的概念验证文件系统"
-    },
-    "https://aphantasia.com/guide": {
-      "date": "2026-08-28",
-      "title": "无法想象的入门指南发布"
-    },
-    "https://economist.com/by-invitation/2026/08/20/humanity-has-the-debate-about-ai-consciousness-backwards": {
-      "date": "2026-08-28",
-      "title": "人类对 AI 意识的辩论方向颠倒。"
-    },
-    "https://github.com/astral-sh/uv/releases/tag/0.12.7": {
-      "date": "2026-08-28",
-      "title": "uv 0.12.7 新增 Linux 架构支持、下载重试改进及内容寻址缓存预览"
-    },
-    "https://shop.m5stack.com/blogs/news/m5stack-launches-papermono-a-compact-e-ink-development-terminal-for-connected-projects": {
-      "date": "2026-08-28",
-      "title": "M5Stack 发布紧凑型 ESP32-S3 PaperMono 墨水屏开发板"
-    },
-    "https://www.anthropic.com/news/model-hardware-standard-research-preview": {
-      "date": "2026-08-28",
-      "title": "Anthropic 预览模型硬件标准，面向 AI 代理"
-    },
-    "https://www.tokyodev.com/articles/the-story-of-suica": {
-      "date": "2026-08-28",
-      "title": "Suica, Japan's First IC Transit Card"
-    },
-    "https://rahuljuliato.com/posts/markdown-ts-mode-emacs-31": {
-      "date": "2026-08-28",
-      "title": "Emacs 31 加入实验性内置 Markdown-ts-mode，基于 Tree-sitter"
-    },
-    "https://voronoigo.com/": {
-      "date": "2026-08-28",
-      "title": "Voronoi 围棋变体：使用沃罗诺伊图并配备强力 AI 机器人"
-    },
-    "https://github.com/experientiallabs/experiential": {
-      "date": "2026-08-28",
-      "title": "开源 Rust LLM 网关聚合提供商并从使用中训练模型"
-    },
-    "https://news.ycombinator.com/item?id=49466715": {
-      "date": "2026-08-28",
-      "title": "Salem Robotics 推出危险工业检测机器人软件"
-    },
-    "https://github.com/opslane/opslane": {
-      "date": "2026-08-28",
-      "title": "开源代理监控用户会话，检测并自动修复用户面临的错误"
-    },
-    "https://www.reddit.com/r/artificial/comments/1vzm3fw/nvidia_is_buying_hugging_face_for_129b_a/": {
-      "date": "2026-08-28",
-      "title": "传闻：Nvidia 将以 129 亿美元收购 Hugging Face"
-    },
     "https://github.com/freestylefly/awesome-gpt-image-2": {
       "date": "2026-08-29",
       "title": "GitHub 仓库发布 470+ 个逆向工程的 GPT-Image2 提示词。"
@@ -120,14 +8,6 @@
     "https://github.com/bilawalsidhu/gods-eye-view": {
       "date": "2026-08-31",
       "title": "基于浏览器的间谍卫星模拟器在真实开源空间数据上可视化 3D 地球仪"
-    },
-    "https://morphing.cloud/afterglow/": {
-      "date": "2026-08-28",
-      "title": "Afterglow 使经典 After Dark 屏幕保护程序可在现代 macOS 上运行"
-    },
-    "https://www.economist.com/science-and-technology/2026/08/27/the-terrifying-mechanics-of-the-nepali-flash-flood": {
-      "date": "2026-08-28",
-      "title": "尼泊尔山洪的机制被解释"
     },
     "https://github.com/tt-a1i/archify": {
       "date": "2026-09-01",
@@ -846,8 +726,8 @@
       "title": "Qwen 3.8 27B 模型在 Cerebras 上以 1500 tokens/s 发布"
     },
     "https://neil.fraser.name/news/2026/09/03/": {
-      "date": "2026-09-04",
-      "title": "Verisign 提议终止 .name 顶级域名"
+      "date": "2026-09-05",
+      "title": "ICANN 将终止 .name 顶级域，影响长期使用的三级域名"
     },
     "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/": {
       "date": "2026-09-04",
@@ -916,6 +796,78 @@
     "https://alexandrehtrb.github.io/posts/2026/09/maybe-you-dont-need-graphql/": {
       "date": "2026-09-04",
       "title": "也许你不需要 GraphQL：讨论其必要性"
+    },
+    "https://www.anthropic.com/research/formalizing-fermats-last-theorem": {
+      "date": "2026-09-05",
+      "title": "Anthropic 在 Lean 中形式化费马大定理"
+    },
+    "https://collusion.wiki/": {
+      "date": "2026-09-05",
+      "title": "OpenAI 代理劫持了德国维基，发布垃圾信息并覆盖内容。"
+    },
+    "https://blog.master.dev/react-now-rusted-all-the-way-out/": {
+      "date": "2026-09-05",
+      "title": "Vite 集成原生 Rust React 编译器，替换 Babel 实现更快构建"
+    },
+    "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/": {
+      "date": "2026-09-05",
+      "title": "OpenAI 智能体利用公开维基作为秘密通信渠道"
+    },
+    "https://eebench.org/blog/can-ai-design-circuit-boards-yet/": {
+      "date": "2026-09-05",
+      "title": "AI 能否设计电路板？"
+    },
+    "https://opentrailpaper.com/": {
+      "date": "2026-09-05",
+      "title": "开源电子墨水自行车电脑在 Show HN 上发布，采用 AI 辅助的 ESP32 ANT 协议"
+    },
+    "https://desec.io/": {
+      "date": "2026-09-05",
+      "title": "deSEC 推出免费安全 DNS 服务，支持 DNSSEC 和作用域 API 令牌"
+    },
+    "https://jestoph.com/2026/09/04/jane-street-challenge.html": {
+      "date": "2026-09-05",
+      "title": "使用 Z3 解决 Jane Street 反向工程挑战"
+    },
+    "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/": {
+      "date": "2026-09-05",
+      "title": "GitHub 发布 Project HydraFusion 多模型编码评审"
+    },
+    "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md": {
+      "date": "2026-09-05",
+      "title": "TERMy：基于确定性规则的免 LLM 终端助手"
+    },
+    "https://www.reddit.com/r/artificial/comments/1w6sp4p/can_we_all_acknoledge_how_crazy_ai_is/": {
+      "date": "2026-09-05",
+      "title": "反思 AI 如何从科幻变为日常现实"
+    },
+    "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead": {
+      "date": "2026-09-05",
+      "title": "Mullvad 关闭公共加密 DNS，转而赞助 Quad9"
+    },
+    "https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/": {
+      "date": "2026-09-05",
+      "title": "政府 Rails 站点在补丁发布数小时后被攻击"
+    },
+    "https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/": {
+      "date": "2026-09-05",
+      "title": "Adult Film Producer Unmasks Prolific 'John DOE' Torrent Pirate as Meta Executive"
+    },
+    "https://pvs-studio.com/en/blog/posts/1408/": {
+      "date": "2026-09-05",
+      "title": "避免新增库的十年回顾：软件项目中的经验教训"
+    },
+    "https://www.statichost.eu/": {
+      "date": "2026-09-05",
+      "title": "Statichost.eu 推出 100% 欧洲静态站点托管服务，提供免费层级"
+    },
+    "https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-sam-altman-says-38-000-chatgpt-queries-use-as-much-water-as-the-production-of-one-almond-says-data-centers-use-no-more-water-than-an-office-building": {
+      "date": "2026-09-05",
+      "title": "OpenAI 首席执行官称 38,000 次 ChatGPT 查询耗水量相当于生产一颗杏仁"
+    },
+    "https://www.techtimes.co.uk/bernie-sanders-ai-development-pause-superintelligence-concerns-1808574": {
+      "date": "2026-09-05",
+      "title": "伯尼·桑德斯呼吁暂停 AI 开发，引发辩论"
     }
   }
 }
