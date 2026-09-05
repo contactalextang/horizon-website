@@ -1,10 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "https://github.com/freestylefly/awesome-gpt-image-2": {
-      "date": "2026-08-29",
-      "title": "GitHub 仓库发布 470+ 个逆向工程的 GPT-Image2 提示词。"
-    },
     "https://github.com/bilawalsidhu/gods-eye-view": {
       "date": "2026-08-31",
       "title": "基于浏览器的间谍卫星模拟器在真实开源空间数据上可视化 3D 地球仪"
@@ -12,146 +8,6 @@
     "https://github.com/tt-a1i/archify": {
       "date": "2026-09-01",
       "title": "Archify：自包含 HTML 工具用于制作动态图表，24 小时内获 29 星"
-    },
-    "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html": {
-      "date": "2026-08-29",
-      "title": "主张 GUI 应完全通过键盘操作以提升可访问性和效率"
-    },
-    "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released": {
-      "date": "2026-08-29",
-      "title": "HTMX 4.0 发布，附带 Alpine.js 兼容性扩展"
-    },
-    "https://12factor.net/": {
-      "date": "2026-08-29",
-      "title": "十二因子应用（2025）更新以适应云原生实践"
-    },
-    "https://huggingface.co/zai-org/GLM-5.3": {
-      "date": "2026-08-29",
-      "title": "GLM-5.3 以开放权重形式发布的大型语言模型"
-    },
-    "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html": {
-      "date": "2026-08-29",
-      "title": "美国法院裁定特朗普政府对 Anthropic 的黑 listing 非法。"
-    },
-    "https://www.nature.com/articles/d41586-026-02506-4": {
-      "date": "2026-08-29",
-      "title": "小型反堆使核能更接近实现其承诺。"
-    },
-    "https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/": {
-      "date": "2026-08-29",
-      "title": "破解 Claude Code Opus 5 自动模式"
-    },
-    "https://www.reddit.com/gallery/1w10tax": {
-      "date": "2026-08-29",
-      "title": "在 RP2350 微控制器上运行的微型 Latent Flow Transformer 生成 128x128 人脸图像"
-    },
-    "https://x.com/AndrewYNg/status/2093388974194872781": {
-      "date": "2026-08-29",
-      "title": "Andrew Ng 发布 AI 工程技能图谱，探讨 Agentic Coding 基础变化"
-    },
-    "https://anil.recoil.org/notes/rumour-is-the-exploit": {
-      "date": "2026-08-29",
-      "title": "仅凭漏洞传闻即可触发利用。"
-    },
-    "https://www.inventati.org/": {
-      "date": "2026-08-29",
-      "title": "美国制裁意大利活动主义托管集体 Autistici/Inventati，将其列为全球恐怖实体"
-    },
-    "https://www.orbify.eu/demo/": {
-      "date": "2026-08-29",
-      "title": "Inception-style curved map for turn-by-turn directions"
-    },
-    "https://arxiv.org/abs/2608.23691": {
-      "date": "2026-08-29",
-      "title": "通过假期休息的多智能体 AI 进行自主数学发现"
-    },
-    "https://geekyschmidt.com/post/2026-08-25-verschlimmbesserung/": {
-      "date": "2026-08-29",
-      "title": "德语术语 Verschlimmbesserung 揭示有缺陷的软件更新"
-    },
-    "https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/": {
-      "date": "2026-08-29",
-      "title": "如何防止智能电视通过 HDMI/DisplayPort 被利用"
-    },
-    "https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html": {
-      "date": "2026-08-29",
-      "title": "使用散度定理快速计算多面体体积"
-    },
-    "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/": {
-      "date": "2026-08-29",
-      "title": "Luanti 因虚假 AI 生成的 DMCA 通知被 Google Play 下架"
-    },
-    "https://2026.stateofthemap.org/": {
-      "date": "2026-08-29",
-      "title": "State of the Map 2026 会议宣布将在巴黎举行，时间为 2026 年 8 月 28 日至 30 日。"
-    },
-    "https://github.com/openai/openai-python/blob/main/httpx2.md": {
-      "date": "2026-08-29",
-      "title": "OpenAI 将 Python SDK 从 httpx 迁移到 httpx2 以避免破坏性更改"
-    },
-    "https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/": {
-      "date": "2026-08-29",
-      "title": "OCaml 漏洞谣言仅需数分钟即引发利用探测。"
-    },
-    "https://x.com/_akhaliq/status/2093154284095295685": {
-      "date": "2026-08-29",
-      "title": "VGI-Bench：视频生成模型视觉智能基准"
-    },
-    "https://en.refund4freedom.org/": {
-      "date": "2026-08-29",
-      "title": "指南帮助用户申请预装 Windows 许可证的退款"
-    },
-    "https://usesesame.app/": {
-      "date": "2026-08-29",
-      "title": "Sesame：新开源本地优先密码管理器寻求反馈"
-    },
-    "https://log.ozgur.works/bye-bye-github.html": {
-      "date": "2026-08-29",
-      "title": "开发者解释离开 GitHub 转向其他代码托管平台的决定。"
-    },
-    "https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/": {
-      "date": "2026-08-29",
-      "title": "EasyEffects 提升 Linux 笔记本扬声器音质"
-    },
-    "https://www.reuters.com/legal/litigation/ai-generated-music-barred-australian-charts-after-madonna-cover-controversy-2026-08-26/": {
-      "date": "2026-08-29",
-      "title": "澳大利亚禁止完全由 AI 生成的歌曲进入官方榜单"
-    },
-    "https://www.theatlantic.com/ideas/archive/2025/09/job-market-hell/684133/": {
-      "date": "2026-08-29",
-      "title": "求职者和 HR 都在用 AI，但没人被录用"
-    },
-    "https://x.com/emollick/status/2093399712208494741": {
-      "date": "2026-08-29",
-      "title": "埃森·莫利克呼吁为 GLM-5.3 发布模型卡并进行红队测试。"
-    },
-    "https://x.com/emollick/status/2093362761925284279": {
-      "date": "2026-08-29",
-      "title": "Ethan Mollick 表示 AI 视频、图像、音乐模型如今可作为实用创作工具"
-    },
-    "https://www.smithsonianmag.com/science-nature/africa-wild-dogs-most-hated-carnivores-continent-heres-why-conservationists-saving-them-anyway-180989287/": {
-      "date": "2026-08-29",
-      "title": "保护主义者启动恢复非洲野犬种群的行动"
-    },
-    "https://handbook.sutro.sh/": {
-      "date": "2026-08-29",
-      "title": "分析型 AI 手册上线作为在线指南"
-    },
-    "https://github.com/openJiuwen-ai/jiuwenswarm": {
-      "date": "2026-08-29",
-      "title": "JiuwenSwarm AI 智能体将大语言模型融入日常通讯应用"
-    },
-    "https://github.com/stablyai/orca": {
-      "date": "2026-08-29",
-      "title": "Orca 发布基于 TypeScript 的并行代理开发环境"
-    },
-    "https://x.com/gdb/status/2093389388109717989": {
-      "date": "2026-08-29",
-      "title": "格雷格·布罗克曼称杰文斯悖论具有反直觉且鼓舞人心"
-    },
-    "https://x.com/simonw/status/2093277255438860358": {
-      "date": "2026-08-29",
-      "title": "Simon Willison 的 LLM 陈词滥调高亮工具现在可检测 38 种模式。"
     },
     "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/": {
       "date": "2026-08-30",
@@ -868,6 +724,98 @@
     "https://www.techtimes.co.uk/bernie-sanders-ai-development-pause-superintelligence-concerns-1808574": {
       "date": "2026-09-05",
       "title": "伯尼·桑德斯呼吁暂停 AI 开发，引发辩论"
+    },
+    "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket": {
+      "date": "2026-09-06",
+      "title": "Isar Aerospace 的 Spectrum 火箭从挪威发射场进入轨道"
+    },
+    "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/": {
+      "date": "2026-09-06",
+      "title": "可视化 Rust 的 Vtables 解释 dyn Trait 内存布局"
+    },
+    "https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/": {
+      "date": "2026-09-06",
+      "title": "维基基金会员工压倒性投票决定与 CWA 成立工会"
+    },
+    "https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/": {
+      "date": "2026-09-06",
+      "title": "陶哲轩展示平均三维纳维-斯托克斯方程的有限时间爆炸"
+    },
+    "https://www.reddit.com/r/MachineLearning/comments/1w89m36/gpt6_reportedly_jailbroken_within_24_hours_using/": {
+      "date": "2026-09-06",
+      "title": "研究者称 GPT-6 Astra 在 24 小时内通过增强型 TIP 攻击被越狱"
+    },
+    "https://www.youtube.com/watch?v=Ss1DUqLjecc": {
+      "date": "2026-09-06",
+      "title": "Isar Aerospace 成功首次将火箭送入轨道"
+    },
+    "https://codeberg.org/mv12star/shitter/wiki/Instances": {
+      "date": "2026-09-06",
+      "title": "Nitter 实例数量已经超过封禁前的水平，显示出社区的韧性。"
+    },
+    "http://terpstrakeyboard.com/": {
+      "date": "2026-09-06",
+      "title": "Terpstra 键盘引入同形布局以支持替代调音"
+    },
+    "https://packagemain.tech/p/gitignore-everything-by-default": {
+      "date": "2026-09-06",
+      "title": "提出 .gitignore 全忽略、按需白名单的方法"
+    },
+    "https://www.reddit.com/r/MachineLearning/comments/1w7sgf3/language_models_can_control_their_own_attention_r/": {
+      "date": "2026-09-06",
+      "title": "声明式注意力使 LLM 能够自行选择相关上下文"
+    },
+    "https://www.darkreading.com/cybersecurity-operations/companies-six-months-prepare-automated-attacks": {
+      "date": "2026-09-06",
+      "title": "专家警告企业仅有六个月准备应对 AI 驱动的自动化网络攻击"
+    },
+    "https://purplesyringa.moe/blog/guest/the-nx-bit-is-not-just-about-security/": {
+      "date": "2026-09-06",
+      "title": "NX 位不仅仅是关于安全。"
+    },
+    "https://arxiv.org/abs/2609.03344": {
+      "date": "2026-09-06",
+      "title": "将大型语言模型视为传播思想的认知病毒"
+    },
+    "https://usr.lmf.cnrs.fr/lpo/": {
+      "date": "2026-09-06",
+      "title": "分享用于学习 OCaml 编程的教程网站"
+    },
+    "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/": {
+      "date": "2026-09-06",
+      "title": "《60 美元游戏电脑》– AMD BC-250 (2025)"
+    },
+    "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/": {
+      "date": "2026-09-06",
+      "title": "使用 ChatGPT Codex 在 macOS 上驱动 Blender"
+    },
+    "https://www.reddit.com/r/artificial/comments/1w7o0xv/why_are_more_people_not_concerned_about_privacy/": {
+      "date": "2026-09-06",
+      "title": "用户在隐私担忧下仍越来越多地向 AI 分享个人数据"
+    },
+    "https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/": {
+      "date": "2026-09-06",
+      "title": "代码质量没有下限：糟糕代码如何无限堆积"
+    },
+    "https://github.com/astral-sh/uv/releases/tag/0.12.10": {
+      "date": "2026-09-06",
+      "title": "uv 0.12.10 发布，加入令牌撤销和性能提升"
+    },
+    "https://buttondown.com/suchbadtechads/archive/spartan-and-the-mime/": {
+      "date": "2026-09-06",
+      "title": "A bizarre Commodore 64 peripheral, a mime, and some pretty bad ads"
+    },
+    "https://simonwillison.net/2026/Sep/4/astra-pelicans/": {
+      "date": "2026-09-06",
+      "title": "Simon Willison 通过 SVG 鹈鹕网格比较 GPT-6 Astra 和 GPT-5.6 模型"
+    },
+    "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/": {
+      "date": "2026-09-06",
+      "title": "美国两大学区暂停使用 AI 工具"
+    },
+    "https://lazygit.dev/": {
+      "date": "2026-09-06",
+      "title": "Lazygit：在 Hacker News 上分享的开源终端 Git 界面"
     }
   }
 }
