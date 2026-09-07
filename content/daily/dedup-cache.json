@@ -9,121 +9,9 @@
       "date": "2026-09-01",
       "title": "Archify：自包含 HTML 工具用于制作动态图表，24 小时内获 29 星"
     },
-    "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/": {
-      "date": "2026-08-30",
-      "title": "腾讯开源 Hy4 预览模型，具备自改进循环"
-    },
-    "https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits": {
-      "date": "2026-08-30",
-      "title": "DHS 使用 obscure 1509 summons 监视记者和非营利组织"
-    },
-    "https://github.com/Lakr233/vphone-cli": {
-      "date": "2026-08-30",
-      "title": "使用 Apple Virtualization.framework 启动虚拟 iPhone"
-    },
-    "https://i.redd.it/jsuomguordmh1.jpeg": {
-      "date": "2026-08-30",
-      "title": "谷歌 SKILL.state 方法将长会话 Agent token 消耗降低 94%"
-    },
-    "https://github.com/vllm-project/vllm/releases/tag/v0.28.0": {
-      "date": "2026-08-30",
-      "title": "vLLM 发布 v0.28.0 版本，带来性能提升和错误修复"
-    },
-    "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity": {
-      "date": "2026-08-30",
-      "title": "良好文化胜过 AI 成为最大生产力驱动力"
-    },
-    "https://uecker.codeberg.page/2026-08-29.html": {
-      "date": "2026-08-30",
-      "title": "在不使用可执行栈的情况下间接调用 GCC 嵌套函数"
-    },
-    "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing": {
-      "date": "2026-08-30",
-      "title": "三星在 Hot Chips 2026 上发布 Processing-in-Memory 技术"
-    },
-    "https://bsky.app/profile/grapheneos.org/post/3mua32q4ds22e": {
-      "date": "2026-08-30",
-      "title": "GrapheneOS 警告 Pixel 11 系列将不支持 ARM 内存标签扩展"
-    },
-    "https://www.reddit.com/r/MachineLearning/comments/1w1wt1s/you_can_beat_sota_time_series_anomaly_detection/": {
-      "date": "2026-08-30",
-      "title": "百年老算法 SPC 胜过现代 TSAD SOTA"
-    },
-    "https://www.reddit.com/r/MachineLearning/comments/1w16jwj/wtf_is_a_world_model_d/": {
-      "date": "2026-08-30",
-      "title": "Reddit 讨论澄清 AI 世界模型的定义与范围"
-    },
-    "https://x.com/colinhacks/status/2093725420462182512": {
-      "date": "2026-08-30",
-      "title": "Zod v4.5 添加 Schema 编译，实现 3-9 倍更快验证。"
-    },
-    "https://x.com/emollick/status/2093530834124800046": {
-      "date": "2026-08-30",
-      "title": "谷歌 AI 概览可能像编码代理对 StackExchange 所做的那样减少维基百科使用"
-    },
-    "https://ekunazanu.foo/lab/quantifying-colour/": {
-      "date": "2026-08-30",
-      "title": "文章可视化并量化人类锥细胞响应重叠。"
-    },
-    "https://github.com/stemdeckapp/stemdeck": {
-      "date": "2026-08-30",
-      "title": "StemDeck：免费开源本地 AI 音轨分离工具"
-    },
-    "https://www.strangeloopcanon.com/p/what-we-want-is-a-hunter-gatherer": {
-      "date": "2026-08-30",
-      "title": "文章主张未来科技增强的采集狩猎生活"
-    },
-    "https://dl.acm.org/doi/10.1145/3830438.3830958": {
-      "date": "2026-08-30",
-      "title": "Rust 中的 typestate 和 newtype 模式实现编译时状态机"
-    },
-    "https://prela-lang.org/tutorial/": {
-      "date": "2026-08-30",
-      "title": "仅用 11 行代码实现的更佳 SQL"
-    },
-    "https://www.reddit.com/r/MachineLearning/comments/1w19tav/how_important_is_having_an_internship_to_get_a/": {
-      "date": "2026-08-30",
-      "title": "国际 ML 博士生因 CPT 实习暂停担心就业前景"
-    },
     "https://github.com/K-Dense-AI/scientific-agent-skills": {
       "date": "2026-09-01",
       "title": "开源库为 AI 代理提供 160+项科学技能"
-    },
-    "https://x.com/emollick/status/2093823173619769806": {
-      "date": "2026-08-30",
-      "title": "伊桑·莫利克警告：为用户内容使用弱 AI 模型可能很快被视为不敬"
-    },
-    "https://x.com/emollick/status/2093747487433478296": {
-      "date": "2026-08-30",
-      "title": "伊桑·莫利克指出自主 AI 科学家的潜力与不足。"
-    },
-    "https://tucker.wales/writing/bias-towards-action/": {
-      "date": "2026-08-30",
-      "title": "建议新员工先观察后行动"
-    },
-    "https://frequal.com/aptera/ProductionDealAug2026.html": {
-      "date": "2026-08-30",
-      "title": "宣布了 4400 万美元的太阳能电动汽车生产协议。"
-    },
-    "https://coldtake.dev/blog/domain-driven-agents": {
-      "date": "2026-08-30",
-      "title": "将领域驱动设计应用于 AI 代理"
-    },
-    "https://blog.elis.cc/articles/a-safe-mysql-upgrade-that-wasnt-so-safe/": {
-      "date": "2026-08-30",
-      "title": "一次被认为安全的 MySQL 升级却引发了意外问题"
-    },
-    "https://packagemain.tech/p/golang-database-proxy": {
-      "date": "2026-08-30",
-      "title": "用 Go 编写简单数据库代理作为学习练习"
-    },
-    "https://gruhn.me/blog/2026-08-29/": {
-      "date": "2026-08-30",
-      "title": "通过 TypeScript 类比解释 Lean 定理证明器"
-    },
-    "https://x.com/emollick/status/2093819069552021740": {
-      "date": "2026-08-30",
-      "title": "硬科幻作家普遍厌恶大语言模型"
     },
     "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack/": {
       "date": "2026-08-31",
@@ -816,6 +704,114 @@
     "https://lazygit.dev/": {
       "date": "2026-09-06",
       "title": "Lazygit：在 Hacker News 上分享的开源终端 Git 界面"
+    },
+    "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/": {
+      "date": "2026-09-07",
+      "title": "你的智力之门敞开（2025）"
+    },
+    "https://twitter.com/Liquid_BTC/status/2096696272447218108": {
+      "date": "2026-09-07",
+      "title": "黑客从 Liquid Federation 钱包窃取约 4000 枚 BTC（约 3.2 亿美元）"
+    },
+    "https://asahilinux.org/2026/09/m2-episode-1/": {
+      "date": "2026-09-07",
+      "title": "Asahi Linux 宣布正式支持苹果 M3 芯片"
+    },
+    "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/": {
+      "date": "2026-09-07",
+      "title": "A/I 集体在美国政府压力下关闭"
+    },
+    "https://anubis.techaro.lol/blog/2026/anubis-wasm/": {
+      "date": "2026-09-07",
+      "title": "作者详述在 Anubis 反爬虫系统中集成 WebAssembly 的历时一年"
+    },
+    "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight": {
+      "date": "2026-09-07",
+      "title": "Isar Aerospace 在第二次飞行中进入轨道"
+    },
+    "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3": {
+      "date": "2026-09-07",
+      "title": "Nitter 和 XCancel 在法律建议后恢复服务"
+    },
+    "https://openai.com/index/research-acceleration-view-inside-openai": {
+      "date": "2026-09-07",
+      "title": "OpenAI 揭示自动化 AI 研究员以加速研究"
+    },
+    "https://grapheneos.social/@GrapheneOS/117225539756835649": {
+      "date": "2026-09-07",
+      "title": "GrapheneOS 将替换默认应用并添加安全剪贴板。"
+    },
+    "https://austinhenley.com/blog/python1024.html": {
+      "date": "2026-09-07",
+      "title": "仅用 1024 字节实现的 Python 解释器"
+    },
+    "https://www.piie.com/blogs/realtime-economics/2026/political-meddling-census-bureau-damages-entire-us-statistical-system": {
+      "date": "2026-09-07",
+      "title": "政治干预威胁美国人口普查局数据完整性"
+    },
+    "https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/": {
+      "date": "2026-09-07",
+      "title": "报告显示 2025 年新注册 gTLD 域名多达 20%是诈骗"
+    },
+    "https://www.reddit.com/r/artificial/comments/1w8on5m/gpt6_reportedly_jailbroken_within_24_hours_using/": {
+      "date": "2026-09-07",
+      "title": "GPT-6 Astra 在 24 小时内通过扩展的 Task-in-Prompt 攻击被越狱"
+    },
+    "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and": {
+      "date": "2026-09-07",
+      "title": "NetBSD 9.5 发布为 NetBSD-9 分支的最终更新，随后进入 EOL"
+    },
+    "https://www.netbsd.org/gallery/research.html": {
+      "date": "2026-09-07",
+      "title": "NetBSD 画廊展示学术研究项目。"
+    },
+    "https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/": {
+      "date": "2026-09-07",
+      "title": "OpenAI 内部采用编码代理和递归自改进工具。"
+    },
+    "https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get/": {
+      "date": "2026-09-07",
+      "title": "从 scratch 重写遗留系统很少成功。"
+    },
+    "https://arxiv.org/abs/2505.12540": {
+      "date": "2026-09-07",
+      "title": "利用嵌入的普遍几何特性"
+    },
+    "https://www.reddit.com/r/MachineLearning/comments/1w92eis/reproducibility_seems_to_be_headed_towards/": {
+      "date": "2026-09-07",
+      "title": "机器学习可重复性面临失效担忧"
+    },
+    "https://github.com/marsbos/mador": {
+      "date": "2026-09-07",
+      "title": "Show HN：Mador —— 基于 80 行 Proxy 的响应式 DOM 库"
+    },
+    "https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death": {
+      "date": "2026-09-07",
+      "title": "文章探讨 Doomscrolling 对焦虑和生产力的影响"
+    },
+    "https://simonwillison.net/2026/Sep/6/zach-kehs/": {
+      "date": "2026-09-07",
+      "title": "Zach Kehs 警告软件可能永远变得更糟。"
+    },
+    "https://www.neowin.net/opinions/windows-11s-special-developer-edition-sounds-like-yet-another-marketing-misfire/": {
+      "date": "2026-09-07",
+      "title": "Windows 11 特别开发者版被批为营销失误"
+    },
+    "https://d2lang.com/blog/d2-non-profit/": {
+      "date": "2026-09-07",
+      "title": "D2 图表脚本语言转为非营利组织"
+    },
+    "https://www.joemygod.com/2026/09/musk-loses-bid-to-block-mn-law-against-ai-child-porn/?__cf_chl_tk=8ecS8MZsG5kLxKOM9bn_OhtsSwkCeqv0nsm2KhSmayw-1788721611-1.0.1.1-qjvzErCp_nbPvJvAiboEjrydGx2Tw9tgtvvhETjw5T4": {
+      "date": "2026-09-07",
+      "title": "法院驳回马斯克阻止明尼苏达州禁止 AI 生成儿童色情材料的请求"
+    },
+    "https://www.bloomberg.com/news/articles/2026-09-03/pentagon-says-its-anthropic-ban-is-on-despite-lutnick-remarks": {
+      "date": "2026-09-07",
+      "title": "五角大楼确认对 Anthropic 的禁令仍然有效，尽管卢特尼克发表了讲话"
+    },
+    "https://www.reddit.com/r/artificial/comments/1w8m8rw/what_will_llms_never_do/": {
+      "date": "2026-09-07",
+      "title": "Reddit 讨论称 LLMs 可能很快在 OpenAI 定义下达到 AGI"
     }
   }
 }
